@@ -166,26 +166,11 @@ RUN_DATE = datetime.utcnow().strftime("%Y-%m-%d")
 
 OUTPUT_FILE = f"data/raw/articles_{RUN_DATE}.jsonl"
 
-def has_education_anchor(text):
-    text = text.lower()
-    return any(x in text for x in [
-        "university", "universities",
-        "higher education",
-        "students",
-        "faculty",
-        "campus",
-        "phd",
-        "college"
-    ])
-
 def is_relevant(article):
 
     text = (article.get("title", "") + " " + article.get("summary", "")).strip()
 
     if not text:
-        return False
-
-    if not has_education_anchor(text):
         return False
 
     # encode article into vector space
