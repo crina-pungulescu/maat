@@ -1,63 +1,72 @@
-# MAAT ingestion pipeline (v0.1 dummy scaffold)
+# MAAT ingestion pipeline v0.2
+# Live RSS ingestion
 
+import feedparser
 import datetime
 
 
+RSS_FEEDS = [
+    # English
+    "https://www.timeshighereducation.com/rss",
+    "https://www.insidehighered.com/rss/news",
+
+    # Italy
+    "https://www.ilsole24ore.com/rss/economia.xml",
+
+    # France
+    "https://www.lemonde.fr/en/rss/une.xml",
+
+    # Spain
+    "https://elpais.com/rss/elpais/portada.xml"
+]
+
+
 def log(message):
-    """Simple logging utility for MAAT pipeline"""
     timestamp = datetime.datetime.now().isoformat()
     print(f"[{timestamp}] {message}")
 
 
-def fetch_sources():
-    """
-    Dummy data source.
-    Will later become RSS feeds + multilingual scraping.
-    """
-    return [
-        {
-            "title": "University reforms announced in Europe",
-            "date": str(datetime.date.today()),
-            "link": "https://example.com/article1",
-            "language": "en"
-        },
-        {
-            "title": "Accreditation changes in higher education systems",
-            "date": str(datetime.date.today()),
-            "link": "https://example.com/article2",
-            "language": "en"
-        }
-    ]
+def fetch_rss_articles():
+    articles = []
+
+    for url in RSS_FEEDS:
+        log(f"Fetching RSS feed: {url}")
+
+        feed = feedparser.parse(url)
+
+        for entry in feed.entries[:10]:
+
+            article = {
+                "title": entry.get("title", ""),
+                "link": entry.get("link", ""),
+                "published": entry.get("published", ""),
+                "summary": entry.get("summary", "")
+            }
+
+            articles.append(article)
+
+    return articles
 
 
-def process_articles(articles):
-    """
-    Placeholder for filtering + classification.
-    """
-    processed = []
+def display_articles(articles):
 
-    for a in articles:
-        if "university" in a["title"].lower() or "education" in a["title"].lower():
-            processed.append(a)
+    for i, a in enumerate(articles, 1):
 
-    return processed
+        print(f"\nArticle {i}")
+        print("Title:", a["title"])
+        print("Published:", a["published"])
+        print("Link:", a["link"])
 
 
 def run_pipeline():
-    log("MAAT ingestion started")
 
-    articles = fetch_sources()
-    log(f"Fetched {len(articles)} articles")
+    log("MAAT RSS ingestion started")
 
-    processed = process_articles(articles)
-    log(f"Filtered down to {len(processed)} relevant articles")
+    articles = fetch_rss_articles()
 
-    for i, a in enumerate(processed, 1):
-        print(f"\nArticle {i}")
-        print("Title:", a["title"])
-        print("Date:", a["date"])
-        print("Link:", a["link"])
-        print("Language:", a["language"])
+    log(f"Collected {len(articles)} articles")
+
+    display_articles(articles)
 
     log("MAAT ingestion complete")
 
