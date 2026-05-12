@@ -6,7 +6,7 @@ theme: jekyll-theme-cayman
 
 MA'AT:<br>
 
-<span style="font-weight: 400; font-size: 0.75em;">
+<span style="font-weight: 400; font-size: 0.85em;">
 
 Multilingual Archive for Academic Transparency
 
