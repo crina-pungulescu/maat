@@ -4,7 +4,8 @@ theme: jekyll-theme-cayman
 
 <h1 style="font-size: 3.2em; margin-bottom: 0.2em;; text-align: center;">
 
-MA'AT: 
+MA'AT: <br>
+
 Multilingual Archive for Academic Transparency
 
 </h1>
