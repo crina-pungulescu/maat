@@ -9,6 +9,7 @@ from sentence_transformers import SentenceTransformer, util
 from langdetect import detect, DetectorFactory
 from urllib.parse import urlparse
 import hashlib
+from newspaper import Article
 
 DetectorFactory.seed = 0
 
@@ -198,6 +199,24 @@ RUN_DATE = datetime.utcnow().strftime("%Y-%m-%d")
 
 OUTPUT_FILE = f"data/raw/articles_{RUN_DATE}.jsonl"
 
+def extract_article_text(url):
+
+    try:
+
+        article = Article(url)
+
+        article.download()
+
+        article.parse()
+
+        return article.text.strip()
+
+    except Exception as e:
+
+        log(f"Failed article extraction: {url} | {e}")
+
+        return ""
+
 def load_seen_articles():
 
     seen = set()
@@ -288,11 +307,14 @@ def fetch_rss_articles(seen):
 
             text = (entry.get("title", "") + " " + entry.get("summary", "")).strip()
 
+            full_text = extract_article_text(entry.get("link", ""))
+
             article = {
                 "title": entry.get("title", ""),
                 "link": entry.get("link", ""),
                 "published": entry.get("published", ""),
                 "summary": entry.get("summary", ""),
+                "full_text": full_text,
                 "source": url,
                 "journal": extract_source_name(url),
                 "language": detect_language(text),
