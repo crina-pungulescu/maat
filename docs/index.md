@@ -2,11 +2,15 @@
 theme: jekyll-theme-cayman
 ---
 
-<h1 style="font-size: 3.2em; margin-bottom: 0.2em;; text-align: center;">
+<h1 style="font-size: 3.2em; margin-bottom: 0.2em; text-align: center; line-height: 1.1;">
 
-MA'AT: <br>
+MA'AT:<br>
+
+<span style="font-weight: 400;">
 
 Multilingual Archive for Academic Transparency
+
+</span>
 
 </h1>
 
