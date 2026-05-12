@@ -1,3 +1,7 @@
+---
+theme: jekyll-theme-cayman
+---
+
 # MA'AT 
 # Multilingual Archive for Academic Transparency
 *A computational observatory of global higher education discourse*
