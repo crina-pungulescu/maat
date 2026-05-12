@@ -12,7 +12,7 @@ import hashlib
 from newspaper import Article
 from transformers import pipeline
 from deep_translator import GoogleTranslator
-from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, pipeline
+from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 
 
 DetectorFactory.seed = 0
@@ -83,13 +83,7 @@ concept_embeddings = model.encode(MAAT_CONCEPTS, convert_to_tensor=True)
 model_name = "google/flan-t5-small"
 
 tokenizer = AutoTokenizer.from_pretrained(model_name)
-model_summ = AutoModelForSeq2SeqLM.from_pretrained(model_name)
-
-summarizer = pipeline(
-    "text2text-generation",
-    model=model_summ,
-    tokenizer=tokenizer
-)
+summarization_model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
 
 RSS_FEEDS = [
 
@@ -219,11 +213,16 @@ def generate_summary(text):
         return ""
 
     try:
-        prompt = "Summarize this article in English:\n\n" + text
+        prompt = "Summarize in English:\n\n" + text
 
-        result = summarizer(prompt, max_new_tokens=120)
+        inputs = tokenizer(prompt, return_tensors="pt", truncation=True, max_length=512)
 
-        return result[0]["generated_text"]
+        outputs = summarization_model.generate(
+            **inputs,
+            max_new_tokens=120
+        )
+
+        return tokenizer.decode(outputs[0], skip_special_tokens=True)
 
     except Exception as e:
         log(f"Summary failed: {e}")
