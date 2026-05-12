@@ -1,4 +1,4 @@
-# MAAT ingestion pipeline v0.3
+# MAAT ingestion pipeline 
 # RSS ingestion + JSONL storage
 
 import feedparser
@@ -13,7 +13,7 @@ model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
 MAAT_CONCEPTS = [
     # general
 
-    "news about universities and higher education"
+    "news about universities and higher education",
 
     # 🏛️ institutional structure
 
@@ -166,11 +166,26 @@ RUN_DATE = datetime.utcnow().strftime("%Y-%m-%d")
 
 OUTPUT_FILE = "data/raw/articles.jsonl"
 
+def has_education_anchor(text):
+    text = text.lower()
+    return any(x in text for x in [
+        "university", "universities",
+        "higher education",
+        "students",
+        "faculty",
+        "campus",
+        "phd",
+        "college"
+    ])
+
 def is_relevant(article):
 
     text = (article.get("title", "") + " " + article.get("summary", "")).strip()
 
     if not text:
+        return False
+
+    if not has_education_anchor(text):
         return False
 
     # encode article into vector space
@@ -182,7 +197,7 @@ def is_relevant(article):
     max_score = float(scores.max())
 
     # threshold (tunable)
-    return max_score > 0.35
+    return max_score > 0.45
 
 def log(message):
     timestamp = datetime.now().isoformat()
@@ -211,6 +226,9 @@ def fetch_rss_articles():
                 "retrieved_at": datetime.now().isoformat()
             }
 
+            if not is_relevant(article):
+                continue
+            
             articles.append(article)
 
     return articles
