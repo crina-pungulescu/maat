@@ -355,6 +355,9 @@ def fetch_rss_articles(seen):
 
             full_text = extract_article_text(entry.get("link", ""))
 
+            if not full_text:
+                continue
+                
             article = {
                 "title": entry.get("title", ""),
                 "link": entry.get("link", ""),
