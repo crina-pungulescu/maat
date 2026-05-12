@@ -2,7 +2,12 @@
 theme: jekyll-theme-cayman
 ---
 
+<h1 style="font-size: 3.2em; margin-bottom: 0.2em;">
+
 # MA'AT: Multilingual Archive for Academic Transparency
+
+</h1>
+
 # *A computational observatory of global higher education discourse*
 
 ---
