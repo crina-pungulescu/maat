@@ -110,7 +110,7 @@ RSS_FEEDS = [
     "https://www.faz.net/rss/aktuell/gesellschaft/",
     "https://www.bmbf.de/SiteGlobals/Functions/RSSFeed/RSSNewsfeed.xml",
     "https://www.daad.de/en/the-daad/rss-feed/",
-    "https://www.mpg.de/rss.xml (Max Planck Society — major science signal)",
+    "https://www.mpg.de/rss.xml",
 
     # 🇫🇷 France
     "https://www.letudiant.fr/rss/actualites.xml",
@@ -145,7 +145,7 @@ RSS_FEEDS = [
     "https://www.cnr.it/rss",
     "https://www.crui.it/rss.xml",
     "https://www.agendadigitale.eu/feed/",
-    "https://www.ilpost.it/scienza/feed/"
+    "https://www.ilpost.it/scienza/feed/",
 
     # 🇳🇱 Netherlands / EU academia
     "https://www.scienceguide.nl/feed/",
@@ -156,7 +156,7 @@ RSS_FEEDS = [
 
     "https://www.forskningsradet.no/rss/",
     "https://www.vr.se/english/about-us/news.html/rss",
-    "https://ufm.dk/en/news/rss"
+    "https://ufm.dk/en/news/rss",
 
     # 🇵🇱 Poland 
     "https://www.gov.pl/web/science/rss",
