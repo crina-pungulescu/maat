@@ -6,6 +6,10 @@ from datetime import datetime
 import json
 from pathlib import Path
 from sentence_transformers import SentenceTransformer, util
+from langdetect import detect, DetectorFactory
+from urllib.parse import urlparse
+
+DetectorFactory.seed = 0
 
 # 🌍 Multilingual semantic model (lightweight, strong baseline)
 model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
@@ -166,6 +170,19 @@ RUN_DATE = datetime.utcnow().strftime("%Y-%m-%d")
 
 OUTPUT_FILE = f"data/raw/articles_{RUN_DATE}.jsonl"
 
+def detect_language(text):
+    try:
+        return detect(text)
+    except:
+        return "unknown"
+
+def extract_source_name(url):
+    try:
+        domain = urlparse(url).netloc
+        return domain.replace("www.", "")
+    except:
+        return url
+        
 def is_relevant(article):
 
     text = (article.get("title", "") + " " + article.get("summary", "")).strip()
@@ -201,15 +218,19 @@ def fetch_rss_articles():
 
         for entry in feed.entries[:10]:
 
+            text = (entry.get("title", "") + " " + entry.get("summary", "")).strip()
+
             article = {
                 "title": entry.get("title", ""),
                 "link": entry.get("link", ""),
                 "published": entry.get("published", ""),
                 "summary": entry.get("summary", ""),
                 "source": url,
+                "journal": extract_source_name(url),
+                "language": detect_language(text),
                 "run_date": RUN_DATE,
                 "retrieved_at": datetime.now().isoformat()
-            }
+                }
 
             if not is_relevant(article):
                 continue
