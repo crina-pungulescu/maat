@@ -210,7 +210,7 @@ def is_relevant(article):
     max_score = float(scores.max())
 
     # threshold (tunable)
-    return max_score > 0.45
+    return max_score > 0.40
 
 def log(message):
     timestamp = datetime.now().isoformat()
