@@ -164,7 +164,7 @@ RSS_FEEDS = [
 
 RUN_DATE = datetime.utcnow().strftime("%Y-%m-%d")
 
-OUTPUT_FILE = "data/raw/articles.jsonl"
+OUTPUT_FILE = f"data/raw/articles_{RUN_DATE}.jsonl"
 
 def has_education_anchor(text):
     text = text.lower()
@@ -197,7 +197,7 @@ def is_relevant(article):
     max_score = float(scores.max())
 
     # threshold (tunable)
-    return max_score > 0.45
+    return max_score > 0.5
 
 def log(message):
     timestamp = datetime.now().isoformat()
