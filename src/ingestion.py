@@ -92,6 +92,12 @@ RSS_FEEDS = [
     "https://www.theguardian.com/education/higher-education/rss",
     "https://srheblog.com/feed/",
     "https://www.highereddive.com/feeds/news/",
+    "https://www.theguardian.com/education/rss",
+    "https://www.bbc.co.uk/news/education/rss.xml",
+    "https://www.reuters.com/arc/outboundfeeds/rss/?outputType=xml",
+    "https://www.ft.com/?format=rss",
+    "https://www.nature.com/nature.rss",
+    "https://www.science.org/rss/news_current.xml",
 
     # 🇩🇪 German-speaking Europe
     "https://www.forschung-und-lehre.de/rss.xml",
@@ -101,6 +107,10 @@ RSS_FEEDS = [
     "https://www.che.de/rss/",
     "https://www.wissenschaftsrat.de/DE/Home/home_node.html?rss=true",
     "https://www.heise.de/rss/heise-atom.xml",
+    "https://www.faz.net/rss/aktuell/gesellschaft/",
+    "https://www.bmbf.de/SiteGlobals/Functions/RSSFeed/RSSNewsfeed.xml",
+    "https://www.daad.de/en/the-daad/rss-feed/",
+    "https://www.mpg.de/rss.xml (Max Planck Society — major science signal)",
 
     # 🇫🇷 France
     "https://www.letudiant.fr/rss/actualites.xml",
@@ -110,7 +120,10 @@ RSS_FEEDS = [
     "https://www.strategie.gouv.fr/rss.xml",
     "https://www.hceres.fr/en/rss.xml",
     "https://www.campusfrance.org/en/rss.xml",
-
+    "https://www.franceculture.fr/rss",
+    "https://www.inrae.fr/rss.xml",
+    "https://www.cnrs.fr/fr/rss.xml",
+    "https://www.enseignementsup-recherche.gouv.fr/rss.xml",
 
     # 🇪🇸 Spain
     "https://www.universia.net/rss.xml",
@@ -121,6 +134,8 @@ RSS_FEEDS = [
     "https://oei.int/rss",
     "https://www.clacso.org/feed/",
     "https://scielo.org/rss",
+    "https://www.csic.es/es/rss.xml",
+    "https://www.redalyc.org/rss.xml",
     
     # 🇮🇹 Italy
     "https://www.ilsole24ore.com/rss/economia.xml",
@@ -130,42 +145,52 @@ RSS_FEEDS = [
     "https://www.cnr.it/rss",
     "https://www.crui.it/rss.xml",
     "https://www.agendadigitale.eu/feed/",
+    "https://www.ilpost.it/scienza/feed/"
 
     # 🇳🇱 Netherlands / EU academia
     "https://www.scienceguide.nl/feed/",
+    "https://www.nwo.nl/rss.xml",
+    "https://www.vsnu.nl/rss.xml",
 
-    # 🇵🇱 Poland (very active higher ed reform system)
+    # 🇸🇪 🇩🇰 🇳🇴 Nordic
+
+    "https://www.forskningsradet.no/rss/",
+    "https://www.vr.se/english/about-us/news.html/rss",
+    "https://ufm.dk/en/news/rss"
+
+    # 🇵🇱 Poland 
     "https://www.gov.pl/web/science/rss",
 
     # 🇨🇿 Czech Republic (education ministry / academia signals)
     "https://www.msmt.cz/rss",
 
-    # 🇭🇺 Hungary (important governance dynamics)
+    # 🇭🇺 Hungary 
     "https://www.kormany.hu/en/rss",
 
-    # 🇷🇴 Romania (important gap in EU system signal)
+    # 🇷🇴 Romania 
     "https://www.edu.ro/rss.xml",
-    "https://www.aracis.ro/feed/",
     "https://acad.ro/rss.xml",
 
-    # 🇧🇬 Bulgaria (lighter ecosystem but structurally important)
+    # 🇧🇬 Bulgaria 
     "https://www.mon.bg/en/rss",
     "https://www.neaa.government.bg/en/rss",
 
-    #🇬🇷 Greece (very important EU governance signal)
+    #🇬🇷 Greece 
     "https://www.minedu.gov.gr/rss",
     "https://www.ethaae.gr/rss",
     "https://www.elidek.gr/rss",
 
-    # 🇿🇦 South Africa (very important anchor)
+    # 🇿🇦 South Africa 
     "https://www.dhet.gov.za/SitePages/RSS.aspx",
 
-    # 🇮🇳 India (massive system signal)
+    # 🇮🇳 India 
     "https://www.education.gov.in/en/rss-feeds",
 
     # 🌍 Global policy / research signals
     "https://www.oecd.org/education/rss.xml",
-    "https://www.unesco.org/en/rss-feed"
+    "https://www.unesco.org/en/rss-feed",
+    "https://www.worldbank.org/en/topic/education/brief/rss",
+    "https://www.imf.org/en/News/RSS"
 ]
 
 
@@ -210,7 +235,7 @@ def is_relevant(article):
     max_score = float(scores.max())
 
     # threshold (tunable)
-    return max_score > 0.40
+    return max_score > 0.45
 
 def log(message):
     timestamp = datetime.now().isoformat()
