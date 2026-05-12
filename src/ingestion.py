@@ -274,7 +274,7 @@ def log(message):
     print(f"[{timestamp}] {message}")
 
 
-def fetch_rss_articles():
+def fetch_rss_articles(seen):
 
     articles = []
 
