@@ -257,7 +257,6 @@ def fetch_rss_articles():
             text = (entry.get("title", "") + " " + entry.get("summary", "")).strip()
 
             article = {
-                "article_id": make_article_id(article),
                 "title": entry.get("title", ""),
                 "link": entry.get("link", ""),
                 "published": entry.get("published", ""),
@@ -271,6 +270,8 @@ def fetch_rss_articles():
 
             if not is_relevant(article):
                 continue
+
+            article["article_id"] = make_article_id(article)
 
             if article["article_id"] in seen:
 
