@@ -10,6 +10,15 @@ from langdetect import detect, DetectorFactory
 from urllib.parse import urlparse
 import hashlib
 from newspaper import Article
+from transformers import pipeline
+
+summarizer = pipeline(
+
+    "summarization",
+
+    model="facebook/bart-large-cnn"
+
+)
 
 DetectorFactory.seed = 0
 
