@@ -2,7 +2,6 @@
 # RSS ingestion + JSONL storage
 
 import feedparser
-import datetime
 from datetime import datetime
 import json
 from pathlib import Path
@@ -186,7 +185,7 @@ def is_relevant(article):
     return max_score > 0.35
 
 def log(message):
-    timestamp = datetime.datetime.now().isoformat()
+    timestamp = datetime.now().isoformat()
     print(f"[{timestamp}] {message}")
 
 
@@ -209,7 +208,7 @@ def fetch_rss_articles():
                 "summary": entry.get("summary", ""),
                 "source": url,
                 "run_date": RUN_DATE,
-                "retrieved_at": datetime.datetime.now().isoformat()
+                "retrieved_at": datetime.now().isoformat()
             }
 
             articles.append(article)
