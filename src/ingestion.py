@@ -11,17 +11,10 @@ from urllib.parse import urlparse
 import hashlib
 from newspaper import Article
 from transformers import pipeline
+from deep_translator import GoogleTranslator
 
-summarizer = pipeline(
-
-    "summarization",
-
-    model="facebook/bart-large-cnn"
-
-)
 
 DetectorFactory.seed = 0
-
 
 
 # 🌍 Multilingual semantic model (lightweight, strong baseline)
@@ -85,6 +78,14 @@ MAAT_CONCEPTS = [
 ]
 
 concept_embeddings = model.encode(MAAT_CONCEPTS, convert_to_tensor=True)
+
+summarizer = pipeline(
+
+    "summarization",
+
+    model="facebook/bart-large-cnn"
+
+)
 
 RSS_FEEDS = [
 
@@ -207,6 +208,24 @@ RSS_FEEDS = [
 RUN_DATE = datetime.utcnow().strftime("%Y-%m-%d")
 
 OUTPUT_FILE = f"data/raw/articles_{RUN_DATE}.jsonl"
+
+
+def translate_to_english(text):
+
+    if not text:
+
+        return ""
+
+    try:
+
+        return GoogleTranslator(source='auto', target='en').translate(text)
+
+    except Exception as e:
+
+        log(f"Translation failed: {e}")
+
+        return text
+
 
 def extract_article_text(url):
 
@@ -341,6 +360,16 @@ def fetch_rss_articles(seen):
                 continue
 
             seen.add(article["article_id"])
+
+            if article["language"] != "en":
+
+                article["translated_text"] = translate_to_english(full_text)
+
+            else:
+
+                article["translated_text"] = full_text
+
+            article["generated_summary"] = generate_summary(translated_text)
             
             articles.append(article)
 
