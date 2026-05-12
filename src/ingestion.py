@@ -1,24 +1,21 @@
-# MAAT ingestion pipeline v0.2
-# Live RSS ingestion
+# MAAT ingestion pipeline v0.3
+# RSS ingestion + JSONL storage
 
 import feedparser
 import datetime
+import json
+from pathlib import Path
 
 
 RSS_FEEDS = [
-    # English
     "https://www.timeshighereducation.com/rss",
     "https://www.insidehighered.com/rss/news",
-
-    # Italy
     "https://www.ilsole24ore.com/rss/economia.xml",
-
-    # France
-    "https://www.lemonde.fr/en/rss/une.xml",
-
-    # Spain
     "https://elpais.com/rss/elpais/portada.xml"
 ]
+
+
+OUTPUT_FILE = "data/raw/articles.jsonl"
 
 
 def log(message):
@@ -27,9 +24,11 @@ def log(message):
 
 
 def fetch_rss_articles():
+
     articles = []
 
     for url in RSS_FEEDS:
+
         log(f"Fetching RSS feed: {url}")
 
         feed = feedparser.parse(url)
@@ -40,7 +39,9 @@ def fetch_rss_articles():
                 "title": entry.get("title", ""),
                 "link": entry.get("link", ""),
                 "published": entry.get("published", ""),
-                "summary": entry.get("summary", "")
+                "summary": entry.get("summary", ""),
+                "source": url,
+                "retrieved_at": datetime.datetime.now().isoformat()
             }
 
             articles.append(article)
@@ -48,14 +49,16 @@ def fetch_rss_articles():
     return articles
 
 
-def display_articles(articles):
+def save_articles_jsonl(articles):
 
-    for i, a in enumerate(articles, 1):
+    Path("data/raw").mkdir(parents=True, exist_ok=True)
 
-        print(f"\nArticle {i}")
-        print("Title:", a["title"])
-        print("Published:", a["published"])
-        print("Link:", a["link"])
+    with open(OUTPUT_FILE, "a", encoding="utf-8") as f:
+
+        for article in articles:
+            f.write(json.dumps(article, ensure_ascii=False) + "\n")
+
+    log(f"Saved {len(articles)} articles to {OUTPUT_FILE}")
 
 
 def run_pipeline():
@@ -66,7 +69,7 @@ def run_pipeline():
 
     log(f"Collected {len(articles)} articles")
 
-    display_articles(articles)
+    save_articles_jsonl(articles)
 
     log("MAAT ingestion complete")
 
