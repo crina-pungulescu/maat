@@ -271,6 +271,8 @@ def fetch_rss_articles():
             if not is_relevant(article):
                 continue
 
+            article["article_id"] = make_article_id(article)
+
             if article["article_id"] in seen:
 
                 continue
