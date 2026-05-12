@@ -8,8 +8,11 @@ from pathlib import Path
 from sentence_transformers import SentenceTransformer, util
 from langdetect import detect, DetectorFactory
 from urllib.parse import urlparse
+import hashlib
 
 DetectorFactory.seed = 0
+
+
 
 # 🌍 Multilingual semantic model (lightweight, strong baseline)
 model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
@@ -170,6 +173,14 @@ RUN_DATE = datetime.utcnow().strftime("%Y-%m-%d")
 
 OUTPUT_FILE = f"data/raw/articles_{RUN_DATE}.jsonl"
 
+seen = set()
+
+def make_article_id(article):
+
+    base = article.get("link", "") or (article.get("title", "") + article.get("published", ""))
+
+    return hashlib.md5(base.encode("utf-8")).hexdigest()
+
 def detect_language(text):
     try:
         return detect(text)
@@ -234,6 +245,12 @@ def fetch_rss_articles():
 
             if not is_relevant(article):
                 continue
+
+            #if article["article_id"] in seen:
+
+                #continue
+
+            #seen.add(article["article_id"])
             
             articles.append(article)
 
