@@ -271,11 +271,11 @@ def fetch_rss_articles():
             if not is_relevant(article):
                 continue
 
-            #if article["article_id"] in seen:
+            if article["article_id"] in seen:
 
-                #continue
+                continue
 
-            #seen.add(article["article_id"])
+            seen.add(article["article_id"])
             
             articles.append(article)
 
