@@ -198,7 +198,39 @@ RUN_DATE = datetime.utcnow().strftime("%Y-%m-%d")
 
 OUTPUT_FILE = f"data/raw/articles_{RUN_DATE}.jsonl"
 
-seen = set()
+def load_seen_articles():
+
+    seen = set()
+
+    data_path = Path("data/raw")
+
+    if not data_path.exists():
+        return seen
+
+    for file in data_path.glob("articles_*.jsonl"):
+
+        try:
+            with open(file, "r", encoding="utf-8") as f:
+
+                for line in f:
+
+                    try:
+                        article = json.loads(line)
+
+                        article_id = article.get("article_id")
+
+                        if article_id:
+                            seen.add(article_id)
+
+                    except:
+                        continue
+
+        except:
+            continue
+
+    log(f"Loaded {len(seen)} historical article IDs")
+
+    return seen
 
 def make_article_id(article):
 
@@ -252,7 +284,7 @@ def fetch_rss_articles():
 
         feed = feedparser.parse(url)
 
-        for entry in feed.entries[:10]:
+        for entry in feed.entries[:50]:
 
             text = (entry.get("title", "") + " " + entry.get("summary", "")).strip()
 
@@ -300,7 +332,9 @@ def run_pipeline():
 
     log("MAAT RSS ingestion started")
 
-    articles = fetch_rss_articles()
+    seen = load_seen_articles()
+
+    articles = fetch_rss_articles(seen)
 
     log(f"Collected {len(articles)} articles")
 
