@@ -387,7 +387,7 @@ def fetch_rss_articles(seen):
 
                 article["translated_text"] = full_text
 
-            article["generated_summary"] = generate_summary(translated_text)
+            article["generated_summary"] = generate_summary(article["translated_text"])
             
             articles.append(article)
 
