@@ -9,5 +9,4 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - name: prove it runs
-        run: echo "CRON IS ALIVE $(date -u)"
+      - run: echo "CRON IS ALIVE"
