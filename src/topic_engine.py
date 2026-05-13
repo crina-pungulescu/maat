@@ -21,14 +21,19 @@ MAAT_TOPICS = [
     "reform",
     "policy",
     "funding",
+    "student debt",
     "misconduct",
     "integrity",
+    "ethics",
     "fraud",
     "abuse",
+    "grade inflation",
+    "academic standards",
     "plagiarism",
     "unpaid labour",
     "employment",
     "student experience",
+    "faculty contracts",
     "academic careers",
     "adjuncts",
     "precarity",
@@ -48,7 +53,7 @@ MAAT_TOPICS = [
     "litigation",
     "silencing dissent",
     "administrative coercion",
-    "opacity",
+    "institutional opacity",
     "bureaucracy",
     "structural pressure enabling abuse",
     "scarcity systems producing exploitation",
@@ -62,7 +67,26 @@ MAAT_TOPICS = [
     "politics",
     "fascism",
     "democracy",
-    "future"
+    "future",
+    "pessimism",
+    "optimism",
+    "united states",
+    "europe",
+    "asia",
+    "war",
+    "africa"
+    "australia",
+    "latin america",
+    "russia",
+    "china",
+    "ukraine",
+    "iran",
+    "lebanon",
+    "protest",
+    "quality",
+    "resources",
+    "redundancy",
+    "unemployment"
 ]
 
 topic_embeddings = model.encode(MAAT_TOPICS, convert_to_tensor=True)
@@ -216,7 +240,7 @@ def merge_topics(articles, embeddings):
         best_idx = int(np.argmax(scores))
         best_score = float(scores[best_idx])
 
-        if best_score > 0.45:
+        if best_score > 0.5:
 
             topic = MAAT_TOPICS[best_idx]
 
