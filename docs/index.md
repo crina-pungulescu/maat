@@ -89,3 +89,84 @@ MA'AT depends on RSS availability and successful article extraction. Paywalled c
 - institutional actor tracking  
 - temporal evolution of semantic clusters  
 - visualisation of global higher education “attention fields”
+
+
+## Page Analytics
+
+<div style="display:flex; gap:20px; justify-content:center; margin:20px 0;">
+
+<div style="padding:10px; border:1px solid #ddd; border-radius:8px;">
+
+<b>🌍 Visitors (7d)</b><br>
+
+{{ site.data.analytics.visitors_week }}
+
+</div>
+
+<div style="padding:10px; border:1px solid #ddd; border-radius:8px;">
+
+<b>📈 Today</b><br>
+
+{{ site.data.analytics.visitors_today }}
+
+</div>
+
+<div style="padding:10px; border:1px solid #ddd; border-radius:8px;">
+
+<b>🧭 Avg Time</b><br>
+
+{{ site.data.analytics.avg_time }}
+
+</div>
+
+</div>
+
+## System Status
+
+<h2>System Status</h2>
+
+<ul>
+
+<li>📥 Articles ingested today: {{ site.data.system.articles_today }}</li>
+
+<li>📦 Total stored articles: {{ site.data.system.total_articles }}</li>
+
+<li>🌐 Feeds active: {{ site.data.system.feeds_active }}</li>
+
+<li>⚡ Last run: {{ site.data.system.last_run }}</li>
+
+</ul>
+
+## Today's Signals
+
+<h2>Today’s Signals</h2>
+
+<ul>
+{% for article in site.data.articles_today %}
+<li>
+<a href="{{ article.link }}">{{ article.title }}</a>
+<br>
+<small>{{ article.journal }} · {{ article.language }}</small>
+</li>
+{% endfor %}
+</ul>
+
+## Emergent Topics
+
+<h2>Emergent Topics (last 24h)</h2>
+
+<div style="display:flex; flex-wrap:wrap; gap:8px;">
+
+<span style="padding:6px 10px; border-radius:999px; border:1px solid #ccc;">
+academic funding (12)
+</span>
+
+<span style="padding:6px 10px; border-radius:999px; border:1px solid #ccc;">
+university governance (9)
+</span>
+
+<span style="padding:6px 10px; border-radius:999px; border:1px solid #ccc;">
+research misconduct (6)
+</span>
+
+</div>
