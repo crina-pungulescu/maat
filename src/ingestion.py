@@ -397,12 +397,6 @@ def fetch_rss_articles(seen):
                 "relevance_score": max_score
                 }
 
-            
-
-            
-
-            
-
             article["article_id"] = make_article_id(article)
 
             if article["article_id"] in seen:
@@ -424,6 +418,8 @@ def fetch_rss_articles(seen):
 
             if rss_summary and len(rss_summary) > 120:
 
+                article["summary_en"] = ''
+
                 if article["language"] != "en":
 
                     article["summary_en"] = translate_to_english(rss_summary)
@@ -443,7 +439,7 @@ def fetch_rss_articles(seen):
 
                 )
 
-            article["summary_en"] = generate_summary(text_to_summarize)
+                article["summary_en"] = generate_summary(text_to_summarize)
             
             articles.append(article)
 
