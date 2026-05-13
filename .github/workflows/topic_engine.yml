@@ -5,6 +5,7 @@ on:
     workflows: ["MAAT Daily Scrape"]
     types:
       - completed
+  workflow_dispatch: 
 
 jobs:
   topics:
