@@ -1,0 +1,29 @@
+name: MAAT Topic Engine
+
+on:
+  workflow_run:
+    workflows: ["MAAT Daily Scrape"]
+    types:
+      - completed
+
+jobs:
+  topics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+
+      - run: pip install -r requirements.txt
+
+      - run: python src/topic_engine.py
+
+      - run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/derived/
+          git commit -m "MAAT topic update" || echo "no changes"
+          git push
