@@ -54,6 +54,19 @@ MAAT_CONCEPTS = [
 
     "plagiarism in academia",
 
+    "academic abuse",
+
+    "title IX",
+
+    "unpaid labour in academia",
+
+    "publish or perish coercion",
+
+    "retaliation by university",
+
+    "suppression of faculty dissent",
+
+
     # 👥 human/structural dynamics
 
     "faculty employment",
@@ -65,6 +78,10 @@ MAAT_CONCEPTS = [
     "academic labour",
 
     "research careers",
+
+    "adjunct faculty",
+
+    "precariat"
 
     # 🌍 system-level change
 
@@ -105,8 +122,19 @@ RSS_FEEDS = [
     "https://www.bbc.co.uk/news/education/rss.xml",
     "https://www.reuters.com/arc/outboundfeeds/rss/?outputType=xml",
     "https://www.ft.com/?format=rss",
-    "https://www.nature.com/nature.rss",
     "https://www.science.org/rss/news_current.xml",
+    "https://www.ed.gov/feed",
+    "https://www.ed.gov/news/press-releases/feed",
+    "https://new.nsf.gov/rss/news_all.xml",
+    "https://www.nih.gov/news-events/news-releases/feed",
+    "https://ies.ed.gov/newsfeed/rss.asp",
+    "https://nces.ed.gov/whatsnew/rss.xml",
+    "https://www.grants.gov/rss/GG_NewOpps.xml",
+    "https://www.edweek.org/feeds/all.rss",
+    "https://hechingerreport.org/feed/",
+    "https://www.chalkbeat.org/feeds/all/rss.xml",
+    "https://www.edsurge.com/articles.rss",
+    
 
     # 🇩🇪 German-speaking Europe
     "https://www.forschung-und-lehre.de/rss.xml",
@@ -349,13 +377,13 @@ def fetch_rss_articles(seen):
 
         feed = feedparser.parse(url)
 
-        for entry in feed.entries[:50]:
+        for entry in feed.entries[:100]:
 
             text = (entry.get("title", "") + " " + entry.get("summary", "")).strip()
 
             full_text = extract_article_text(entry.get("link", ""))
 
-            if not full_text:
+            if not full_text or len(full_text) < 250:
                 continue
                 
             article = {
