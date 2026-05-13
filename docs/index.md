@@ -90,36 +90,7 @@ MA'AT depends on RSS availability and successful article extraction. Paywalled c
 - temporal evolution of semantic clusters  
 - visualisation of global higher education “attention fields”
 
-
-## Page Analytics
-
-<div style="display:flex; gap:20px; justify-content:center; margin:20px 0;">
-
-<div style="padding:10px; border:1px solid #ddd; border-radius:8px;">
-
-<b>🌍 Visitors (7d)</b><br>
-
-{{ site.data.analytics.visitors_week }}
-
-</div>
-
-<div style="padding:10px; border:1px solid #ddd; border-radius:8px;">
-
-<b>📈 Today</b><br>
-
-{{ site.data.analytics.visitors_today }}
-
-</div>
-
-<div style="padding:10px; border:1px solid #ddd; border-radius:8px;">
-
-<b>🧭 Avg Time</b><br>
-
-{{ site.data.analytics.avg_time }}
-
-</div>
-
-</div>
+## Dashboard
 
 <h2>System Status</h2>
 
@@ -199,7 +170,7 @@ Most prominent thematic concentrations across the current corpus (frequency + se
 
 </div>
 
-<h2>Emergent Topics)</h2>
+<h2>Emergent Topics</h2>
 
 <div style="display:flex; flex-wrap:wrap; gap:8px;">
 
@@ -216,3 +187,34 @@ Most prominent thematic concentrations across the current corpus (frequency + se
 </span>
 
 </div>
+
+## Page Analytics
+
+<div style="display:flex; gap:20px; justify-content:center; margin:20px 0;">
+
+<div style="padding:10px; border:1px solid #ddd; border-radius:8px;">
+
+<b>🌍 Visitors (7d)</b><br>
+
+{{ site.data.analytics.visitors_week }}
+
+</div>
+
+<div style="padding:10px; border:1px solid #ddd; border-radius:8px;">
+
+<b>📈 Today</b><br>
+
+{{ site.data.analytics.visitors_today }}
+
+</div>
+
+<div style="padding:10px; border:1px solid #ddd; border-radius:8px;">
+
+<b>🧭 Avg Time</b><br>
+
+{{ site.data.analytics.avg_time }}
+
+</div>
+
+</div>
+
