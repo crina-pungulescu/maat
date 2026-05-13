@@ -100,7 +100,7 @@ concept_embeddings = model.encode(MAAT_CONCEPTS, convert_to_tensor=True)
 model_name = "google/flan-t5-small"
 
 tokenizer = AutoTokenizer.from_pretrained(model_name)
-summarization_model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
+# summarization_model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
 
 RSS_FEEDS = [
 
@@ -412,34 +412,6 @@ def fetch_rss_articles(seen):
             else:
 
                 article["translated_text"] = ''
-
-
-            rss_summary = entry.get("summary", "").strip()
-
-            if rss_summary and len(rss_summary) > 120:
-
-                article["summary_en"] = ''
-
-                if article["language"] != "en":
-
-                    article["summary_en"] = translate_to_english(rss_summary)
-
-                else:
-
-                    article["summary_en"] = ''
-
-            else:
-                text_to_summarize = (
-
-                    article["translated_text"]
-
-                    if article["translated_text"]
-
-                    else article["full_text"]
-
-                )
-
-                article["summary_en"] = generate_summary(text_to_summarize)
             
             articles.append(article)
 
