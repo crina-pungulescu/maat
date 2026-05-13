@@ -91,7 +91,7 @@ def embed_articles(articles):
 
     texts = [
 
-        (a.get("title","") + " " + a.get("summary","") + " " + a.get("summary_en","") + " " + a.get("full_text","") + " " + a.get("translated_text",""))
+        (a.get("title","") + " " + a.get("summary","") + " " + a.get("full_text","") + " " + a.get("translated_text",""))
 
         for a in articles
 
