@@ -1,0 +1,11 @@
+name: cron-only-test
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "SCHEDULE WORKS"
