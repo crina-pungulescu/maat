@@ -90,7 +90,6 @@ MA'AT depends on RSS availability and successful article extraction. Paywalled c
 - temporal evolution of semantic clusters  
 - visualisation of global higher education “attention fields”
 
-## Dashboard
 
 <h2>System Status</h2>
 
@@ -121,7 +120,7 @@ MA'AT depends on RSS availability and successful article extraction. Paywalled c
 <h2 style="margin-top: 2em;">Salient Themes</h2>
 
 <p style="opacity:0.7; margin-top:-0.5em;">
-Most prominent thematic concentrations across the current corpus (frequency + semantic weight)
+Most prominent thematic concentrations across the current corpus.
 </p>
 
 <div style="
@@ -171,6 +170,10 @@ Most prominent thematic concentrations across the current corpus (frequency + se
 </div>
 
 <h2>Emergent Topics</h2>
+
+<p style="opacity:0.7; margin-top:-0.5em;">
+Automatically detected nascent thematic structures that are surfacing across the corpus, indicating early formation of new discourse patterns.
+</p>
 
 <div style="display:flex; flex-wrap:wrap; gap:8px;">
 
