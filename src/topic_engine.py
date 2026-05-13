@@ -195,44 +195,51 @@ def detect_emergent_topics(embeddings, articles, eps=0.25, min_samples=3):
 
 def merge_topics(articles, embeddings):
 
-    known_hits = []
+    salient_topics = {}
 
     unknown_articles = []
 
-    for i, a in enumerate(articles):
+    for i, article in enumerate(articles):
 
-        text = embeddings[i]
+        scores = assign_known_topics(embeddings[i])
 
-        scores = assign_known_topics(text)
+        best_idx = int(np.argmax(scores))
+        best_score = float(scores[best_idx])
 
-        if np.max(scores) > 0.45:
+        if best_score > 0.45:
 
-            known_hits.append(a)
+            topic = MAAT_TOPICS[best_idx]
+
+            salient_topics.setdefault(topic, {
+                "count": 0,
+                "articles": []
+            })
+
+            salient_topics[topic]["count"] += 1
+
+            salient_topics[topic]["articles"].append({
+                "id": article.get("article_id"),
+                "title": article.get("title"),
+                "link": article.get("link"),
+                "score": round(best_score, 3)
+            })
 
         else:
-
-            unknown_articles.append(a)
+            unknown_articles.append(article)
 
     emergent = detect_emergent_topics(
-
         model.encode([
-
             a.get("title","") + " " + a.get("summary_en","")
-
             for a in unknown_articles
-
         ]),
-
         unknown_articles
-
     )
 
     return {
-
-        "known_articles": len(known_hits),
-
-        "emergent_topics": emergent
-
+        "salient_topics": salient_topics,
+        "emergent_topics": emergent,
+        "total_articles": len(articles),
+        "unclassified_articles": len(unknown_articles)
     }
 
 # ----------------------------
@@ -251,7 +258,7 @@ def run():
 
     result = merge_topics(articles, embeddings)
 
-    Path("data/topics").mkdir(exist_ok=True)
+    Path("data/topics").mkdir(parents=True, exist_ok=True)
 
     with open("data/topics/topics_latest.json", "w", encoding="utf-8") as f:
 
