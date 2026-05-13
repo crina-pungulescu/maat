@@ -247,7 +247,7 @@ def generate_summary(text):
 
         outputs = summarization_model.generate(
             **inputs,
-            max_new_tokens=120
+            max_new_tokens=500
         )
 
         return tokenizer.decode(outputs[0], skip_special_tokens=True)
@@ -344,23 +344,21 @@ def extract_source_name(url):
     except:
         return url
         
-def is_relevant(article):
+def compute_relevance(article):
 
     text = (article.get("title", "") + " " + article.get("summary", "")).strip()
 
     if not text:
-        return False
 
-    # encode article into vector space
+        return False, 0.0
+
     article_embedding = model.encode(text, convert_to_tensor=True)
 
-    # compute similarity to MAAT conceptual space
     scores = util.cos_sim(article_embedding, concept_embeddings)
 
     max_score = float(scores.max())
 
-    # threshold (tunable)
-    return max_score > 0.45
+    return max_score > 0.45, max_score
 
 def log(message):
     timestamp = datetime.now().isoformat()
@@ -385,6 +383,11 @@ def fetch_rss_articles(seen):
 
             if not full_text or len(full_text) < 1500:
                 continue
+
+            is_rel, max_score = compute_relevance(article)
+
+            if not is_rel:
+                continue
                 
             article = {
                 "title": entry.get("title", ""),
@@ -400,8 +403,11 @@ def fetch_rss_articles(seen):
                 "relevance_score": max_score
                 }
 
-            if not is_relevant(article):
-                continue
+            
+
+            
+
+            
 
             article["article_id"] = make_article_id(article)
 
