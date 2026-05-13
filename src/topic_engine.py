@@ -49,7 +49,7 @@ MAAT_TOPICS = [
     "weaponised bureaucracy in academia",
     "insecure labour",
     "structural pressure enabling abuse",
-    "acarcity systems producing exploitation",
+    "scarcity systems producing exploitation",
     "elite hierarchy distorting fairness",
     "lack of accountability for powerful actors",
     "risks attached to reporting abuse"
