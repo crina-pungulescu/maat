@@ -344,20 +344,14 @@ def extract_source_name(url):
     except:
         return url
         
-def compute_relevance(article):
-
-    text = (article.get("title", "") + " " + article.get("summary", "")).strip()
-
+def compute_relevance(text):
     if not text:
-
         return False, 0.0
 
     article_embedding = model.encode(text, convert_to_tensor=True)
-
     scores = util.cos_sim(article_embedding, concept_embeddings)
 
     max_score = float(scores.max())
-
     return max_score > 0.45, max_score
 
 def log(message):
@@ -384,7 +378,7 @@ def fetch_rss_articles(seen):
             if not full_text or len(full_text) < 1500:
                 continue
 
-            is_rel, max_score = compute_relevance(article)
+            is_rel, max_score = compute_relevance(text)
 
             if not is_rel:
                 continue
