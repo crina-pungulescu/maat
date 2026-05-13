@@ -21,14 +21,15 @@ jobs:
       - run: pip install -r requirements.txt
 
       - run: |
-          mkdir -p data/derived
-          date > data/derived/test.txt
+          mkdir -p data/topics
+          date > data/topics/time.txt
 
       - run: python -u src/topic_engine.py
       
       - run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add data/derived/
+          git add data/topics/
           git commit -m "MAAT topic update" || echo "no changes"
           git push
+
