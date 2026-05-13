@@ -121,23 +121,19 @@ MA'AT depends on RSS availability and successful article extraction. Paywalled c
 
 </div>
 
-## System Status
-
 <h2>System Status</h2>
 
 <ul>
 
-<li>📥 Articles ingested today: {{ site.data.system.articles_today }}</li>
+<li> Articles ingested today: {{ site.data.system.articles_today }}</li>
 
-<li>📦 Total stored articles: {{ site.data.system.total_articles }}</li>
+<li> Total stored articles: {{ site.data.system.total_articles }}</li>
 
-<li>🌐 Feeds active: {{ site.data.system.feeds_active }}</li>
+<li> Feeds active: {{ site.data.system.feeds_active }}</li>
 
-<li>⚡ Last run: {{ site.data.system.last_run }}</li>
+<li> Last run: {{ site.data.system.last_run }}</li>
 
 </ul>
-
-## Today's Signals
 
 <h2>Today’s Signals</h2>
 
@@ -151,22 +147,72 @@ MA'AT depends on RSS availability and successful article extraction. Paywalled c
 {% endfor %}
 </ul>
 
-## Emergent Topics
+<h2 style="margin-top: 2em;">Salient Themes</h2>
 
-<h2>Emergent Topics (last 24h)</h2>
+<p style="opacity:0.7; margin-top:-0.5em;">
+Most prominent thematic concentrations across the current corpus (frequency + semantic weight)
+</p>
+
+<div style="
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 12px;
+    margin-top: 1em;
+">
+
+{% for theme in site.data.salient_themes %}
+  <div style="
+      border: 1px solid #ddd;
+      border-radius: 10px;
+      padding: 12px;
+      background: #fafafa;
+  ">
+    
+    <div style="font-weight: 600; font-size: 1.05em;">
+      {{ theme.theme }}
+    </div>
+
+    <div style="margin-top: 6px; font-size: 0.9em; opacity: 0.75;">
+      Mentions: {{ theme.count }}
+    </div>
+
+    <div style="margin-top: 6px; font-size: 0.85em; opacity: 0.6;">
+      Salience: {{ theme.score }}
+    </div>
+
+    <div style="
+        margin-top: 8px;
+        height: 6px;
+        background: #eee;
+        border-radius: 999px;
+        overflow: hidden;
+    ">
+      <div style="
+          width: {{ theme.score | times: 100 }}%;
+          height: 100%;
+          background: #4a6cf7;
+      "></div>
+    </div>
+
+  </div>
+{% endfor %}
+
+</div>
+
+<h2>Emergent Topics)</h2>
 
 <div style="display:flex; flex-wrap:wrap; gap:8px;">
 
 <span style="padding:6px 10px; border-radius:999px; border:1px solid #ccc;">
-academic funding (12)
+
 </span>
 
 <span style="padding:6px 10px; border-radius:999px; border:1px solid #ccc;">
-university governance (9)
+
 </span>
 
 <span style="padding:6px 10px; border-radius:999px; border:1px solid #ccc;">
-research misconduct (6)
+
 </span>
 
 </div>
