@@ -81,7 +81,7 @@ MAAT_CONCEPTS = [
 
     "adjunct faculty",
 
-    "precariat"
+    "precariat",
 
     # 🌍 system-level change
 
@@ -383,7 +383,7 @@ def fetch_rss_articles(seen):
 
             full_text = extract_article_text(entry.get("link", ""))
 
-            if not full_text or len(full_text) < 250:
+            if not full_text or len(full_text) < 1500:
                 continue
                 
             article = {
@@ -396,7 +396,8 @@ def fetch_rss_articles(seen):
                 "journal": extract_source_name(url),
                 "language": detect_language(text),
                 "run_date": RUN_DATE,
-                "retrieved_at": datetime.now().isoformat()
+                "retrieved_at": datetime.now().isoformat(),
+                "relevance_score": max_score
                 }
 
             if not is_relevant(article):
@@ -416,9 +417,33 @@ def fetch_rss_articles(seen):
 
             else:
 
-                article["translated_text"] = full_text
+                article["translated_text"] = ''
 
-            article["generated_summary"] = generate_summary(article["translated_text"])
+
+            rss_summary = entry.get("summary", "").strip()
+
+            if rss_summary and len(rss_summary) > 120:
+
+                if article["language"] != "en":
+
+                    article["summary_en"] = translate_to_english(rss_summary)
+
+                else:
+
+                    article["summary_en"] = ''
+
+            else:
+                text_to_summarize = (
+
+                    article["translated_text"]
+
+                    if article["translated_text"]
+
+                    else article["full_text"]
+
+                )
+
+            article["summary_en"] = generate_summary(text_to_summarize)
             
             articles.append(article)
 
