@@ -75,7 +75,7 @@ Each article is evaluated not by keywords, but by semantic proximity to higher e
 
 ## Strongest Topic Connections
 
-{% assign network = site.data.topic_network %}
+{% assign network = site.data.topic_network | sort: "weight" | reverse %}
 
 <ul>
 {% for edge in network limit:10 %}
