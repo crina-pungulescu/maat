@@ -1,5 +1,5 @@
 from pathlib import Path
-
+from datetime import datetime
 import json
 
 def latest_file(pattern):
@@ -53,6 +53,26 @@ DATA_DIR.mkdir(parents=True, exist_ok=True)
 (DATA_DIR / "nodes.json").write_text(
 
     json.dumps(nodes, indent=2, ensure_ascii=False),
+
+    encoding="utf-8"
+
+)
+
+system = {
+
+    "articles_today": len(summary),
+
+    "total_topics": len(nodes),
+
+    "total_edges": len(edges),
+
+    "last_run": datetime.utcnow().isoformat()
+
+}
+
+(DATA_DIR / "system.json").write_text(
+
+    json.dumps(system, indent=2, ensure_ascii=False),
 
     encoding="utf-8"
 
