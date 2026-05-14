@@ -205,7 +205,46 @@ def flatten_topics(topic_dict):
 FLAT_MAAT_TOPICS = flatten_topics(MAAT_TOPICS)
 topic_embeddings = model.encode(FLAT_MAAT_TOPICS, convert_to_tensor=True)
 
+BOILERPLATE_PATTERNS = [
+    r"cookie(s)? (policy|consent|banner|notice)",
+    r"accept (all )?cookies",
+    r"we use cookies",
+    r"privacy policy",
+    r"subscribe( now)?",
+    r"sign up (for )?newsletter",
+    r"log in|sign in",
+    r"register now",
+    r"this website uses cookies",
+    r"manage preferences",
+    r"your account",
+    r"follow us on",
+    r"share this article",
+    r"advertisement",
+    r"sponsored content",
+    r"recommended for you",
+]
 
+def clean_text(text):
+
+    if not text:
+        return ""
+
+    soup = BeautifulSoup(text, "lxml")
+    cleaned = soup.get_text(separator=" ")
+
+    cleaned = cleaned.lower()
+
+    # remove boilerplate phrases
+    for pattern in BOILERPLATE_PATTERNS:
+        cleaned = re.sub(pattern, " ", cleaned, flags=re.IGNORECASE)
+
+    # remove URLs
+    cleaned = re.sub(r"http\S+", " ", cleaned)
+
+    # remove repeated whitespace
+    cleaned = re.sub(r"\s+", " ", cleaned)
+
+    return cleaned.strip()
 
 def build_matrix(articles, embeddings, topics, model):
     topic_embeddings = model.encode(topics, convert_to_tensor=True)
@@ -230,6 +269,7 @@ def build_matrix(articles, embeddings, topics, model):
         })
 
     return matrix
+
 
 
 def resolve_topics(maat_topics, discovered_topics, model, threshold=0.82):
@@ -290,19 +330,7 @@ def build_semantic_text(article):
     return semantic_text.strip()
 
 
-def clean_text(text):
 
-    if not text:
-
-        return ""
-
-    soup = BeautifulSoup(text, "lxml")
-
-    cleaned = soup.get_text(separator=" ")
-
-    cleaned = re.sub(r"\s+", " ", cleaned)
-
-    return cleaned.strip()
 
 def load_articles(path):
 
