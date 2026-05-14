@@ -51,4 +51,25 @@ if len(summary) >= 2:
         f"Top 2 themes: {summary[0]['topic']} vs {summary[1]['topic']} → competing attention fields."
     )
 
-Path("index.md").write_text("\n".join(lines), encoding="utf-8")
+DATA_DIR = Path("docs/_data")
+DATA_DIR.mkdir(parents=True, exist_ok=True)
+
+(DATA_DIR / "today_topics.json").write_text(
+    json.dumps(summary, indent=2, ensure_ascii=False),
+    encoding="utf-8"
+)
+
+(DATA_DIR / "topic_network.json").write_text(
+    json.dumps(edges, indent=2, ensure_ascii=False),
+    encoding="utf-8"
+)
+
+(DATA_DIR / "today_topics.json").write_text(
+    json.dumps(summary, indent=2, ensure_ascii=False),
+    encoding="utf-8"
+)
+
+(DATA_DIR / "topic_network.json").write_text(
+    json.dumps(edges, indent=2, ensure_ascii=False),
+    encoding="utf-8"
+)
