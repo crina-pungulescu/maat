@@ -434,3 +434,7 @@ def run():
 
     print("MAAT TOPIC ENGINE COMPLETE")
 
+if __name__ == "__main__":
+
+    run()
+
