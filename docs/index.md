@@ -44,9 +44,7 @@ Each article is evaluated not by keywords, but by semantic proximity to higher e
 {% assign system = site.data.system %}
 
 <ul>
-<li>Articles ingested today: {{ system.articles_today | default: "—" }}</li>
 <li>Total stored articles: {{ system.total_articles | default: "—" }}</li>
-<li>Feeds active: {{ system.feeds_active | default: "—" }}</li>
 <li>Last run: {{ system.last_run | default: "—" }}</li>
 </ul>
 
@@ -75,29 +73,12 @@ Each article is evaluated not by keywords, but by semantic proximity to higher e
 
 ---
 
-## Top Signals
-
-| Rank | Topic | Articles | Share | Avg Score |
-|---:|---|---:|---:|---:|
-| 1 | student engagement | 46 | 15.9% | 0.4417 |
-| 2 | academic abuse | 34 | 11.7% | 0.4519 |
-| 3 | academic exploitation | 30 | 10.3% | 0.4603 |
-| 4 | academic freedom | 28 | 9.7% | 0.4523 |
-| 5 | suppression of faculty dissent | 28 | 9.7% | 0.4633 |
-| 6 | higher education crisis | 27 | 9.3% | 0.4884 |
-| 7 | pedagogy | 25 | 8.6% | 0.4802 |
-| 8 | university administration | 25 | 8.6% | 0.4626 |
-| 9 | institutional opacity | 24 | 8.3% | 0.4781 |
-| 10 | future of higher education | 23 | 7.9% | 0.4511 |
-
----
-
 ## Strongest Topic Connections
 
 {% assign network = site.data.topic_network %}
 
 <ul>
-{% for edge in network %}
+{% for edge in network limit:10 %}
 <li>
 {{ edge.source }} ↔ {{ edge.target }} ({{ edge.weight }})
 </li>
