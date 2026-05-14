@@ -115,7 +115,6 @@ MAAT_TOPICS = {
     ],
 
     "control": [
-
         "silencing dissent",
         "suppression of faculty dissent",
         "risks attached to reporting abuse",
@@ -125,14 +124,13 @@ MAAT_TOPICS = {
     ],
 
      "accountability_gaps": [
-
         "lack of accountability for powerful actors",
         "nepotism",
         "institutional protection",
         "conflict of interest",
         "power consolidation"
 
-    ]
+    ],
 
     "inequality_structures": [
         "exploitation",
