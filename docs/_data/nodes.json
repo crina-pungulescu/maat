@@ -1,0 +1,877 @@
+[
+  {
+    "id": "classroom",
+    "weight": 19,
+    "avg_score": 0.4743
+  },
+  {
+    "id": "student engagement",
+    "weight": 46,
+    "avg_score": 0.4417
+  },
+  {
+    "id": "student-faculty relations",
+    "weight": 21,
+    "avg_score": 0.4555
+  },
+  {
+    "id": "teacher-student relationship",
+    "weight": 12,
+    "avg_score": 0.4454
+  },
+  {
+    "id": "artificial intelligence",
+    "weight": 3,
+    "avg_score": 0.4912
+  },
+  {
+    "id": "AI in education",
+    "weight": 4,
+    "avg_score": 0.5949
+  },
+  {
+    "id": "generative AI",
+    "weight": 3,
+    "avg_score": 0.486
+  },
+  {
+    "id": "educational technology",
+    "weight": 18,
+    "avg_score": 0.4517
+  },
+  {
+    "id": "edtech",
+    "weight": 5,
+    "avg_score": 0.4606
+  },
+  {
+    "id": "automation in education",
+    "weight": 8,
+    "avg_score": 0.4596
+  },
+  {
+    "id": "AI-assisted learning",
+    "weight": 3,
+    "avg_score": 0.5389
+  },
+  {
+    "id": "AI-assisted teaching",
+    "weight": 3,
+    "avg_score": 0.5858
+  },
+  {
+    "id": "academic exploitation",
+    "weight": 30,
+    "avg_score": 0.4603
+  },
+  {
+    "id": "academic abuse",
+    "weight": 34,
+    "avg_score": 0.4519
+  },
+  {
+    "id": "academic uncertainty",
+    "weight": 13,
+    "avg_score": 0.4439
+  },
+  {
+    "id": "educational pessimism",
+    "weight": 22,
+    "avg_score": 0.4885
+  },
+  {
+    "id": "pedagogy",
+    "weight": 25,
+    "avg_score": 0.4802
+  },
+  {
+    "id": "higher education teaching",
+    "weight": 13,
+    "avg_score": 0.4556
+  },
+  {
+    "id": "access to higher education",
+    "weight": 10,
+    "avg_score": 0.4537
+  },
+  {
+    "id": "governance",
+    "weight": 3,
+    "avg_score": 0.5034
+  },
+  {
+    "id": "higher education governance",
+    "weight": 22,
+    "avg_score": 0.4628
+  },
+  {
+    "id": "reform",
+    "weight": 7,
+    "avg_score": 0.4565
+  },
+  {
+    "id": "higher education reform",
+    "weight": 21,
+    "avg_score": 0.4909
+  },
+  {
+    "id": "institutional opacity",
+    "weight": 24,
+    "avg_score": 0.4781
+  },
+  {
+    "id": "academic careers",
+    "weight": 18,
+    "avg_score": 0.4445
+  },
+  {
+    "id": "institutional abuse",
+    "weight": 8,
+    "avg_score": 0.416
+  },
+  {
+    "id": "lack of accountability for powerful actors",
+    "weight": 2,
+    "avg_score": 0.4347
+  },
+  {
+    "id": "institutional hierarchy",
+    "weight": 8,
+    "avg_score": 0.4682
+  },
+  {
+    "id": "stratified academic systems",
+    "weight": 21,
+    "avg_score": 0.4421
+  },
+  {
+    "id": "higher education crisis",
+    "weight": 27,
+    "avg_score": 0.4884
+  },
+  {
+    "id": "institutional anxiety",
+    "weight": 5,
+    "avg_score": 0.4312
+  },
+  {
+    "id": "future of higher education",
+    "weight": 23,
+    "avg_score": 0.4511
+  },
+  {
+    "id": "academic morale",
+    "weight": 17,
+    "avg_score": 0.4429
+  },
+  {
+    "id": "student wellbeing",
+    "weight": 6,
+    "avg_score": 0.436
+  },
+  {
+    "id": "research productivity",
+    "weight": 13,
+    "avg_score": 0.4433
+  },
+  {
+    "id": "research evaluation",
+    "weight": 9,
+    "avg_score": 0.4429
+  },
+  {
+    "id": "research funding",
+    "weight": 7,
+    "avg_score": 0.4452
+  },
+  {
+    "id": "financial pressure in academia",
+    "weight": 17,
+    "avg_score": 0.4588
+  },
+  {
+    "id": "academic workload",
+    "weight": 20,
+    "avg_score": 0.4498
+  },
+  {
+    "id": "research misconduct",
+    "weight": 14,
+    "avg_score": 0.4535
+  },
+  {
+    "id": "research facilities",
+    "weight": 12,
+    "avg_score": 0.4483
+  },
+  {
+    "id": "academic freedom",
+    "weight": 28,
+    "avg_score": 0.4523
+  },
+  {
+    "id": "scholarly autonomy",
+    "weight": 21,
+    "avg_score": 0.4553
+  },
+  {
+    "id": "sustainable university",
+    "weight": 16,
+    "avg_score": 0.4376
+  },
+  {
+    "id": "scholarships",
+    "weight": 7,
+    "avg_score": 0.4201
+  },
+  {
+    "id": "educational inequality",
+    "weight": 12,
+    "avg_score": 0.4696
+  },
+  {
+    "id": "university administration",
+    "weight": 25,
+    "avg_score": 0.4626
+  },
+  {
+    "id": "education policy",
+    "weight": 22,
+    "avg_score": 0.4887
+  },
+  {
+    "id": "university budgets",
+    "weight": 12,
+    "avg_score": 0.4623
+  },
+  {
+    "id": "labour exploitation in academia",
+    "weight": 7,
+    "avg_score": 0.4515
+  },
+  {
+    "id": "academic fraud",
+    "weight": 20,
+    "avg_score": 0.4429
+  },
+  {
+    "id": "silencing dissent",
+    "weight": 13,
+    "avg_score": 0.4464
+  },
+  {
+    "id": "suppression of faculty dissent",
+    "weight": 28,
+    "avg_score": 0.4633
+  },
+  {
+    "id": "conflict of interest",
+    "weight": 2,
+    "avg_score": 0.4072
+  },
+  {
+    "id": "international universities",
+    "weight": 13,
+    "avg_score": 0.4766
+  },
+  {
+    "id": "politics",
+    "weight": 2,
+    "avg_score": 0.4174
+  },
+  {
+    "id": "academic mobility",
+    "weight": 9,
+    "avg_score": 0.4334
+  },
+  {
+    "id": "university admissions",
+    "weight": 14,
+    "avg_score": 0.4385
+  },
+  {
+    "id": "access to university",
+    "weight": 13,
+    "avg_score": 0.4429
+  },
+  {
+    "id": "university campus",
+    "weight": 15,
+    "avg_score": 0.4451
+  },
+  {
+    "id": "campus speech",
+    "weight": 12,
+    "avg_score": 0.4402
+  },
+  {
+    "id": "faculty speech",
+    "weight": 16,
+    "avg_score": 0.4445
+  },
+  {
+    "id": "political interference",
+    "weight": 1,
+    "avg_score": 0.4252
+  },
+  {
+    "id": "politicization of science",
+    "weight": 13,
+    "avg_score": 0.4564
+  },
+  {
+    "id": "student participation",
+    "weight": 19,
+    "avg_score": 0.4496
+  },
+  {
+    "id": "student protest",
+    "weight": 9,
+    "avg_score": 0.4494
+  },
+  {
+    "id": "campus safety",
+    "weight": 5,
+    "avg_score": 0.4704
+  },
+  {
+    "id": "peer review",
+    "weight": 3,
+    "avg_score": 0.4266
+  },
+  {
+    "id": "academic publishing",
+    "weight": 11,
+    "avg_score": 0.467
+  },
+  {
+    "id": "bureaucracy",
+    "weight": 9,
+    "avg_score": 0.4317
+  },
+  {
+    "id": "administrative coercion",
+    "weight": 1,
+    "avg_score": 0.4521
+  },
+  {
+    "id": "governance failure",
+    "weight": 4,
+    "avg_score": 0.4782
+  },
+  {
+    "id": "accountability",
+    "weight": 1,
+    "avg_score": 0.4606
+  },
+  {
+    "id": "institutional protection",
+    "weight": 4,
+    "avg_score": 0.4353
+  },
+  {
+    "id": "authoritarianism",
+    "weight": 6,
+    "avg_score": 0.4569
+  },
+  {
+    "id": "institutional independence",
+    "weight": 8,
+    "avg_score": 0.4406
+  },
+  {
+    "id": "scientific collaboration",
+    "weight": 4,
+    "avg_score": 0.4323
+  },
+  {
+    "id": "faculty contracts",
+    "weight": 4,
+    "avg_score": 0.4166
+  },
+  {
+    "id": "medical students",
+    "weight": 2,
+    "avg_score": 0.4129
+  },
+  {
+    "id": "scientific expertise",
+    "weight": 5,
+    "avg_score": 0.4297
+  },
+  {
+    "id": "freedom of expression",
+    "weight": 2,
+    "avg_score": 0.4084
+  },
+  {
+    "id": "campus expansion",
+    "weight": 8,
+    "avg_score": 0.4178
+  },
+  {
+    "id": "student retention",
+    "weight": 6,
+    "avg_score": 0.4583
+  },
+  {
+    "id": "student debt",
+    "weight": 6,
+    "avg_score": 0.5144
+  },
+  {
+    "id": "cost of education",
+    "weight": 6,
+    "avg_score": 0.4169
+  },
+  {
+    "id": "student poverty",
+    "weight": 14,
+    "avg_score": 0.4748
+  },
+  {
+    "id": "underfunding",
+    "weight": 1,
+    "avg_score": 0.4346
+  },
+  {
+    "id": "job insecurity",
+    "weight": 3,
+    "avg_score": 0.4075
+  },
+  {
+    "id": "redundancy",
+    "weight": 1,
+    "avg_score": 0.5051
+  },
+  {
+    "id": "racism",
+    "weight": 2,
+    "avg_score": 0.4254
+  },
+  {
+    "id": "workplace abuse",
+    "weight": 1,
+    "avg_score": 0.4214
+  },
+  {
+    "id": "risks attached to reporting abuse",
+    "weight": 1,
+    "avg_score": 0.411
+  },
+  {
+    "id": "discrimination",
+    "weight": 3,
+    "avg_score": 0.4397
+  },
+  {
+    "id": "bullyism",
+    "weight": 2,
+    "avg_score": 0.4467
+  },
+  {
+    "id": "harassment",
+    "weight": 1,
+    "avg_score": 0.507
+  },
+  {
+    "id": "college admissions",
+    "weight": 6,
+    "avg_score": 0.4284
+  },
+  {
+    "id": "admissions policy",
+    "weight": 6,
+    "avg_score": 0.4348
+  },
+  {
+    "id": "selective admissions",
+    "weight": 5,
+    "avg_score": 0.4263
+  },
+  {
+    "id": "affirmative action",
+    "weight": 1,
+    "avg_score": 0.421
+  },
+  {
+    "id": "medical education",
+    "weight": 2,
+    "avg_score": 0.4456
+  },
+  {
+    "id": "public health education",
+    "weight": 3,
+    "avg_score": 0.4156
+  },
+  {
+    "id": "student support",
+    "weight": 7,
+    "avg_score": 0.456
+  },
+  {
+    "id": "legislative reform",
+    "weight": 2,
+    "avg_score": 0.4154
+  },
+  {
+    "id": "funding",
+    "weight": 5,
+    "avg_score": 0.4411
+  },
+  {
+    "id": "public funding",
+    "weight": 4,
+    "avg_score": 0.4509
+  },
+  {
+    "id": "distance education",
+    "weight": 1,
+    "avg_score": 0.455
+  },
+  {
+    "id": "student life",
+    "weight": 17,
+    "avg_score": 0.4604
+  },
+  {
+    "id": "student belonging",
+    "weight": 10,
+    "avg_score": 0.4475
+  },
+  {
+    "id": "student voice",
+    "weight": 11,
+    "avg_score": 0.4491
+  },
+  {
+    "id": "tuition",
+    "weight": 6,
+    "avg_score": 0.4336
+  },
+  {
+    "id": "international students",
+    "weight": 11,
+    "avg_score": 0.4549
+  },
+  {
+    "id": "student mobility",
+    "weight": 2,
+    "avg_score": 0.5188
+  },
+  {
+    "id": "study abroad",
+    "weight": 3,
+    "avg_score": 0.4735
+  },
+  {
+    "id": "global education",
+    "weight": 14,
+    "avg_score": 0.4552
+  },
+  {
+    "id": "cross-border education",
+    "weight": 1,
+    "avg_score": 0.4585
+  },
+  {
+    "id": "international partnerships",
+    "weight": 2,
+    "avg_score": 0.4224
+  },
+  {
+    "id": "transnational education",
+    "weight": 8,
+    "avg_score": 0.4481
+  },
+  {
+    "id": "student accommodation",
+    "weight": 4,
+    "avg_score": 0.445
+  },
+  {
+    "id": "teaching",
+    "weight": 13,
+    "avg_score": 0.4423
+  },
+  {
+    "id": "financial aid",
+    "weight": 3,
+    "avg_score": 0.4386
+  },
+  {
+    "id": "austerity",
+    "weight": 4,
+    "avg_score": 0.4826
+  },
+  {
+    "id": "australia",
+    "weight": 1,
+    "avg_score": 0.5683
+  },
+  {
+    "id": "digital learning",
+    "weight": 3,
+    "avg_score": 0.4285
+  },
+  {
+    "id": "educational access",
+    "weight": 11,
+    "avg_score": 0.4448
+  },
+  {
+    "id": "digital infrastructure",
+    "weight": 1,
+    "avg_score": 0.5005
+  },
+  {
+    "id": "curriculum",
+    "weight": 14,
+    "avg_score": 0.4833
+  },
+  {
+    "id": "educational practice",
+    "weight": 16,
+    "avg_score": 0.4713
+  },
+  {
+    "id": "campus climate",
+    "weight": 2,
+    "avg_score": 0.423
+  },
+  {
+    "id": "campus housing",
+    "weight": 2,
+    "avg_score": 0.4297
+  },
+  {
+    "id": "student satisfaction",
+    "weight": 3,
+    "avg_score": 0.4567
+  },
+  {
+    "id": "learning",
+    "weight": 3,
+    "avg_score": 0.4709
+  },
+  {
+    "id": "instruction",
+    "weight": 4,
+    "avg_score": 0.4332
+  },
+  {
+    "id": "course design",
+    "weight": 4,
+    "avg_score": 0.4187
+  },
+  {
+    "id": "active learning",
+    "weight": 2,
+    "avg_score": 0.4159
+  },
+  {
+    "id": "learning outcomes",
+    "weight": 6,
+    "avg_score": 0.4371
+  },
+  {
+    "id": "scientific innovation",
+    "weight": 4,
+    "avg_score": 0.4132
+  },
+  {
+    "id": "online learning",
+    "weight": 2,
+    "avg_score": 0.4145
+  },
+  {
+    "id": "embezzelment",
+    "weight": 2,
+    "avg_score": 0.4128
+  },
+  {
+    "id": "jeffrey epstein",
+    "weight": 1,
+    "avg_score": 0.401
+  },
+  {
+    "id": "asia",
+    "weight": 2,
+    "avg_score": 0.4112
+  },
+  {
+    "id": "laboratories",
+    "weight": 3,
+    "avg_score": 0.4374
+  },
+  {
+    "id": "science communication",
+    "weight": 1,
+    "avg_score": 0.456
+  },
+  {
+    "id": "policy change",
+    "weight": 4,
+    "avg_score": 0.4306
+  },
+  {
+    "id": "accreditation",
+    "weight": 5,
+    "avg_score": 0.4225
+  },
+  {
+    "id": "employment",
+    "weight": 2,
+    "avg_score": 0.56
+  },
+  {
+    "id": "unpaid labour",
+    "weight": 2,
+    "avg_score": 0.4384
+  },
+  {
+    "id": "graduate employment",
+    "weight": 2,
+    "avg_score": 0.5481
+  },
+  {
+    "id": "career",
+    "weight": 3,
+    "avg_score": 0.4834
+  },
+  {
+    "id": "future",
+    "weight": 1,
+    "avg_score": 0.4047
+  },
+  {
+    "id": "labour exploitation",
+    "weight": 1,
+    "avg_score": 0.4114
+  },
+  {
+    "id": "unemployment",
+    "weight": 1,
+    "avg_score": 0.4555
+  },
+  {
+    "id": "latin america",
+    "weight": 2,
+    "avg_score": 0.5113
+  },
+  {
+    "id": "publication pressure",
+    "weight": 2,
+    "avg_score": 0.5326
+  },
+  {
+    "id": "publish or perish",
+    "weight": 2,
+    "avg_score": 0.4683
+  },
+  {
+    "id": "europe",
+    "weight": 3,
+    "avg_score": 0.467
+  },
+  {
+    "id": "russia",
+    "weight": 2,
+    "avg_score": 0.4287
+  },
+  {
+    "id": "public trust in science",
+    "weight": 4,
+    "avg_score": 0.4432
+  },
+  {
+    "id": "misinformation",
+    "weight": 1,
+    "avg_score": 0.4055
+  },
+  {
+    "id": "systemic inequality",
+    "weight": 2,
+    "avg_score": 0.4795
+  },
+  {
+    "id": "scarcity systems producing exploitation",
+    "weight": 1,
+    "avg_score": 0.4048
+  },
+  {
+    "id": "adjuncts",
+    "weight": 1,
+    "avg_score": 0.4014
+  },
+  {
+    "id": "DEI",
+    "weight": 2,
+    "avg_score": 0.4203
+  },
+  {
+    "id": "competitive funding systems",
+    "weight": 2,
+    "avg_score": 0.4252
+  },
+  {
+    "id": "policy",
+    "weight": 3,
+    "avg_score": 0.4133
+  },
+  {
+    "id": "overregulation",
+    "weight": 2,
+    "avg_score": 0.4554
+  },
+  {
+    "id": "grade inflation",
+    "weight": 1,
+    "avg_score": 0.4309
+  },
+  {
+    "id": "declining standards",
+    "weight": 3,
+    "avg_score": 0.4504
+  },
+  {
+    "id": "hierarchy distorting fairness",
+    "weight": 1,
+    "avg_score": 0.4803
+  },
+  {
+    "id": "democracy",
+    "weight": 3,
+    "avg_score": 0.4162
+  },
+  {
+    "id": "evidence-based policy",
+    "weight": 3,
+    "avg_score": 0.4324
+  },
+  {
+    "id": "assessment",
+    "weight": 1,
+    "avg_score": 0.4456
+  },
+  {
+    "id": "self-censorship",
+    "weight": 1,
+    "avg_score": 0.4228
+  },
+  {
+    "id": "censorship",
+    "weight": 1,
+    "avg_score": 0.4206
+  },
+  {
+    "id": "pessimism",
+    "weight": 1,
+    "avg_score": 0.4697
+  },
+  {
+    "id": "climate education",
+    "weight": 1,
+    "avg_score": 0.4011
+  }
+]
