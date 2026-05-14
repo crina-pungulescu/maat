@@ -207,67 +207,40 @@ def flatten_topics(topic_dict):
 FLAT_MAAT_TOPICS = flatten_topics(MAAT_TOPICS)
 topic_embeddings = model.encode(FLAT_MAAT_TOPICS, convert_to_tensor=True)
 
-BOILERPLATE_PATTERNS = [
-    r"cookie(s)? (policy|consent|banner|notice)",
-    r"accept (all )?cookies",
-    r"we use cookies",
-    r"privacy policy",
-    r"subscribe( now)?",
-    r"sign up (for )?newsletter",
-    r"log in|sign in",
-    r"register now",
-    r"this website uses cookies",
-    r"manage preferences",
-    r"your account",
-    r"follow us on",
-    r"share this article",
-    r"advertisement",
-    r"sponsored content",
-    r"recommended for you",
-]
 
-DOMAIN_STOPWORDS = set([
-    "user", "used", "using", "use",
-    "accept", "cookie", "cookies",
-    "click", "clicks",
-    "article", "articles",
-    "website", "page",
-    "content", "newsletter",
-    "subscribe", "sign",
-    "login", "log",
-    "register",
-    "account",
-    "privacy",
-    "terms",
-    "share",
-    "follow",
-    "advertisement",
-    "sponsored",
-    "loading",
-    "loading...",
-    "menu",
-    "search",
-    "home"
-])
+def extract_phrases(article):
+    text = build_semantic_text(article)
+
+    if len(text.split()) < 30:
+        return []
+
+    vectorizer = TfidfVectorizer(
+        stop_words="english",
+        max_features=8,
+        ngram_range=(2,3)
+    )
+
+    try:
+        X = vectorizer.fit_transform([text])
+        return vectorizer.get_feature_names_out()
+    except:
+        return []
+
+def is_valid_topic(phrase, maat_embeddings, model, threshold=0.30):
+    emb = model.encode(phrase, convert_to_tensor=True)
+
+    sims = util.cos_sim(emb, maat_embeddings)[0].cpu().numpy()
+
+    return float(np.max(sims)) >= threshold
 
 def clean_text(text):
-
     if not text:
         return ""
 
     soup = BeautifulSoup(text, "lxml")
     cleaned = soup.get_text(separator=" ")
 
-    cleaned = cleaned.lower()
-
-    # remove boilerplate phrases
-    for pattern in BOILERPLATE_PATTERNS:
-        cleaned = re.sub(pattern, " ", cleaned, flags=re.IGNORECASE)
-
-    # remove URLs
     cleaned = re.sub(r"http\S+", " ", cleaned)
-
-    # remove repeated whitespace
     cleaned = re.sub(r"\s+", " ", cleaned)
 
     return cleaned.strip()
@@ -418,33 +391,36 @@ def embed_articles(articles):
 
 def extract_candidate_topics(
     articles,
-    max_features=8,
-    similarity_threshold=0.83
+    model,
+    maat_topics,
+    max_features=10,
+    phrase_sim_threshold=0.30,
+    dedup_threshold=0.85
 ):
 
-    candidate_topics = []
+    candidate_phrases = []
+    final_topics = []
 
-    # -----------------------------------
-    # STEP 1: extract phrases per article
-    # -----------------------------------
+    maat_embeddings = model.encode(maat_topics, convert_to_tensor=True)
 
+    # ----------------------------
+    # STEP 1: extract phrases
+    # ----------------------------
     for article in articles:
 
         text = build_semantic_text(article)
 
-        if len(text.split()) < 30:
+        if len(text.split()) < 40:
             continue
 
         try:
-
             vectorizer = TfidfVectorizer(
                 stop_words="english",
                 max_features=max_features,
-                ngram_range=(2,3)
+                ngram_range=(2, 3)
             )
 
-            X = vectorizer.fit_transform([text])
-
+            vectorizer.fit_transform([text])
             phrases = vectorizer.get_feature_names_out()
 
             phrases = filter_topics(phrases)
@@ -455,54 +431,72 @@ def extract_candidate_topics(
                 if len(p) < 4:
                     continue
 
-                candidate_topics.append(p)
+                if any(x in p for x in ["cookie", "subscribe", "user", "accept"]):
+                    continue
+
+                # -----------------------------------
+                # 🧠 SEMANTIC EDUCATION GATE (CRITICAL)
+                # -----------------------------------
+                emb = model.encode(p, convert_to_tensor=True)
+
+                sims = util.cos_sim(emb, maat_embeddings)[0].cpu().numpy()
+                best_sim = float(np.max(sims))
+
+                if best_sim < phrase_sim_threshold:
+                    continue  # reject non-education-space phrases
+
+                candidate_phrases.append(p)
 
         except:
             continue
 
-    # -----------------------------------
-    # STEP 2: semantic deduplication
-    # -----------------------------------
+    # ----------------------------
+    # STEP 2: semantic filter vs MAAT space
+    # ----------------------------
+    phrase_embeddings = model.encode(candidate_phrases, convert_to_tensor=True)
 
-    unique_topics = []
+    filtered = []
 
-    if not candidate_topics:
+    for i, phrase in enumerate(candidate_phrases):
+
+        sims = util.cos_sim(
+            phrase_embeddings[i],
+            maat_embeddings
+        )[0].cpu().numpy()
+
+        max_sim = float(np.max(sims))
+
+        # THIS is the key gate:
+        # must belong to education / academic discourse space
+        if max_sim >= phrase_sim_threshold:
+            filtered.append((phrase, phrase_embeddings[i]))
+
+    if not filtered:
         return []
 
-    embeddings = model.encode(
-        candidate_topics,
-        convert_to_tensor=True
-    )
+    # ----------------------------
+    # STEP 3: deduplicate in embedding space
+    # ----------------------------
+    unique = []
 
-    for i, topic in enumerate(candidate_topics):
+    for phrase, emb in filtered:
 
         keep = True
 
-        for existing in unique_topics:
+        for existing in unique:
+            sim = util.cos_sim(emb, existing["emb"]).item()
 
-            sim = util.cos_sim(
-                embeddings[i],
-                existing["embedding"]
-            ).item()
-
-            if sim >= similarity_threshold:
+            if sim >= dedup_threshold:
                 keep = False
                 break
 
         if keep:
-            unique_topics.append({
-                "topic": topic,
-                "embedding": embeddings[i]
+            unique.append({
+                "topic": phrase,
+                "emb": emb
             })
 
-    # -----------------------------------
-    # STEP 3: return clean topic list
-    # -----------------------------------
-
-    return [
-        t["topic"]
-        for t in unique_topics
-    ]
+    return [x["topic"] for x in unique]
 
 
 
