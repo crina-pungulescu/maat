@@ -8,11 +8,21 @@ def latest_file(pattern):
     return files[-1]
 
 summary_path = latest_file("today_summary_*.json")
+edges_path = latest_file("graph_edges_*.json")
+nodes_path = latest_file("graph_nodes_*.json")
 
 date_str = summary_path.stem.replace("today_summary_", "")
 
 with open(summary_path, "r", encoding="utf-8") as f:
     summary = json.load(f)
+
+with open(edges_path, "r", encoding="utf-8") as f:
+
+    edges = json.load(f)
+
+with open(nodes_path, "r", encoding="utf-8") as f:
+
+    nodes = json.load(f)
 
 total = sum(item["count"] for item in summary)
 
@@ -64,12 +74,3 @@ DATA_DIR.mkdir(parents=True, exist_ok=True)
     encoding="utf-8"
 )
 
-(DATA_DIR / "today_topics.json").write_text(
-    json.dumps(summary, indent=2, ensure_ascii=False),
-    encoding="utf-8"
-)
-
-(DATA_DIR / "topic_network.json").write_text(
-    json.dumps(edges, indent=2, ensure_ascii=False),
-    encoding="utf-8"
-)
