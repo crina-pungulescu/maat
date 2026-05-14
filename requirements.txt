@@ -1,18 +1,23 @@
+# scraping
 requests
 feedparser
-pandas
-beautifulsoup4
-langdetect
-openpyxl
-sentence-transformers
-langdetect
 newspaper4k[nlp]
+
+# text processing
+beautifulsoup4
 lxml[html_clean]
+langdetect
+nltk
+deep-translator
+
+# embeddings / ML
+sentence-transformers
 transformers
 torch
 sentencepiece
-deep-translator
-nltk
-scikit-learn
+
+# analytics
+pandas
 numpy
-lxml
+scikit-learn
+openpyxl
