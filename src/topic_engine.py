@@ -231,17 +231,6 @@ def build_matrix(articles, embeddings, topics, model):
 
     return matrix
 
-def flatten_topics(topic_dict):
-
-    return [
-
-        item
-
-        for sublist in topic_dict.values()
-
-        for item in sublist
-
-    ]
 
 def resolve_topics(maat_topics, discovered_topics, model, threshold=0.82):
     """
@@ -347,64 +336,92 @@ def embed_articles(articles):
     return model.encode(texts)
 
 
+def extract_candidate_topics(
+    articles,
+    max_features=8,
+    similarity_threshold=0.83
+):
 
+    candidate_topics = []
 
-# MATRIX CONSTRUCTION
+    # -----------------------------------
+    # STEP 1: extract phrases per article
+    # -----------------------------------
 
-# ----------------------------
+    for article in articles:
 
-def build_topic_matrix(articles, embeddings, all_topics):
+        text = build_semantic_text(article)
 
+        if len(text.split()) < 30:
+            continue
 
-    topic_embeddings = model.encode(
-        all_topics,
+        try:
+
+            vectorizer = TfidfVectorizer(
+                stop_words="english",
+                max_features=max_features,
+                ngram_range=(1,3)
+            )
+
+            X = vectorizer.fit_transform([text])
+
+            phrases = vectorizer.get_feature_names_out()
+
+            for p in phrases:
+                p = p.strip().lower()
+
+                if len(p) < 4:
+                    continue
+
+                candidate_topics.append(p)
+
+        except:
+            continue
+
+    # -----------------------------------
+    # STEP 2: semantic deduplication
+    # -----------------------------------
+
+    unique_topics = []
+
+    if not candidate_topics:
+        return []
+
+    embeddings = model.encode(
+        candidate_topics,
         convert_to_tensor=True
     )
 
-    matrix = []
+    for i, topic in enumerate(candidate_topics):
 
-    for i, article in enumerate(articles):
+        keep = True
 
-        scores = util.cos_sim(
-            embeddings[i],
-            topic_embeddings
-        )[0].cpu().numpy()
+        for existing in unique_topics:
 
-        topic_scores = []
+            sim = util.cos_sim(
+                embeddings[i],
+                existing["embedding"]
+            ).item()
 
-        for idx, score in enumerate(scores):
+            if sim >= similarity_threshold:
+                keep = False
+                break
 
-            topic_scores.append({
-
-                "topic": all_topics[idx],
-
-                "score": round(float(score), 4)
-
+        if keep:
+            unique_topics.append({
+                "topic": topic,
+                "embedding": embeddings[i]
             })
 
-        topic_scores = sorted(
-            topic_scores,
-            key=lambda x: x["score"],
-            reverse=True
-        )
+    # -----------------------------------
+    # STEP 3: return clean topic list
+    # -----------------------------------
 
-        matrix.append({
+    return [
+        t["topic"]
+        for t in unique_topics
+    ]
 
-            "article_id": article.get("article_id"),
-
-            "title": article.get("title"),
-
-            "link": article.get("link"),
-
-            "top_topics": topic_scores[:10],
-
-            "all_scores": topic_scores
-
-        })
-
-    return matrix
-
-# ----------------------------
 
 
 # RUN
