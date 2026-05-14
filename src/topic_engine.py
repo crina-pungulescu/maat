@@ -21,6 +21,84 @@ from collections import Counter
 model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
 
 MAAT_TOPICS = {
+
+    "teaching_learning": [
+    "teaching",
+    "learning",
+    "pedagogy",
+    "instruction",
+    "curriculum",
+    "classroom",
+    "syllabus",
+    "course design",
+    "student engagement",
+    "assessment",
+    "educational practice",
+    "active learning",
+    "learning outcomes",
+    "online learning",
+    "hybrid learning",
+    "distance education",
+    "higher education teaching"
+],
+
+"student_experience": [
+    "student wellbeing",
+    "mental health",
+    "student life",
+    "student support",
+    "student satisfaction",
+    "student engagement",
+    "student participation",
+    "student retention",
+    "campus climate",
+    "student belonging",
+    "student protest",
+    "student voice",
+    "student-faculty relations",
+    "teacher-student relationship"
+],
+
+"educational_technology": [
+    "artificial intelligence",
+    "AI in education",
+    "generative AI",
+    "ChatGPT",
+    "educational technology",
+    "digital learning",
+    "learning analytics",
+    "edtech",
+    "automation in education",
+    "AI-assisted learning",
+    "AI-assisted teaching",
+    "surveillance technology",
+    "proctoring software",
+    "algorithmic assessment"
+],
+
+"research_ecosystems": [
+    "scientific collaboration",
+    "research productivity",
+    "publication pressure",
+    "publish or perish",
+    "citation metrics",
+    "peer review",
+    "research evaluation",
+    "academic publishing",
+    "open access",
+    "scientific innovation"
+],
+
+"student_economics": [
+    "student debt",
+    "tuition",
+    "financial aid",
+    "scholarships",
+    "cost of education",
+    "student poverty",
+    "access to higher education",
+    "educational inequality"
+]
     
    "institutional_structure": [
         "governance",
