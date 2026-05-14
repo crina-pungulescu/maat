@@ -80,7 +80,7 @@ MAAT_TOPICS = {
         "academic exploitation",
         "labour exploitation",
         "systemic inequality"
-    ]
+    ],
 
     "academic_standards": [
         "integrity",
