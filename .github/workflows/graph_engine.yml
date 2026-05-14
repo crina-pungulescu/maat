@@ -14,10 +14,7 @@ jobs:
 
     permissions:
       contents: write
-
-    if: ${{ github.event.workflow_run.conclusion == 'success' }}
     
-
     steps:
       - uses: actions/checkout@v5
         with:
