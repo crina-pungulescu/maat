@@ -114,11 +114,7 @@ def save_outputs(nodes, edges, summary, date_str):
     with open(f"data/graphs/today_summary_{date_str}.json", "w", encoding="utf-8") as f:
       json.dump(summary, f, indent=2, ensure_ascii=False)
 
-    print("Graph outputs saved:")
-    print(nodes_path)
-    print(edges_path)
-    print(summary_path)
-
+    print("Graph outputs saved.")
 
 # ----------------------------
 # RUN PIPELINE
