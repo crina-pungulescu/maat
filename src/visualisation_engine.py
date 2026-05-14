@@ -18,7 +18,7 @@ total = sum(item["count"] for item in summary)
 
 lines = []
 
-lines.append("# MAAT Daily Pulse")
+lines.append("# Daily Map")
 lines.append("")
 lines.append(f"### Date: {date_str}")
 lines.append("")
