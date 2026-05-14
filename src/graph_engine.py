@@ -145,7 +145,7 @@ def run():
     edges = build_edges(matrix)
     summary = build_daily_summary(nodes)
 
-    save_outputs(nodes, edges, summary)
+    save_outputs(nodes, edges, summary, date_str)
 
     print("MAAT TOPIC GRAPH COMPLETE")
 
