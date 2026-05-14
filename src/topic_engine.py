@@ -79,7 +79,9 @@ MAAT_TOPICS = {
         "exploitation",
         "academic exploitation",
         "labour exploitation",
-        "systemic inequality"
+        "systemic inequality",
+        "redundancy",
+        "unemployment"
     ],
 
     "academic_standards": [
@@ -96,7 +98,9 @@ MAAT_TOPICS = {
         "plagiarism",
         "embezzelment",
         "academic fraud",
-        "research misconduct"     
+        "research misconduct",
+        "jeffrey epstein",
+        "donald trump"
     ],
         
     "degradation_signals": [
@@ -110,8 +114,8 @@ MAAT_TOPICS = {
         "power asymmetry",
         "retaliation",
         "workplace abuse",
-        "institutional abuse"
-
+        "institutional abuse",
+        "retaliatory litigation"
     ],
 
     "control": [
@@ -119,8 +123,8 @@ MAAT_TOPICS = {
         "suppression of faculty dissent",
         "risks attached to reporting abuse",
         "chilling effects",
-        "self-censorship"
-
+        "self-censorship",
+        "wrongful termination"
     ],
 
      "accountability_gaps": [
@@ -129,7 +133,6 @@ MAAT_TOPICS = {
         "institutional protection",
         "conflict of interest",
         "power consolidation"
-
     ],
 
     "inequality_structures": [
@@ -142,7 +145,6 @@ MAAT_TOPICS = {
         "stratified academic systems",
         "competitive funding systems",
         "zero-sum resource allocation"
-        
     ],
 
     "equity_social_issues": [
