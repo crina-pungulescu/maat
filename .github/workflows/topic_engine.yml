@@ -11,8 +11,13 @@ jobs:
   topics:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
       - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-python@v6
         with:
@@ -24,12 +29,25 @@ jobs:
           mkdir -p data/topics
           date > data/topics/time.txt
 
+      - run: |
+          echo "RAW FILES:"
+          ls -R data/raw || echo "NO RAW DATA"
+
+      - run: |
+          echo "TOPIC FILES BEFORE:"
+          ls -R data/topics || echo "NO TOPICS"
+
       - run: python -u src/topic_engine.py
+
+      - run: |
+          echo "TOPIC FILES AFTER:"
+          ls -R data/topics || echo "NO TOPICS GENERATED"
       
       - run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add data/topics/
           git commit -m "MAAT topic update" || echo "no changes"
+          git pull --rebase origin main || echo "nothing to rebase"
           git push
 
