@@ -103,22 +103,16 @@ def build_daily_summary(nodes, top_k=10):
 
 def save_outputs(nodes, edges, summary, date_str):
 
-    base_dir = Path(__file__).resolve().parent.parent
-    out_dir = base_dir / "data" / "graphs"
-    out_dir.mkdir(parents=True, exist_ok=True)
+    Path("data/graphs").mkdir(parents=True, exist_ok=True)
 
-    nodes_path = out_dir / f"graph_nodes_{date_str}.json"
-    edges_path = out_dir / f"graph_edges_{date_str}.json"
-    summary_path = out_dir / f"today_summary_{date_str}.json"
+    with open(f"data/graphs/graph_nodes_{date_str}.json", "w", encoding="utf-8") as f:
+      json.dump(nodes, f, indent=2, ensure_ascii=False)
 
-    with open(nodes_path, "w", encoding="utf-8") as f:
-        json.dump(nodes, f, indent=2, ensure_ascii=False)
+    with open(f"data/graphs/graph_edges_{date_str}.json", "w", encoding="utf-8") as f:
+      json.dump(edges, f, indent=2, ensure_ascii=False)
 
-    with open(edges_path, "w", encoding="utf-8") as f:
-        json.dump(edges, f, indent=2, ensure_ascii=False)
-
-    with open(summary_path, "w", encoding="utf-8") as f:
-        json.dump(summary, f, indent=2, ensure_ascii=False)
+    with open(f"data/graphs/today_summary_{date_str}.json", "w", encoding="utf-8") as f:
+      json.dump(summary, f, indent=2, ensure_ascii=False)
 
     print("Graph outputs saved:")
     print(nodes_path)
