@@ -449,7 +449,34 @@ def run():
         model
     )
 
-    save_outputs(matrix, overlap, date_str)
+    Path("data/topics").mkdir(
+    parents=True,
+    exist_ok=True
+)
+
+with open(
+    f"data/topics/topic_matrix_{date_str}.json",
+    "w",
+    encoding="utf-8"
+) as f:
+
+    json.dump(matrix, f, indent=2, ensure_ascii=False)
+
+with open(
+    f"data/topics/overlap_topics_{date_str}.json",
+    "w",
+    encoding="utf-8"
+) as f:
+
+    json.dump(overlap, f, indent=2, ensure_ascii=False)
+
+with open(
+    f"data/topics/all_topics_{date_str}.json",
+    "w",
+    encoding="utf-8"
+) as f:
+
+    json.dump(all_topics, f, indent=2, ensure_ascii=False)
 
     print("MAAT TOPIC ENGINE COMPLETE")
 
