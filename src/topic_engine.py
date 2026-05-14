@@ -193,9 +193,15 @@ MAAT_TOPICS = {
     ]
 }
 
+def flatten_topics(topic_dict):
+    return [
+        item
+        for sublist in topic_dict.values()
+        for item in sublist
+    ]
 
-
-topic_embeddings = model.encode(MAAT_TOPICS, convert_to_tensor=True)
+FLAT_MAAT_TOPICS = flatten_topics(MAAT_TOPICS)
+topic_embeddings = model.encode(FLAT_MAAT_TOPICS, convert_to_tensor=True)
 
 
 
@@ -223,6 +229,17 @@ def build_matrix(articles, embeddings, topics, model):
 
     return matrix
 
+def flatten_topics(topic_dict):
+
+    return [
+
+        item
+
+        for sublist in topic_dict.values()
+
+        for item in sublist
+
+    ]
 
 def resolve_topics(maat_topics, discovered_topics, model, threshold=0.82):
     """
@@ -336,6 +353,7 @@ def embed_articles(articles):
 
 def build_topic_matrix(articles, embeddings, all_topics):
 
+
     topic_embeddings = model.encode(
         all_topics,
         convert_to_tensor=True
@@ -400,7 +418,7 @@ def run():
     discovered = extract_candidate_topics(articles)
 
     all_topics, overlap = resolve_topics(
-        MAAT_TOPICS,
+        FLAT_MAAT_TOPICS,
         discovered,
         model
     )
