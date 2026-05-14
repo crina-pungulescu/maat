@@ -101,18 +101,28 @@ def build_daily_summary(nodes, top_k=10):
 # SAVE OUTPUTS
 # ----------------------------
 
-def save_outputs(nodes, edges, summary):
+def save_outputs(nodes, edges, summary, date_str):
 
-    Path("data/graphs/").mkdir(exist_ok=True)
+    out_dir = Path("data/graphs")
+    out_dir.mkdir(parents=True, exist_ok=True)
 
-    with open("data/graphs/topic_graph_nodes.json", "w", encoding="utf-8") as f:
+    nodes_path = out_dir / f"graph_nodes_{date_str}.json"
+    edges_path = out_dir / f"graph_edges_{date_str}.json"
+    summary_path = out_dir / f"today_summary_{date_str}.json"
+
+    with open(nodes_path, "w", encoding="utf-8") as f:
         json.dump(nodes, f, indent=2, ensure_ascii=False)
 
-    with open("data/graphs/topic_graph_edges.json", "w", encoding="utf-8") as f:
+    with open(edges_path, "w", encoding="utf-8") as f:
         json.dump(edges, f, indent=2, ensure_ascii=False)
 
-    with open("data/graphs/today_topic_summary.json", "w", encoding="utf-8") as f:
+    with open(summary_path, "w", encoding="utf-8") as f:
         json.dump(summary, f, indent=2, ensure_ascii=False)
+
+    print("Graph outputs saved:")
+    print(nodes_path)
+    print(edges_path)
+    print(summary_path)
 
 
 # ----------------------------
