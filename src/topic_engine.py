@@ -431,6 +431,8 @@ def run():
     path = sorted(Path("data/raw").glob("articles_*.jsonl"))[-1]
     date_str = path.stem.replace("articles_", "")
 
+    print(f"Processing date: {date_str}")
+
     articles = load_articles(path)
     embeddings = embed_articles(articles)
 
@@ -452,29 +454,29 @@ def run():
     Path("data/topics").mkdir(
     parents=True,
     exist_ok=True
-)
+    )
 
-with open(
-    f"data/topics/topic_matrix_{date_str}.json",
-    "w",
-    encoding="utf-8"
-) as f:
+    with open(
+        f"data/topics/topic_matrix_{date_str}.json",
+        "w",
+        encoding="utf-8"
+    ) as f:
 
     json.dump(matrix, f, indent=2, ensure_ascii=False)
 
-with open(
-    f"data/topics/overlap_topics_{date_str}.json",
-    "w",
-    encoding="utf-8"
-) as f:
+    with open(
+        f"data/topics/overlap_topics_{date_str}.json",
+        "w",
+        encoding="utf-8"
+    ) as f:
 
     json.dump(overlap, f, indent=2, ensure_ascii=False)
 
-with open(
-    f"data/topics/all_topics_{date_str}.json",
-    "w",
-    encoding="utf-8"
-) as f:
+    with open(
+        f"data/topics/all_topics_{date_str}.json",
+        "w",
+        encoding="utf-8"
+    ) as f:
 
     json.dump(all_topics, f, indent=2, ensure_ascii=False)
 
