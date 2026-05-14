@@ -103,7 +103,8 @@ def build_daily_summary(nodes, top_k=10):
 
 def save_outputs(nodes, edges, summary, date_str):
 
-    out_dir = Path("data/graphs")
+    base_dir = Path(__file__).resolve().parent.parent
+    out_dir = base_dir / "data" / "graphs"
     out_dir.mkdir(parents=True, exist_ok=True)
 
     nodes_path = out_dir / f"graph_nodes_{date_str}.json"
@@ -144,6 +145,10 @@ def run():
     nodes = build_nodes(matrix)
     edges = build_edges(matrix)
     summary = build_daily_summary(nodes)
+
+    print("CWD:", Path.cwd())
+
+    print("OUTPUT EXPECTED:", Path("data/graphs").resolve())
 
     save_outputs(nodes, edges, summary, date_str)
 
