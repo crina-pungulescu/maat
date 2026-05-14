@@ -27,7 +27,7 @@ jobs:
 
       - run: |
           mkdir -p data/topics
-          date > data/topics/time.txt
+    
 
       - run: |
           echo "RAW FILES:"
