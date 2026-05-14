@@ -40,87 +40,48 @@ Each article is evaluated not by keywords, but by semantic proximity to higher e
 
 ---
 
-## Design Principles
+## System Status
 
-- **Semantic filtering over keyword matching**
-- **Multilingual parity as default**
-- **Signal extraction over content accumulation**
-- **Traceable data provenance**
-- **Minimal human labeling**
+<ul>
+<li>Articles ingested today: {{ site.data.system.articles_today }}</li>
+<li>Total stored articles: {{ site.data.system.total_articles }}</li>
+<li>Feeds active: {{ site.data.system.feeds_active }}</li>
+<li>Last run: {{ site.data.system.last_run }}</li>
+</ul>
 
-<h2 style="margin-top: 2em;">Salient Themes</h2>
+---
 
-<p style="opacity:0.7; margin-top:-0.5em;">
-Most prominent thematic concentrations across the current corpus.
-</p>
+## Dominant Themes Today
 
-<div style="
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-    gap: 12px;
-    margin-top: 1em;
-">
+<table>
+<tr>
+<th>Topic</th>
+<th>Articles</th>
+<th>Mean Score</th>
+</tr>
 
-{% for theme in site.data.salient_themes %}
-  <div style="
-      border: 1px solid #ddd;
-      border-radius: 10px;
-      padding: 12px;
-      background: #fafafa;
-  ">
-    
-    <div style="font-weight: 600; font-size: 1.05em;">
-      {{ theme.theme }}
-    </div>
-
-    <div style="margin-top: 6px; font-size: 0.9em; opacity: 0.75;">
-      Mentions: {{ theme.count }}
-    </div>
-
-    <div style="margin-top: 6px; font-size: 0.85em; opacity: 0.6;">
-      Salience: {{ theme.score }}
-    </div>
-
-    <div style="
-        margin-top: 8px;
-        height: 6px;
-        background: #eee;
-        border-radius: 999px;
-        overflow: hidden;
-    ">
-      <div style="
-          width: {{ theme.score | times: 100 }}%;
-          height: 100%;
-          background: #4a6cf7;
-      "></div>
-    </div>
-
-  </div>
+{% for topic in site.data.today_topics %}
+<tr>
+<td>{{ topic.topic }}</td>
+<td>{{ topic.count }}</td>
+<td>{{ topic.score }}</td>
+</tr>
 {% endfor %}
 
-</div>
+</table>
 
-<h2>Emergent Topics</h2>
+---
 
-<p style="opacity:0.7; margin-top:-0.5em;">
-Automatically detected nascent thematic structures that are surfacing across the corpus, indicating early formation of new discourse patterns.
-</p>
+## Strongest Topic Connections
 
-<div style="display:flex; flex-wrap:wrap; gap:8px;">
-
-<span style="padding:6px 10px; border-radius:999px; border:1px solid #ccc;">
-
-</span>
-
-<span style="padding:6px 10px; border-radius:999px; border:1px solid #ccc;">
-
-</span>
-
-<span style="padding:6px 10px; border-radius:999px; border:1px solid #ccc;">
-
-</span>
-
-</div>
+<ul>
+{% for edge in site.data.topic_network %}
+<li>
+{{ edge.source }} ↔ {{ edge.target }}
+({{ edge.weight }})
+</li>
+{% endfor %}
+</ul>
 
 ---
 
@@ -137,62 +98,4 @@ MA'AT depends on RSS availability and successful article extraction. Paywalled c
 - institutional actor tracking  
 - temporal evolution of semantic clusters  
 - visualisation of global higher education “attention fields”
-
-<h2>System Status</h2>
-
-<ul>
-
-<li> Articles ingested today: {{ site.data.system.articles_today }}</li>
-
-<li> Total stored articles: {{ site.data.system.total_articles }}</li>
-
-<li> Feeds active: {{ site.data.system.feeds_active }}</li>
-
-<li> Last run: {{ site.data.system.last_run }}</li>
-
-</ul>
-
-<h2>Today’s Signals</h2>
-
-<ul>
-{% for article in site.data.articles_today %}
-<li>
-<a href="{{ article.link }}">{{ article.title }}</a>
-<br>
-<small>{{ article.journal }} · {{ article.language }}</small>
-</li>
-{% endfor %}
-</ul>
-
-
-
-## Page Analytics
-
-<div style="display:flex; gap:20px; justify-content:center; margin:20px 0;">
-
-<div style="padding:10px; border:1px solid #ddd; border-radius:8px;">
-
-<b>🌍 Visitors (7d)</b><br>
-
-{{ site.data.analytics.visitors_week }}
-
-</div>
-
-<div style="padding:10px; border:1px solid #ddd; border-radius:8px;">
-
-<b>📈 Today</b><br>
-
-{{ site.data.analytics.visitors_today }}
-
-</div>
-
-<div style="padding:10px; border:1px solid #ddd; border-radius:8px;">
-
-<b>🧭 Avg Time</b><br>
-
-{{ site.data.analytics.avg_time }}
-
-</div>
-
-</div>
 
