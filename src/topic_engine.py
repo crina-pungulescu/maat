@@ -10,6 +10,12 @@ from sklearn.cluster import DBSCAN
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 
+from bs4 import BeautifulSoup
+
+import re
+
+import html
+
 model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
 
 # ----------------------------
@@ -86,7 +92,8 @@ MAAT_TOPICS = [
     "quality",
     "resources",
     "redundancy",
-    "unemployment"
+    "unemployment",
+    "DEI"
 ]
 
 topic_embeddings = model.encode(MAAT_TOPICS, convert_to_tensor=True)
@@ -96,6 +103,45 @@ topic_embeddings = model.encode(MAAT_TOPICS, convert_to_tensor=True)
 # LOAD ARTICLES
 
 # ----------------------------
+
+def build_semantic_text(article):
+
+    body = (
+
+        article.get("translated_text")
+
+        if article.get("translated_text")
+
+        else article.get("full_text", "")
+
+    )
+
+    semantic_text = " ".join([
+
+        clean_text(article.get("title", "")),
+
+        clean_text(article.get("summary", "")),
+
+        clean_text(body)
+
+    ])
+
+    return semantic_text.strip()
+
+
+def clean_text(text):
+
+    if not text:
+
+        return ""
+
+    soup = BeautifulSoup(text, "lxml")
+
+    cleaned = soup.get_text(separator=" ")
+
+    cleaned = re.sub(r"\s+", " ", cleaned)
+
+    return cleaned.strip()
 
 def load_articles(path):
 
@@ -125,13 +171,14 @@ def embed_articles(articles):
 
     texts = [
 
-        (a.get("title","") + " " + a.get("summary","") + " " + a.get("full_text","") + " " + a.get("translated_text",""))
+        build_semantic_text(a)
 
         for a in articles
 
     ]
 
     return model.encode(texts)
+
 
 # ----------------------------
 
@@ -151,132 +198,120 @@ def assign_known_topics(article_emb):
 
 # ----------------------------
 
-def detect_emergent_topics(embeddings, articles, eps=0.25, min_samples=3):
+def detect_emergent_topics(embeddings, articles, eps=0.22, min_samples=3):
 
-    clustering = DBSCAN(eps=eps, min_samples=min_samples, metric="cosine")
+    clustering = DBSCAN(
+        eps=eps,
+        min_samples=min_samples,
+        metric="cosine"
+    )
 
     labels = clustering.fit_predict(embeddings)
 
     clusters = {}
 
-    for label, article in zip(labels, articles):
+    for idx, label in enumerate(labels):
 
         if label == -1:
+            continue
 
-            continue  # noise
+        clusters.setdefault(label, []).append(idx)
 
-        clusters.setdefault(label, []).append(article)
+    discovered_topics = []
 
-    emergent_topics = []
-
-    for cluster_id, items in clusters.items():
+    for cluster_id, article_indices in clusters.items():
 
         texts = [
 
-            (a.get("title","") + " " + a.get("summary_en",""))
+            build_semantic_text(articles[i])
 
-            for a in items
+            for i in article_indices
 
         ]
 
-        # keyword extraction (cheap + effective)
+        try:
 
-        vectorizer = TfidfVectorizer(max_features=5, stop_words="english")
+            vectorizer = TfidfVectorizer(
+                max_features=10,
+                stop_words="english",
+                ngram_range=(1,2)
+            )
 
-        X = vectorizer.fit_transform(texts)
+            X = vectorizer.fit_transform(texts)
 
-        keywords = vectorizer.get_feature_names_out()
+            keywords = vectorizer.get_feature_names_out()
 
-        label = " / ".join(keywords[:3])
+            label = " | ".join(keywords[:4])
 
-        centroid = np.mean([
+            discovered_topics.append({
+                "label": label,
+                "size": len(article_indices)
+            })
 
-            embeddings[articles.index(a)] for a in items
+        except:
+            continue
 
-        ], axis=0)
+    return discovered_topics
+    
+# ----------------------------
 
-        emergent_topics.append({
 
-            "label": label,
-
-            "size": len(items),
-
-            "articles": [
-
-                {
-
-                    "id": a.get("article_id"),
-
-                    "title": a.get("title"),
-
-                    "link": a.get("link")
-
-                }
-
-                for a in items
-
-            ]
-
-        })
-
-    return emergent_topics
+# MATRIX CONSTRUCTION
 
 # ----------------------------
 
-# MERGE WITH EXISTING ONTOLOGY
+def build_topic_matrix(articles, embeddings, all_topics):
 
-# ----------------------------
+    topic_embeddings = model.encode(
+        all_topics,
+        convert_to_tensor=True
+    )
 
-def merge_topics(articles, embeddings):
-
-    salient_topics = {}
-
-    unknown_articles = []
+    matrix = []
 
     for i, article in enumerate(articles):
 
-        scores = assign_known_topics(embeddings[i])
+        scores = util.cos_sim(
+            embeddings[i],
+            topic_embeddings
+        )[0].cpu().numpy()
 
-        best_idx = int(np.argmax(scores))
-        best_score = float(scores[best_idx])
+        topic_scores = []
 
-        if best_score > 0.5:
+        for idx, score in enumerate(scores):
 
-            topic = MAAT_TOPICS[best_idx]
+            topic_scores.append({
 
-            salient_topics.setdefault(topic, {
-                "count": 0,
-                "articles": []
+                "topic": all_topics[idx],
+
+                "score": round(float(score), 4)
+
             })
 
-            salient_topics[topic]["count"] += 1
+        topic_scores = sorted(
+            topic_scores,
+            key=lambda x: x["score"],
+            reverse=True
+        )
 
-            salient_topics[topic]["articles"].append({
-                "id": article.get("article_id"),
-                "title": article.get("title"),
-                "link": article.get("link"),
-                "score": round(best_score, 3)
-            })
+        matrix.append({
 
-        else:
-            unknown_articles.append(article)
+            "article_id": article.get("article_id"),
 
-    emergent = detect_emergent_topics(
-        model.encode([
-            a.get("title","") + " " + a.get("summary_en","")
-            for a in unknown_articles
-        ]),
-        unknown_articles
-    )
+            "title": article.get("title"),
 
-    return {
-        "salient_topics": salient_topics,
-        "emergent_topics": emergent,
-        "total_articles": len(articles),
-        "unclassified_articles": len(unknown_articles)
-    }
+            "link": article.get("link"),
+
+            "top_topics": topic_scores[:10],
+
+            "all_scores": topic_scores
+
+        })
+
+    return matrix
 
 # ----------------------------
+
 
 # RUN
 
@@ -284,22 +319,72 @@ def merge_topics(articles, embeddings):
 
 def run():
 
-    path = sorted(Path("data/raw").glob("articles_*.jsonl"))[-1]
+    path = sorted(
+        Path("data/raw").glob("articles_*.jsonl")
+    )[-1]
+
+    date_str = path.stem.replace("articles_", "")
 
     articles = load_articles(path)
 
     embeddings = embed_articles(articles)
 
-    result = merge_topics(articles, embeddings)
+    # ---------------------------------
+    # discover new semantic topics
+    # ---------------------------------
 
-    Path("data/topics").mkdir(parents=True, exist_ok=True)
+    discovered = detect_emergent_topics(
+        embeddings,
+        articles
+    )
 
-    with open("data/topics/topics_latest.json", "w", encoding="utf-8") as f:
+    discovered_labels = [
 
-        json.dump(result, f, indent=2, ensure_ascii=False)
+        d["label"]
 
-    print("Topic engine complete → emergent structure generated")
+        for d in discovered
 
-if __name__ == "__main__":
+    ]
 
-    run()
+    # ---------------------------------
+    # combine ontology + discovered
+    # ---------------------------------
+
+    all_topics = MAAT_TOPICS + discovered_labels
+
+    # ---------------------------------
+    # build semantic matrix
+    # ---------------------------------
+
+    matrix = build_topic_matrix(
+        articles,
+        embeddings,
+        all_topics
+    )
+
+    # ---------------------------------
+    # save outputs
+    # ---------------------------------
+
+    Path("data/topics").mkdir(
+        parents=True,
+        exist_ok=True
+    )
+
+    with open(
+        f"data/topics/topic_matrix_{date_str}.json",
+        "w",
+        encoding="utf-8"
+    ) as f:
+
+        json.dump(matrix, f, indent=2, ensure_ascii=False)
+
+    with open(
+        f"data/topics/discovered_topics_{date_str}.json",
+        "w",
+        encoding="utf-8"
+    ) as f:
+
+        json.dump(discovered, f, indent=2, ensure_ascii=False)
+
+    print("MAAT semantic matrix complete")
