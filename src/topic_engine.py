@@ -83,6 +83,7 @@ MAAT_TOPICS = {
         "labour exploitation",
         "systemic inequality",
         "redundancy",
+        "career",
         "unemployment"
     ],
 
