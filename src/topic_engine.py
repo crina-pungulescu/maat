@@ -512,7 +512,15 @@ def run():
     articles = load_articles(path)
     embeddings = embed_articles(articles)
 
-    discovered = extract_candidate_topics(articles)
+    discovered = extract_candidate_topics(
+
+    articles,
+
+    model,
+
+    FLAT_MAAT_TOPICS
+
+    )
 
     all_topics, overlap = resolve_topics(
         FLAT_MAAT_TOPICS,
