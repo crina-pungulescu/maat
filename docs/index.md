@@ -41,26 +41,29 @@ Each article is evaluated not by keywords, but by semantic proximity to higher e
 ---
 
 ## System Status
+{% assign system = site.data.system %}
 
 <ul>
-<li>Articles ingested today: {{ site.data.system.articles_today }}</li>
-<li>Total stored articles: {{ site.data.system.total_articles }}</li>
-<li>Feeds active: {{ site.data.system.feeds_active }}</li>
-<li>Last run: {{ site.data.system.last_run }}</li>
+<li>Articles ingested today: {{ system.articles_today | default: "—" }}</li>
+<li>Total stored articles: {{ system.total_articles | default: "—" }}</li>
+<li>Feeds active: {{ system.feeds_active | default: "—" }}</li>
+<li>Last run: {{ system.last_run | default: "—" }}</li>
 </ul>
 
 ---
 
 ## Dominant Themes Today
 
+{% assign topics = site.data.today_topics %}
+
 <table>
 <tr>
 <th>Topic</th>
 <th>Articles</th>
-<th>Mean Score</th>
+<th>Mean Semantic Similarity Score</th>
 </tr>
 
-{% for topic in site.data.today_topics %}
+{% for topic in topics %}
 <tr>
 <td>{{ topic.topic }}</td>
 <td>{{ topic.count }}</td>
@@ -74,11 +77,12 @@ Each article is evaluated not by keywords, but by semantic proximity to higher e
 
 ## Strongest Topic Connections
 
+{% assign network = site.data.topic_network %}
+
 <ul>
-{% for edge in site.data.topic_network %}
+{% for edge in network %}
 <li>
-{{ edge.source }} ↔ {{ edge.target }}
-({{ edge.weight }})
+{{ edge.source }} ↔ {{ edge.target }} ({{ edge.weight }})
 </li>
 {% endfor %}
 </ul>
