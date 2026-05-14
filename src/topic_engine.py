@@ -18,91 +18,246 @@ import html
 
 model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
 
-# ----------------------------
+MAAT_TOPICS = {
+    
+   "institutional_structure": [
+        "governance",
+        "regulation",
+        "accreditation",
+        "higher education governance",
+        "university administration"
+    ],
 
-# CORE SEED TOPICS (your ontology anchor)
+    "policy_dynamics": [
+        "policy",
+        "reform",
+        "education policy",
+        "higher education reform",
+        "policy change",
+        "legislative reform"
+    ],
 
-MAAT_TOPICS = [
-    "governance",
-    "reform",
-    "policy",
-    "funding",
-    "student debt",
-    "misconduct",
-    "integrity",
-    "ethics",
-    "fraud",
-    "abuse",
-    "grade inflation",
-    "academic standards",
-    "plagiarism",
-    "unpaid labour",
-    "employment",
-    "student experience",
-    "faculty contracts",
-    "academic careers",
-    "adjuncts",
-    "precarity",
-    "ranking",
-    "accreditation",
-    "international universities",
-    "higher education crisis",
-    "title IX",
-    "discrimination",
-    "bullyism",
-    "harrassement",
-    "racisism",
-    "exploitation",
-    "power asymmetry",
-    "nepotism",
-    "retaliation",
-    "litigation",
-    "silencing dissent",
-    "administrative coercion",
-    "institutional opacity",
-    "bureaucracy",
-    "structural pressure enabling abuse",
-    "scarcity systems producing exploitation",
-    "hierarchy distorting fairness",
-    "lack of accountability for powerful actors",
-    "risks attached to reporting abuse",
-    "authoritarianism",
-    "palestine",
-    "gaza",
-    "israel",
-    "politics",
-    "fascism",
-    "democracy",
-    "future",
-    "pessimism",
-    "optimism",
-    "united states",
-    "europe",
-    "asia",
-    "war",
-    "africa"
-    "australia",
-    "latin america",
-    "russia",
-    "china",
-    "ukraine",
-    "iran",
-    "lebanon",
-    "protest",
-    "quality",
-    "resources",
-    "redundancy",
-    "unemployment",
-    "DEI"
-]
+    "governance_pathology": [
+        "bureaucracy",
+        "administrative coercion",
+        "institutional opacity",
+        "regulatory capture",
+        "governance failure",
+        "procedural abuse",
+        "overregulation"
+    ],
+
+    "funding_flows": [
+        "funding",
+        "research funding",
+        "public funding",
+        "university budgets",
+        "grants",
+        "endowments",
+    ],
+
+    "financial_constraints": [
+        "austerity",
+        "budget cuts",
+        "resource constraints",
+        "financial pressure in academia",
+        "underfunding",
+        "cost cutting"
+    ],
+
+   "academic_labour": [
+        "employment",
+        "faculty contracts",
+        "adjuncts",
+        "precarity",
+        "academic careers",
+        "unpaid labour",
+        "labour exploitation in academia",
+        "academic workload",
+        "job insecurity",
+        "graduate employment",
+        "exploitation",
+        "academic exploitation",
+        "labour exploitation",
+        "systemic inequality"
+    ]
+
+    "academic_standards": [
+        "integrity",
+        "ethics",
+        "transparency",
+        "accountability",
+        "DEI",
+        "responsibility"
+    ],
+
+    "norm_violations": [
+        "fraud",
+        "plagiarism",
+        "embezzelment",
+        "academic fraud",
+        "research misconduct"     
+    ],
+        
+    "degradation_signals": [
+        "grade inflation",
+        "declining standards",
+        "credential inflation"
+    ],
+
+     "coercion_and_abuse": [
+        "academic abuse",
+        "power asymmetry",
+        "retaliation",
+        "workplace abuse",
+        "institutional abuse"
+
+    ],
+
+    "control": [
+
+        "silencing dissent",
+        "suppression of faculty dissent",
+        "risks attached to reporting abuse",
+        "chilling effects",
+        "self-censorship"
+
+    ],
+
+     "accountability_gaps": [
+
+        "lack of accountability for powerful actors",
+        "nepotism",
+        "institutional protection",
+        "conflict of interest",
+        "power consolidation"
+
+    ]
+
+    "inequality_structures": [
+        "exploitation",
+        "scarcity systems producing exploitation",
+        "hierarchy distorting fairness",
+        "structural pressure enabling abuse",
+        "institutional hierarchy",
+        "unequal power distribution",
+        "stratified academic systems",
+        "competitive funding systems",
+        "zero-sum resource allocation"
+        
+    ],
+
+    "equity_social_issues": [
+        "discrimination",
+        "title IX",
+        "racism",
+        "bullyism",
+        "harassment",
+        "DEI"
+    ],
+
+    "institutional_systems": [
+        "ranking",
+        "international universities",
+        "higher education crisis"
+    ],
+
+    "geopolitics": [
+        "politics",
+        "authoritarianism",
+        "democracy",
+        "fascism",
+        "war",
+        "protest"
+    ],
+
+    "regions": [
+        "united states",
+        "europe",
+        "asia",
+        "africa",
+        "australia",
+        "latin america",
+        "russia",
+        "china",
+        "ukraine",
+        "iran",
+        "lebanon",
+        "israel",
+        "palestine",
+        "gaza"
+    ],
+
+    "temporal_psychological": [
+        "future",
+        "pessimism",
+        "optimism"
+    ]
+}
+
+
 
 topic_embeddings = model.encode(MAAT_TOPICS, convert_to_tensor=True)
 
-# ----------------------------
 
-# LOAD ARTICLES
 
-# ----------------------------
+def build_matrix(articles, embeddings, topics, model):
+    topic_embeddings = model.encode(topics, convert_to_tensor=True)
+
+    matrix = []
+
+    for i, article in enumerate(articles):
+
+        scores = util.cos_sim(
+            embeddings[i],
+            topic_embeddings
+        )[0].cpu().numpy()
+
+        matrix.append({
+            "article_id": article.get("article_id"),
+            "title": article.get("title"),
+            "link": article.get("link"),
+            "scores": [
+                {"topic": topics[j], "score": float(scores[j])}
+                for j in range(len(topics))
+            ]
+        })
+
+    return matrix
+
+
+def resolve_topics(maat_topics, discovered_topics, model, threshold=0.82):
+    """
+    Returns:
+    - all_topics (deduplicated)
+    - overlap_mapping
+    """
+
+    overlap_mapping = []
+    final_topics = list(maat_topics)
+
+    maat_embeddings = model.encode(maat_topics, convert_to_tensor=True)
+
+    for dt in discovered_topics:
+        dt_emb = model.encode(dt, convert_to_tensor=True)
+
+        sims = util.cos_sim(dt_emb, maat_embeddings)[0].cpu().numpy()
+
+        best_idx = int(np.argmax(sims))
+        best_score = float(sims[best_idx])
+
+        if best_score >= threshold:
+            # OVERLAP → keep MAAT name
+            overlap_mapping.append({
+                "discovered": dt,
+                "matched_to": maat_topics[best_idx],
+                "score": round(best_score, 4)
+            })
+
+        else:
+            final_topics.append(dt)
+
+    return final_topics, overlap_mapping
 
 def build_semantic_text(article):
 
@@ -161,11 +316,6 @@ def load_articles(path):
 
     return data
 
-# ----------------------------
-
-# EMBEDDINGS FOR ARTICLES
-
-# ----------------------------
 
 def embed_articles(articles):
 
@@ -180,80 +330,6 @@ def embed_articles(articles):
     return model.encode(texts)
 
 
-# ----------------------------
-
-# EXISTING TOPIC MATCH
-
-# ----------------------------
-
-def assign_known_topics(article_emb):
-
-    scores = util.cos_sim(article_emb, topic_embeddings)[0].cpu().numpy()
-
-    return scores
-
-# ----------------------------
-
-# EMERGENT TOPIC DETECTION
-
-# ----------------------------
-
-def detect_emergent_topics(embeddings, articles, eps=0.22, min_samples=3):
-
-    clustering = DBSCAN(
-        eps=eps,
-        min_samples=min_samples,
-        metric="cosine"
-    )
-
-    labels = clustering.fit_predict(embeddings)
-
-    clusters = {}
-
-    for idx, label in enumerate(labels):
-
-        if label == -1:
-            continue
-
-        clusters.setdefault(label, []).append(idx)
-
-    discovered_topics = []
-
-    for cluster_id, article_indices in clusters.items():
-
-        texts = [
-
-            build_semantic_text(articles[i])
-
-            for i in article_indices
-
-        ]
-
-        try:
-
-            vectorizer = TfidfVectorizer(
-                max_features=10,
-                stop_words="english",
-                ngram_range=(1,2)
-            )
-
-            X = vectorizer.fit_transform(texts)
-
-            keywords = vectorizer.get_feature_names_out()
-
-            label = " | ".join(keywords[:4])
-
-            discovered_topics.append({
-                "label": label,
-                "size": len(article_indices)
-            })
-
-        except:
-            continue
-
-    return discovered_topics
-    
-# ----------------------------
 
 
 # MATRIX CONSTRUCTION
@@ -315,76 +391,30 @@ def build_topic_matrix(articles, embeddings, all_topics):
 
 # RUN
 
-# ----------------------------
-
 def run():
 
-    path = sorted(
-        Path("data/raw").glob("articles_*.jsonl")
-    )[-1]
-
+    path = sorted(Path("data/raw").glob("articles_*.jsonl"))[-1]
     date_str = path.stem.replace("articles_", "")
 
     articles = load_articles(path)
-
     embeddings = embed_articles(articles)
 
-    # ---------------------------------
-    # discover new semantic topics
-    # ---------------------------------
+    discovered = extract_candidate_topics(articles)
 
-    discovered = detect_emergent_topics(
-        embeddings,
-        articles
+    all_topics, overlap = resolve_topics(
+        MAAT_TOPICS,
+        discovered,
+        model
     )
 
-    discovered_labels = [
-
-        d["label"]
-
-        for d in discovered
-
-    ]
-
-    # ---------------------------------
-    # combine ontology + discovered
-    # ---------------------------------
-
-    all_topics = MAAT_TOPICS + discovered_labels
-
-    # ---------------------------------
-    # build semantic matrix
-    # ---------------------------------
-
-    matrix = build_topic_matrix(
+    matrix = build_matrix(
         articles,
         embeddings,
-        all_topics
+        all_topics,
+        model
     )
 
-    # ---------------------------------
-    # save outputs
-    # ---------------------------------
+    save_outputs(matrix, overlap, date_str)
 
-    Path("data/topics").mkdir(
-        parents=True,
-        exist_ok=True
-    )
+    print("MAAT TOPIC ENGINE COMPLETE")
 
-    with open(
-        f"data/topics/topic_matrix_{date_str}.json",
-        "w",
-        encoding="utf-8"
-    ) as f:
-
-        json.dump(matrix, f, indent=2, ensure_ascii=False)
-
-    with open(
-        f"data/topics/discovered_topics_{date_str}.json",
-        "w",
-        encoding="utf-8"
-    ) as f:
-
-        json.dump(discovered, f, indent=2, ensure_ascii=False)
-
-    print("MAAT semantic matrix complete")
