@@ -1,0 +1,45 @@
+name: MAAT Topic Graph Engine
+
+on:
+  workflow_run:
+    workflows: ["MAAT Topic Engine"]
+    types:
+      - completed
+
+  workflow_dispatch:
+
+jobs:
+  graph:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+
+      - run: pip install -r requirements.txt
+
+      - run: |
+          echo "TOPIC FILES:"
+          ls -R data/topics || echo "NO TOPICS FOUND"
+
+      - run: python -u src/topic_graph_engine.py
+
+      - run: |
+          echo "GRAPH OUTPUT:"
+          ls -R _data || echo "NO OUTPUT"
+
+      - run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add _data/
+          git commit -m "MAAT topic graph update" || echo "no changes"
+          git pull --rebase origin main || echo "nothing to rebase"
+          git push
