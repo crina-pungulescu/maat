@@ -23,82 +23,83 @@ model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
 MAAT_TOPICS = {
 
     "teaching_learning": [
-    "teaching",
-    "learning",
-    "pedagogy",
-    "instruction",
-    "curriculum",
-    "classroom",
-    "syllabus",
-    "course design",
-    "student engagement",
-    "assessment",
-    "educational practice",
-    "active learning",
-    "learning outcomes",
-    "online learning",
-    "hybrid learning",
-    "distance education",
-    "higher education teaching"
-],
+        "teaching",
+        "learning",
+        "pedagogy",
+        "instruction",
+        "curriculum",
+        "classroom",
+        "syllabus",
+        "course design",
+        "student engagement",
+        "assessment",
+        "educational practice",
+        "active learning",
+        "learning outcomes",
+        "online learning",
+        "hybrid learning",
+        "distance education",
+        "higher education teaching"
+    ],
 
-"student_experience": [
-    "student wellbeing",
-    "mental health",
-    "student life",
-    "student support",
-    "student satisfaction",
-    "student engagement",
-    "student participation",
-    "student retention",
-    "campus climate",
-    "student belonging",
-    "student protest",
-    "student voice",
-    "student-faculty relations",
-    "teacher-student relationship"
-],
+    "student_experience": [
+        "student wellbeing",
+        "mental health",
+        "student life",
+        "student support",
+        "student satisfaction",
+        "student engagement",
+        "student participation",
+        "student retention",
+        "campus climate",
+        "student belonging",
+        "student protest",
+        "student voice",
+        "student-faculty relations",
+        "teacher-student relationship"
+    ],
 
-"educational_technology": [
-    "artificial intelligence",
-    "AI in education",
-    "generative AI",
-    "ChatGPT",
-    "educational technology",
-    "digital learning",
-    "learning analytics",
-    "edtech",
-    "automation in education",
-    "AI-assisted learning",
-    "AI-assisted teaching",
-    "surveillance technology",
-    "proctoring software",
-    "algorithmic assessment"
-],
+    "educational_technology": [
+        "artificial intelligence",
+        "AI in education",
+        "generative AI",
+        "ChatGPT",
+        "educational technology",
+        "digital learning",
+        "learning analytics",
+        "edtech",
+        "automation in education",
+        "automated grading",
+        "AI-assisted learning",
+        "AI-assisted teaching",
+        "surveillance technology",
+        "proctoring software",
+        "algorithmic assessment"
+    ],
 
-"research_ecosystems": [
-    "scientific collaboration",
-    "research productivity",
-    "publication pressure",
-    "publish or perish",
-    "citation metrics",
-    "peer review",
-    "research evaluation",
-    "academic publishing",
-    "open access",
-    "scientific innovation"
-],
+    "research_ecosystems": [
+        "scientific collaboration",
+        "research productivity",
+        "publication pressure",
+        "publish or perish",
+        "citation metrics",
+        "peer review",
+        "research evaluation",
+        "academic publishing",
+        "open access",
+        "scientific innovation"
+    ],
 
-"student_economics": [
-    "student debt",
-    "tuition",
-    "financial aid",
-    "scholarships",
-    "cost of education",
-    "student poverty",
-    "access to higher education",
-    "educational inequality"
-]
+    "student_economics": [
+        "student debt",
+        "tuition",
+        "financial aid",
+        "scholarships",
+        "cost of education",
+        "student poverty",
+        "access to higher education",
+        "educational inequality"
+    ],
     
    "institutional_structure": [
         "governance",
@@ -190,16 +191,13 @@ MAAT_TOPICS = {
         "credential inflation"
     ],
 
-     "coercion_and_abuse": [
+     "coercion_and_control": [
         "academic abuse",
         "power asymmetry",
         "retaliation",
         "workplace abuse",
         "institutional abuse",
-        "retaliatory litigation"
-    ],
-
-    "control": [
+        "retaliatory litigation",
         "silencing dissent",
         "suppression of faculty dissent",
         "risks attached to reporting abuse",
@@ -269,10 +267,92 @@ MAAT_TOPICS = {
         "gaza"
     ],
 
+    "internationalization": [
+        "international students",
+        "student mobility",
+        "academic mobility",
+        "study abroad",
+        "visa restrictions",
+        "global education",
+        "cross-border education",
+        "international partnerships",
+        "transnational education",
+        "brain drain"
+    ],
+
+    "admissions_access": [
+        "college admissions",
+        "university admissions",
+        "admissions policy",
+        "selective admissions",
+        "standardized testing",
+        "SAT",
+        "affirmative action",
+        "access to university",
+        "educational access",
+        "widening participation"
+    ],
+
+    "campus_infrastructure": [
+        "campus housing",
+        "student accommodation",
+        "university campus",
+        "campus safety",
+        "laboratories",
+        "research facilities",
+        "library services",
+        "digital infrastructure",
+        "campus expansion"
+    ],
+
+    "academic_freedom": [
+        "academic freedom",
+        "freedom of expression",
+        "campus speech",
+        "faculty speech",
+        "censorship",
+        "political interference",
+        "scholarly autonomy",
+        "institutional independence"
+    ],
+
+    "sustainability_climate": [
+        "climate change",
+        "sustainability",
+        "green campus",
+        "environmental policy",
+        "climate education",
+        "carbon neutrality",
+        "sustainable university"
+    ],
+
+    "health_professions_education": [
+        "medical education",
+        "nursing education",
+        "public health education",
+        "clinical training",
+        "medical students",
+        "teaching hospitals"
+    ],
+
+    "science_society": [
+        "public trust in science",
+        "science communication",
+        "misinformation",
+        "evidence-based policy",
+        "politicization of science",
+        "scientific expertise"    
+    ],
+    
     "temporal_psychological": [
         "future",
         "pessimism",
-        "optimism"
+        "optimism",
+        "academic uncertainty",
+        "institutional anxiety",
+        "future of higher education",
+        "educational pessimism",
+        "academic morale"
     ]
 }
 
