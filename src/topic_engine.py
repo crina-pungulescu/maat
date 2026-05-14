@@ -16,6 +16,8 @@ import re
 
 import html
 
+from collections import Counter
+
 model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
 
 MAAT_TOPICS = {
@@ -224,6 +226,30 @@ BOILERPLATE_PATTERNS = [
     r"recommended for you",
 ]
 
+DOMAIN_STOPWORDS = set([
+    "user", "used", "using", "use",
+    "accept", "cookie", "cookies",
+    "click", "clicks",
+    "article", "articles",
+    "website", "page",
+    "content", "newsletter",
+    "subscribe", "sign",
+    "login", "log",
+    "register",
+    "account",
+    "privacy",
+    "terms",
+    "share",
+    "follow",
+    "advertisement",
+    "sponsored",
+    "loading",
+    "loading...",
+    "menu",
+    "search",
+    "home"
+])
+
 def clean_text(text):
 
     if not text:
@@ -245,6 +271,32 @@ def clean_text(text):
     cleaned = re.sub(r"\s+", " ", cleaned)
 
     return cleaned.strip()
+
+def filter_topics(phrases):
+    cleaned = []
+
+    for p in phrases:
+        p = p.strip().lower()
+
+        # remove 1-word garbage
+        if len(p.split()) == 1 and p in DOMAIN_STOPWORDS:
+            continue
+
+        # remove pure boilerplate words
+        if p in DOMAIN_STOPWORDS:
+            continue
+
+        # remove very short tokens
+        if len(p) < 4:
+            continue
+
+        # remove numeric / junk
+        if re.fullmatch(r"[a-z]{1,2}", p):
+            continue
+
+        cleaned.append(p)
+
+    return cleaned
 
 def build_matrix(articles, embeddings, topics, model):
     topic_embeddings = model.encode(topics, convert_to_tensor=True)
@@ -388,12 +440,14 @@ def extract_candidate_topics(
             vectorizer = TfidfVectorizer(
                 stop_words="english",
                 max_features=max_features,
-                ngram_range=(1,3)
+                ngram_range=(2,3)
             )
 
             X = vectorizer.fit_transform([text])
 
             phrases = vectorizer.get_feature_names_out()
+
+            phrases = filter_topics(phrases)
 
             for p in phrases:
                 p = p.strip().lower()
