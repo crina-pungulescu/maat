@@ -15,7 +15,7 @@ MA'AT:<br>
 
 <span style="font-weight: 400; font-size: 0.75em;">
 
-<i>A computational observatory of global higher education discourse<i/>
+<i>A computational observatory of global higher education discourse</i>
 
 </span>
 
