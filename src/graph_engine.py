@@ -13,6 +13,125 @@ from datetime import datetime
 THRESHOLD = 0.4
 MIN_EDGE_COUNT = 3
 
+def build_topic_hub_svg(npmi_edges, topic_cluster_map, nodes, date_str):
+    import math
+
+    output_dir = Path("docs/assets")
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    # ----------------------------
+    # 1. TAKE TOP EDGES (STRONGEST CONNECTIONS)
+    # ----------------------------
+
+    top_edges = sorted(
+        npmi_edges,
+        key=lambda x: x["npmi"],
+        reverse=True
+    )[:10]
+
+    # ----------------------------
+    # 2. COLLECT NODES IN GRAPH
+    # ----------------------------
+
+    node_ids = set()
+    for e in top_edges:
+        node_ids.add(e["source"])
+        node_ids.add(e["target"])
+
+    node_lookup = {n["id"]: n for n in nodes if n["id"] in node_ids}
+
+    # ----------------------------
+    # 3. SIMPLE FORCE-LIKE LAYOUT (CIRCULAR STABLE)
+    # ----------------------------
+
+    node_list = list(node_ids)
+    n = len(node_list)
+
+    radius = 220
+    center_x, center_y = 300, 300
+
+    positions = {}
+
+    for i, node in enumerate(node_list):
+        angle = (2 * math.pi * i) / max(n, 1)
+        x = center_x + radius * math.cos(angle)
+        y = center_y + radius * math.sin(angle)
+        positions[node] = (x, y)
+
+    # ----------------------------
+    # 4. SVG BUILD
+    # ----------------------------
+
+    svg = []
+
+    svg.append('<?xml version="1.0" encoding="UTF-8"?>')
+    svg.append('<svg width="600" height="600" xmlns="http://www.w3.org/2000/svg">')
+
+    # background
+    svg.append('<rect width="100%" height="100%" fill="white"/>')
+
+    # ----------------------------
+    # EDGES
+    # ----------------------------
+
+    for e in top_edges:
+
+        a, b = e["source"], e["target"]
+
+        x1, y1 = positions[a]
+        x2, y2 = positions[b]
+
+        weight = e["npmi"]
+
+        stroke_width = 1 + (weight * 3)
+
+        svg.append(
+            f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" '
+            f'stroke="black" stroke-opacity="0.4" stroke-width="{stroke_width}"/>'
+        )
+
+    # ----------------------------
+    # NODES
+    # ----------------------------
+
+    for node in node_list:
+
+        x, y = positions[node]
+        cluster = topic_cluster_map.get(node, "unknown")
+        label = node_lookup.get(node, {}).get("label", node)
+
+        svg.append(
+            f'<circle cx="{x}" cy="{y}" r="6" fill="black"/>'
+        )
+
+        svg.append(
+            f'<text x="{x+8}" y="{y+4}" font-size="10" '
+            f'font-family="Arial">{label}</text>'
+        )
+
+        svg.append(
+            f'<text x="{x+8}" y="{y+16}" font-size="8" fill="gray">'
+            f'{cluster}</text>'
+        )
+
+    svg.append('</svg>')
+
+    svg_content = "\n".join(svg)
+
+    # ----------------------------
+    # 5. WRITE FILES (DOUBLE EXPORT)
+    # ----------------------------
+
+    # stable file
+    with open(output_dir / "topic_hub.svg", "w", encoding="utf-8") as f:
+        f.write(svg_content)
+
+    # dated snapshot
+    with open(output_dir / f"topic_hub_{date_str}.svg", "w", encoding="utf-8") as f:
+        f.write(svg_content)
+
+    print("Topic hub SVG exported.")
+
 def load_all_matrices():
     paths = sorted(Path("data/topics").glob("topic_matrix_*.json"))
 
@@ -455,6 +574,8 @@ def run(mode):
         cluster_edges,
         date_str
     )
+
+    build_topic_hub_svg(npmi_edges, topic_cluster_map, nodes, date_str)
 
     print(f"{mode.upper()} GRAPH COMPLETE")
 
