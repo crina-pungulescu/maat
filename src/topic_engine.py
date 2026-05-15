@@ -29,9 +29,8 @@ MAAT_TOPICS = {
         "instruction",
         "curriculum",
         "course design",
-        "student engagement",
-        "student assessment",
-        "educational practice",
+        "assessment",
+        "practice",
         "active learning",
         "learning outcomes",
         "online learning",
@@ -45,8 +44,8 @@ MAAT_TOPICS = {
         "MBA",
         "PhD",
         "academic degree",
-        "undegraduate degrees",
-        "graduate degrees",
+        "undegraduate degree",
+        "graduate degree",
         "pedagogical innovation",
         "teaching excellence"
     ],
@@ -76,8 +75,6 @@ MAAT_TOPICS = {
         "edtech",
         "automation in education",
         "automated grading",
-        "AI-assisted learning",
-        "AI-assisted teaching",
         "proctoring software",
         "algorithmic assessment"
     ],
@@ -109,14 +106,16 @@ MAAT_TOPICS = {
         "breakdown of academic systems",
         "educational instability",
         "structural breakdown",
-        "unsustainable education model",
+        "unsustainable model",
         "crisis of legitimacy",
-        "institutional strain",
         "systemic failure",
     ],
 
     "education_cost": [
-        "student debt",
+        "tuition debt",
+        "learner wellbeing",
+        "campus unrest",
+        "retention risk",
         "tuition",
         "financial aid",
         "scholarships",
@@ -133,7 +132,7 @@ MAAT_TOPICS = {
        "board of regents",
        "faculty senate",
        "academic council",
-       "institutional structure",
+       "organisational structure",
        "education policy",
        "education reform",
        "internal regulations",
@@ -159,14 +158,13 @@ MAAT_TOPICS = {
    "academic_labour": [
         "faculty contracts",
         "adjuncts",
-        "precarity",
+        "structural precarity"
+        "labour exploitation"
         "academic careers",
         "unpaid labour",
         "academic workload",
         "job insecurity",
         "graduate employment",
-        "exploitation",
-        "systemic inequality",
         "redundancy",
         "unemployment"
     ],
@@ -174,9 +172,11 @@ MAAT_TOPICS = {
     "academic_standards": [
         "integrity",
         "ethics",
+        "academic integrity",
+        "educational quality standards",
+        "research ethics"
         "transparency",
         "accountability",
-        "DEI",
         "quality of education",
         "responsibility"
     ],
@@ -186,7 +186,6 @@ MAAT_TOPICS = {
         "research misconduct",
         "misrepresentation",
         "data fabrication",
-        "conflict of interest",
         "ethical breach",
         "academic dishonesty"
     ],
@@ -195,7 +194,6 @@ MAAT_TOPICS = {
         "fraud",
         "embezzlement",
         "corruption",
-        "financial misconduct",
         "bribery",
         "money laundering",
         "tax evasion",
@@ -224,9 +222,8 @@ MAAT_TOPICS = {
         "lowered assessment rigour",
         "reduced academic expectations",
         "quality erosion",
-        "institutional decline",
         "loss of rigour",
-        "curriculum simplification",
+        "oversimplification",
         "dumbing down of education",
         "massification of higher education",
         "over-enrollment pressure",
@@ -243,7 +240,7 @@ MAAT_TOPICS = {
      "academic abuse": [
          "administrative coercion",
          "institutional opacity",
-         "procedural abuse"
+         "procedural abuse",
          "power asymmetry",
          "retaliation",
          "workplace abuse",
@@ -281,6 +278,8 @@ MAAT_TOPICS = {
          "nepotism",
          "institutional cover-up",
          "conflict of interest",
+         "governance opacity"
+         "oversight failure"
          "power consolidation",
          "elite impunity",
          "lack of oversight",
@@ -417,7 +416,6 @@ MAAT_TOPICS = {
         "international partnerships",
         "transnational education",
         "international higher education",
-        "cross-border education",
         "brain drain"
     ],
 
@@ -430,7 +428,6 @@ MAAT_TOPICS = {
         "GRE",
         "GMAT",
         "affirmative action",
-        "access to university",
         "educational access",
         "widening participation"
     ],
@@ -486,7 +483,6 @@ MAAT_TOPICS = {
     ],
     
     "future_outlook": [
-        "future",
         "pessimism",
         "optimism",
         "academic uncertainty",
