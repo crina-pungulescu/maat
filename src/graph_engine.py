@@ -50,7 +50,7 @@ def build_topic_hub_svg(npmi_edges, topic_cluster_map, nodes, date_str):
 
     width = 600
     height = 600
-    margin = 50
+    margin = 100
 
     radius = 220
     center_x, center_y = width / 2, height / 2
