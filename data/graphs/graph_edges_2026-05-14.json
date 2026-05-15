@@ -26595,8 +26595,28 @@
     "weight": 1
   },
   {
+    "source": "academic abuse",
+    "target": "remote teaching",
+    "weight": 1
+  },
+  {
     "source": "academic careers",
     "target": "public health education",
+    "weight": 1
+  },
+  {
+    "source": "academic careers",
+    "target": "remote teaching",
+    "weight": 1
+  },
+  {
+    "source": "academic exploitation",
+    "target": "remote teaching",
+    "weight": 1
+  },
+  {
+    "source": "academic freedom",
+    "target": "remote teaching",
     "weight": 1
   },
   {
@@ -26605,8 +26625,18 @@
     "weight": 1
   },
   {
+    "source": "academic morale",
+    "target": "remote teaching",
+    "weight": 1
+  },
+  {
     "source": "academic workload",
     "target": "public health education",
+    "weight": 1
+  },
+  {
+    "source": "academic workload",
+    "target": "remote teaching",
     "weight": 1
   },
   {
@@ -26622,6 +26652,11 @@
   {
     "source": "automation in education",
     "target": "public health education",
+    "weight": 1
+  },
+  {
+    "source": "automation in education",
+    "target": "remote teaching",
     "weight": 1
   },
   {
@@ -26660,8 +26695,53 @@
     "weight": 1
   },
   {
+    "source": "campus speech",
+    "target": "remote teaching",
+    "weight": 1
+  },
+  {
+    "source": "classroom",
+    "target": "remote teaching",
+    "weight": 1
+  },
+  {
+    "source": "curriculum",
+    "target": "remote teaching",
+    "weight": 1
+  },
+  {
+    "source": "education policy",
+    "target": "remote teaching",
+    "weight": 1
+  },
+  {
+    "source": "educational access",
+    "target": "remote teaching",
+    "weight": 1
+  },
+  {
+    "source": "educational inequality",
+    "target": "remote teaching",
+    "weight": 1
+  },
+  {
     "source": "educational inequality",
     "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "educational pessimism",
+    "target": "remote teaching",
+    "weight": 1
+  },
+  {
+    "source": "educational practice",
+    "target": "remote teaching",
+    "weight": 1
+  },
+  {
+    "source": "educational technology",
+    "target": "remote teaching",
     "weight": 1
   },
   {
@@ -26670,8 +26750,48 @@
     "weight": 1
   },
   {
+    "source": "faculty speech",
+    "target": "remote teaching",
+    "weight": 1
+  },
+  {
+    "source": "future of higher education",
+    "target": "remote teaching",
+    "weight": 1
+  },
+  {
+    "source": "global education",
+    "target": "remote teaching",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "remote teaching",
+    "weight": 1
+  },
+  {
+    "source": "higher education governance",
+    "target": "remote teaching",
+    "weight": 1
+  },
+  {
+    "source": "higher education reform",
+    "target": "remote teaching",
+    "weight": 1
+  },
+  {
     "source": "higher education teaching",
     "target": "public health education",
+    "weight": 1
+  },
+  {
+    "source": "higher education teaching",
+    "target": "remote teaching",
+    "weight": 1
+  },
+  {
+    "source": "institutional opacity",
+    "target": "remote teaching",
     "weight": 1
   },
   {
@@ -26682,6 +26802,11 @@
   {
     "source": "instruction",
     "target": "public health education",
+    "weight": 1
+  },
+  {
+    "source": "instruction",
+    "target": "remote teaching",
     "weight": 1
   },
   {
@@ -26715,6 +26840,11 @@
     "weight": 1
   },
   {
+    "source": "international students",
+    "target": "remote teaching",
+    "weight": 1
+  },
+  {
     "source": "learning",
     "target": "politicization of science",
     "weight": 1
@@ -26722,6 +26852,11 @@
   {
     "source": "learning",
     "target": "public health education",
+    "weight": 1
+  },
+  {
+    "source": "learning",
+    "target": "remote teaching",
     "weight": 1
   },
   {
@@ -26756,12 +26891,32 @@
   },
   {
     "source": "learning outcomes",
+    "target": "remote teaching",
+    "weight": 1
+  },
+  {
+    "source": "learning outcomes",
     "target": "transnational education",
+    "weight": 1
+  },
+  {
+    "source": "pedagogy",
+    "target": "remote teaching",
+    "weight": 1
+  },
+  {
+    "source": "politicization of science",
+    "target": "remote teaching",
     "weight": 1
   },
   {
     "source": "politicization of science",
     "target": "teacher-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "public health education",
+    "target": "remote teaching",
     "weight": 1
   },
   {
@@ -26802,6 +26957,76 @@
   {
     "source": "public health education",
     "target": "teaching",
+    "weight": 1
+  },
+  {
+    "source": "remote teaching",
+    "target": "scholarly autonomy",
+    "weight": 1
+  },
+  {
+    "source": "remote teaching",
+    "target": "silencing dissent",
+    "weight": 1
+  },
+  {
+    "source": "remote teaching",
+    "target": "stratified academic systems",
+    "weight": 1
+  },
+  {
+    "source": "remote teaching",
+    "target": "student belonging",
+    "weight": 1
+  },
+  {
+    "source": "remote teaching",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "remote teaching",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "remote teaching",
+    "target": "student participation",
+    "weight": 1
+  },
+  {
+    "source": "remote teaching",
+    "target": "student poverty",
+    "weight": 1
+  },
+  {
+    "source": "remote teaching",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "remote teaching",
+    "target": "student-faculty relations",
+    "weight": 1
+  },
+  {
+    "source": "remote teaching",
+    "target": "suppression of faculty dissent",
+    "weight": 1
+  },
+  {
+    "source": "remote teaching",
+    "target": "teacher-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "remote teaching",
+    "target": "teaching",
+    "weight": 1
+  },
+  {
+    "source": "remote teaching",
+    "target": "transnational education",
     "weight": 1
   },
   {
