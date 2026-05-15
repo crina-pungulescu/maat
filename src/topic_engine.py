@@ -46,7 +46,7 @@ MAAT_TOPICS = {
 
     "student_experience": [
         "student wellbeing",
-        "mental health",
+        "student mental health",
         "student life",
         "student support",
         "student satisfaction",
@@ -79,7 +79,7 @@ MAAT_TOPICS = {
         "algorithmic assessment"
     ],
 
-    "research_ecosystems": [
+    "research_activities": [
         "scientific collaboration",
         "research productivity",
         "publication pressure",
@@ -92,23 +92,23 @@ MAAT_TOPICS = {
         "scientific innovation"
     ],
 
-    "student_economics": [
+    "education_cost": [
         "student debt",
         "tuition",
         "financial aid",
         "scholarships",
-        "cost of education",
+        "affordability of education",
         "student poverty",
         "access to higher education",
         "educational inequality"
     ],
     
-   "institutional_structure": [
+   "university_administration": [
         "governance",
         "regulation",
         "accreditation",
         "higher education governance",
-        "university administration"
+        "institutional structure"
     ],
 
     "policy_dynamics": [
@@ -120,9 +120,8 @@ MAAT_TOPICS = {
         "legislative reform"
     ],
 
-    "governance_pathology": [
+    "governance_failure": [
         "bureaucracy",
-        "administrative coercion",
         "institutional opacity",
         "regulatory capture",
         "governance failure",
@@ -174,46 +173,123 @@ MAAT_TOPICS = {
         "transparency",
         "accountability",
         "DEI",
+        "quality of education",
         "responsibility"
     ],
 
-    "norm_violations": [
-        "fraud",
+    "ethical_conflict": [
         "plagiarism",
-        "embezzelment",
+        "research misconduct",
+        "misrepresentation",
+        "data fabrication",
+        "conflict of interest",
+        "ethical breach",
+        "academic dishonesty"
+    ],
+
+    "legal_violations": [
+        "fraud",
+        "embezzlement",
+        "corruption",
+        "financial misconduct",
+        "bribery",
+        "money laundering",
+        "tax evasion",
+        "financial misconduct",
+        "insider trading",
+        "market manipulation",
+        "accounting fraud",
+        "false reporting",
+        "perjury",
+        "obstruction of justice",
+        "contempt of court",
+        "illegal surveillance",
+        "data privacy violation",
+        "cybercrime",
+        "intellectual property theft",
         "academic fraud",
         "research misconduct",
-        "jeffrey epstein",
-        "donald trump"
+        "regulatory violation",
+        "compliance breach",
+        "contract fraud",
+        "consumer fraud",
+        "corporate crime"
     ],
         
     "degradation_signals": [
         "grade inflation",
         "declining standards",
-        "credential inflation"
+        "credential inflation",
+        "academic dilution",
+        "lowered assessment rigor",
+        "reduced academic expectations",
+        "quality erosion",
+        "institutional decline",
+        "loss of rigor",
+        "curriculum simplification",
+        "dumbing down of education",
+        "massification of higher education",
+        "over-enrollment pressure",
+        "performance compression",
+        "assessment leniency",
+        "rubric inflation",
+        "benchmark drift",
+        "skills mismatch",
+        "employability gap",
+        "credential devaluation"
     ],
 
-     "coercion_and_control": [
-        "academic abuse",
-        "power asymmetry",
-        "retaliation",
-        "workplace abuse",
-        "institutional abuse",
-        "retaliatory litigation",
-        "silencing dissent",
-        "suppression of faculty dissent",
-        "risks attached to reporting abuse",
-        "chilling effects",
-        "self-censorship",
-        "wrongful termination"
+     "academic abuse": [
+         "administrative coercion",
+         "power asymmetry",
+         "retaliation",
+         "workplace abuse",
+         "institutional abuse",
+         "retaliatory litigation",
+         "silencing dissent",
+         "suppression of faculty dissent",
+         "risks attached to reporting abuse",
+         "chilling effects",
+         "self-censorship",
+         "wrongful termination",
+         "academic retaliation",
+         "professional marginalization",
+         "career sabotage",
+         "hostile work environment",
+         "procedural manipulation",
+         "bureaucratic obstruction",
+         "informal punishment",
+         "exclusion from decision making",
+         "grant interference",
+         "promotion blockage",
+         "tenure denial pressure",
+         "peer review weaponization",
+         "disciplinary misuse",
+         "institutional gatekeeping",
+         "reputation damage tactics",
+         "non-transparent evaluation processes",
+         "mobbing"
     ],
 
      "accountability_gaps": [
-        "lack of accountability for powerful actors",
-        "nepotism",
-        "institutional protection",
-        "conflict of interest",
-        "power consolidation"
+         "lack of accountability for powerful actors",
+         "nepotism",
+         "institutional protection",
+         "conflict of interest",
+         "power consolidation",
+         "elite impunity",
+         "lack of oversight",
+         "weak governance",
+         "regulatory capture",
+         "institutional shielding",
+         "absence of transparency",
+         "unchecked authority",
+         "decision-making opacity",
+         "informal power networks",
+         "career protection for senior figures",
+         "failure of internal review processes",
+         "self-regulation failure",
+         "disciplinary inaction"
     ],
 
     "inequality_structures": [
@@ -232,41 +308,118 @@ MAAT_TOPICS = {
         "discrimination",
         "title IX",
         "racism",
-        "bullyism",
+        "bullying",
         "harassment",
-        "DEI"
+        "DEI",
+        "equity initiatives",
+        "gender discrimination",
+        "racial discrimination",
+        "sexual harassment",
+        "workplace harassment",
+        "institutional bias",
+        "systemic inequality",
+        "inclusive policy frameworks",
+        "accessibility equity",
+        "protected class discrimination",
+        "hate incidents",
+        "bias reporting systems",
+        "campus climate"
     ],
 
-    "institutional_systems": [
-        "ranking",
-        "international universities",
-        "higher education crisis"
+    "ranking_systems": [
+        "university rankings",
+        "global university rankings",
+        "institutional benchmarking",
+        "higher education systems",
+        "university evaluation metrics",
+        "performance indicators in education",
+        "system-level comparison",
+        "higher education governance structures"
     ],
 
     "geopolitics": [
         "politics",
+        "international relations",
+        "foreign policy",
+        "geopolitics",
         "authoritarianism",
         "democracy",
+        "illiberal democracy",
         "fascism",
+        "nationalism",
+        "populism",
+        "state power",
+        "sovereignty",
+        "territorial conflict",
         "war",
-        "protest"
+        "armed conflict",
+        "proxy war",
+        "civil war",
+        "military escalation",
+        "deterrence",
+        "nuclear strategy",
+        "sanctions",
+        "economic warfare",
+        "trade war",
+        "diplomacy",
+        "summits",
+        "alliances",
+        "NATO",
+        "United Nations",
+        "protest",
+        "civil unrest",
+        "revolution",
+        "uprising",
+        "regime change",
+        "political repression",
+        "state surveillance",
+        "propaganda"
     ],
 
-    "regions": [
-        "united states",
-        "europe",
-        "asia",
-        "africa",
-        "australia",
+    "regions_countries": [
+        "north america",
         "latin america",
+        "south america",
+        "europe",
+        "western europe",
+        "eastern europe",
+        "asia",
+        "east asia",
+        "south asia",
+        "southeast asia",
+        "middle east",
+        "central asia",
+        "africa",
+        "north africa",
+        "sub-saharan africa",
+        "oceania",
+        "united states",
+        "canada",
+        "mexico",
+        "brazil",
+        "argentina",
+        "european union",
         "russia",
         "china",
-        "ukraine",
+        "india",
+        "japan",
+        "south korea",
         "iran",
-        "lebanon",
+        "turkey",
         "israel",
         "palestine",
-        "gaza"
+        "gaza",
+        "ukraine",
+        "united kingdom",
+        "france",
+        "germany",
+        "italy",
+        "spain",
+        "australia",
+        "indonesia",
+        "nigeria",
+        "south africa",
+        "egypt"
     ],
 
     "internationalization": [
@@ -279,6 +432,9 @@ MAAT_TOPICS = {
         "cross-border education",
         "international partnerships",
         "transnational education",
+        "international higher education",
+        "global higher education landscape",
+        "cross-border education systems",
         "brain drain"
     ],
 
@@ -325,6 +481,7 @@ MAAT_TOPICS = {
         "environmental policy",
         "climate education",
         "carbon neutrality",
+        "fossil fuel",
         "sustainable university"
     ],
 
@@ -346,7 +503,7 @@ MAAT_TOPICS = {
         "scientific expertise"    
     ],
     
-    "temporal_psychological": [
+    "sentiment_outlook": [
         "future",
         "pessimism",
         "optimism",
