@@ -43,7 +43,7 @@ Each article is evaluated not by keywords, but by semantic proximity to higher e
 
 ## Dominant Themes
 
-{% assign topics = site.data.today_topics %}
+{% assign topics = site.data.cluster_summary %}
 
 <table>
 <tr>
@@ -66,12 +66,12 @@ Each article is evaluated not by keywords, but by semantic proximity to higher e
 
 ## Strongest Topic Connections
 
-{% assign network = site.data.topic_network | sort: "weight" | reverse %}
+{% assign network = site.data.cross_npmi_network | sort: "weight" | reverse %}
 
 <ul>
 {% for edge in network limit:10 %}
 <li>
-{{ edge.source }} ↔ {{ edge.target }} ({{ edge.weight }})
+{{ edge.source }} ↔ {{ edge.target }}
 </li>
 {% endfor %}
 </ul>
