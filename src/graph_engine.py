@@ -13,6 +13,11 @@ THRESHOLD = 0.4
 MIN_EDGE_COUNT = 3
 
 
+def write_system(system, date_str):
+    path = f"data/graphs/system_{date_str}.json"
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(system, f, indent=2, ensure_ascii=False)
+
 # ----------------------------
 # LOAD
 # ----------------------------
@@ -353,6 +358,17 @@ def run():
     cluster_edges = build_cluster_edges(cross_npmi_edges)
 
     summary = build_daily_summary(nodes)
+
+    system = {
+        "articles_today": len(summary),
+        "total_topics": len(nodes),
+        "total_edges": len(edges),
+        "cross_cluster_edges": len(cross_npmi_edges),
+        "clusters": len(cluster_summary),
+        "last_run": datetime.utcnow().isoformat()
+    }
+
+    write_system(system, date_str)
 
     save_outputs(
         nodes,
