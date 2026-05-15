@@ -152,6 +152,11 @@ def build_topic_hub_svg(npmi_edges, topic_cluster_map, nodes, date_str):
         # 5. WRITE FILES (DOUBLE EXPORT)
         # ----------------------------
 
+        svg.append('</svg>')
+
+        svg_content = "\n".join(svg)
+
+
         with open(output_dir / "topic_hub.svg", "w", encoding="utf-8") as f:
             f.write(svg_content)
 
