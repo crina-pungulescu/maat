@@ -13,6 +13,66 @@ from datetime import datetime
 THRESHOLD = 0.4
 MIN_EDGE_COUNT = 3
 
+def load_all_matrices():
+    paths = sorted(Path("data/topics").glob("topic_matrix_*.json"))
+
+    all_articles = []
+    for p in paths:
+        all_articles.extend(load_matrix(p))
+
+    return all_articles
+
+def run_aggregate():
+
+    print("Processing AGGREGATE topic graph")
+
+    matrix = load_all_matrices()
+
+    date_str = "aggregate"
+
+    topic_cluster_map = build_topic_cluster_map(matrix)
+
+    nodes = build_nodes(matrix)
+    edges = build_edges(matrix)
+
+    pmi_edges, npmi_edges = build_pmi_edges(matrix, nodes)
+
+    cross_pmi_edges = filter_cross_cluster_edges(pmi_edges, topic_cluster_map)
+    cross_npmi_edges = filter_cross_cluster_edges(npmi_edges, topic_cluster_map)
+
+    cluster_summary = build_cluster_summary(matrix, nodes, topic_cluster_map)
+
+    cluster_edges = build_cluster_edges(cross_npmi_edges)
+
+    summary = build_daily_summary(nodes)
+
+    system = {
+        "articles_total": len(matrix),
+        "total_topics": len(nodes),
+        "total_edges": len(edges),
+        "cross_cluster_edges": len(cross_npmi_edges),
+        "clusters": len(cluster_summary),
+        "mode": "aggregate",
+        "last_run": datetime.utcnow().isoformat()
+    }
+
+    write_system(system, date_str)
+
+    save_outputs(
+        nodes,
+        edges,
+        pmi_edges,
+        npmi_edges,
+        cross_pmi_edges,
+        cross_npmi_edges,
+        summary,
+        cluster_summary,
+        cluster_edges,
+        date_str
+    )
+
+    print("AGGREGATE GRAPH COMPLETE")
+
 def pretty_name(s: str) -> str:
     return s.replace("_", " ").replace("-", " ").title()
 
@@ -338,14 +398,22 @@ def save_outputs(
 # PIPELINE
 # ----------------------------
 
-def run():
+def run(mode):
+    paths = sorted(Path("data/topics").glob("topic_matrix_*.json"))
 
-    path = sorted(Path("data/topics").glob("topic_matrix_*.json"))[-1]
-    date_str = path.stem.replace("topic_matrix_", "")
+    if mode == "daily":
+        path = paths[-1]
+        matrix = load_matrix(path)
+        date_str = path.stem.replace("topic_matrix_", "")
 
-    print(f"Processing topic graph for: {date_str}")
+    elif mode == "aggregate":
+        matrix = load_all_matrices()
+        date_str = "aggregate"
 
-    matrix = load_matrix(path)
+    else:
+        raise ValueError("mode must be 'daily' or 'aggregate'")
+
+    print(f"Processing {mode.upper()} topic graph")
 
     topic_cluster_map = build_topic_cluster_map(matrix)
 
@@ -364,7 +432,8 @@ def run():
     summary = build_daily_summary(nodes)
 
     system = {
-        "articles_today": len(summary),
+        "mode": mode,
+        "articles_total": len(matrix),
         "total_topics": len(nodes),
         "total_edges": len(edges),
         "cross_cluster_edges": len(cross_npmi_edges),
@@ -387,8 +456,8 @@ def run():
         date_str
     )
 
-    print("MAAT TOPIC GRAPH COMPLETE")
-
+    print(f"{mode.upper()} GRAPH COMPLETE")
 
 if __name__ == "__main__":
-    run()
+    run("daily")
+    run("aggregate")
