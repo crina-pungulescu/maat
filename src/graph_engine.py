@@ -78,7 +78,7 @@ def build_nodes(matrix):
 
         nodes.append({
             "id": topic,
-            "label": pretty_name(topic)
+            "label": pretty_name(topic),
             "weight": count,
             "avg_score": round(avg_score, 4)
         })
