@@ -116,25 +116,57 @@ RSS_FEEDS = [
     "https://www.officeforstudents.org.uk/news-and-blog/rss/",
     "https://www.advance-he.ac.uk/news-and-views/rss.xml",
     "https://www.theguardian.com/education/higher-education/rss",
-    "https://srheblog.com/feed/",
-    "https://www.highereddive.com/feeds/news/",
     "https://www.theguardian.com/education/rss",
     "https://www.bbc.co.uk/news/education/rss.xml",
-    "https://www.reuters.com/arc/outboundfeeds/rss/?outputType=xml",
-    "https://www.ft.com/?format=rss",
-    "https://www.science.org/rss/news_current.xml",
-    "https://www.ed.gov/feed",
-    "https://www.ed.gov/news/press-releases/feed",
-    "https://new.nsf.gov/rss/news_all.xml",
-    "https://www.nih.gov/news-events/news-releases/feed",
-    "https://ies.ed.gov/newsfeed/rss.asp",
-    "https://nces.ed.gov/whatsnew/rss.xml",
-    "https://www.grants.gov/rss/GG_NewOpps.xml",
+    "https://www.highereddive.com/feeds/news/",
     "https://www.edweek.org/feeds/all.rss",
     "https://hechingerreport.org/feed/",
     "https://www.chalkbeat.org/feeds/all/rss.xml",
     "https://www.edsurge.com/articles.rss",
-    
+    "https://www.aaup.org/news/feed",
+    "https://www.aaup.org/rss.xml",
+    "https://www.aaup.org/reports-publications/rss.xml",
+    "https://www.facultyforward.org/rss.xml",
+    "https://www.academicfreedom.org/feed/",
+    "https://www.insidehighered.com/rss/views",
+    "https://www.insidehighered.com/rss/quicktakes",
+    "https://www.timeshighereducation.com/opinion/rss",
+    "https://www.science.org/rss/news_current.xml",
+    "https://www.nature.com/subjects/scientific-community.rss",
+    "https://www.nature.com/subjects/science-policy.rss",
+    "https://www.nature.com/subjects/higher-education.rss",
+    "https://www.nsf.gov/news/newsrss.xml",
+    "https://new.nsf.gov/rss/news_all.xml",
+    "https://www.nih.gov/news-events/news-releases/feed",
+    "https://www.ed.gov/feed",
+    "https://www.ed.gov/news/press-releases/feed",
+    "https://ies.ed.gov/newsfeed/rss.asp",
+    "https://nces.ed.gov/whatsnew/rss.xml",
+    "https://www.grants.gov/rss/GG_NewOpps.xml",
+    "https://www.oecd.org/education/rss.xml",
+    "https://www.worldbank.org/en/topic/education/rss",
+    "https://www.unesco.org/en/rss.xml",
+    "https://www.eua.eu/news/rss.xml",
+    "https://www.eua.eu/news/eua-news.rss",
+    "https://www.eua.eu/news/eua-publications.rss",
+    "https://www.universityworldnews.com/rss.php?format=rss",
+    "https://www.thefire.org/news/feed/",
+    "https://www.thefire.org/rss/",
+    "https://www.aaup.org/issues/academic-freedom/feed",
+    "https://www.aaup.org/issues/governance/feed",
+    "https://www.aaup.org/issues/tenure/feed",
+    "https://www.chronicle.com/section/Opinion/rss",
+    "https://www.chronicle.com/section/Advice/rss",
+    "https://www.insidehighered.com/rss/careers",
+    "https://www.insidehighered.com/rss/tenure-track",
+    "https://www.reuters.com/arc/outboundfeeds/rss/?outputType=xml",
+    "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "https://feeds.bbci.co.uk/news/business/rss.xml",
+    "https://www.ft.com/?format=rss",
+    "https://www.economist.com/united-states/rss.xml",
+    "https://www.economist.com/international/rss.xml",
+    "https://www.wsj.com/xml/rss/3_7085.xml",
+
 
     # 🇩🇪 German-speaking Europe
     "https://www.forschung-und-lehre.de/rss.xml",
@@ -358,8 +390,13 @@ def log(message):
     timestamp = datetime.now().isoformat()
     print(f"[{timestamp}] {message}")
 
+def normalize_title(title: str) -> str:
+
+    return " ".join(title.lower().strip().split())
 
 def fetch_rss_articles(seen):
+
+    seen_titles = set()
 
     articles = []
 
@@ -374,6 +411,14 @@ def fetch_rss_articles(seen):
             text = (entry.get("title", "") + " " + entry.get("summary", "")).strip()
 
             full_text = extract_article_text(entry.get("link", ""))
+
+            title_norm = normalize_title(entry.get("title", ""))
+
+            if title_norm in seen_titles:
+
+                continue
+
+            seen_titles.add(title_norm)
 
             if not full_text or len(full_text) < 1500:
                 continue
