@@ -2,6 +2,7 @@ import json
 from pathlib import Path
 from collections import defaultdict, Counter
 from itertools import combinations
+import math
 
 THRESHOLD = 0.4
 
@@ -80,6 +81,64 @@ def build_edges(matrix):
 
 
 # ----------------------------
+# PMI EDGE BUILDING
+# ----------------------------
+
+def build_pmi_edges(matrix, nodes):
+
+    total_articles = len(matrix)
+
+    # node frequencies
+    node_counts = {
+        n["id"]: n["weight"]
+        for n in nodes
+    }
+
+    # co-occurrence counts
+    edge_counts = Counter()
+
+    for article in matrix:
+
+        topics = [
+            t["topic"]
+            for t in article["scores"]
+            if t["score"] >= THRESHOLD
+        ]
+
+        unique_topics = sorted(set(topics))
+
+        for a, b in combinations(unique_topics, 2):
+            edge_counts[(a, b)] += 1
+
+    pmi_edges = []
+
+    for (a, b), co_count in edge_counts.items():
+
+        p_a = node_counts[a] / total_articles
+        p_b = node_counts[b] / total_articles
+        p_ab = co_count / total_articles
+
+        # PMI
+        pmi = math.log2(
+            (p_ab + 1e-9) / ((p_a * p_b) + 1e-9)
+        )
+
+        pmi_edges.append({
+            "source": a,
+            "target": b,
+            "co_occurrence": co_count,
+            "pmi": round(pmi, 4)
+        })
+
+    # strongest informational relationships first
+    pmi_edges.sort(
+        key=lambda x: x["pmi"],
+        reverse=True
+    )
+
+    return pmi_edges
+
+# ----------------------------
 # DAILY SUMMARY
 # ----------------------------
 
@@ -101,7 +160,7 @@ def build_daily_summary(nodes, top_k=10):
 # SAVE OUTPUTS
 # ----------------------------
 
-def save_outputs(nodes, edges, summary, date_str):
+def save_outputs(nodes, edges, pmi_edges, summary, date_str):
 
     Path("data/graphs").mkdir(parents=True, exist_ok=True)
 
@@ -113,6 +172,9 @@ def save_outputs(nodes, edges, summary, date_str):
 
     with open(f"data/graphs/today_summary_{date_str}.json", "w", encoding="utf-8") as f:
       json.dump(summary, f, indent=2, ensure_ascii=False)
+
+    with open(f"data/graphs/pmi_edges_{date_str}.json", "w", encoding="utf-8") as f:
+      json.dump(pmi_edges, f, indent=2, ensure_ascii=False)
 
     print("Graph outputs saved.")
 
@@ -134,6 +196,7 @@ def run():
 
     nodes = build_nodes(matrix)
     edges = build_edges(matrix)
+    pmi_edges = build_pmi_edges(matrix, nodes)
     summary = build_daily_summary(nodes)
 
     print("CWD:", Path.cwd())
