@@ -1,0 +1,656 @@
+[
+  {
+    "id": "student-faculty relations",
+    "label": "Student Faculty Relations",
+    "weight": 1,
+    "avg_score": 0.4004
+  },
+  {
+    "id": "academic publishing",
+    "label": "Academic Publishing",
+    "weight": 1,
+    "avg_score": 0.406
+  },
+  {
+    "id": "scholarly autonomy",
+    "label": "Scholarly Autonomy",
+    "weight": 1,
+    "avg_score": 0.4696
+  },
+  {
+    "id": "politicization of science",
+    "label": "Politicization Of Science",
+    "weight": 2,
+    "avg_score": 0.4574
+  },
+  {
+    "id": "educational pessimism",
+    "label": "Educational Pessimism",
+    "weight": 2,
+    "avg_score": 0.4467
+  },
+  {
+    "id": "academic dishonesty",
+    "label": "Academic Dishonesty",
+    "weight": 3,
+    "avg_score": 0.4385
+  },
+  {
+    "id": "academic fraud",
+    "label": "Academic Fraud",
+    "weight": 2,
+    "avg_score": 0.4211
+  },
+  {
+    "id": "suppression of faculty dissent",
+    "label": "Suppression Of Faculty Dissent",
+    "weight": 2,
+    "avg_score": 0.4395
+  },
+  {
+    "id": "academic retaliation",
+    "label": "Academic Retaliation",
+    "weight": 4,
+    "avg_score": 0.4392
+  },
+  {
+    "id": "discrimination",
+    "label": "Discrimination",
+    "weight": 2,
+    "avg_score": 0.4449
+  },
+  {
+    "id": "racism",
+    "label": "Racism",
+    "weight": 2,
+    "avg_score": 0.4102
+  },
+  {
+    "id": "racial discrimination",
+    "label": "Racial Discrimination",
+    "weight": 2,
+    "avg_score": 0.512
+  },
+  {
+    "id": "protected class discrimination",
+    "label": "Protected Class Discrimination",
+    "weight": 2,
+    "avg_score": 0.4425
+  },
+  {
+    "id": "university admissions",
+    "label": "University Admissions",
+    "weight": 4,
+    "avg_score": 0.4416
+  },
+  {
+    "id": "affirmative action",
+    "label": "Affirmative Action",
+    "weight": 2,
+    "avg_score": 0.4569
+  },
+  {
+    "id": "academic freedom",
+    "label": "Academic Freedom",
+    "weight": 3,
+    "avg_score": 0.4175
+  },
+  {
+    "id": "pedagogy",
+    "label": "Pedagogy",
+    "weight": 4,
+    "avg_score": 0.4377
+  },
+  {
+    "id": "educational practice",
+    "label": "Educational Practice",
+    "weight": 3,
+    "avg_score": 0.4162
+  },
+  {
+    "id": "research evaluation",
+    "label": "Research Evaluation",
+    "weight": 1,
+    "avg_score": 0.405
+  },
+  {
+    "id": "educational inequality",
+    "label": "Educational Inequality",
+    "weight": 4,
+    "avg_score": 0.4428
+  },
+  {
+    "id": "education policy",
+    "label": "Education Policy",
+    "weight": 4,
+    "avg_score": 0.5466
+  },
+  {
+    "id": "institutional opacity",
+    "label": "Institutional Opacity",
+    "weight": 2,
+    "avg_score": 0.5673
+  },
+  {
+    "id": "procedural abuse",
+    "label": "Procedural Abuse",
+    "weight": 1,
+    "avg_score": 0.4115
+  },
+  {
+    "id": "financial pressure in academia",
+    "label": "Financial Pressure In Academia",
+    "weight": 1,
+    "avg_score": 0.4729
+  },
+  {
+    "id": "academic exploitation",
+    "label": "Academic Exploitation",
+    "weight": 3,
+    "avg_score": 0.4178
+  },
+  {
+    "id": "research misconduct",
+    "label": "Research Misconduct",
+    "weight": 6,
+    "avg_score": 0.4184
+  },
+  {
+    "id": "reduced academic expectations",
+    "label": "Reduced Academic Expectations",
+    "weight": 2,
+    "avg_score": 0.4387
+  },
+  {
+    "id": "institutional decline",
+    "label": "Institutional Decline",
+    "weight": 2,
+    "avg_score": 0.4895
+  },
+  {
+    "id": "dumbing down of education",
+    "label": "Dumbing Down Of Education",
+    "weight": 4,
+    "avg_score": 0.4319
+  },
+  {
+    "id": "over-enrollment pressure",
+    "label": "Over Enrollment Pressure",
+    "weight": 2,
+    "avg_score": 0.4263
+  },
+  {
+    "id": "assessment leniency",
+    "label": "Assessment Leniency",
+    "weight": 1,
+    "avg_score": 0.4273
+  },
+  {
+    "id": "institutional abuse",
+    "label": "Institutional Abuse",
+    "weight": 1,
+    "avg_score": 0.4247
+  },
+  {
+    "id": "bureaucratic obstruction",
+    "label": "Bureaucratic Obstruction",
+    "weight": 2,
+    "avg_score": 0.4701
+  },
+  {
+    "id": "disciplinary misuse",
+    "label": "Disciplinary Misuse",
+    "weight": 2,
+    "avg_score": 0.4503
+  },
+  {
+    "id": "lack of oversight",
+    "label": "Lack Of Oversight",
+    "weight": 2,
+    "avg_score": 0.4031
+  },
+  {
+    "id": "disciplinary inaction",
+    "label": "Disciplinary Inaction",
+    "weight": 1,
+    "avg_score": 0.4522
+  },
+  {
+    "id": "institutional bias",
+    "label": "Institutional Bias",
+    "weight": 3,
+    "avg_score": 0.4421
+  },
+  {
+    "id": "academic uncertainty",
+    "label": "Academic Uncertainty",
+    "weight": 2,
+    "avg_score": 0.4024
+  },
+  {
+    "id": "institutional anxiety",
+    "label": "Institutional Anxiety",
+    "weight": 1,
+    "avg_score": 0.4468
+  },
+  {
+    "id": "obstruction of justice",
+    "label": "Obstruction Of Justice",
+    "weight": 1,
+    "avg_score": 0.4133
+  },
+  {
+    "id": "medical education",
+    "label": "Medical Education",
+    "weight": 1,
+    "avg_score": 0.4272
+  },
+  {
+    "id": "medical students",
+    "label": "Medical Students",
+    "weight": 1,
+    "avg_score": 0.4188
+  },
+  {
+    "id": "curriculum",
+    "label": "Curriculum",
+    "weight": 3,
+    "avg_score": 0.443
+  },
+  {
+    "id": "classroom",
+    "label": "Classroom",
+    "weight": 3,
+    "avg_score": 0.4542
+  },
+  {
+    "id": "educational technology",
+    "label": "Educational Technology",
+    "weight": 3,
+    "avg_score": 0.4704
+  },
+  {
+    "id": "automation in education",
+    "label": "Automation In Education",
+    "weight": 1,
+    "avg_score": 0.4887
+  },
+  {
+    "id": "research productivity",
+    "label": "Research Productivity",
+    "weight": 1,
+    "avg_score": 0.4558
+  },
+  {
+    "id": "scientific innovation",
+    "label": "Scientific Innovation",
+    "weight": 1,
+    "avg_score": 0.4143
+  },
+  {
+    "id": "affordability of education",
+    "label": "Affordability Of Education",
+    "weight": 3,
+    "avg_score": 0.4519
+  },
+  {
+    "id": "governance",
+    "label": "Governance",
+    "weight": 1,
+    "avg_score": 0.4325
+  },
+  {
+    "id": "regulation",
+    "label": "Regulation",
+    "weight": 1,
+    "avg_score": 0.4191
+  },
+  {
+    "id": "higher education governance",
+    "label": "Higher Education Governance",
+    "weight": 3,
+    "avg_score": 0.4448
+  },
+  {
+    "id": "institutional structure",
+    "label": "Institutional Structure",
+    "weight": 1,
+    "avg_score": 0.5142
+  },
+  {
+    "id": "policy",
+    "label": "Policy",
+    "weight": 1,
+    "avg_score": 0.4545
+  },
+  {
+    "id": "reform",
+    "label": "Reform",
+    "weight": 1,
+    "avg_score": 0.5039
+  },
+  {
+    "id": "higher education reform",
+    "label": "Higher Education Reform",
+    "weight": 3,
+    "avg_score": 0.4928
+  },
+  {
+    "id": "policy change",
+    "label": "Policy Change",
+    "weight": 1,
+    "avg_score": 0.498
+  },
+  {
+    "id": "legislative reform",
+    "label": "Legislative Reform",
+    "weight": 1,
+    "avg_score": 0.4625
+  },
+  {
+    "id": "bureaucracy",
+    "label": "Bureaucracy",
+    "weight": 1,
+    "avg_score": 0.5145
+  },
+  {
+    "id": "governance failure",
+    "label": "Governance Failure",
+    "weight": 1,
+    "avg_score": 0.4359
+  },
+  {
+    "id": "overregulation",
+    "label": "Overregulation",
+    "weight": 1,
+    "avg_score": 0.455
+  },
+  {
+    "id": "austerity",
+    "label": "Austerity",
+    "weight": 1,
+    "avg_score": 0.4135
+  },
+  {
+    "id": "academic workload",
+    "label": "Academic Workload",
+    "weight": 1,
+    "avg_score": 0.4336
+  },
+  {
+    "id": "quality of education",
+    "label": "Quality Of Education",
+    "weight": 3,
+    "avg_score": 0.4271
+  },
+  {
+    "id": "declining standards",
+    "label": "Declining Standards",
+    "weight": 1,
+    "avg_score": 0.4637
+  },
+  {
+    "id": "academic dilution",
+    "label": "Academic Dilution",
+    "weight": 3,
+    "avg_score": 0.4243
+  },
+  {
+    "id": "curriculum simplification",
+    "label": "Curriculum Simplification",
+    "weight": 3,
+    "avg_score": 0.4325
+  },
+  {
+    "id": "massification of higher education",
+    "label": "Massification Of Higher Education",
+    "weight": 3,
+    "avg_score": 0.4424
+  },
+  {
+    "id": "administrative coercion",
+    "label": "Administrative Coercion",
+    "weight": 1,
+    "avg_score": 0.4409
+  },
+  {
+    "id": "institutional protection",
+    "label": "Institutional Protection",
+    "weight": 1,
+    "avg_score": 0.4104
+  },
+  {
+    "id": "weak governance",
+    "label": "Weak Governance",
+    "weight": 1,
+    "avg_score": 0.4319
+  },
+  {
+    "id": "institutional hierarchy",
+    "label": "Institutional Hierarchy",
+    "weight": 1,
+    "avg_score": 0.4803
+  },
+  {
+    "id": "stratified academic systems",
+    "label": "Stratified Academic Systems",
+    "weight": 3,
+    "avg_score": 0.4328
+  },
+  {
+    "id": "institutional benchmarking",
+    "label": "Institutional Benchmarking",
+    "weight": 1,
+    "avg_score": 0.5354
+  },
+  {
+    "id": "higher education systems",
+    "label": "Higher Education Systems",
+    "weight": 3,
+    "avg_score": 0.466
+  },
+  {
+    "id": "performance indicators in education",
+    "label": "Performance Indicators In Education",
+    "weight": 3,
+    "avg_score": 0.4701
+  },
+  {
+    "id": "higher education governance structures",
+    "label": "Higher Education Governance Structures",
+    "weight": 3,
+    "avg_score": 0.4341
+  },
+  {
+    "id": "revolution",
+    "label": "Revolution",
+    "weight": 1,
+    "avg_score": 0.4034
+  },
+  {
+    "id": "regime change",
+    "label": "Regime Change",
+    "weight": 1,
+    "avg_score": 0.4469
+  },
+  {
+    "id": "global higher education landscape",
+    "label": "Global Higher Education Landscape",
+    "weight": 3,
+    "avg_score": 0.4231
+  },
+  {
+    "id": "educational access",
+    "label": "Educational Access",
+    "weight": 3,
+    "avg_score": 0.4503
+  },
+  {
+    "id": "institutional independence",
+    "label": "Institutional Independence",
+    "weight": 1,
+    "avg_score": 0.4258
+  },
+  {
+    "id": "future",
+    "label": "Future",
+    "weight": 1,
+    "avg_score": 0.4057
+  },
+  {
+    "id": "future of higher education",
+    "label": "Future Of Higher Education",
+    "weight": 3,
+    "avg_score": 0.4783
+  },
+  {
+    "id": "student engagement",
+    "label": "Student Engagement",
+    "weight": 4,
+    "avg_score": 0.4171
+  },
+  {
+    "id": "student life",
+    "label": "Student Life",
+    "weight": 2,
+    "avg_score": 0.4584
+  },
+  {
+    "id": "student support",
+    "label": "Student Support",
+    "weight": 2,
+    "avg_score": 0.4102
+  },
+  {
+    "id": "student participation",
+    "label": "Student Participation",
+    "weight": 2,
+    "avg_score": 0.4713
+  },
+  {
+    "id": "student retention",
+    "label": "Student Retention",
+    "weight": 2,
+    "avg_score": 0.4431
+  },
+  {
+    "id": "student belonging",
+    "label": "Student Belonging",
+    "weight": 2,
+    "avg_score": 0.4089
+  },
+  {
+    "id": "tuition",
+    "label": "Tuition",
+    "weight": 2,
+    "avg_score": 0.4853
+  },
+  {
+    "id": "scholarships",
+    "label": "Scholarships",
+    "weight": 2,
+    "avg_score": 0.4154
+  },
+  {
+    "id": "student poverty",
+    "label": "Student Poverty",
+    "weight": 2,
+    "avg_score": 0.447
+  },
+  {
+    "id": "access to higher education",
+    "label": "Access To Higher Education",
+    "weight": 2,
+    "avg_score": 0.4068
+  },
+  {
+    "id": "university budgets",
+    "label": "University Budgets",
+    "weight": 2,
+    "avg_score": 0.475
+  },
+  {
+    "id": "university rankings",
+    "label": "University Rankings",
+    "weight": 2,
+    "avg_score": 0.4382
+  },
+  {
+    "id": "global university rankings",
+    "label": "Global University Rankings",
+    "weight": 2,
+    "avg_score": 0.4261
+  },
+  {
+    "id": "university evaluation metrics",
+    "label": "University Evaluation Metrics",
+    "weight": 2,
+    "avg_score": 0.48
+  },
+  {
+    "id": "international students",
+    "label": "International Students",
+    "weight": 2,
+    "avg_score": 0.4445
+  },
+  {
+    "id": "global education",
+    "label": "Global Education",
+    "weight": 2,
+    "avg_score": 0.4415
+  },
+  {
+    "id": "transnational education",
+    "label": "Transnational Education",
+    "weight": 2,
+    "avg_score": 0.4427
+  },
+  {
+    "id": "international higher education",
+    "label": "International Higher Education",
+    "weight": 2,
+    "avg_score": 0.43
+  },
+  {
+    "id": "cross-border education systems",
+    "label": "Cross Border Education Systems",
+    "weight": 2,
+    "avg_score": 0.4268
+  },
+  {
+    "id": "college admissions",
+    "label": "College Admissions",
+    "weight": 2,
+    "avg_score": 0.4524
+  },
+  {
+    "id": "admissions policy",
+    "label": "Admissions Policy",
+    "weight": 2,
+    "avg_score": 0.5039
+  },
+  {
+    "id": "selective admissions",
+    "label": "Selective Admissions",
+    "weight": 2,
+    "avg_score": 0.412
+  },
+  {
+    "id": "access to university",
+    "label": "Access To University",
+    "weight": 2,
+    "avg_score": 0.403
+  },
+  {
+    "id": "campus expansion",
+    "label": "Campus Expansion",
+    "weight": 2,
+    "avg_score": 0.4166
+  },
+  {
+    "id": "student mobility",
+    "label": "Student Mobility",
+    "weight": 1,
+    "avg_score": 0.4032
+  }
+]
