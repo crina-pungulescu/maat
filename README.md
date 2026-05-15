@@ -1,2 +1,2 @@
 # maat
-Multilingual Archive for Academic Transparency
+Multilingual Archive for Academic Topology
