@@ -102,66 +102,63 @@ def build_topic_hub_svg(npmi_edges, topic_cluster_map, nodes, date_str):
     for node in node_list:
 
         x, y = positions[node]
-        cluster = topic_cluster_map.get(node, "unknown")
         label = node_lookup.get(node, {}).get("label", node)
 
         dx = x - center_x
         dy = y - center_y
 
-        # horizontal logic
-        if dx >= 0:
-            tx = x + 10
+        # ----------------------------
+        # TRUE QUADRANT LOGIC
+        # ----------------------------
+
+        # RIGHT
+        if abs(dx) > abs(dy) and dx > 0:
+            tx = x + 14
+            ty = y + 4
             anchor = "start"
-        else:
-            tx = x - 10
+
+        # LEFT
+        elif abs(dx) > abs(dy) and dx < 0:
+            tx = x - 14
+            ty = y + 4
             anchor = "end"
 
-        # vertical adjustment (NEW)
-        
-        if abs(dy) > abs(dx):
-            if dy > 0:
-                # bottom half → push text downward
-                ty_label = y + 18
-                ty_cluster = y + 30
-            else:
-                # top half → push text upward
-                ty_label = y - 10
-                ty_cluster = y - 2
-        else:
-            # default horizontal flow
-            ty_label = y + 4
-            ty_cluster = y + 16
+        # TOP
+        elif abs(dy) >= abs(dx) and dy < 0:
+            tx = x
+            ty = y - 14
+            anchor = "middle"
 
+        # BOTTOM
+        else:
+            tx = x
+            ty = y + 22
+            anchor = "middle"
+
+        # node
         svg.append(
             f'<circle cx="{x}" cy="{y}" r="6" fill="black"/>'
         )
 
-        # UPDATED LABEL (no overlap fix)
+        # label only
         svg.append(
-            f'<text x="{tx}" y="{y+4}" font-size="10" '
-            f'font-family="Arial" text-anchor="{anchor}">{label}</text>'
+            f'<text x="{tx}" y="{ty}" '
+            f'font-size="10" '
+            f'font-family="Arial" '
+            f'text-anchor="{anchor}">{label}</text>'
         )
 
-        svg.append(
-            f'<text x="{tx}" y="{y+16}" font-size="8" fill="gray" '
-            f'font-family="Arial" text-anchor="{anchor}">{cluster}</text>'
-        )
+        # ----------------------------
+        # 5. WRITE FILES (DOUBLE EXPORT)
+        # ----------------------------
 
-    svg.append('</svg>')
+        with open(output_dir / "topic_hub.svg", "w", encoding="utf-8") as f:
+            f.write(svg_content)
 
-    svg_content = "\n".join(svg)
+        with open(output_dir / f"topic_hub_{date_str}.svg", "w", encoding="utf-8") as f:
+            f.write(svg_content)
 
-    # ----------------------------
-    # 5. WRITE FILES (DOUBLE EXPORT)
-    # ----------------------------
-
-    with open(output_dir / "topic_hub.svg", "w", encoding="utf-8") as f:
-        f.write(svg_content)
-
-    with open(output_dir / f"topic_hub_{date_str}.svg", "w", encoding="utf-8") as f:
-        f.write(svg_content)
-
-    print("Topic hub SVG exported.")
+        print("Topic hub SVG exported.")
 
 
 def load_all_matrices():
