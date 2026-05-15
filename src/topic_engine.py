@@ -28,11 +28,9 @@ MAAT_TOPICS = {
         "pedagogy",
         "instruction",
         "curriculum",
-        "classroom",
-        "syllabus",
         "course design",
         "student engagement",
-        "assessment",
+        "student assessment",
         "educational practice",
         "active learning",
         "learning outcomes",
@@ -40,7 +38,13 @@ MAAT_TOPICS = {
         "hybrid learning",
         "distance education",
         "remote teaching",
-        "higher education teaching"
+        "BA",
+        "BSc",
+        "MA",
+        "MSc",
+        "MBA",
+        "PhD",
+        "degree"
     ],
 
 
@@ -51,13 +55,9 @@ MAAT_TOPICS = {
         "student support",
         "student satisfaction",
         "student engagement",
-        "student participation",
         "student retention",
-        "campus climate",
-        "student belonging",
         "student protest",
         "student voice",
-        "student-faculty relations",
         "teacher-student relationship"
     ],
 
@@ -74,7 +74,6 @@ MAAT_TOPICS = {
         "automated grading",
         "AI-assisted learning",
         "AI-assisted teaching",
-        "surveillance technology",
         "proctoring software",
         "algorithmic assessment"
     ],
@@ -97,7 +96,6 @@ MAAT_TOPICS = {
         "education crisis",
         "university crisis",
         "systemic crisis",
-        "institutional crisis",
         "decline of academia",
         "academic collapse",
         "university decline",
@@ -107,12 +105,10 @@ MAAT_TOPICS = {
         "collapse of standards",
         "educational instability",
         "structural breakdown",
-        "unsustainable higher education model",
+        "unsustainable education model",
         "crisis of legitimacy",
-        "crisis narrative",
         "institutional strain",
-        "systemic failure framing",
-        "post-secondary education crisis"
+        "systemic failure",
     ],
 
     "education_cost": [
@@ -127,38 +123,30 @@ MAAT_TOPICS = {
     ],
     
    "university_administration": [
-        "governance",
-        "regulation",
-        "accreditation",
+        "faculty bylaws",
         "higher education governance",
         "institutional structure"
     ],
 
     "policy_dynamics": [
-        "policy",
-        "reform",
         "education policy",
         "higher education reform",
-        "policy change",
         "legislative reform"
     ],
 
     "governance_failure": [
-        "bureaucracy",
+        "bureaucracy in academia",
         "institutional opacity",
         "regulatory capture",
-        "governance failure",
-        "procedural abuse",
-        "overregulation"
+        "procedural abuse"
     ],
 
     "funding_flows": [
-        "funding",
         "research funding",
         "public funding",
         "university budgets",
         "grants",
-        "endowments",
+        "endowments"
     ],
 
     "financial_constraints": [
@@ -166,27 +154,21 @@ MAAT_TOPICS = {
         "budget cuts",
         "resource constraints",
         "financial pressure in academia",
-        "underfunding",
-        "cost cutting"
+        "underfunding"
     ],
 
    "academic_labour": [
-        "employment",
         "faculty contracts",
         "adjuncts",
         "precarity",
         "academic careers",
         "unpaid labour",
-        "labour exploitation in academia",
         "academic workload",
         "job insecurity",
         "graduate employment",
         "exploitation",
-        "academic exploitation",
-        "labour exploitation",
         "systemic inequality",
         "redundancy",
-        "career",
         "unemployment"
     ],
 
@@ -200,7 +182,7 @@ MAAT_TOPICS = {
         "responsibility"
     ],
 
-    "ethical_conflict": [
+    "ethical_conflicts": [
         "plagiarism",
         "research misconduct",
         "misrepresentation",
@@ -221,7 +203,6 @@ MAAT_TOPICS = {
         "financial misconduct",
         "insider trading",
         "market manipulation",
-        "accounting fraud",
         "false reporting",
         "perjury",
         "obstruction of justice",
@@ -230,13 +211,10 @@ MAAT_TOPICS = {
         "data privacy violation",
         "cybercrime",
         "intellectual property theft",
-        "academic fraud",
-        "research misconduct",
         "regulatory violation",
         "compliance breach",
         "contract fraud",
-        "consumer fraud",
-        "corporate crime"
+        "consumer fraud"
     ],
         
     "degradation_signals": [
@@ -244,11 +222,11 @@ MAAT_TOPICS = {
         "declining standards",
         "credential inflation",
         "academic dilution",
-        "lowered assessment rigor",
+        "lowered assessment rigour",
         "reduced academic expectations",
         "quality erosion",
         "institutional decline",
-        "loss of rigor",
+        "loss of rigour",
         "curriculum simplification",
         "dumbing down of education",
         "massification of higher education",
@@ -272,11 +250,10 @@ MAAT_TOPICS = {
          "silencing dissent",
          "suppression of faculty dissent",
          "risks attached to reporting abuse",
-         "chilling effects",
          "self-censorship",
          "wrongful termination",
          "academic retaliation",
-         "professional marginalization",
+         "professional marginalisation",
          "career sabotage",
          "hostile work environment",
          "procedural manipulation",
@@ -286,12 +263,17 @@ MAAT_TOPICS = {
          "grant interference",
          "promotion blockage",
          "tenure denial pressure",
-         "peer review weaponization",
+         "peer review weaponisation",
          "disciplinary misuse",
          "institutional gatekeeping",
          "reputation damage tactics",
          "non-transparent evaluation processes",
-         "mobbing"
+         "mobbing",
+         "scarcity systems producing exploitation",
+         "hierarchy distorting fairness",
+         "structural pressure enabling abuse",
+         "weaponised collegiality",
+         "unequal power distribution"
     ],
 
      "accountability_gaps": [
@@ -315,28 +297,15 @@ MAAT_TOPICS = {
          "disciplinary inaction"
     ],
 
-    "inequality_structures": [
-        "exploitation",
-        "scarcity systems producing exploitation",
-        "hierarchy distorting fairness",
-        "structural pressure enabling abuse",
-        "institutional hierarchy",
-        "unequal power distribution",
-        "stratified academic systems",
-        "competitive funding systems",
-        "zero-sum resource allocation"
-    ],
-
+    
     "equity_social_issues": [
         "discrimination",
         "title IX",
         "racism",
         "bullying",
-        "harassment",
         "DEI",
         "equity initiatives",
         "gender discrimination",
-        "racial discrimination",
         "sexual harassment",
         "workplace harassment",
         "institutional bias",
@@ -353,18 +322,14 @@ MAAT_TOPICS = {
         "university rankings",
         "global university rankings",
         "institutional benchmarking",
-        "higher education systems",
-        "university evaluation metrics",
-        "performance indicators in education",
-        "system-level comparison",
-        "higher education governance structures"
+        "evaluation metrics",
+        "performance indicators"
     ],
 
-    "geopolitics": [
-        "politics",
+    "politics": [
+        "geopolitics",
         "international relations",
         "foreign policy",
-        "geopolitics",
         "authoritarianism",
         "democracy",
         "illiberal democracy",
@@ -456,8 +421,7 @@ MAAT_TOPICS = {
         "international partnerships",
         "transnational education",
         "international higher education",
-        "global higher education landscape",
-        "cross-border education systems",
+        "cross-border education",
         "brain drain"
     ],
 
@@ -468,6 +432,8 @@ MAAT_TOPICS = {
         "selective admissions",
         "standardized testing",
         "SAT",
+        "GRE",
+        "GMAT",
         "affirmative action",
         "access to university",
         "educational access",
