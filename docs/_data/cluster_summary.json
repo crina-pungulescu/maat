@@ -1,14 +1,13 @@
 [
   {
     "topic": "Higher Education Crisis",
-    "count": 323,
-    "score": 0.4691,
+    "count": 282,
+    "score": 0.4699,
     "topics": [
       "academic collapse",
       "breakdown of academic systems",
       "collapse of standards",
       "crisis in universities",
-      "crisis narrative",
       "crisis of legitimacy",
       "decline of academia",
       "education crisis",
@@ -16,70 +15,30 @@
       "erosion of higher education",
       "institutional crisis",
       "institutional strain",
-      "post-secondary education crisis",
       "systemic crisis",
       "university crisis",
       "university decline",
-      "unsustainable higher education model"
-    ]
-  },
-  {
-    "topic": "Student Experience",
-    "count": 144,
-    "score": 0.4526,
-    "topics": [
-      "student belonging",
-      "student engagement",
-      "student life",
-      "student mental health",
-      "student participation",
-      "student protest",
-      "student retention",
-      "student satisfaction",
-      "student support",
-      "student voice",
-      "student wellbeing",
-      "student-faculty relations",
-      "teacher-student relationship"
-    ]
-  },
-  {
-    "topic": "Teaching Learning",
-    "count": 117,
-    "score": 0.4454,
-    "topics": [
-      "active learning",
-      "assessment",
-      "classroom",
-      "course design",
-      "curriculum",
-      "educational practice",
-      "higher education teaching",
-      "instruction",
-      "learning",
-      "learning outcomes",
-      "online learning",
-      "pedagogy",
-      "remote teaching",
-      "teaching"
+      "unsustainable education model"
     ]
   },
   {
     "topic": "Academic Abuse",
-    "count": 115,
-    "score": 0.4329,
+    "count": 118,
+    "score": 0.433,
     "topics": [
       "academic retaliation",
       "administrative coercion",
       "bureaucratic obstruction",
       "career sabotage",
       "disciplinary misuse",
+      "hierarchy distorting fairness",
       "hostile work environment",
       "institutional abuse",
       "institutional gatekeeping",
-      "professional marginalization",
+      "professional marginalisation",
       "reputation damage tactics",
       "risks attached to reporting abuse",
+      "scarcity systems producing exploitation",
       "self-censorship",
       "silencing dissent",
       "suppression of faculty dissent",
@@ -106,24 +65,44 @@
     ]
   },
   {
-    "topic": "Academic Labour",
-    "count": 86,
-    "score": 0.4596,
+    "topic": "Teaching Learning",
+    "count": 106,
+    "score": 0.4376,
     "topics": [
-      "academic careers",
-      "academic exploitation",
-      "academic workload",
-      "adjuncts",
-      "career",
-      "employment",
-      "faculty contracts",
-      "graduate employment",
-      "job insecurity",
-      "labour exploitation",
-      "labour exploitation in academia",
-      "redundancy",
-      "unemployment",
-      "unpaid labour"
+      "BSc",
+      "MBA",
+      "MSc",
+      "PhD",
+      "active learning",
+      "course design",
+      "curriculum",
+      "degree",
+      "educational practice",
+      "instruction",
+      "learning",
+      "learning outcomes",
+      "online learning",
+      "pedagogy",
+      "remote teaching",
+      "student assessment",
+      "teaching"
+    ]
+  },
+  {
+    "topic": "Student Experience",
+    "count": 100,
+    "score": 0.4531,
+    "topics": [
+      "student engagement",
+      "student life",
+      "student mental health",
+      "student protest",
+      "student retention",
+      "student satisfaction",
+      "student support",
+      "student voice",
+      "student wellbeing",
+      "teacher-student relationship"
     ]
   },
   {
@@ -142,21 +121,7 @@
     ]
   },
   {
-    "topic": "Ranking Systems",
-    "count": 83,
-    "score": 0.4446,
-    "topics": [
-      "global university rankings",
-      "higher education governance structures",
-      "higher education systems",
-      "institutional benchmarking",
-      "performance indicators in education",
-      "university evaluation metrics",
-      "university rankings"
-    ]
-  },
-  {
-    "topic": "Sentiment Outlook",
+    "topic": "Future Outlook",
     "count": 76,
     "score": 0.4462,
     "topics": [
@@ -185,23 +150,6 @@
     ]
   },
   {
-    "topic": "Internationalisation",
-    "count": 67,
-    "score": 0.4366,
-    "topics": [
-      "academic mobility",
-      "cross-border education systems",
-      "global education",
-      "global higher education landscape",
-      "international higher education",
-      "international partnerships",
-      "international students",
-      "student mobility",
-      "study abroad",
-      "transnational education"
-    ]
-  },
-  {
     "topic": "Admissions Access",
     "count": 66,
     "score": 0.4402,
@@ -213,19 +161,6 @@
       "educational access",
       "selective admissions",
       "university admissions"
-    ]
-  },
-  {
-    "topic": "Policy Dynamics",
-    "count": 62,
-    "score": 0.4607,
-    "topics": [
-      "education policy",
-      "higher education reform",
-      "legislative reform",
-      "policy",
-      "policy change",
-      "reform"
     ]
   },
   {
@@ -246,37 +181,6 @@
     ]
   },
   {
-    "topic": "Equity Social Issues",
-    "count": 57,
-    "score": 0.4656,
-    "topics": [
-      "DEI",
-      "bullying",
-      "campus climate",
-      "discrimination",
-      "gender discrimination",
-      "harassment",
-      "institutional bias",
-      "protected class discrimination",
-      "racial discrimination",
-      "racism",
-      "sexual harassment",
-      "systemic inequality",
-      "workplace harassment"
-    ]
-  },
-  {
-    "topic": "Legal Violations",
-    "count": 55,
-    "score": 0.4322,
-    "topics": [
-      "academic fraud",
-      "cybercrime",
-      "obstruction of justice",
-      "research misconduct"
-    ]
-  },
-  {
     "topic": "Campus Infrastructure",
     "count": 51,
     "score": 0.4428,
@@ -291,28 +195,61 @@
     ]
   },
   {
-    "topic": "Geopolitics",
-    "count": 48,
-    "score": 0.4529,
+    "topic": "Equity Social Issues",
+    "count": 49,
+    "score": 0.4614,
     "topics": [
-      "United Nations",
-      "authoritarianism",
-      "civil unrest",
-      "civil war",
-      "democracy",
-      "economic warfare",
-      "foreign policy",
-      "geopolitics",
-      "illiberal democracy",
-      "international relations",
-      "political repression",
-      "politics",
-      "populism",
-      "propaganda",
-      "protest",
-      "regime change",
-      "revolution",
-      "uprising"
+      "DEI",
+      "bullying",
+      "campus climate",
+      "discrimination",
+      "gender discrimination",
+      "institutional bias",
+      "protected class discrimination",
+      "racism",
+      "sexual harassment",
+      "systemic inequality",
+      "workplace harassment"
+    ]
+  },
+  {
+    "topic": "Internationalisation",
+    "count": 49,
+    "score": 0.4358,
+    "topics": [
+      "academic mobility",
+      "global education",
+      "international higher education",
+      "international partnerships",
+      "international students",
+      "student mobility",
+      "study abroad",
+      "transnational education"
+    ]
+  },
+  {
+    "topic": "Governance Failure",
+    "count": 47,
+    "score": 0.475,
+    "topics": [
+      "bureaucracy in academia",
+      "institutional opacity"
+    ]
+  },
+  {
+    "topic": "Academic Labour",
+    "count": 47,
+    "score": 0.4516,
+    "topics": [
+      "academic careers",
+      "academic workload",
+      "adjuncts",
+      "faculty contracts",
+      "graduate employment",
+      "job insecurity",
+      "redundancy",
+      "unemployment",
+      "unpaid labour"
     ]
   },
   {
@@ -332,38 +269,56 @@
     ]
   },
   {
+    "topic": "Policy Dynamics",
+    "count": 46,
+    "score": 0.4771,
+    "topics": [
+      "education policy",
+      "higher education reform",
+      "legislative reform"
+    ]
+  },
+  {
+    "topic": "Politics",
+    "count": 45,
+    "score": 0.4552,
+    "topics": [
+      "United Nations",
+      "authoritarianism",
+      "civil unrest",
+      "civil war",
+      "democracy",
+      "economic warfare",
+      "foreign policy",
+      "geopolitics",
+      "illiberal democracy",
+      "international relations",
+      "political repression",
+      "populism",
+      "propaganda",
+      "protest",
+      "regime change",
+      "revolution",
+      "uprising"
+    ]
+  },
+  {
     "topic": "University Administration",
-    "count": 43,
-    "score": 0.4514,
+    "count": 44,
+    "score": 0.4546,
     "topics": [
-      "accreditation",
-      "governance",
+      "faculty bylaws",
       "higher education governance",
-      "institutional structure",
-      "regulation"
+      "institutional structure"
     ]
   },
   {
-    "topic": "Governance Failure",
-    "count": 38,
-    "score": 0.4642,
+    "topic": "Ethical Conflicts",
+    "count": 43,
+    "score": 0.4537,
     "topics": [
-      "bureaucracy",
-      "governance failure",
-      "institutional opacity",
-      "overregulation"
-    ]
-  },
-  {
-    "topic": "Inequality Structures",
-    "count": 33,
-    "score": 0.4458,
-    "topics": [
-      "competitive funding systems",
-      "hierarchy distorting fairness",
-      "institutional hierarchy",
-      "scarcity systems producing exploitation",
-      "stratified academic systems"
+      "academic dishonesty",
+      "research misconduct"
     ]
   },
   {
@@ -397,19 +352,20 @@
     ]
   },
   {
-    "topic": "Ethical Conflict",
-    "count": 28,
-    "score": 0.4572,
+    "topic": "Ranking Systems",
+    "count": 25,
+    "score": 0.4406,
     "topics": [
-      "academic dishonesty"
+      "global university rankings",
+      "institutional benchmarking",
+      "university rankings"
     ]
   },
   {
     "topic": "Funding Flows",
-    "count": 25,
-    "score": 0.4587,
+    "count": 22,
+    "score": 0.4607,
     "topics": [
-      "funding",
       "public funding",
       "research funding",
       "university budgets"
@@ -468,6 +424,15 @@
       "medical education",
       "medical students",
       "public health education"
+    ]
+  },
+  {
+    "topic": "Legal Violations",
+    "count": 2,
+    "score": 0.42,
+    "topics": [
+      "cybercrime",
+      "obstruction of justice"
     ]
   }
 ]
