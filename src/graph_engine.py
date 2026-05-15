@@ -575,7 +575,7 @@ def run(mode):
         date_str
     )
 
-    build_topic_hub_svg(npmi_edges, topic_cluster_map, nodes, date_str)
+    build_topic_hub_svg(cross_npmi_edges, topic_cluster_map, nodes, date_str)
 
     print(f"{mode.upper()} GRAPH COMPLETE")
 
