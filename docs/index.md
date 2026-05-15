@@ -66,13 +66,60 @@ Each article is evaluated not by keywords, but by semantic proximity to higher e
 
 {% assign network = site.data.cross_npmi_network | sort: "weight" | reverse %}
 
-<ul>
+<div class="hub-network">
+
 {% for edge in network limit:10 %}
-<li>
-{{ edge.source }} ↔ {{ edge.target }}
-</li>
+
+  <div class="hub-edge">
+
+    <div class="hub-node">
+      {{ edge.source | replace: "_", " " | capitalize }}
+    </div>
+
+    <div class="hub-line"></div>
+
+    <div class="hub-node central">
+      {{ edge.target | replace: "_", " " | capitalize }}
+    </div>
+
+  </div>
+
 {% endfor %}
-</ul>
+
+</div>
+
+.hub-network {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  margin-top: 20px;
+}
+
+.hub-edge {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.hub-node {
+  padding: 6px 12px;
+  background: #f4f4f4;
+  border-radius: 999px;
+  font-size: 0.95rem;
+  white-space: nowrap;
+}
+
+.hub-node.central {
+  background: #222;
+  color: white;
+  font-weight: 600;
+}
+
+.hub-line {
+  flex-grow: 1;
+  height: 2px;
+  background: #bbb;
+}
 
 ---
 
