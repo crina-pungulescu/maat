@@ -92,6 +92,29 @@ MAAT_TOPICS = {
         "scientific innovation"
     ],
 
+    "higher_education_crisis": [
+        "institutional crisis",
+        "education crisis",
+        "university crisis",
+        "systemic crisis",
+        "institutional crisis",
+        "decline of academia",
+        "academic collapse",
+        "university decline",
+        "erosion of higher education",
+        "breakdown of academic systems",
+        "crisis in universities",
+        "collapse of standards",
+        "educational instability",
+        "structural breakdown",
+        "unsustainable higher education model",
+        "crisis of legitimacy",
+        "crisis narrative",
+        "institutional strain",
+        "systemic failure framing",
+        "post-secondary education crisis"
+    ],
+
     "education_cost": [
         "student debt",
         "tuition",
