@@ -1,17 +1,207 @@
 import json
 import math
-
 from pathlib import Path
 from collections import defaultdict, Counter
 from itertools import combinations
 
 
+# ----------------------------
+# CONFIG
+# ----------------------------
+
 THRESHOLD = 0.4
 MIN_EDGE_COUNT = 3
 
-def build_cluster_summary(matrix, nodes):
 
-    topic_cluster_map = build_topic_cluster_map(matrix)
+# ----------------------------
+# LOAD
+# ----------------------------
+
+def load_matrix(path):
+    with open(path, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+
+# ----------------------------
+# CLUSTER MAPPING
+# ----------------------------
+
+def build_topic_cluster_map(matrix):
+
+    mapping = {}
+
+    for article in matrix:
+        for t in article["scores"]:
+
+            topic = t["topic"]
+            cluster = t.get("cluster", "unknown")
+
+            # stable assignment (first seen wins)
+            if topic not in mapping:
+                mapping[topic] = cluster
+
+    return mapping
+
+
+# ----------------------------
+# NODES (TOPICS)
+# ----------------------------
+
+def build_nodes(matrix):
+
+    topic_counts = Counter()
+    topic_scores = defaultdict(list)
+
+    for article in matrix:
+        for t in article["scores"]:
+
+            if t["score"] >= THRESHOLD:
+
+                topic = t["topic"]
+
+                topic_counts[topic] += 1
+                topic_scores[topic].append(t["score"])
+
+    nodes = []
+
+    for topic, count in topic_counts.items():
+
+        avg_score = sum(topic_scores[topic]) / len(topic_scores[topic])
+
+        nodes.append({
+            "id": topic,
+            "weight": count,
+            "avg_score": round(avg_score, 4)
+        })
+
+    return nodes
+
+
+# ----------------------------
+# EDGES (TOPIC CO-OCCURRENCE)
+# ----------------------------
+
+def build_edges(matrix):
+
+    edge_counts = Counter()
+
+    for article in matrix:
+
+        topics = [
+            t["topic"]
+            for t in article["scores"]
+            if t["score"] >= THRESHOLD
+        ]
+
+        unique_topics = sorted(set(topics))
+
+        for a, b in combinations(unique_topics, 2):
+            edge_counts[(a, b)] += 1
+
+    edges = [
+        {
+            "source": a,
+            "target": b,
+            "weight": w
+        }
+        for (a, b), w in edge_counts.items()
+    ]
+
+    return sorted(edges, key=lambda x: x["weight"], reverse=True)
+
+
+# ----------------------------
+# PMI / NPMI EDGES
+# ----------------------------
+
+def build_pmi_edges(matrix, nodes):
+
+    total_articles = len(matrix)
+
+    node_counts = {n["id"]: n["weight"] for n in nodes}
+
+    edge_counts = Counter()
+
+    for article in matrix:
+
+        topics = [
+            t["topic"]
+            for t in article["scores"]
+            if t["score"] >= THRESHOLD
+        ]
+
+        unique_topics = sorted(set(topics))
+
+        for a, b in combinations(unique_topics, 2):
+            edge_counts[(a, b)] += 1
+
+    pmi_edges = []
+    npmi_edges = []
+
+    for (a, b), co_count in edge_counts.items():
+
+        if co_count < MIN_EDGE_COUNT:
+            continue
+
+        p_a = node_counts[a] / total_articles
+        p_b = node_counts[b] / total_articles
+        p_ab = co_count / total_articles
+
+        pmi = math.log2((p_ab + 1e-12) / ((p_a * p_b) + 1e-12))
+        npmi = pmi / (-math.log2(p_ab + 1e-12))
+
+        pmi_edges.append({
+            "source": a,
+            "target": b,
+            "co_occurrence": co_count,
+            "pmi": round(pmi, 4)
+        })
+
+        npmi_edges.append({
+            "source": a,
+            "target": b,
+            "co_occurrence": co_count,
+            "npmi": round(npmi, 4)
+        })
+
+    return (
+        sorted(pmi_edges, key=lambda x: x["pmi"], reverse=True),
+        sorted(npmi_edges, key=lambda x: x["npmi"], reverse=True)
+    )
+
+
+# ----------------------------
+# CROSS-CLUSTER FILTER
+# ----------------------------
+
+def filter_cross_cluster_edges(edges, topic_cluster_map):
+
+    filtered = []
+
+    for e in edges:
+
+        a = e["source"]
+        b = e["target"]
+
+        ca = topic_cluster_map.get(a)
+        cb = topic_cluster_map.get(b)
+
+        if ca != cb:
+
+            filtered.append({
+                **e,
+                "source_cluster": ca,
+                "target_cluster": cb
+            })
+
+    return filtered
+
+
+# ----------------------------
+# CLUSTER SUMMARY (FOR INDEX TABLE)
+# ----------------------------
+
+def build_cluster_summary(matrix, nodes, topic_cluster_map):
 
     cluster_data = defaultdict(lambda: {
         "count": 0,
@@ -46,6 +236,11 @@ def build_cluster_summary(matrix, nodes):
 
     return sorted(output, key=lambda x: x["count"], reverse=True)
 
+
+# ----------------------------
+# CLUSTER-LEVEL NETWORK
+# ----------------------------
+
 def build_cluster_edges(cross_edges):
 
     edge_counts = Counter()
@@ -71,264 +266,13 @@ def build_cluster_edges(cross_edges):
     ]
 
 
-
-def filter_cross_cluster_edges(edges, topic_cluster_map):
-
-    filtered = []
-
-    for e in edges:
-
-        a = e["source"]
-        b = e["target"]
-
-        ca = topic_cluster_map.get(a)
-        cb = topic_cluster_map.get(b)
-
-        if ca != cb:
-
-            filtered.append({
-                **e,
-                "source_cluster": ca,
-                "target_cluster": cb
-            })
-
-    return filtered
-
-def build_topic_cluster_map(matrix):
-
-    mapping = {}
-
-    for article in matrix:
-
-        for t in article["scores"]:
-
-            topic = t["topic"]
-            cluster = t.get("cluster", "unknown")
-
-            if topic not in mapping:
-                mapping[topic] = cluster
-
-    return mapping
-
-def filter_cross_cluster_edges(edges, topic_cluster_map):
-
-    filtered = []
-
-    for e in edges:
-
-        a = e["source"]
-        b = e["target"]
-
-        ca = topic_cluster_map.get(a)
-        cb = topic_cluster_map.get(b)
-
-        # only cross-cluster
-        if ca != cb:
-
-            filtered.append({
-                **e,
-                "source_cluster": ca,
-                "target_cluster": cb
-            })
-
-    return filtered
-
-def build_topic_cluster_map(matrix):
-
-    mapping = {}
-
-    for article in matrix:
-
-        for t in article["scores"]:
-
-            topic = t["topic"]
-            cluster = t.get("cluster", "unknown")
-
-            # keep first seen (stable mapping)
-            if topic not in mapping:
-                mapping[topic] = cluster
-
-    return mapping
-
 # ----------------------------
-# LOAD
-# ----------------------------
-
-def load_matrix(path):
-
-    with open(path, "r", encoding="utf-8") as f:
-        return json.load(f)
-
-
-# ----------------------------
-# NODE BUILDING
-# ----------------------------
-
-def build_nodes(matrix):
-
-    topic_counts = Counter()
-    topic_scores = defaultdict(list)
-
-    for article in matrix:
-
-        for t in article["scores"]:
-
-            if t["score"] >= THRESHOLD:
-
-                topic = t["topic"]
-
-                topic_counts[topic] += 1
-                topic_scores[topic].append(t["score"])
-
-    nodes = []
-
-    for topic, count in topic_counts.items():
-
-        avg_score = (
-            sum(topic_scores[topic]) /
-            len(topic_scores[topic])
-        )
-
-        nodes.append({
-            "id": topic,
-            "weight": count,
-            "avg_score": round(avg_score, 4)
-        })
-
-    return nodes
-
-
-# ----------------------------
-# EDGE BUILDING
-# ----------------------------
-
-def build_edges(matrix):
-
-    edge_counts = Counter()
-
-    for article in matrix:
-
-        topics = [
-            t["topic"]
-            for t in article["scores"]
-            if t["score"] >= THRESHOLD
-        ]
-
-        unique_topics = sorted(set(topics))
-
-        for a, b in combinations(unique_topics, 2):
-            edge_counts[(a, b)] += 1
-
-    edges = [
-        {
-            "source": a,
-            "target": b,
-            "weight": w
-        }
-        for (a, b), w in edge_counts.items()
-    ]
-
-    edges.sort(
-        key=lambda x: x["weight"],
-        reverse=True
-    )
-
-    return edges
-
-
-# ----------------------------
-# PMI + NPMI EDGE BUILDING
-# ----------------------------
-
-def build_pmi_edges(matrix, nodes):
-
-    total_articles = len(matrix)
-
-    # topic frequencies
-    node_counts = {
-        n["id"]: n["weight"]
-        for n in nodes
-    }
-
-    # co-occurrence frequencies
-    edge_counts = Counter()
-
-    for article in matrix:
-
-        topics = [
-            t["topic"]
-            for t in article["scores"]
-            if t["score"] >= THRESHOLD
-        ]
-
-        unique_topics = sorted(set(topics))
-
-        for a, b in combinations(unique_topics, 2):
-            edge_counts[(a, b)] += 1
-
-    pmi_edges = []
-    npmi_edges = []
-
-    for (a, b), co_count in edge_counts.items():
-
-        # ignore weak accidental pairings
-        if co_count < MIN_EDGE_COUNT:
-            continue
-
-        p_a = node_counts[a] / total_articles
-        p_b = node_counts[b] / total_articles
-        p_ab = co_count / total_articles
-
-        # PMI
-        pmi = math.log2(
-            (p_ab + 1e-12) /
-            ((p_a * p_b) + 1e-12)
-        )
-
-        # NPMI
-        npmi = pmi / (
-            -math.log2(p_ab + 1e-12)
-        )
-
-        pmi_edges.append({
-            "source": a,
-            "target": b,
-            "co_occurrence": co_count,
-            "pmi": round(pmi, 4)
-        })
-
-        npmi_edges.append({
-            "source": a,
-            "target": b,
-            "co_occurrence": co_count,
-            "npmi": round(npmi, 4)
-        })
-
-    # strongest relationships first
-    pmi_edges.sort(
-        key=lambda x: x["pmi"],
-        reverse=True
-    )
-
-    npmi_edges.sort(
-        key=lambda x: x["npmi"],
-        reverse=True
-    )
-
-    return pmi_edges, npmi_edges
-
-
-# ----------------------------
-# DAILY SUMMARY
+# DAILY SUMMARY (INDEX SIDEBAR)
 # ----------------------------
 
 def build_daily_summary(nodes, top_k=10):
 
-    sorted_nodes = sorted(
-        nodes,
-        key=lambda x: x["weight"],
-        reverse=True
-    )
+    sorted_nodes = sorted(nodes, key=lambda x: x["weight"], reverse=True)
 
     return [
         {
@@ -358,145 +302,57 @@ def save_outputs(
 ):
 
     output_dir = Path("data/graphs")
-    output_dir.mkdir(
-        parents=True,
-        exist_ok=True
-    )
+    output_dir.mkdir(parents=True, exist_ok=True)
 
-    with open(
-        f"data/graphs/graph_nodes_{date_str}.json",
-        "w",
-        encoding="utf-8"
-    ) as f:
+    def dump(name, data):
+        with open(output_dir / name, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=2, ensure_ascii=False)
 
-        json.dump(
-            nodes,
-            f,
-            indent=2,
-            ensure_ascii=False
-        )
+    dump(f"graph_nodes_{date_str}.json", nodes)
+    dump(f"graph_edges_{date_str}.json", edges)
 
-    with open(
-        f"data/graphs/graph_edges_{date_str}.json",
-        "w",
-        encoding="utf-8"
-    ) as f:
+    dump(f"pmi_edges_{date_str}.json", pmi_edges)
+    dump(f"npmi_edges_{date_str}.json", npmi_edges)
 
-        json.dump(
-            edges,
-            f,
-            indent=2,
-            ensure_ascii=False
-        )
+    dump(f"cross_pmi_edges_{date_str}.json", cross_pmi_edges)
+    dump(f"cross_npmi_edges_{date_str}.json", cross_npmi_edges)
 
-    with open(
-        f"data/graphs/pmi_edges_{date_str}.json",
-        "w",
-        encoding="utf-8"
-    ) as f:
+    dump(f"today_summary_{date_str}.json", summary)
 
-        json.dump(
-            pmi_edges,
-            f,
-            indent=2,
-            ensure_ascii=False
-        )
-
-    with open(
-        f"data/graphs/npmi_edges_{date_str}.json",
-        "w",
-        encoding="utf-8"
-    ) as f:
-
-        json.dump(
-            npmi_edges,
-            f,
-            indent=2,
-            ensure_ascii=False
-        )
-
-    with open(
-        f"data/graphs/today_summary_{date_str}.json",
-        "w",
-        encoding="utf-8"
-    ) as f:
-
-        json.dump(
-            summary,
-            f,
-            indent=2,
-            ensure_ascii=False
-        )
-
-    with open(
-        f"data/graphs/cross_pmi_edges_{date_str}.json",
-        "w",
-        encoding="utf-8"
-    ) as f:
-        json.dump(cross_pmi_edges, f, indent=2, ensure_ascii=False)
-
-    with open(
-        f"data/graphs/cross_npmi_edges_{date_str}.json",
-        "w",
-        encoding="utf-8"
-    ) as f:
-        json.dump(cross_npmi_edges, f, indent=2, ensure_ascii=False)
-
-    with open(f"data/graphs/cluster_summary_{date_str}.json", "w") as f:
-        json.dump(cluster_summary, f, indent=2, ensure_ascii=False)
-
-    with open(f"data/graphs/cluster_edges_{date_str}.json", "w") as f:
-        json.dump(cluster_edges, f, indent=2, ensure_ascii=False)
+    dump(f"cluster_summary_{date_str}.json", cluster_summary)
+    dump(f"cluster_edges_{date_str}.json", cluster_edges)
 
     print("Graph outputs saved.")
 
 
 # ----------------------------
-# RUN PIPELINE
+# PIPELINE
 # ----------------------------
 
 def run():
 
-    path = sorted(
-        Path("data/topics").glob(
-            "topic_matrix_*.json"
-        )
-    )[-1]
+    path = sorted(Path("data/topics").glob("topic_matrix_*.json"))[-1]
+    date_str = path.stem.replace("topic_matrix_", "")
 
-    date_str = path.stem.replace(
-        "topic_matrix_",
-        ""
-    )
-
-    print(
-        f"Processing topic graph for: {date_str}"
-    )
+    print(f"Processing topic graph for: {date_str}")
 
     matrix = load_matrix(path)
 
-    nodes = build_nodes(matrix)
+    topic_cluster_map = build_topic_cluster_map(matrix)
 
+    nodes = build_nodes(matrix)
     edges = build_edges(matrix)
 
     pmi_edges, npmi_edges = build_pmi_edges(matrix, nodes)
 
-    topic_cluster_map = build_topic_cluster_map(matrix)
-
     cross_pmi_edges = filter_cross_cluster_edges(pmi_edges, topic_cluster_map)
     cross_npmi_edges = filter_cross_cluster_edges(npmi_edges, topic_cluster_map)
 
-    cluster_summary = build_cluster_summary(matrix, nodes)
+    cluster_summary = build_cluster_summary(matrix, nodes, topic_cluster_map)
 
     cluster_edges = build_cluster_edges(cross_npmi_edges)
 
     summary = build_daily_summary(nodes)
-
-    print("CWD:", Path.cwd())
-
-    print(
-        "OUTPUT EXPECTED:",
-        Path("data/graphs").resolve()
-    )
 
     save_outputs(
         nodes,
@@ -511,14 +367,8 @@ def run():
         date_str
     )
 
-
     print("MAAT TOPIC GRAPH COMPLETE")
 
 
-# ----------------------------
-# ENTRY POINT
-# ----------------------------
-
 if __name__ == "__main__":
-
     run()
