@@ -48,8 +48,12 @@ def build_topic_hub_svg(npmi_edges, topic_cluster_map, nodes, date_str):
     node_list = list(node_ids)
     n = len(node_list)
 
+    width = 800
+    height = 800
+    margin = 100
+
     radius = 220
-    center_x, center_y = 300, 300
+    center_x, center_y = width / 2, height / 2
 
     positions = {}
 
@@ -67,11 +71,6 @@ def build_topic_hub_svg(npmi_edges, topic_cluster_map, nodes, date_str):
 
     svg.append('<?xml version="1.0" encoding="UTF-8"?>')
    
-    width = 800
-    height = 800
-    margin = 100
-
-    center_x, center_y = width / 2, height / 2
 
     svg.append(f'<svg width="{width}" height="{height}" xmlns="http://www.w3.org/2000/svg">')
     svg.append('<rect width="100%" height="100%" fill="white"/>')
