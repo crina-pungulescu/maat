@@ -48,8 +48,8 @@ def build_topic_hub_svg(npmi_edges, topic_cluster_map, nodes, date_str):
     node_list = list(node_ids)
     n = len(node_list)
 
-    width = 800
-    height = 800
+    width = 850
+    height = 850
     margin = 100
 
     radius = 300
