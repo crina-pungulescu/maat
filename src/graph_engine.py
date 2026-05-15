@@ -13,6 +13,8 @@ from datetime import datetime
 THRESHOLD = 0.4
 MIN_EDGE_COUNT = 3
 
+def pretty_name(s: str) -> str:
+    return s.replace("_", " ").replace("-", " ").title()
 
 def write_system(system, date_str):
     path = f"data/graphs/system_{date_str}.json"
@@ -76,6 +78,7 @@ def build_nodes(matrix):
 
         nodes.append({
             "id": topic,
+            "label": pretty_name(topic)
             "weight": count,
             "avg_score": round(avg_score, 4)
         })
@@ -234,7 +237,7 @@ def build_cluster_summary(matrix, nodes, topic_cluster_map):
         )
 
         output.append({
-            "topic": cluster,
+            "topic": pretty_name(cluster),
             "count": data["count"],
             "score": round(avg_score, 4),
             "topics": sorted(list(data["topics"]))
