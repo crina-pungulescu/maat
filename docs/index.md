@@ -70,7 +70,9 @@ Each article is evaluated not by keywords, but by semantic proximity to higher e
 
 ## Strongest Topic Connections
 
+<div style="text-align: center;">
 <img src="assets/topic_hub.svg">
+</div>
 
 ---
 
