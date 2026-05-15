@@ -2,6 +2,34 @@ from pathlib import Path
 from datetime import datetime
 import json
 
+def count_articles_by_day():
+
+    result = {}
+
+    for file in Path("data/raw").glob("articles-*.jsonl"):
+
+        date = file.stem.replace("articles-", "")
+
+        with open(file, "r", encoding="utf-8") as f:
+            result[date] = sum(1 for _ in f)
+
+    return result
+
+def count_total_articles():
+
+    total = 0
+
+    files = Path("data/raw").glob("articles-*.jsonl")
+
+    for file in files:
+
+        with open(file, "r", encoding="utf-8") as f:
+
+            for _ in f:
+                total += 1
+
+    return total
+
 def latest_file(pattern):
 
     files = sorted(Path("data/graphs").glob(pattern))
@@ -58,16 +86,15 @@ DATA_DIR.mkdir(parents=True, exist_ok=True)
 
 )
 
+articles_by_day = count_articles_by_day()
+
 system = {
-
     "articles_today": len(summary),
-
+    "total_articles": count_total_articles(),
     "total_topics": len(nodes),
-
+    "articles_by_day": articles_by_day,
     "total_edges": len(edges),
-
     "last_run": datetime.utcnow().isoformat()
-
 }
 
 (DATA_DIR / "system.json").write_text(
