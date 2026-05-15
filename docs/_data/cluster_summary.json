@@ -1,13 +1,11 @@
 [
   {
     "topic": "Higher Education Crisis",
-    "count": 282,
-    "score": 0.4699,
+    "count": 247,
+    "score": 0.4693,
     "topics": [
       "academic collapse",
       "breakdown of academic systems",
-      "collapse of standards",
-      "crisis in universities",
       "crisis of legitimacy",
       "decline of academia",
       "education crisis",
@@ -22,27 +20,72 @@
     ]
   },
   {
+    "topic": "Teaching Learning",
+    "count": 141,
+    "score": 0.4373,
+    "topics": [
+      "BSc",
+      "MBA",
+      "MSc",
+      "PhD",
+      "academic degree",
+      "active learning",
+      "course design",
+      "curriculum",
+      "educational practice",
+      "graduate degrees",
+      "instruction",
+      "learning",
+      "learning outcomes",
+      "online learning",
+      "pedagogical innovation",
+      "pedagogy",
+      "remote teaching",
+      "student assessment",
+      "teaching",
+      "teaching excellence",
+      "undegraduate degrees"
+    ]
+  },
+  {
     "topic": "Academic Abuse",
-    "count": 118,
-    "score": 0.433,
+    "count": 135,
+    "score": 0.4336,
     "topics": [
       "academic retaliation",
       "administrative coercion",
       "bureaucratic obstruction",
       "career sabotage",
       "disciplinary misuse",
-      "hierarchy distorting fairness",
       "hostile work environment",
       "institutional abuse",
       "institutional gatekeeping",
+      "institutional opacity",
+      "procedural abusepower asymmetry",
       "professional marginalisation",
       "reputation damage tactics",
       "risks attached to reporting abuse",
-      "scarcity systems producing exploitation",
       "self-censorship",
       "silencing dissent",
       "suppression of faculty dissent",
       "workplace abuse"
+    ]
+  },
+  {
+    "topic": "University Administration",
+    "count": 129,
+    "score": 0.4524,
+    "topics": [
+      "academic council",
+      "board of regents",
+      "board of trustees",
+      "education policy",
+      "education reform",
+      "faculty bylaws",
+      "faculty senate",
+      "higher education governance",
+      "institutional structure",
+      "legislative reform"
     ]
   },
   {
@@ -65,33 +108,9 @@
     ]
   },
   {
-    "topic": "Teaching Learning",
-    "count": 106,
-    "score": 0.4376,
-    "topics": [
-      "BSc",
-      "MBA",
-      "MSc",
-      "PhD",
-      "active learning",
-      "course design",
-      "curriculum",
-      "degree",
-      "educational practice",
-      "instruction",
-      "learning",
-      "learning outcomes",
-      "online learning",
-      "pedagogy",
-      "remote teaching",
-      "student assessment",
-      "teaching"
-    ]
-  },
-  {
     "topic": "Student Experience",
-    "count": 100,
-    "score": 0.4531,
+    "count": 102,
+    "score": 0.453,
     "topics": [
       "student engagement",
       "student life",
@@ -107,8 +126,8 @@
   },
   {
     "topic": "Academic Freedom",
-    "count": 86,
-    "score": 0.4409,
+    "count": 89,
+    "score": 0.4402,
     "topics": [
       "academic freedom",
       "campus speech",
@@ -122,8 +141,8 @@
   },
   {
     "topic": "Future Outlook",
-    "count": 76,
-    "score": 0.4462,
+    "count": 78,
+    "score": 0.4457,
     "topics": [
       "academic morale",
       "academic uncertainty",
@@ -151,11 +170,10 @@
   },
   {
     "topic": "Admissions Access",
-    "count": 66,
-    "score": 0.4402,
+    "count": 59,
+    "score": 0.4388,
     "topics": [
       "access to university",
-      "admissions policy",
       "affirmative action",
       "college admissions",
       "educational access",
@@ -165,13 +183,12 @@
   },
   {
     "topic": "Educational Technology",
-    "count": 58,
-    "score": 0.4891,
+    "count": 56,
+    "score": 0.4912,
     "topics": [
       "AI in education",
       "AI-assisted learning",
       "AI-assisted teaching",
-      "algorithmic assessment",
       "artificial intelligence",
       "automation in education",
       "digital learning",
@@ -181,40 +198,25 @@
     ]
   },
   {
-    "topic": "Campus Infrastructure",
-    "count": 51,
-    "score": 0.4428,
+    "topic": "Research Activities",
+    "count": 55,
+    "score": 0.4526,
     "topics": [
-      "campus expansion",
-      "campus housing",
-      "campus safety",
-      "laboratories",
-      "research facilities",
-      "student accommodation",
-      "university campus"
-    ]
-  },
-  {
-    "topic": "Equity Social Issues",
-    "count": 49,
-    "score": 0.4614,
-    "topics": [
-      "DEI",
-      "bullying",
-      "campus climate",
-      "discrimination",
-      "gender discrimination",
-      "institutional bias",
-      "protected class discrimination",
-      "racism",
-      "sexual harassment",
-      "systemic inequality",
-      "workplace harassment"
+      "academic publishing",
+      "citation metrics",
+      "peer review",
+      "publication pressure",
+      "publish or perish",
+      "research evaluation",
+      "research excellence",
+      "research productivity",
+      "scientific collaboration",
+      "scientific innovation"
     ]
   },
   {
     "topic": "Internationalisation",
-    "count": 49,
+    "count": 50,
     "score": 0.4358,
     "topics": [
       "academic mobility",
@@ -225,15 +227,6 @@
       "student mobility",
       "study abroad",
       "transnational education"
-    ]
-  },
-  {
-    "topic": "Governance Failure",
-    "count": 47,
-    "score": 0.475,
-    "topics": [
-      "bureaucracy in academia",
-      "institutional opacity"
     ]
   },
   {
@@ -253,35 +246,9 @@
     ]
   },
   {
-    "topic": "Research Activities",
-    "count": 47,
-    "score": 0.4525,
-    "topics": [
-      "academic publishing",
-      "citation metrics",
-      "peer review",
-      "publication pressure",
-      "publish or perish",
-      "research evaluation",
-      "research productivity",
-      "scientific collaboration",
-      "scientific innovation"
-    ]
-  },
-  {
-    "topic": "Policy Dynamics",
-    "count": 46,
-    "score": 0.4771,
-    "topics": [
-      "education policy",
-      "higher education reform",
-      "legislative reform"
-    ]
-  },
-  {
     "topic": "Politics",
     "count": 45,
-    "score": 0.4552,
+    "score": 0.459,
     "topics": [
       "United Nations",
       "authoritarianism",
@@ -303,16 +270,6 @@
     ]
   },
   {
-    "topic": "University Administration",
-    "count": 44,
-    "score": 0.4546,
-    "topics": [
-      "faculty bylaws",
-      "higher education governance",
-      "institutional structure"
-    ]
-  },
-  {
     "topic": "Ethical Conflicts",
     "count": 43,
     "score": 0.4537,
@@ -322,26 +279,53 @@
     ]
   },
   {
-    "topic": "Accountability Gaps",
-    "count": 30,
-    "score": 0.4223,
+    "topic": "Equity Social Issues",
+    "count": 41,
+    "score": 0.4595,
     "topics": [
-      "career protection for senior figures",
+      "DEI",
+      "bullying",
+      "discrimination",
+      "gender discrimination",
+      "inclusive policy",
+      "institutional bias",
+      "racism",
+      "sexual harassment",
+      "systemic inequality",
+      "workplace harassment"
+    ]
+  },
+  {
+    "topic": "Accountability Gaps",
+    "count": 38,
+    "score": 0.4199,
+    "topics": [
       "conflict of interest",
       "decision-making opacity",
       "disciplinary inaction",
       "elite impunity",
-      "institutional protection",
+      "institutional cover-up",
       "institutional shielding",
-      "lack of accountability for powerful actors",
       "lack of oversight",
       "weak governance"
     ]
   },
   {
+    "topic": "Campus Infrastructure",
+    "count": 34,
+    "score": 0.4449,
+    "topics": [
+      "campus expansion",
+      "campus safety",
+      "laboratories",
+      "research facilities",
+      "student accommodation"
+    ]
+  },
+  {
     "topic": "Science Society",
-    "count": 30,
-    "score": 0.4369,
+    "count": 32,
+    "score": 0.4358,
     "topics": [
       "evidence-based policy",
       "misinformation",
@@ -372,21 +356,13 @@
     ]
   },
   {
-    "topic": "Financial Constraints",
-    "count": 19,
-    "score": 0.4418,
-    "topics": [
-      "austerity",
-      "financial pressure in academia",
-      "underfunding"
-    ]
-  },
-  {
     "topic": "Regions Countries",
-    "count": 18,
-    "score": 0.453,
+    "count": 20,
+    "score": 0.4733,
     "topics": [
+      "argentina",
       "asia",
+      "brazil",
       "east asia",
       "eastern europe",
       "europe",
@@ -399,9 +375,19 @@
     ]
   },
   {
+    "topic": "Financial Constraints",
+    "count": 19,
+    "score": 0.4418,
+    "topics": [
+      "austerity",
+      "financial pressure in academia",
+      "underfunding"
+    ]
+  },
+  {
     "topic": "Sustainability Climate",
-    "count": 14,
-    "score": 0.4203,
+    "count": 15,
+    "score": 0.4193,
     "topics": [
       "climate education",
       "sustainable university"
