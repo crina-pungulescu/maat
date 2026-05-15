@@ -39,8 +39,10 @@ MAAT_TOPICS = {
         "online learning",
         "hybrid learning",
         "distance education",
+        "remote teaching",
         "higher education teaching"
     ],
+
 
     "student_experience": [
         "student wellbeing",
