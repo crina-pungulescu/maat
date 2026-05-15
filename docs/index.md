@@ -43,20 +43,18 @@ Each article is evaluated not by keywords, but by semantic proximity to higher e
 
 ## Dominant Themes
 
-{% assign topics = site.data.cluster_summary %}
+{% assign topics = site.data.cluster_summary | sort: "count" | reverse | slice: 0, 10 %}
 
 <table>
 <tr>
 <th>Topic</th>
 <th>Articles</th>
-<th>Mean Semantic Similarity Score</th>
 </tr>
 
 {% for topic in topics %}
 <tr>
 <td>{{ topic.topic }}</td>
 <td>{{ topic.count }}</td>
-<td>{{ topic.score }}</td>
 </tr>
 {% endfor %}
 
