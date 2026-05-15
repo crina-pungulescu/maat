@@ -14,7 +14,7 @@ THRESHOLD = 0.4
 MIN_EDGE_COUNT = 3
 
 def build_topic_hub_svg(npmi_edges, topic_cluster_map, nodes, date_str):
-    import math
+    print("SVG EXPORT TARGET:", (Path("docs/assets").resolve()))
 
     output_dir = Path("docs/assets")
     output_dir.mkdir(parents=True, exist_ok=True)
@@ -131,6 +131,10 @@ def build_topic_hub_svg(npmi_edges, topic_cluster_map, nodes, date_str):
         f.write(svg_content)
 
     print("Topic hub SVG exported.")
+
+    print("FILES WRITTEN:")
+    print((output_dir / "topic_hub.svg").resolve())
+    print((output_dir / f"topic_hub_{date_str}.svg").resolve())
 
 def load_all_matrices():
     paths = sorted(Path("data/topics").glob("topic_matrix_*.json"))
