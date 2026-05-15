@@ -182,7 +182,11 @@ def run_aggregate():
 
     matrix = load_all_matrices()
 
-    date_str = "aggregate"
+    latest_path = sorted(Path("data/topics").glob("topic_matrix_*.json"))[-1]
+
+    latest_date = latest_path.stem.replace("topic_matrix_", "")
+
+    date_str = f"aggregate_{latest_date}"
 
     topic_cluster_map = build_topic_cluster_map(matrix)
 
