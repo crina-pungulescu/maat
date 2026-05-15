@@ -88,39 +88,6 @@ Each article is evaluated not by keywords, but by semantic proximity to higher e
 
 </div>
 
-.hub-network {
-  display: flex;
-  flex-direction: column;
-  gap: 14px;
-  margin-top: 20px;
-}
-
-.hub-edge {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-}
-
-.hub-node {
-  padding: 6px 12px;
-  background: #f4f4f4;
-  border-radius: 999px;
-  font-size: 0.95rem;
-  white-space: nowrap;
-}
-
-.hub-node.central {
-  background: #222;
-  color: white;
-  font-weight: 600;
-}
-
-.hub-line {
-  flex-grow: 1;
-  height: 2px;
-  background: #bbb;
-}
-
 ---
 
 ## System Status
