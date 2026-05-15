@@ -7,6 +7,19 @@ import json
 # UTIL
 # ----------------------------
 
+from pathlib import Path
+
+def count_total_articles():
+
+    total = 0
+
+    for file in Path("data/raw").glob("articles_*.jsonl"):
+
+        with open(file, "r", encoding="utf-8") as f:
+            total += sum(1 for _ in f)
+
+    return total
+
 def latest_file(pattern):
     files = sorted(Path("data/graphs").glob(pattern))
     if not files:
@@ -31,6 +44,8 @@ system_path = latest_file("system_*.json")
 cluster_summary = load_json(cluster_path)
 cross_npmi_network = load_json(network_path)
 system = load_json(system_path)
+
+system["total_articles"] = count_total_articles()
 
 
 # ----------------------------
