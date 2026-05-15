@@ -1,0 +1,1347 @@
+[
+  {
+    "source": "geopolitics",
+    "target": "policy_dynamics",
+    "weight": 8
+  },
+  {
+    "source": "research_ecosystems",
+    "target": "science_society",
+    "weight": 13
+  },
+  {
+    "source": "funding_flows",
+    "target": "student_economics",
+    "weight": 10
+  },
+  {
+    "source": "academic_labour",
+    "target": "institutional_structure",
+    "weight": 11
+  },
+  {
+    "source": "funding_flows",
+    "target": "science_society",
+    "weight": 4
+  },
+  {
+    "source": "educational_technology",
+    "target": "teaching_learning",
+    "weight": 30
+  },
+  {
+    "source": "admissions_access",
+    "target": "campus_infrastructure",
+    "weight": 13
+  },
+  {
+    "source": "admissions_access",
+    "target": "teaching_learning",
+    "weight": 21
+  },
+  {
+    "source": "academic_freedom",
+    "target": "inequality_structures",
+    "weight": 8
+  },
+  {
+    "source": "policy_dynamics",
+    "target": "temporal_psychological",
+    "weight": 18
+  },
+  {
+    "source": "academic_freedom",
+    "target": "governance_pathology",
+    "weight": 9
+  },
+  {
+    "source": "inequality_structures",
+    "target": "policy_dynamics",
+    "weight": 8
+  },
+  {
+    "source": "academic_freedom",
+    "target": "policy_dynamics",
+    "weight": 18
+  },
+  {
+    "source": "inequality_structures",
+    "target": "teaching_learning",
+    "weight": 11
+  },
+  {
+    "source": "inequality_structures",
+    "target": "institutional_structure",
+    "weight": 5
+  },
+  {
+    "source": "campus_infrastructure",
+    "target": "student_experience",
+    "weight": 23
+  },
+  {
+    "source": "campus_infrastructure",
+    "target": "student_economics",
+    "weight": 15
+  },
+  {
+    "source": "academic_freedom",
+    "target": "geopolitics",
+    "weight": 6
+  },
+  {
+    "source": "internationalization",
+    "target": "temporal_psychological",
+    "weight": 15
+  },
+  {
+    "source": "student_economics",
+    "target": "student_experience",
+    "weight": 44
+  },
+  {
+    "source": "academic_freedom",
+    "target": "student_experience",
+    "weight": 34
+  },
+  {
+    "source": "academic_labour",
+    "target": "governance_pathology",
+    "weight": 8
+  },
+  {
+    "source": "degradation_signals",
+    "target": "research_ecosystems",
+    "weight": 1
+  },
+  {
+    "source": "academic_labour",
+    "target": "research_ecosystems",
+    "weight": 14
+  },
+  {
+    "source": "campus_infrastructure",
+    "target": "funding_flows",
+    "weight": 5
+  },
+  {
+    "source": "campus_infrastructure",
+    "target": "internationalization",
+    "weight": 8
+  },
+  {
+    "source": "institutional_structure",
+    "target": "policy_dynamics",
+    "weight": 8
+  },
+  {
+    "source": "internationalization",
+    "target": "teaching_learning",
+    "weight": 24
+  },
+  {
+    "source": "admissions_access",
+    "target": "educational_technology",
+    "weight": 5
+  },
+  {
+    "source": "admissions_access",
+    "target": "internationalization",
+    "weight": 19
+  },
+  {
+    "source": "coercion_and_control",
+    "target": "science_society",
+    "weight": 5
+  },
+  {
+    "source": "academic_labour",
+    "target": "temporal_psychological",
+    "weight": 16
+  },
+  {
+    "source": "internationalization",
+    "target": "policy_dynamics",
+    "weight": 10
+  },
+  {
+    "source": "institutional_systems",
+    "target": "policy_dynamics",
+    "weight": 7
+  },
+  {
+    "source": "financial_constraints",
+    "target": "student_economics",
+    "weight": 9
+  },
+  {
+    "source": "internationalization",
+    "target": "student_experience",
+    "weight": 37
+  },
+  {
+    "source": "teaching_learning",
+    "target": "temporal_psychological",
+    "weight": 38
+  },
+  {
+    "source": "governance_pathology",
+    "target": "institutional_structure",
+    "weight": 7
+  },
+  {
+    "source": "campus_infrastructure",
+    "target": "science_society",
+    "weight": 6
+  },
+  {
+    "source": "inequality_structures",
+    "target": "temporal_psychological",
+    "weight": 9
+  },
+  {
+    "source": "admissions_access",
+    "target": "policy_dynamics",
+    "weight": 10
+  },
+  {
+    "source": "admissions_access",
+    "target": "student_experience",
+    "weight": 37
+  },
+  {
+    "source": "accountability_gaps",
+    "target": "inequality_structures",
+    "weight": 1
+  },
+  {
+    "source": "academic_freedom",
+    "target": "accountability_gaps",
+    "weight": 1
+  },
+  {
+    "source": "governance_pathology",
+    "target": "inequality_structures",
+    "weight": 4
+  },
+  {
+    "source": "admissions_access",
+    "target": "institutional_structure",
+    "weight": 11
+  },
+  {
+    "source": "institutional_structure",
+    "target": "institutional_systems",
+    "weight": 4
+  },
+  {
+    "source": "admissions_access",
+    "target": "temporal_psychological",
+    "weight": 15
+  },
+  {
+    "source": "admissions_access",
+    "target": "student_economics",
+    "weight": 18
+  },
+  {
+    "source": "student_experience",
+    "target": "teaching_learning",
+    "weight": 66
+  },
+  {
+    "source": "campus_infrastructure",
+    "target": "research_ecosystems",
+    "weight": 6
+  },
+  {
+    "source": "inequality_structures",
+    "target": "internationalization",
+    "weight": 4
+  },
+  {
+    "source": "institutional_structure",
+    "target": "temporal_psychological",
+    "weight": 11
+  },
+  {
+    "source": "academic_freedom",
+    "target": "research_ecosystems",
+    "weight": 12
+  },
+  {
+    "source": "academic_freedom",
+    "target": "academic_labour",
+    "weight": 15
+  },
+  {
+    "source": "academic_labour",
+    "target": "inequality_structures",
+    "weight": 5
+  },
+  {
+    "source": "funding_flows",
+    "target": "temporal_psychological",
+    "weight": 8
+  },
+  {
+    "source": "funding_flows",
+    "target": "student_experience",
+    "weight": 11
+  },
+  {
+    "source": "coercion_and_control",
+    "target": "geopolitics",
+    "weight": 6
+  },
+  {
+    "source": "academic_freedom",
+    "target": "science_society",
+    "weight": 7
+  },
+  {
+    "source": "norm_violations",
+    "target": "science_society",
+    "weight": 6
+  },
+  {
+    "source": "health_professions_education",
+    "target": "student_economics",
+    "weight": 1
+  },
+  {
+    "source": "academic_freedom",
+    "target": "internationalization",
+    "weight": 18
+  },
+  {
+    "source": "geopolitics",
+    "target": "student_economics",
+    "weight": 4
+  },
+  {
+    "source": "policy_dynamics",
+    "target": "student_economics",
+    "weight": 18
+  },
+  {
+    "source": "campus_infrastructure",
+    "target": "institutional_systems",
+    "weight": 8
+  },
+  {
+    "source": "institutional_structure",
+    "target": "internationalization",
+    "weight": 11
+  },
+  {
+    "source": "admissions_access",
+    "target": "funding_flows",
+    "weight": 3
+  },
+  {
+    "source": "student_economics",
+    "target": "temporal_psychological",
+    "weight": 20
+  },
+  {
+    "source": "geopolitics",
+    "target": "science_society",
+    "weight": 2
+  },
+  {
+    "source": "policy_dynamics",
+    "target": "science_society",
+    "weight": 5
+  },
+  {
+    "source": "coercion_and_control",
+    "target": "policy_dynamics",
+    "weight": 15
+  },
+  {
+    "source": "academic_labour",
+    "target": "coercion_and_control",
+    "weight": 12
+  },
+  {
+    "source": "student_economics",
+    "target": "sustainability_climate",
+    "weight": 6
+  },
+  {
+    "source": "institutional_systems",
+    "target": "sustainability_climate",
+    "weight": 2
+  },
+  {
+    "source": "coercion_and_control",
+    "target": "temporal_psychological",
+    "weight": 18
+  },
+  {
+    "source": "institutional_systems",
+    "target": "internationalization",
+    "weight": 8
+  },
+  {
+    "source": "academic_freedom",
+    "target": "institutional_structure",
+    "weight": 10
+  },
+  {
+    "source": "funding_flows",
+    "target": "research_ecosystems",
+    "weight": 3
+  },
+  {
+    "source": "internationalization",
+    "target": "student_economics",
+    "weight": 19
+  },
+  {
+    "source": "policy_dynamics",
+    "target": "teaching_learning",
+    "weight": 24
+  },
+  {
+    "source": "educational_technology",
+    "target": "temporal_psychological",
+    "weight": 10
+  },
+  {
+    "source": "norm_violations",
+    "target": "research_ecosystems",
+    "weight": 9
+  },
+  {
+    "source": "geopolitics",
+    "target": "internationalization",
+    "weight": 2
+  },
+  {
+    "source": "educational_technology",
+    "target": "internationalization",
+    "weight": 4
+  },
+  {
+    "source": "admissions_access",
+    "target": "institutional_systems",
+    "weight": 8
+  },
+  {
+    "source": "academic_labour",
+    "target": "teaching_learning",
+    "weight": 30
+  },
+  {
+    "source": "institutional_systems",
+    "target": "student_economics",
+    "weight": 14
+  },
+  {
+    "source": "policy_dynamics",
+    "target": "sustainability_climate",
+    "weight": 3
+  },
+  {
+    "source": "admissions_access",
+    "target": "norm_violations",
+    "weight": 8
+  },
+  {
+    "source": "funding_flows",
+    "target": "institutional_systems",
+    "weight": 5
+  },
+  {
+    "source": "institutional_systems",
+    "target": "temporal_psychological",
+    "weight": 9
+  },
+  {
+    "source": "academic_freedom",
+    "target": "teaching_learning",
+    "weight": 37
+  },
+  {
+    "source": "institutional_structure",
+    "target": "teaching_learning",
+    "weight": 17
+  },
+  {
+    "source": "funding_flows",
+    "target": "norm_violations",
+    "weight": 3
+  },
+  {
+    "source": "academic_freedom",
+    "target": "admissions_access",
+    "weight": 18
+  },
+  {
+    "source": "admissions_access",
+    "target": "inequality_structures",
+    "weight": 5
+  },
+  {
+    "source": "institutional_structure",
+    "target": "sustainability_climate",
+    "weight": 2
+  },
+  {
+    "source": "educational_technology",
+    "target": "policy_dynamics",
+    "weight": 7
+  },
+  {
+    "source": "academic_labour",
+    "target": "science_society",
+    "weight": 7
+  },
+  {
+    "source": "governance_pathology",
+    "target": "science_society",
+    "weight": 4
+  },
+  {
+    "source": "academic_freedom",
+    "target": "temporal_psychological",
+    "weight": 21
+  },
+  {
+    "source": "educational_technology",
+    "target": "student_economics",
+    "weight": 7
+  },
+  {
+    "source": "inequality_structures",
+    "target": "science_society",
+    "weight": 3
+  },
+  {
+    "source": "student_experience",
+    "target": "temporal_psychological",
+    "weight": 35
+  },
+  {
+    "source": "academic_freedom",
+    "target": "coercion_and_control",
+    "weight": 16
+  },
+  {
+    "source": "academic_labour",
+    "target": "student_economics",
+    "weight": 16
+  },
+  {
+    "source": "norm_violations",
+    "target": "student_economics",
+    "weight": 9
+  },
+  {
+    "source": "governance_pathology",
+    "target": "policy_dynamics",
+    "weight": 8
+  },
+  {
+    "source": "campus_infrastructure",
+    "target": "norm_violations",
+    "weight": 7
+  },
+  {
+    "source": "financial_constraints",
+    "target": "funding_flows",
+    "weight": 4
+  },
+  {
+    "source": "financial_constraints",
+    "target": "geopolitics",
+    "weight": 2
+  },
+  {
+    "source": "financial_constraints",
+    "target": "policy_dynamics",
+    "weight": 6
+  },
+  {
+    "source": "science_society",
+    "target": "teaching_learning",
+    "weight": 7
+  },
+  {
+    "source": "financial_constraints",
+    "target": "institutional_systems",
+    "weight": 3
+  },
+  {
+    "source": "educational_technology",
+    "target": "research_ecosystems",
+    "weight": 6
+  },
+  {
+    "source": "financial_constraints",
+    "target": "research_ecosystems",
+    "weight": 4
+  },
+  {
+    "source": "governance_pathology",
+    "target": "student_economics",
+    "weight": 6
+  },
+  {
+    "source": "academic_labour",
+    "target": "policy_dynamics",
+    "weight": 9
+  },
+  {
+    "source": "financial_constraints",
+    "target": "temporal_psychological",
+    "weight": 8
+  },
+  {
+    "source": "sustainability_climate",
+    "target": "temporal_psychological",
+    "weight": 5
+  },
+  {
+    "source": "campus_infrastructure",
+    "target": "institutional_structure",
+    "weight": 9
+  },
+  {
+    "source": "internationalization",
+    "target": "sustainability_climate",
+    "weight": 4
+  },
+  {
+    "source": "geopolitics",
+    "target": "governance_pathology",
+    "weight": 3
+  },
+  {
+    "source": "research_ecosystems",
+    "target": "teaching_learning",
+    "weight": 14
+  },
+  {
+    "source": "admissions_access",
+    "target": "governance_pathology",
+    "weight": 5
+  },
+  {
+    "source": "inequality_structures",
+    "target": "student_economics",
+    "weight": 4
+  },
+  {
+    "source": "academic_labour",
+    "target": "internationalization",
+    "weight": 13
+  },
+  {
+    "source": "educational_technology",
+    "target": "inequality_structures",
+    "weight": 3
+  },
+  {
+    "source": "academic_freedom",
+    "target": "student_economics",
+    "weight": 17
+  },
+  {
+    "source": "academic_freedom",
+    "target": "campus_infrastructure",
+    "weight": 10
+  },
+  {
+    "source": "financial_constraints",
+    "target": "norm_violations",
+    "weight": 3
+  },
+  {
+    "source": "coercion_and_control",
+    "target": "funding_flows",
+    "weight": 6
+  },
+  {
+    "source": "financial_constraints",
+    "target": "internationalization",
+    "weight": 5
+  },
+  {
+    "source": "educational_technology",
+    "target": "student_experience",
+    "weight": 14
+  },
+  {
+    "source": "funding_flows",
+    "target": "institutional_structure",
+    "weight": 9
+  },
+  {
+    "source": "admissions_access",
+    "target": "sustainability_climate",
+    "weight": 3
+  },
+  {
+    "source": "institutional_structure",
+    "target": "student_economics",
+    "weight": 13
+  },
+  {
+    "source": "institutional_systems",
+    "target": "student_experience",
+    "weight": 17
+  },
+  {
+    "source": "accountability_gaps",
+    "target": "institutional_structure",
+    "weight": 2
+  },
+  {
+    "source": "equity_social_issues",
+    "target": "norm_violations",
+    "weight": 1
+  },
+  {
+    "source": "academic_labour",
+    "target": "campus_infrastructure",
+    "weight": 9
+  },
+  {
+    "source": "academic_labour",
+    "target": "degradation_signals",
+    "weight": 2
+  },
+  {
+    "source": "academic_freedom",
+    "target": "sustainability_climate",
+    "weight": 5
+  },
+  {
+    "source": "funding_flows",
+    "target": "sustainability_climate",
+    "weight": 3
+  },
+  {
+    "source": "science_society",
+    "target": "student_economics",
+    "weight": 3
+  },
+  {
+    "source": "coercion_and_control",
+    "target": "student_economics",
+    "weight": 12
+  },
+  {
+    "source": "inequality_structures",
+    "target": "student_experience",
+    "weight": 7
+  },
+  {
+    "source": "educational_technology",
+    "target": "institutional_structure",
+    "weight": 4
+  },
+  {
+    "source": "coercion_and_control",
+    "target": "inequality_structures",
+    "weight": 8
+  },
+  {
+    "source": "student_economics",
+    "target": "teaching_learning",
+    "weight": 26
+  },
+  {
+    "source": "academic_labour",
+    "target": "norm_violations",
+    "weight": 7
+  },
+  {
+    "source": "financial_constraints",
+    "target": "governance_pathology",
+    "weight": 3
+  },
+  {
+    "source": "governance_pathology",
+    "target": "temporal_psychological",
+    "weight": 9
+  },
+  {
+    "source": "academic_freedom",
+    "target": "educational_technology",
+    "weight": 10
+  },
+  {
+    "source": "academic_freedom",
+    "target": "degradation_signals",
+    "weight": 1
+  },
+  {
+    "source": "degradation_signals",
+    "target": "inequality_structures",
+    "weight": 1
+  },
+  {
+    "source": "geopolitics",
+    "target": "inequality_structures",
+    "weight": 2
+  },
+  {
+    "source": "campus_infrastructure",
+    "target": "sustainability_climate",
+    "weight": 5
+  },
+  {
+    "source": "coercion_and_control",
+    "target": "teaching_learning",
+    "weight": 23
+  },
+  {
+    "source": "science_society",
+    "target": "temporal_psychological",
+    "weight": 5
+  },
+  {
+    "source": "accountability_gaps",
+    "target": "governance_pathology",
+    "weight": 1
+  },
+  {
+    "source": "policy_dynamics",
+    "target": "student_experience",
+    "weight": 18
+  },
+  {
+    "source": "institutional_structure",
+    "target": "science_society",
+    "weight": 2
+  },
+  {
+    "source": "coercion_and_control",
+    "target": "institutional_structure",
+    "weight": 7
+  },
+  {
+    "source": "admissions_access",
+    "target": "geopolitics",
+    "weight": 1
+  },
+  {
+    "source": "degradation_signals",
+    "target": "temporal_psychological",
+    "weight": 1
+  },
+  {
+    "source": "geopolitics",
+    "target": "temporal_psychological",
+    "weight": 4
+  },
+  {
+    "source": "geopolitics",
+    "target": "institutional_structure",
+    "weight": 2
+  },
+  {
+    "source": "financial_constraints",
+    "target": "institutional_structure",
+    "weight": 3
+  },
+  {
+    "source": "campus_infrastructure",
+    "target": "policy_dynamics",
+    "weight": 6
+  },
+  {
+    "source": "funding_flows",
+    "target": "internationalization",
+    "weight": 3
+  },
+  {
+    "source": "institutional_systems",
+    "target": "teaching_learning",
+    "weight": 8
+  },
+  {
+    "source": "coercion_and_control",
+    "target": "norm_violations",
+    "weight": 8
+  },
+  {
+    "source": "coercion_and_control",
+    "target": "financial_constraints",
+    "weight": 5
+  },
+  {
+    "source": "academic_freedom",
+    "target": "financial_constraints",
+    "weight": 5
+  },
+  {
+    "source": "academic_labour",
+    "target": "financial_constraints",
+    "weight": 6
+  },
+  {
+    "source": "norm_violations",
+    "target": "temporal_psychological",
+    "weight": 8
+  },
+  {
+    "source": "academic_labour",
+    "target": "admissions_access",
+    "weight": 14
+  },
+  {
+    "source": "inequality_structures",
+    "target": "institutional_systems",
+    "weight": 4
+  },
+  {
+    "source": "governance_pathology",
+    "target": "regions",
+    "weight": 1
+  },
+  {
+    "source": "degradation_signals",
+    "target": "governance_pathology",
+    "weight": 1
+  },
+  {
+    "source": "internationalization",
+    "target": "norm_violations",
+    "weight": 5
+  },
+  {
+    "source": "coercion_and_control",
+    "target": "research_ecosystems",
+    "weight": 11
+  },
+  {
+    "source": "academic_labour",
+    "target": "student_experience",
+    "weight": 27
+  },
+  {
+    "source": "admissions_access",
+    "target": "financial_constraints",
+    "weight": 3
+  },
+  {
+    "source": "governance_pathology",
+    "target": "institutional_systems",
+    "weight": 5
+  },
+  {
+    "source": "internationalization",
+    "target": "science_society",
+    "weight": 4
+  },
+  {
+    "source": "coercion_and_control",
+    "target": "internationalization",
+    "weight": 11
+  },
+  {
+    "source": "student_experience",
+    "target": "sustainability_climate",
+    "weight": 8
+  },
+  {
+    "source": "degradation_signals",
+    "target": "teaching_learning",
+    "weight": 1
+  },
+  {
+    "source": "geopolitics",
+    "target": "teaching_learning",
+    "weight": 5
+  },
+  {
+    "source": "financial_constraints",
+    "target": "inequality_structures",
+    "weight": 3
+  },
+  {
+    "source": "coercion_and_control",
+    "target": "governance_pathology",
+    "weight": 9
+  },
+  {
+    "source": "financial_constraints",
+    "target": "sustainability_climate",
+    "weight": 1
+  },
+  {
+    "source": "inequality_structures",
+    "target": "research_ecosystems",
+    "weight": 5
+  },
+  {
+    "source": "educational_technology",
+    "target": "science_society",
+    "weight": 2
+  },
+  {
+    "source": "research_ecosystems",
+    "target": "temporal_psychological",
+    "weight": 12
+  },
+  {
+    "source": "academic_labour",
+    "target": "educational_technology",
+    "weight": 15
+  },
+  {
+    "source": "geopolitics",
+    "target": "institutional_systems",
+    "weight": 2
+  },
+  {
+    "source": "governance_pathology",
+    "target": "research_ecosystems",
+    "weight": 4
+  },
+  {
+    "source": "financial_constraints",
+    "target": "teaching_learning",
+    "weight": 6
+  },
+  {
+    "source": "institutional_structure",
+    "target": "student_experience",
+    "weight": 22
+  },
+  {
+    "source": "financial_constraints",
+    "target": "student_experience",
+    "weight": 7
+  },
+  {
+    "source": "norm_violations",
+    "target": "student_experience",
+    "weight": 14
+  },
+  {
+    "source": "academic_labour",
+    "target": "funding_flows",
+    "weight": 6
+  },
+  {
+    "source": "coercion_and_control",
+    "target": "equity_social_issues",
+    "weight": 2
+  },
+  {
+    "source": "academic_freedom",
+    "target": "health_professions_education",
+    "weight": 1
+  },
+  {
+    "source": "coercion_and_control",
+    "target": "health_professions_education",
+    "weight": 2
+  },
+  {
+    "source": "accountability_gaps",
+    "target": "policy_dynamics",
+    "weight": 2
+  },
+  {
+    "source": "academic_freedom",
+    "target": "norm_violations",
+    "weight": 8
+  },
+  {
+    "source": "funding_flows",
+    "target": "policy_dynamics",
+    "weight": 5
+  },
+  {
+    "source": "science_society",
+    "target": "sustainability_climate",
+    "weight": 1
+  },
+  {
+    "source": "coercion_and_control",
+    "target": "sustainability_climate",
+    "weight": 3
+  },
+  {
+    "source": "funding_flows",
+    "target": "governance_pathology",
+    "weight": 2
+  },
+  {
+    "source": "inequality_structures",
+    "target": "sustainability_climate",
+    "weight": 2
+  },
+  {
+    "source": "academic_labour",
+    "target": "equity_social_issues",
+    "weight": 1
+  },
+  {
+    "source": "academic_labour",
+    "target": "health_professions_education",
+    "weight": 1
+  },
+  {
+    "source": "academic_labour",
+    "target": "geopolitics",
+    "weight": 2
+  },
+  {
+    "source": "governance_pathology",
+    "target": "teaching_learning",
+    "weight": 13
+  },
+  {
+    "source": "coercion_and_control",
+    "target": "institutional_systems",
+    "weight": 6
+  },
+  {
+    "source": "institutional_structure",
+    "target": "norm_violations",
+    "weight": 4
+  },
+  {
+    "source": "institutional_systems",
+    "target": "norm_violations",
+    "weight": 4
+  },
+  {
+    "source": "academic_freedom",
+    "target": "institutional_systems",
+    "weight": 10
+  },
+  {
+    "source": "financial_constraints",
+    "target": "science_society",
+    "weight": 1
+  },
+  {
+    "source": "funding_flows",
+    "target": "inequality_structures",
+    "weight": 3
+  },
+  {
+    "source": "academic_freedom",
+    "target": "funding_flows",
+    "weight": 6
+  },
+  {
+    "source": "campus_infrastructure",
+    "target": "inequality_structures",
+    "weight": 3
+  },
+  {
+    "source": "coercion_and_control",
+    "target": "educational_technology",
+    "weight": 10
+  },
+  {
+    "source": "campus_infrastructure",
+    "target": "financial_constraints",
+    "weight": 3
+  },
+  {
+    "source": "research_ecosystems",
+    "target": "student_experience",
+    "weight": 7
+  },
+  {
+    "source": "admissions_access",
+    "target": "research_ecosystems",
+    "weight": 2
+  },
+  {
+    "source": "admissions_access",
+    "target": "coercion_and_control",
+    "weight": 12
+  },
+  {
+    "source": "coercion_and_control",
+    "target": "degradation_signals",
+    "weight": 1
+  },
+  {
+    "source": "governance_pathology",
+    "target": "norm_violations",
+    "weight": 3
+  },
+  {
+    "source": "coercion_and_control",
+    "target": "student_experience",
+    "weight": 27
+  },
+  {
+    "source": "campus_infrastructure",
+    "target": "temporal_psychological",
+    "weight": 10
+  },
+  {
+    "source": "academic_labour",
+    "target": "institutional_systems",
+    "weight": 7
+  },
+  {
+    "source": "educational_technology",
+    "target": "institutional_systems",
+    "weight": 2
+  },
+  {
+    "source": "governance_pathology",
+    "target": "sustainability_climate",
+    "weight": 1
+  },
+  {
+    "source": "governance_pathology",
+    "target": "internationalization",
+    "weight": 5
+  },
+  {
+    "source": "academic_labour",
+    "target": "sustainability_climate",
+    "weight": 3
+  },
+  {
+    "source": "accountability_gaps",
+    "target": "institutional_systems",
+    "weight": 1
+  },
+  {
+    "source": "campus_infrastructure",
+    "target": "governance_pathology",
+    "weight": 4
+  },
+  {
+    "source": "educational_technology",
+    "target": "geopolitics",
+    "weight": 1
+  },
+  {
+    "source": "research_ecosystems",
+    "target": "student_economics",
+    "weight": 2
+  },
+  {
+    "source": "institutional_systems",
+    "target": "science_society",
+    "weight": 2
+  },
+  {
+    "source": "educational_technology",
+    "target": "governance_pathology",
+    "weight": 3
+  },
+  {
+    "source": "norm_violations",
+    "target": "policy_dynamics",
+    "weight": 4
+  },
+  {
+    "source": "campus_infrastructure",
+    "target": "coercion_and_control",
+    "weight": 7
+  },
+  {
+    "source": "campus_infrastructure",
+    "target": "teaching_learning",
+    "weight": 7
+  },
+  {
+    "source": "funding_flows",
+    "target": "teaching_learning",
+    "weight": 5
+  },
+  {
+    "source": "internationalization",
+    "target": "research_ecosystems",
+    "weight": 1
+  },
+  {
+    "source": "educational_technology",
+    "target": "financial_constraints",
+    "weight": 2
+  },
+  {
+    "source": "sustainability_climate",
+    "target": "teaching_learning",
+    "weight": 4
+  },
+  {
+    "source": "institutional_systems",
+    "target": "research_ecosystems",
+    "weight": 3
+  },
+  {
+    "source": "science_society",
+    "target": "student_experience",
+    "weight": 5
+  },
+  {
+    "source": "admissions_access",
+    "target": "science_society",
+    "weight": 1
+  },
+  {
+    "source": "policy_dynamics",
+    "target": "research_ecosystems",
+    "weight": 3
+  },
+  {
+    "source": "inequality_structures",
+    "target": "norm_violations",
+    "weight": 2
+  },
+  {
+    "source": "norm_violations",
+    "target": "sustainability_climate",
+    "weight": 2
+  },
+  {
+    "source": "campus_infrastructure",
+    "target": "educational_technology",
+    "weight": 1
+  },
+  {
+    "source": "institutional_structure",
+    "target": "research_ecosystems",
+    "weight": 3
+  },
+  {
+    "source": "educational_technology",
+    "target": "sustainability_climate",
+    "weight": 1
+  },
+  {
+    "source": "governance_pathology",
+    "target": "student_experience",
+    "weight": 7
+  },
+  {
+    "source": "norm_violations",
+    "target": "teaching_learning",
+    "weight": 6
+  },
+  {
+    "source": "research_ecosystems",
+    "target": "sustainability_climate",
+    "weight": 2
+  },
+  {
+    "source": "educational_technology",
+    "target": "funding_flows",
+    "weight": 1
+  },
+  {
+    "source": "educational_technology",
+    "target": "norm_violations",
+    "weight": 1
+  }
+]
