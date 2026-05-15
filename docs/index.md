@@ -11,10 +11,17 @@ MA'AT:<br>
 <b>M</b>ultilingual <b>A</b>rchive for <b>A</b>cademic <b>T</b>opology
 
 </span>
+<br>
+
+<span style="font-weight: 400; font-size: 0.75em;">
+
+A computational observatory of global higher education discourse
+
+</span>
 
 </h1>
 
-# *A computational observatory of global higher education discourse*
+# **
 
 ---
 
