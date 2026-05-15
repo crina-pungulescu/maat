@@ -394,6 +394,35 @@ def normalize_title(title: str) -> str:
 
     return " ".join(title.lower().strip().split())
 
+def is_valid_article(article: dict) -> bool:
+    """
+    Final safety gate: prevents empty or malformed rows from entering dataset.
+    """
+
+    required_fields = ["title", "link", "full_text", "article_id"]
+
+    # 1. missing fields
+    for f in required_fields:
+        if not article.get(f):
+            return False
+
+    # 2. empty / whitespace-only fields
+    if not article["title"].strip():
+        return False
+
+    if not article["full_text"].strip():
+        return False
+
+    # 3. minimum content sanity
+    if len(article["full_text"]) < 1500:
+        return False
+
+    # 4. link sanity
+    if not article["link"].startswith("http"):
+        return False
+
+    return True
+
 def fetch_rss_articles(seen):
 
     seen_titles = set()
@@ -457,6 +486,10 @@ def fetch_rss_articles(seen):
             else:
 
                 article["translated_text"] = ''
+
+            if not is_valid_article(article):
+
+                continue
             
             articles.append(article)
 
