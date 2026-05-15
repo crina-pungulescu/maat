@@ -11,11 +11,16 @@ body {
   padding: 0;
 }
 
+.wrapper,
+.main-content,
+.page-content,
+
 main {
-  max-width: 980px;
-  margin: 0 auto;
-  padding: 40px 24px;
+  max-width: 1000px;
+  margin: 40px auto;
+  padding: 0 32px;
 }
+
 
 h1, h2, h3 {
   font-weight: 700;
