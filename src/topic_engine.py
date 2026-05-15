@@ -44,7 +44,11 @@ MAAT_TOPICS = {
         "MSc",
         "MBA",
         "PhD",
-        "degree"
+        "academic degree",
+        "undegraduate degrees",
+        "graduate degrees",
+        "pedagogical innovation",
+        "teaching excellence"
     ],
 
 
@@ -88,6 +92,8 @@ MAAT_TOPICS = {
         "research evaluation",
         "academic publishing",
         "open access",
+        "h-index",
+        "research excellence",
         "scientific innovation"
     ],
 
@@ -101,8 +107,6 @@ MAAT_TOPICS = {
         "university decline",
         "erosion of higher education",
         "breakdown of academic systems",
-        "crisis in universities",
-        "collapse of standards",
         "educational instability",
         "structural breakdown",
         "unsustainable education model",
@@ -123,22 +127,17 @@ MAAT_TOPICS = {
     ],
     
    "university_administration": [
-        "faculty bylaws",
-        "higher education governance",
-        "institutional structure"
-    ],
-
-    "policy_dynamics": [
-        "education policy",
-        "higher education reform",
-        "legislative reform"
-    ],
-
-    "governance_failure": [
-        "bureaucracy in academia",
-        "institutional opacity",
-        "regulatory capture",
-        "procedural abuse"
+       "faculty bylaws",
+       "higher education governance",
+       "board of trustees",
+       "board of regents",
+       "faculty senate",
+       "academic council",
+       "institutional structure",
+       "education policy",
+       "education reform",
+       "internal regulations",
+       "legislative reform"
     ],
 
     "funding_flows": [
@@ -237,11 +236,14 @@ MAAT_TOPICS = {
         "benchmark drift",
         "skills mismatch",
         "employability gap",
+        "unchecked growth",
         "credential devaluation"
     ],
 
      "academic abuse": [
          "administrative coercion",
+         "institutional opacity",
+         "procedural abuse"
          "power asymmetry",
          "retaliation",
          "workplace abuse",
@@ -259,7 +261,7 @@ MAAT_TOPICS = {
          "procedural manipulation",
          "bureaucratic obstruction",
          "informal punishment",
-         "exclusion from decision making",
+         "exclusion",
          "grant interference",
          "promotion blockage",
          "tenure denial pressure",
@@ -269,30 +271,25 @@ MAAT_TOPICS = {
          "reputation damage tactics",
          "non-transparent evaluation processes",
          "mobbing",
-         "scarcity systems producing exploitation",
-         "hierarchy distorting fairness",
-         "structural pressure enabling abuse",
-         "weaponised collegiality",
-         "unequal power distribution"
+         "scarcity-based exploitation",
+         "weaponised hierarchy",
+         "structural pressure",
+         "weaponised collegiality"
     ],
 
      "accountability_gaps": [
-         "lack of accountability for powerful actors",
          "nepotism",
-         "institutional protection",
+         "institutional cover-up",
          "conflict of interest",
          "power consolidation",
          "elite impunity",
          "lack of oversight",
          "weak governance",
-         "regulatory capture",
          "institutional shielding",
          "absence of transparency",
          "unchecked authority",
          "decision-making opacity",
          "informal power networks",
-         "career protection for senior figures",
-         "failure of internal review processes",
          "self-regulation failure",
          "disciplinary inaction"
     ],
@@ -310,12 +307,11 @@ MAAT_TOPICS = {
         "workplace harassment",
         "institutional bias",
         "systemic inequality",
-        "inclusive policy frameworks",
+        "inclusive policy",
         "accessibility equity",
-        "protected class discrimination",
         "hate incidents",
         "bias reporting systems",
-        "campus climate"
+        "toxic climate"
     ],
 
     "ranking_systems": [
@@ -428,9 +424,8 @@ MAAT_TOPICS = {
     "admissions_access": [
         "college admissions",
         "university admissions",
-        "admissions policy",
         "selective admissions",
-        "standardized testing",
+        "standardised testing",
         "SAT",
         "GRE",
         "GMAT",
@@ -441,9 +436,7 @@ MAAT_TOPICS = {
     ],
 
     "campus_infrastructure": [
-        "campus housing",
         "student accommodation",
-        "university campus",
         "campus safety",
         "laboratories",
         "research facilities",
