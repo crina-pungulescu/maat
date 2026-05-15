@@ -526,7 +526,7 @@ MAAT_TOPICS = {
         "scientific expertise"    
     ],
     
-    "sentiment_outlook": [
+    "future_outlook": [
         "future",
         "pessimism",
         "optimism",
