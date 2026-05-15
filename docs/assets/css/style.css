@@ -11,16 +11,20 @@ body {
   padding: 0;
 }
 
+/* Main page container override */
+
 .wrapper,
 .main-content,
 .page-content,
-
-main {
-  max-width: 1000px;
-  margin: 40px auto;
-  padding: 0 32px;
+main,
+.container,
+.markdown-body {
+  max-width: 1000px !important;
+  margin: 40px auto !important;
+  padding-left: 32px !important;
+  padding-right: 32px !important;
+  box-sizing: border-box;
 }
-
 
 h1, h2, h3 {
   font-weight: 700;
