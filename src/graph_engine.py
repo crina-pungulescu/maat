@@ -4,6 +4,7 @@ from pathlib import Path
 from collections import defaultdict, Counter
 from itertools import combinations
 from datetime import datetime
+from xml.sax.saxutils import escape
 
 
 # ----------------------------
@@ -102,7 +103,8 @@ def build_topic_hub_svg(npmi_edges, topic_cluster_map, nodes, date_str):
     for node in node_list:
 
         x, y = positions[node]
-        label = node_lookup.get(node, {}).get("label", node)
+        raw_label = node_lookup.get(node, {}).get("label", node)
+        label = escape(str(raw_label))
 
         dx = x - center_x
         dy = y - center_y
