@@ -65,8 +65,14 @@ def build_topic_hub_svg(npmi_edges, topic_cluster_map, nodes, date_str):
     svg = []
 
     svg.append('<?xml version="1.0" encoding="UTF-8"?>')
-    svg.append('<svg width="600" height="600" xmlns="http://www.w3.org/2000/svg">')
+   
+    width = 800
+    height = 800
+    margin = 100
 
+    center_x, center_y = width / 2, height / 2
+
+    svg.append(f'<svg width="{width}" height="{height}" xmlns="http://www.w3.org/2000/svg">')
     svg.append('<rect width="100%" height="100%" fill="white"/>')
 
     # ----------------------------
@@ -99,15 +105,32 @@ def build_topic_hub_svg(npmi_edges, topic_cluster_map, nodes, date_str):
         cluster = topic_cluster_map.get(node, "unknown")
         label = node_lookup.get(node, {}).get("label", node)
 
-        # NEW: direction-aware label placement
         dx = x - center_x
+        dy = y - center_y
 
+        # horizontal logic
         if dx >= 0:
             tx = x + 10
             anchor = "start"
         else:
             tx = x - 10
             anchor = "end"
+
+        # vertical adjustment (NEW)
+        
+        if abs(dy) > abs(dx):
+            if dy > 0:
+                # bottom half → push text downward
+                ty_label = y + 18
+                ty_cluster = y + 30
+            else:
+                # top half → push text upward
+                ty_label = y - 10
+                ty_cluster = y - 2
+        else:
+            # default horizontal flow
+            ty_label = y + 4
+            ty_cluster = y + 16
 
         svg.append(
             f'<circle cx="{x}" cy="{y}" r="6" fill="black"/>'
