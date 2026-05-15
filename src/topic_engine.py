@@ -364,10 +364,19 @@ def flatten_topics(topic_dict):
         for sublist in topic_dict.values()
         for item in sublist
     ]
-
+    
+CLUSTER_NAMES = list(MAAT_TOPICS.keys())
 FLAT_MAAT_TOPICS = flatten_topics(MAAT_TOPICS)
 topic_embeddings = model.encode(FLAT_MAAT_TOPICS, convert_to_tensor=True)
 
+def build_topic_to_cluster_map(MAAT_TOPICS):
+    mapping = {}
+
+    for cluster, topics in MAAT_TOPICS.items():
+        for t in topics:
+            mapping[t] = cluster
+
+    return mapping
 
 def extract_phrases(article):
     text = build_semantic_text(article)
@@ -432,7 +441,8 @@ def filter_topics(phrases):
 
     return cleaned
 
-def build_matrix(articles, embeddings, topics, model):
+def build_matrix(articles, embeddings, topics, model, topic_to_cluster):
+
     topic_embeddings = model.encode(topics, convert_to_tensor=True)
 
     matrix = []
@@ -449,7 +459,11 @@ def build_matrix(articles, embeddings, topics, model):
             "title": article.get("title"),
             "link": article.get("link"),
             "scores": [
-                {"topic": topics[j], "score": float(scores[j])}
+                {
+                    "topic": topics[j],
+                    "cluster": topic_to_cluster.get(topics[j], "unknown"),
+                    "score": float(scores[j])
+                }
                 for j in range(len(topics))
             ]
         })
@@ -689,11 +703,14 @@ def run():
         model
     )
 
+    topic_to_cluster = build_topic_to_cluster_map(MAAT_TOPICS)
+
     matrix = build_matrix(
         articles,
         embeddings,
         all_topics,
-        model
+        model,
+        topic_to_cluster
     )
 
     Path("data/topics").mkdir(
