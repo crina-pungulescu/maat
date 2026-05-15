@@ -203,7 +203,13 @@ def run():
 
     print("OUTPUT EXPECTED:", Path("data/graphs").resolve())
 
-    save_outputs(nodes, edges, summary, date_str)
+    save_outputs(
+        nodes,
+        edges,
+        pmi_edges,
+        summary,
+        date_str
+    )
 
     print("MAAT TOPIC GRAPH COMPLETE")
 
