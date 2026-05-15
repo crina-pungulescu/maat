@@ -445,7 +445,7 @@ MAAT_TOPICS = {
         "egypt"
     ],
 
-    "internationalization": [
+    "internationalisation": [
         "international students",
         "student mobility",
         "academic mobility",
