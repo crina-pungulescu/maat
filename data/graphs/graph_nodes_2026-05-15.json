@@ -1,21 +1,15 @@
 [
   {
-    "id": "classroom",
-    "label": "Classroom",
-    "weight": 19,
-    "avg_score": 0.4691
-  },
-  {
     "id": "student engagement",
     "label": "Student Engagement",
     "weight": 38,
     "avg_score": 0.4403
   },
   {
-    "id": "student-faculty relations",
-    "label": "Student Faculty Relations",
-    "weight": 17,
-    "avg_score": 0.4549
+    "id": "student assessment",
+    "label": "Student Assessment",
+    "weight": 12,
+    "avg_score": 0.451
   },
   {
     "id": "teacher-student relationship",
@@ -78,10 +72,10 @@
     "avg_score": 0.4799
   },
   {
-    "id": "academic exploitation",
-    "label": "Academic Exploitation",
-    "weight": 26,
-    "avg_score": 0.4631
+    "id": "unsustainable education model",
+    "label": "Unsustainable Education Model",
+    "weight": 28,
+    "avg_score": 0.4817
   },
   {
     "id": "academic uncertainty",
@@ -102,15 +96,9 @@
     "avg_score": 0.4796
   },
   {
-    "id": "higher education teaching",
-    "label": "Higher Education Teaching",
-    "weight": 11,
-    "avg_score": 0.4525
-  },
-  {
     "id": "institutional crisis",
     "label": "Institutional Crisis",
-    "weight": 26,
+    "weight": 13,
     "avg_score": 0.4805
   },
   {
@@ -132,22 +120,10 @@
     "avg_score": 0.4565
   },
   {
-    "id": "unsustainable higher education model",
-    "label": "Unsustainable Higher Education Model",
-    "weight": 27,
-    "avg_score": 0.4695
-  },
-  {
     "id": "institutional strain",
     "label": "Institutional Strain",
     "weight": 14,
     "avg_score": 0.48
-  },
-  {
-    "id": "post-secondary education crisis",
-    "label": "Post Secondary Education Crisis",
-    "weight": 27,
-    "avg_score": 0.5048
   },
   {
     "id": "access to higher education",
@@ -156,10 +132,10 @@
     "avg_score": 0.4363
   },
   {
-    "id": "governance",
-    "label": "Governance",
-    "weight": 4,
-    "avg_score": 0.4857
+    "id": "faculty bylaws",
+    "label": "Faculty Bylaws",
+    "weight": 11,
+    "avg_score": 0.434
   },
   {
     "id": "higher education governance",
@@ -174,16 +150,16 @@
     "avg_score": 0.4769
   },
   {
-    "id": "reform",
-    "label": "Reform",
-    "weight": 7,
-    "avg_score": 0.4652
-  },
-  {
     "id": "higher education reform",
     "label": "Higher Education Reform",
     "weight": 21,
     "avg_score": 0.4898
+  },
+  {
+    "id": "bureaucracy in academia",
+    "label": "Bureaucracy In Academia",
+    "weight": 26,
+    "avg_score": 0.4658
   },
   {
     "id": "institutional opacity",
@@ -234,18 +210,6 @@
     "avg_score": 0.4274
   },
   {
-    "id": "institutional hierarchy",
-    "label": "Institutional Hierarchy",
-    "weight": 8,
-    "avg_score": 0.4749
-  },
-  {
-    "id": "stratified academic systems",
-    "label": "Stratified Academic Systems",
-    "weight": 21,
-    "avg_score": 0.4436
-  },
-  {
     "id": "institutional bias",
     "label": "Institutional Bias",
     "weight": 20,
@@ -256,18 +220,6 @@
     "label": "Institutional Benchmarking",
     "weight": 10,
     "avg_score": 0.4432
-  },
-  {
-    "id": "higher education systems",
-    "label": "Higher Education Systems",
-    "weight": 20,
-    "avg_score": 0.4491
-  },
-  {
-    "id": "higher education governance structures",
-    "label": "Higher Education Governance Structures",
-    "weight": 19,
-    "avg_score": 0.4514
   },
   {
     "id": "institutional anxiety",
@@ -324,12 +276,6 @@
     "avg_score": 0.4862
   },
   {
-    "id": "crisis narrative",
-    "label": "Crisis Narrative",
-    "weight": 2,
-    "avg_score": 0.4336
-  },
-  {
     "id": "research funding",
     "label": "Research Funding",
     "weight": 6,
@@ -350,7 +296,7 @@
   {
     "id": "research misconduct",
     "label": "Research Misconduct",
-    "weight": 30,
+    "weight": 15,
     "avg_score": 0.4503
   },
   {
@@ -444,12 +390,6 @@
     "avg_score": 0.4647
   },
   {
-    "id": "labour exploitation in academia",
-    "label": "Labour Exploitation In Academia",
-    "weight": 7,
-    "avg_score": 0.4515
-  },
-  {
     "id": "quality of education",
     "label": "Quality Of Education",
     "weight": 12,
@@ -460,12 +400,6 @@
     "label": "Conflict Of Interest",
     "weight": 2,
     "avg_score": 0.4041
-  },
-  {
-    "id": "academic fraud",
-    "label": "Academic Fraud",
-    "weight": 23,
-    "avg_score": 0.4385
   },
   {
     "id": "academic dilution",
@@ -522,18 +456,6 @@
     "avg_score": 0.4309
   },
   {
-    "id": "university evaluation metrics",
-    "label": "University Evaluation Metrics",
-    "weight": 9,
-    "avg_score": 0.4286
-  },
-  {
-    "id": "politics",
-    "label": "Politics",
-    "weight": 3,
-    "avg_score": 0.4146
-  },
-  {
     "id": "academic mobility",
     "label": "Academic Mobility",
     "weight": 7,
@@ -544,12 +466,6 @@
     "label": "International Higher Education",
     "weight": 7,
     "avg_score": 0.4443
-  },
-  {
-    "id": "global higher education landscape",
-    "label": "Global Higher Education Landscape",
-    "weight": 16,
-    "avg_score": 0.4529
   },
   {
     "id": "university admissions",
@@ -594,12 +510,6 @@
     "avg_score": 0.4599
   },
   {
-    "id": "student participation",
-    "label": "Student Participation",
-    "weight": 19,
-    "avg_score": 0.4511
-  },
-  {
     "id": "student protest",
     "label": "Student Protest",
     "weight": 10,
@@ -628,18 +538,6 @@
     "label": "Peer Review",
     "weight": 3,
     "avg_score": 0.4266
-  },
-  {
-    "id": "bureaucracy",
-    "label": "Bureaucracy",
-    "weight": 10,
-    "avg_score": 0.4415
-  },
-  {
-    "id": "governance failure",
-    "label": "Governance Failure",
-    "weight": 4,
-    "avg_score": 0.476
   },
   {
     "id": "accountability",
@@ -694,12 +592,6 @@
     "label": "Racism",
     "weight": 4,
     "avg_score": 0.4178
-  },
-  {
-    "id": "racial discrimination",
-    "label": "Racial Discrimination",
-    "weight": 3,
-    "avg_score": 0.5152
   },
   {
     "id": "protected class discrimination",
@@ -804,12 +696,6 @@
     "avg_score": 0.4158
   },
   {
-    "id": "harassment",
-    "label": "Harassment",
-    "weight": 2,
-    "avg_score": 0.4626
-  },
-  {
     "id": "gender discrimination",
     "label": "Gender Discrimination",
     "weight": 1,
@@ -908,7 +794,7 @@
   {
     "id": "campus climate",
     "label": "Campus Climate",
-    "weight": 6,
+    "weight": 3,
     "avg_score": 0.4401
   },
   {
@@ -936,12 +822,6 @@
     "avg_score": 0.4567
   },
   {
-    "id": "student belonging",
-    "label": "Student Belonging",
-    "weight": 8,
-    "avg_score": 0.4461
-  },
-  {
     "id": "tuition",
     "label": "Tuition",
     "weight": 8,
@@ -952,12 +832,6 @@
     "label": "Financial Aid",
     "weight": 2,
     "avg_score": 0.4468
-  },
-  {
-    "id": "funding",
-    "label": "Funding",
-    "weight": 3,
-    "avg_score": 0.4527
   },
   {
     "id": "international students",
@@ -1074,10 +948,16 @@
     "avg_score": 0.4635
   },
   {
-    "id": "professional marginalization",
-    "label": "Professional Marginalization",
+    "id": "BSc",
+    "label": "Bsc",
     "weight": 1,
-    "avg_score": 0.4313
+    "avg_score": 0.4133
+  },
+  {
+    "id": "professional marginalisation",
+    "label": "Professional Marginalisation",
+    "weight": 2,
+    "avg_score": 0.4141
   },
   {
     "id": "transnational education",
@@ -1140,12 +1020,6 @@
     "avg_score": 0.4381
   },
   {
-    "id": "performance indicators in education",
-    "label": "Performance Indicators In Education",
-    "weight": 10,
-    "avg_score": 0.4614
-  },
-  {
     "id": "scientific collaboration",
     "label": "Scientific Collaboration",
     "weight": 3,
@@ -1194,28 +1068,22 @@
     "avg_score": 0.4482
   },
   {
-    "id": "policy change",
-    "label": "Policy Change",
-    "weight": 5,
-    "avg_score": 0.4441
-  },
-  {
     "id": "regime change",
     "label": "Regime Change",
     "weight": 2,
     "avg_score": 0.4572
   },
   {
-    "id": "accreditation",
-    "label": "Accreditation",
-    "weight": 5,
-    "avg_score": 0.4225
+    "id": "MBA",
+    "label": "Mba",
+    "weight": 3,
+    "avg_score": 0.4157
   },
   {
-    "id": "employment",
-    "label": "Employment",
+    "id": "degree",
+    "label": "Degree",
     "weight": 2,
-    "avg_score": 0.56
+    "avg_score": 0.4492
   },
   {
     "id": "unpaid labour",
@@ -1230,22 +1098,10 @@
     "avg_score": 0.5481
   },
   {
-    "id": "career",
-    "label": "Career",
-    "weight": 3,
-    "avg_score": 0.4834
-  },
-  {
     "id": "future",
     "label": "Future",
     "weight": 2,
     "avg_score": 0.4052
-  },
-  {
-    "id": "labour exploitation",
-    "label": "Labour Exploitation",
-    "weight": 1,
-    "avg_score": 0.4114
   },
   {
     "id": "unemployment",
@@ -1272,28 +1128,10 @@
     "avg_score": 0.4189
   },
   {
-    "id": "regulation",
-    "label": "Regulation",
-    "weight": 1,
-    "avg_score": 0.4191
-  },
-  {
-    "id": "policy",
-    "label": "Policy",
-    "weight": 4,
-    "avg_score": 0.4236
-  },
-  {
     "id": "legislative reform",
     "label": "Legislative Reform",
     "weight": 2,
     "avg_score": 0.4418
-  },
-  {
-    "id": "overregulation",
-    "label": "Overregulation",
-    "weight": 3,
-    "avg_score": 0.4553
   },
   {
     "id": "austerity",
@@ -1368,22 +1206,34 @@
     "avg_score": 0.4795
   },
   {
-    "id": "elite impunity",
-    "label": "Elite Impunity",
-    "weight": 2,
-    "avg_score": 0.415
-  },
-  {
     "id": "scarcity systems producing exploitation",
     "label": "Scarcity Systems Producing Exploitation",
     "weight": 1,
     "avg_score": 0.4048
   },
   {
+    "id": "elite impunity",
+    "label": "Elite Impunity",
+    "weight": 2,
+    "avg_score": 0.415
+  },
+  {
     "id": "economic warfare",
     "label": "Economic Warfare",
     "weight": 1,
     "avg_score": 0.4137
+  },
+  {
+    "id": "MSc",
+    "label": "Msc",
+    "weight": 1,
+    "avg_score": 0.4303
+  },
+  {
+    "id": "PhD",
+    "label": "Phd",
+    "weight": 1,
+    "avg_score": 0.4115
   },
   {
     "id": "adjuncts",
@@ -1428,12 +1278,6 @@
     "avg_score": 0.467
   },
   {
-    "id": "competitive funding systems",
-    "label": "Competitive Funding Systems",
-    "weight": 2,
-    "avg_score": 0.4252
-  },
-  {
     "id": "United Nations",
     "label": "United Nations",
     "weight": 1,
@@ -1470,12 +1314,6 @@
     "avg_score": 0.4594
   },
   {
-    "id": "assessment",
-    "label": "Assessment",
-    "weight": 1,
-    "avg_score": 0.4456
-  },
-  {
     "id": "self-censorship",
     "label": "Self Censorship",
     "weight": 1,
@@ -1510,12 +1348,6 @@
     "label": "Algorithmic Assessment",
     "weight": 1,
     "avg_score": 0.4226
-  },
-  {
-    "id": "cross-border education systems",
-    "label": "Cross Border Education Systems",
-    "weight": 2,
-    "avg_score": 0.4268
   },
   {
     "id": "climate education",
