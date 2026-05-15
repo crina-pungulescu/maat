@@ -38,19 +38,10 @@ MA'AT operates as a continuous ingestion pipeline:
 
 Each article is evaluated not by keywords, but by semantic proximity to higher education-related concepts.
 
----
-
-## System Status
-{% assign system = site.data.system %}
-
-<ul>
-<li>Total stored articles: {{ system.total_articles | default: "—" }}</li>
-<li>Last run: {{ system.last_run | default: "—" }}</li>
-</ul>
 
 ---
 
-## Dominant Themes Today
+## Dominant Themes
 
 {% assign topics = site.data.today_topics %}
 
@@ -83,6 +74,16 @@ Each article is evaluated not by keywords, but by semantic proximity to higher e
 {{ edge.source }} ↔ {{ edge.target }} ({{ edge.weight }})
 </li>
 {% endfor %}
+</ul>
+
+---
+
+## System Status
+{% assign system = site.data.system %}
+
+<ul>
+<li>Total stored articles: {{ system.total_articles | default: "—" }}</li>
+<li>Last run: {{ system.last_run | default: "—" }}</li>
 </ul>
 
 ---
