@@ -9,6 +9,69 @@ from itertools import combinations
 THRESHOLD = 0.4
 MIN_EDGE_COUNT = 3
 
+def build_cluster_summary(matrix, nodes):
+
+    topic_cluster_map = build_topic_cluster_map(matrix)
+
+    cluster_data = defaultdict(lambda: {
+        "count": 0,
+        "scores": [],
+        "topics": set()
+    })
+
+    for node in nodes:
+
+        topic = node["id"]
+        cluster = topic_cluster_map.get(topic, "unknown")
+
+        cluster_data[cluster]["count"] += node["weight"]
+        cluster_data[cluster]["scores"].append(node["avg_score"])
+        cluster_data[cluster]["topics"].add(topic)
+
+    output = []
+
+    for cluster, data in cluster_data.items():
+
+        avg_score = (
+            sum(data["scores"]) / len(data["scores"])
+            if data["scores"] else 0
+        )
+
+        output.append({
+            "topic": cluster,
+            "count": data["count"],
+            "score": round(avg_score, 4),
+            "topics": sorted(list(data["topics"]))
+        })
+
+    return sorted(output, key=lambda x: x["count"], reverse=True)
+
+def build_cluster_edges(cross_edges):
+
+    edge_counts = Counter()
+
+    for e in cross_edges:
+
+        a = e["source_cluster"]
+        b = e["target_cluster"]
+
+        if not a or not b:
+            continue
+
+        pair = tuple(sorted([a, b]))
+        edge_counts[pair] += 1
+
+    return [
+        {
+            "source": a,
+            "target": b,
+            "weight": w
+        }
+        for (a, b), w in edge_counts.items()
+    ]
+
+
+
 def filter_cross_cluster_edges(edges, topic_cluster_map):
 
     filtered = []
@@ -289,6 +352,8 @@ def save_outputs(
     cross_pmi_edges,
     cross_npmi_edges,
     summary,
+    cluster_summary,
+    cluster_edges,
     date_str
 ):
 
@@ -377,6 +442,12 @@ def save_outputs(
     ) as f:
         json.dump(cross_npmi_edges, f, indent=2, ensure_ascii=False)
 
+    with open(f"data/graphs/cluster_summary_{date_str}.json", "w") as f:
+        json.dump(cluster_summary, f, indent=2, ensure_ascii=False)
+
+    with open(f"data/graphs/cluster_edges_{date_str}.json", "w") as f:
+        json.dump(cluster_edges, f, indent=2, ensure_ascii=False)
+
     print("Graph outputs saved.")
 
 
@@ -414,6 +485,10 @@ def run():
     cross_pmi_edges = filter_cross_cluster_edges(pmi_edges, topic_cluster_map)
     cross_npmi_edges = filter_cross_cluster_edges(npmi_edges, topic_cluster_map)
 
+    cluster_summary = build_cluster_summary(matrix, nodes)
+
+    cluster_edges = build_cluster_edges(cross_npmi_edges)
+
     summary = build_daily_summary(nodes)
 
     print("CWD:", Path.cwd())
@@ -431,8 +506,11 @@ def run():
         cross_pmi_edges,
         cross_npmi_edges,
         summary,
+        cluster_summary,
+        cluster_edges,
         date_str
     )
+
 
     print("MAAT TOPIC GRAPH COMPLETE")
 
