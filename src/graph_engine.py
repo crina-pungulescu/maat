@@ -9,6 +9,45 @@ from itertools import combinations
 THRESHOLD = 0.4
 MIN_EDGE_COUNT = 3
 
+def filter_cross_cluster_edges(edges, topic_cluster_map):
+
+    filtered = []
+
+    for e in edges:
+
+        a = e["source"]
+        b = e["target"]
+
+        ca = topic_cluster_map.get(a)
+        cb = topic_cluster_map.get(b)
+
+        # only cross-cluster
+        if ca != cb:
+
+            filtered.append({
+                **e,
+                "source_cluster": ca,
+                "target_cluster": cb
+            })
+
+    return filtered
+
+def build_topic_cluster_map(matrix):
+
+    mapping = {}
+
+    for article in matrix:
+
+        for t in article["scores"]:
+
+            topic = t["topic"]
+            cluster = t.get("cluster", "unknown")
+
+            # keep first seen (stable mapping)
+            if topic not in mapping:
+                mapping[topic] = cluster
+
+    return mapping
 
 # ----------------------------
 # LOAD
@@ -284,6 +323,20 @@ def save_outputs(
             ensure_ascii=False
         )
 
+    with open(
+        f"data/graphs/cross_pmi_edges_{date_str}.json",
+        "w",
+        encoding="utf-8"
+    ) as f:
+        json.dump(cross_pmi_edges, f, indent=2, ensure_ascii=False)
+
+    with open(
+        f"data/graphs/cross_npmi_edges_{date_str}.json",
+        "w",
+        encoding="utf-8"
+    ) as f:
+        json.dump(cross_npmi_edges, f, indent=2, ensure_ascii=False)
+
     print("Graph outputs saved.")
 
 
@@ -314,10 +367,12 @@ def run():
 
     edges = build_edges(matrix)
 
-    pmi_edges, npmi_edges = build_pmi_edges(
-        matrix,
-        nodes
-    )
+    pmi_edges, npmi_edges = build_pmi_edges(matrix, nodes)
+
+    topic_cluster_map = build_topic_cluster_map(matrix)
+
+    cross_pmi_edges = filter_cross_cluster_edges(pmi_edges, topic_cluster_map)
+    cross_npmi_edges = filter_cross_cluster_edges(npmi_edges, topic_cluster_map)
 
     summary = build_daily_summary(nodes)
 
