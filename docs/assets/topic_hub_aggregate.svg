@@ -1,62 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="600" height="600" xmlns="http://www.w3.org/2000/svg">
 <rect width="100%" height="100%" fill="white"/>
-<line x1="96.74650284751692" y1="384.1903551203198" x2="384.1903551203198" y2="96.74650284751695" stroke="black" stroke-opacity="0.4" stroke-width="4.0"/>
-<line x1="503.253497152483" y1="215.8096448796801" x2="300.0" y2="520.0" stroke="black" stroke-opacity="0.4" stroke-width="3.718"/>
-<line x1="503.253497152483" y1="215.8096448796801" x2="503.2534971524831" y2="384.19035512031974" stroke="black" stroke-opacity="0.4" stroke-width="3.718"/>
-<line x1="520.0" y1="300.0" x2="300.0" y2="520.0" stroke="black" stroke-opacity="0.4" stroke-width="3.718"/>
-<line x1="520.0" y1="300.0" x2="503.2534971524831" y2="384.19035512031974" stroke="black" stroke-opacity="0.4" stroke-width="3.718"/>
-<line x1="215.80964487968026" y1="503.2534971524831" x2="215.80964487968012" y2="96.74650284751698" stroke="black" stroke-opacity="0.4" stroke-width="3.718"/>
-<line x1="96.7465028475169" y1="215.80964487968026" x2="144.43650813895957" y2="455.56349186104046" stroke="black" stroke-opacity="0.4" stroke-width="3.718"/>
-<line x1="455.5634918610404" y1="144.4365081389595" x2="144.4365081389595" y2="144.43650813895957" stroke="black" stroke-opacity="0.4" stroke-width="3.6406"/>
-<line x1="384.19035512031974" y1="503.2534971524831" x2="80.0" y2="300.0" stroke="black" stroke-opacity="0.4" stroke-width="3.6379"/>
-<line x1="299.99999999999994" y1="80.0" x2="455.56349186104046" y2="455.56349186104046" stroke="black" stroke-opacity="0.4" stroke-width="3.6189999999999998"/>
+<line x1="520.0" y1="300.0" x2="455.56349186104046" y2="455.56349186104046" stroke="black" stroke-opacity="0.4" stroke-width="4.0"/>
+<line x1="503.253497152483" y1="215.8096448796801" x2="215.80964487968026" y2="503.2534971524831" stroke="black" stroke-opacity="0.4" stroke-width="3.718"/>
+<line x1="503.253497152483" y1="215.8096448796801" x2="144.4365081389595" y2="144.43650813895957" stroke="black" stroke-opacity="0.4" stroke-width="3.718"/>
+<line x1="503.2534971524831" y1="384.19035512031974" x2="215.80964487968026" y2="503.2534971524831" stroke="black" stroke-opacity="0.4" stroke-width="3.718"/>
+<line x1="503.2534971524831" y1="384.19035512031974" x2="144.4365081389595" y2="144.43650813895957" stroke="black" stroke-opacity="0.4" stroke-width="3.718"/>
+<line x1="455.5634918610404" y1="144.4365081389595" x2="300.0" y2="520.0" stroke="black" stroke-opacity="0.4" stroke-width="3.718"/>
+<line x1="96.7465028475169" y1="215.80964487968026" x2="384.19035512031974" y2="503.2534971524831" stroke="black" stroke-opacity="0.4" stroke-width="3.718"/>
+<line x1="144.43650813895957" y1="455.56349186104046" x2="96.74650284751692" y2="384.1903551203198" stroke="black" stroke-opacity="0.4" stroke-width="3.6406"/>
+<line x1="299.99999999999994" y1="80.0" x2="80.0" y2="300.0" stroke="black" stroke-opacity="0.4" stroke-width="3.6379"/>
+<line x1="384.1903551203198" y1="96.74650284751695" x2="215.80964487968012" y2="96.74650284751698" stroke="black" stroke-opacity="0.4" stroke-width="3.6189999999999998"/>
 <circle cx="520.0" cy="300.0" r="6" fill="black"/>
-<text x="528.0" y="304.0" font-size="10" font-family="Arial">Governance Failure</text>
-<text x="528.0" y="316.0" font-size="8" fill="gray">governance_failure</text>
+<text x="530.0" y="304.0" font-size="10" font-family="Arial" text-anchor="start">Policy</text>
+<text x="530.0" y="316.0" font-size="8" fill="gray" font-family="Arial" text-anchor="start">policy_dynamics</text>
 <circle cx="503.2534971524831" cy="384.19035512031974" r="6" fill="black"/>
-<text x="511.2534971524831" y="388.19035512031974" font-size="10" font-family="Arial">Lack Of Oversight</text>
-<text x="511.2534971524831" y="400.19035512031974" font-size="8" fill="gray">accountability_gaps</text>
+<text x="513.2534971524831" y="388.19035512031974" font-size="10" font-family="Arial" text-anchor="start">Governance Failure</text>
+<text x="513.2534971524831" y="400.19035512031974" font-size="8" fill="gray" font-family="Arial" text-anchor="start">governance_failure</text>
 <circle cx="455.56349186104046" cy="455.56349186104046" r="6" fill="black"/>
-<text x="463.56349186104046" y="459.56349186104046" font-size="10" font-family="Arial">Educational Technology</text>
-<text x="463.56349186104046" y="471.56349186104046" font-size="8" fill="gray">educational_technology</text>
+<text x="465.56349186104046" y="459.56349186104046" font-size="10" font-family="Arial" text-anchor="start">Revolution</text>
+<text x="465.56349186104046" y="471.56349186104046" font-size="8" fill="gray" font-family="Arial" text-anchor="start">geopolitics</text>
 <circle cx="384.19035512031974" cy="503.2534971524831" r="6" fill="black"/>
-<text x="392.19035512031974" y="507.2534971524831" font-size="10" font-family="Arial">Higher Education Governance</text>
-<text x="392.19035512031974" y="519.2534971524831" font-size="8" fill="gray">university_administration</text>
+<text x="394.19035512031974" y="507.2534971524831" font-size="10" font-family="Arial" text-anchor="start">Overregulation</text>
+<text x="394.19035512031974" y="519.2534971524831" font-size="8" fill="gray" font-family="Arial" text-anchor="start">governance_failure</text>
 <circle cx="300.0" cy="520.0" r="6" fill="black"/>
-<text x="308.0" y="524.0" font-size="10" font-family="Arial">Institutional Protection</text>
-<text x="308.0" y="536.0" font-size="8" fill="gray">accountability_gaps</text>
+<text x="310.0" y="524.0" font-size="10" font-family="Arial" text-anchor="start">Racial Discrimination</text>
+<text x="310.0" y="536.0" font-size="8" fill="gray" font-family="Arial" text-anchor="start">equity_social_issues</text>
 <circle cx="215.80964487968026" cy="503.2534971524831" r="6" fill="black"/>
-<text x="223.80964487968026" y="507.2534971524831" font-size="10" font-family="Arial">Affirmative Action</text>
-<text x="223.80964487968026" y="519.2534971524831" font-size="8" fill="gray">admissions_access</text>
+<text x="205.80964487968026" y="507.2534971524831" font-size="10" font-family="Arial" text-anchor="end">Institutional Protection</text>
+<text x="205.80964487968026" y="519.2534971524831" font-size="8" fill="gray" font-family="Arial" text-anchor="end">accountability_gaps</text>
 <circle cx="144.43650813895957" cy="455.56349186104046" r="6" fill="black"/>
-<text x="152.43650813895957" y="459.56349186104046" font-size="10" font-family="Arial">Overregulation</text>
-<text x="152.43650813895957" y="471.56349186104046" font-size="8" fill="gray">governance_failure</text>
+<text x="134.43650813895957" y="459.56349186104046" font-size="10" font-family="Arial" text-anchor="end">Education Crisis</text>
+<text x="134.43650813895957" y="471.56349186104046" font-size="8" fill="gray" font-family="Arial" text-anchor="end">higher_education_crisis</text>
 <circle cx="96.74650284751692" cy="384.1903551203198" r="6" fill="black"/>
-<text x="104.74650284751692" y="388.1903551203198" font-size="10" font-family="Arial">Policy</text>
-<text x="104.74650284751692" y="400.1903551203198" font-size="8" fill="gray">policy_dynamics</text>
+<text x="86.74650284751692" y="388.1903551203198" font-size="10" font-family="Arial" text-anchor="end">Education Policy</text>
+<text x="86.74650284751692" y="400.1903551203198" font-size="8" fill="gray" font-family="Arial" text-anchor="end">policy_dynamics</text>
 <circle cx="80.0" cy="300.0" r="6" fill="black"/>
-<text x="88.0" y="304.0" font-size="10" font-family="Arial">Higher Education Governance Structures</text>
-<text x="88.0" y="316.0" font-size="8" fill="gray">ranking_systems</text>
+<text x="70.0" y="304.0" font-size="10" font-family="Arial" text-anchor="end">Higher Education Governance Structures</text>
+<text x="70.0" y="316.0" font-size="8" fill="gray" font-family="Arial" text-anchor="end">ranking_systems</text>
 <circle cx="96.7465028475169" cy="215.80964487968026" r="6" fill="black"/>
-<text x="104.7465028475169" y="219.80964487968026" font-size="10" font-family="Arial">Declining Standards</text>
-<text x="104.7465028475169" y="231.80964487968026" font-size="8" fill="gray">degradation_signals</text>
+<text x="86.7465028475169" y="219.80964487968026" font-size="10" font-family="Arial" text-anchor="end">Declining Standards</text>
+<text x="86.7465028475169" y="231.80964487968026" font-size="8" fill="gray" font-family="Arial" text-anchor="end">degradation_signals</text>
 <circle cx="144.4365081389595" cy="144.43650813895957" r="6" fill="black"/>
-<text x="152.4365081389595" y="148.43650813895957" font-size="10" font-family="Arial">Education Policy</text>
-<text x="152.4365081389595" y="160.43650813895957" font-size="8" fill="gray">policy_dynamics</text>
+<text x="134.4365081389595" y="148.43650813895957" font-size="10" font-family="Arial" text-anchor="end">Lack Of Oversight</text>
+<text x="134.4365081389595" y="160.43650813895957" font-size="8" fill="gray" font-family="Arial" text-anchor="end">accountability_gaps</text>
 <circle cx="215.80964487968012" cy="96.74650284751698" r="6" fill="black"/>
-<text x="223.80964487968012" y="100.74650284751698" font-size="10" font-family="Arial">Racial Discrimination</text>
-<text x="223.80964487968012" y="112.74650284751698" font-size="8" fill="gray">equity_social_issues</text>
+<text x="205.80964487968012" y="100.74650284751698" font-size="10" font-family="Arial" text-anchor="end">Educational Technology</text>
+<text x="205.80964487968012" y="112.74650284751698" font-size="8" fill="gray" font-family="Arial" text-anchor="end">educational_technology</text>
 <circle cx="299.99999999999994" cy="80.0" r="6" fill="black"/>
-<text x="307.99999999999994" y="84.0" font-size="10" font-family="Arial">Classroom</text>
-<text x="307.99999999999994" y="96.0" font-size="8" fill="gray">teaching_learning</text>
+<text x="289.99999999999994" y="84.0" font-size="10" font-family="Arial" text-anchor="end">Higher Education Governance</text>
+<text x="289.99999999999994" y="96.0" font-size="8" fill="gray" font-family="Arial" text-anchor="end">university_administration</text>
 <circle cx="384.1903551203198" cy="96.74650284751695" r="6" fill="black"/>
-<text x="392.1903551203198" y="100.74650284751695" font-size="10" font-family="Arial">Revolution</text>
-<text x="392.1903551203198" y="112.74650284751695" font-size="8" fill="gray">geopolitics</text>
+<text x="394.1903551203198" y="100.74650284751695" font-size="10" font-family="Arial" text-anchor="start">Classroom</text>
+<text x="394.1903551203198" y="112.74650284751695" font-size="8" fill="gray" font-family="Arial" text-anchor="start">teaching_learning</text>
 <circle cx="455.5634918610404" cy="144.4365081389595" r="6" fill="black"/>
-<text x="463.5634918610404" y="148.4365081389595" font-size="10" font-family="Arial">Education Crisis</text>
-<text x="463.5634918610404" y="160.4365081389595" font-size="8" fill="gray">higher_education_crisis</text>
+<text x="465.5634918610404" y="148.4365081389595" font-size="10" font-family="Arial" text-anchor="start">Affirmative Action</text>
+<text x="465.5634918610404" y="160.4365081389595" font-size="8" fill="gray" font-family="Arial" text-anchor="start">admissions_access</text>
 <circle cx="503.253497152483" cy="215.8096448796801" r="6" fill="black"/>
-<text x="511.253497152483" y="219.8096448796801" font-size="10" font-family="Arial">Governance</text>
-<text x="511.253497152483" y="231.8096448796801" font-size="8" fill="gray">university_administration</text>
+<text x="513.2534971524831" y="219.8096448796801" font-size="10" font-family="Arial" text-anchor="start">Governance</text>
+<text x="513.2534971524831" y="231.8096448796801" font-size="8" fill="gray" font-family="Arial" text-anchor="start">university_administration</text>
 </svg>
