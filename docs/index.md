@@ -2,7 +2,7 @@
 theme: jekyll-theme-cayman
 ---
 
-<h1 style="font-size: 3.2em; margin-bottom: 0.2em; text-align: center; line-height: 1.1;">
+<h1 style="text-align: center;">
 
 MA'AT:<br>
 
