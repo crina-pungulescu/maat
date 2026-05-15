@@ -150,22 +150,22 @@ def build_topic_hub_svg(npmi_edges, topic_cluster_map, nodes, date_str):
             f'text-anchor="{anchor}">{label}</text>'
         )
 
-        # ----------------------------
-        # 5. WRITE FILES (DOUBLE EXPORT)
-        # ----------------------------
+    # ----------------------------
+    # 5. WRITE FILES (DOUBLE EXPORT)
+    # ----------------------------
 
-        svg.append('</svg>')
+    svg.append('</svg>')
 
-        svg_content = "\n".join(svg)
+    svg_content = "\n".join(svg)
 
 
-        with open(output_dir / "topic_hub.svg", "w", encoding="utf-8") as f:
-            f.write(svg_content)
+    with open(output_dir / "topic_hub.svg", "w", encoding="utf-8") as f:
+        f.write(svg_content)
 
-        with open(output_dir / f"topic_hub_{date_str}.svg", "w", encoding="utf-8") as f:
-            f.write(svg_content)
+    with open(output_dir / f"topic_hub_{date_str}.svg", "w", encoding="utf-8") as f:
+        f.write(svg_content)
 
-        print("Topic hub SVG exported.")
+    print("Topic hub SVG exported.")
 
 
 def load_all_matrices():
