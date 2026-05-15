@@ -43,6 +43,8 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add data/graphs
+          git add docs/assets/topic_hub*.svg
+          git commit -m "update topic hub"
           git commit -m "MAAT graph update" || echo "no changes"
           git pull --rebase origin main || echo "nothing to rebase"
           git push
