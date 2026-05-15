@@ -81,7 +81,7 @@ Each article is evaluated not by keywords, but by semantic proximity to higher e
 
 <ul>
 <li>Total stored articles: {{ system.total_articles | default: "—" }}</li>
-<li>Last run: {{ system.last_run | default: "—" }}</li>
+<li>Last run: {{ system.last_run | date: "%Y-%m-%d" | default: "—" }}</li>
 </ul>
 
 ---
