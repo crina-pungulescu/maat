@@ -21,6 +21,44 @@ def filter_cross_cluster_edges(edges, topic_cluster_map):
         ca = topic_cluster_map.get(a)
         cb = topic_cluster_map.get(b)
 
+        if ca != cb:
+
+            filtered.append({
+                **e,
+                "source_cluster": ca,
+                "target_cluster": cb
+            })
+
+    return filtered
+
+def build_topic_cluster_map(matrix):
+
+    mapping = {}
+
+    for article in matrix:
+
+        for t in article["scores"]:
+
+            topic = t["topic"]
+            cluster = t.get("cluster", "unknown")
+
+            if topic not in mapping:
+                mapping[topic] = cluster
+
+    return mapping
+
+def filter_cross_cluster_edges(edges, topic_cluster_map):
+
+    filtered = []
+
+    for e in edges:
+
+        a = e["source"]
+        b = e["target"]
+
+        ca = topic_cluster_map.get(a)
+        cb = topic_cluster_map.get(b)
+
         # only cross-cluster
         if ca != cb:
 
@@ -248,6 +286,8 @@ def save_outputs(
     edges,
     pmi_edges,
     npmi_edges,
+    cross_pmi_edges,
+    cross_npmi_edges,
     summary,
     date_str
 ):
@@ -388,6 +428,8 @@ def run():
         edges,
         pmi_edges,
         npmi_edges,
+        cross_pmi_edges,
+        cross_npmi_edges,
         summary,
         date_str
     )
