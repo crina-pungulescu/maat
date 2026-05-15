@@ -67,7 +67,6 @@ def build_topic_hub_svg(npmi_edges, topic_cluster_map, nodes, date_str):
     svg.append('<?xml version="1.0" encoding="UTF-8"?>')
     svg.append('<svg width="600" height="600" xmlns="http://www.w3.org/2000/svg">')
 
-    # background
     svg.append('<rect width="100%" height="100%" fill="white"/>')
 
     # ----------------------------
@@ -100,18 +99,29 @@ def build_topic_hub_svg(npmi_edges, topic_cluster_map, nodes, date_str):
         cluster = topic_cluster_map.get(node, "unknown")
         label = node_lookup.get(node, {}).get("label", node)
 
+        # NEW: direction-aware label placement
+        dx = x - center_x
+
+        if dx >= 0:
+            tx = x + 10
+            anchor = "start"
+        else:
+            tx = x - 10
+            anchor = "end"
+
         svg.append(
             f'<circle cx="{x}" cy="{y}" r="6" fill="black"/>'
         )
 
+        # UPDATED LABEL (no overlap fix)
         svg.append(
-            f'<text x="{x+8}" y="{y+4}" font-size="10" '
-            f'font-family="Arial">{label}</text>'
+            f'<text x="{tx}" y="{y+4}" font-size="10" '
+            f'font-family="Arial" text-anchor="{anchor}">{label}</text>'
         )
 
         svg.append(
-            f'<text x="{x+8}" y="{y+16}" font-size="8" fill="gray">'
-            f'{cluster}</text>'
+            f'<text x="{tx}" y="{y+16}" font-size="8" fill="gray" '
+            f'font-family="Arial" text-anchor="{anchor}">{cluster}</text>'
         )
 
     svg.append('</svg>')
@@ -122,19 +132,14 @@ def build_topic_hub_svg(npmi_edges, topic_cluster_map, nodes, date_str):
     # 5. WRITE FILES (DOUBLE EXPORT)
     # ----------------------------
 
-    # stable file
     with open(output_dir / "topic_hub.svg", "w", encoding="utf-8") as f:
         f.write(svg_content)
 
-    # dated snapshot
     with open(output_dir / f"topic_hub_{date_str}.svg", "w", encoding="utf-8") as f:
         f.write(svg_content)
 
     print("Topic hub SVG exported.")
 
-    print("FILES WRITTEN:")
-    print((output_dir / "topic_hub.svg").resolve())
-    print((output_dir / f"topic_hub_{date_str}.svg").resolve())
 
 def load_all_matrices():
     paths = sorted(Path("data/topics").glob("topic_matrix_*.json"))
