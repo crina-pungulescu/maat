@@ -70,29 +70,7 @@ Each article is evaluated not by keywords, but by semantic proximity to higher e
 
 ## Strongest Topic Connections
 
-{% assign network = site.data.cross_npmi_network | sort: "weight" | reverse %}
-
-<div class="hub-network">
-
-{% for edge in network limit:10 %}
-
-  <div class="hub-edge">
-
-    <div class="hub-node">
-      {{ edge.source | replace: "_", " " | capitalize }}
-    </div>
-
-    <div class="hub-line"></div>
-
-    <div class="hub-node central">
-      {{ edge.target | replace: "_", " " | capitalize }}
-    </div>
-
-  </div>
-
-{% endfor %}
-
-</div>
+<img src="assets/topic_hub.svg">
 
 ---
 
