@@ -97,7 +97,7 @@ MAAT_TOPICS = {
         "decline of academia",
         "academic collapse",
         "educational decline",
-        "breakdown of academic model",
+        "academic model breakdown",
         "educational instability",
         "structural breakdown",
         "unsustainable model",
