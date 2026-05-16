@@ -566,7 +566,8 @@ def run(mode):
 
     elif mode == "aggregate":
         matrix = load_all_matrices()
-        date_str = "aggregate"
+        latest_date = path.stem.replace("topic_matrix_", "")
+        date_str = f"aggregate_{latest_date}"
 
     else:
         raise ValueError("mode must be 'daily' or 'aggregate'")
