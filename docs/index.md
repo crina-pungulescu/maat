@@ -53,9 +53,9 @@ Each article is evaluated not by keywords, but by semantic proximity to higher e
 
 <table>
 <tr>
-<th>Theme</th>
-<th>Number of Articles</th>
-<th>Most Representative Article</th>
+<th>Category</th>
+<th>Article Count</th>
+<th>Lead Article</th>
 </tr>
 
 {% for topic in topics %}
