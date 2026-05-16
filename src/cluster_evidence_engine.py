@@ -7,17 +7,6 @@ from collections import defaultdict
 # LOAD HELPERS
 # ----------------------------
 
-def latest_file(directory, pattern):
-    files = sorted(Path(directory).glob(pattern))
-    print(f"[LOAD] Searching {directory}/{pattern} -> {len(files)} files")
-
-    if not files:
-        raise FileNotFoundError(f"No files match {pattern} in {directory}")
-
-    print(f"[LOAD] Using latest file: {files[-1]}")
-    return files[-1]
-
-
 def load_json(path):
     print(f"[LOAD] JSON -> {path}")
     with open(path, "r", encoding="utf-8") as f:
@@ -34,36 +23,35 @@ def load_jsonl(path):
     return rows
 
 
+def latest_file(pattern):
+    files = sorted(Path("data/graphs").glob(pattern))
+    if not files:
+        raise FileNotFoundError(pattern)
+    print(f"[LOAD] latest file -> {files[-1]}")
+    return files[-1]
+
+
 # ----------------------------
-# INPUT FILES
+# INPUTS
 # ----------------------------
 
-cluster_summary_path = latest_file(
-    "data/graphs",
-    "cluster_summary_aggregate_*.json"
-)
-
-graph_nodes_path = latest_file(
-    "data/graphs",
-    "graph_nodes_aggregate_*.json"
-)
+cluster_summary_path = latest_file("cluster_summary_aggregate_*.json")
+graph_nodes_path = latest_file("graph_nodes_aggregate_*.json")
 
 topic_matrix_paths = sorted(Path("data/topics").glob("topic_matrix_*.json"))
 raw_paths = sorted(Path("data/raw").glob("articles_*.jsonl"))
-
-print(f"[INPUT] topic_matrix files: {len(topic_matrix_paths)}")
-print(f"[INPUT] raw article files: {len(raw_paths)}")
-
 
 cluster_summary = load_json(cluster_summary_path)
 graph_nodes = load_json(graph_nodes_path)
 
 print(f"[INPUT] clusters: {len(cluster_summary)}")
 print(f"[INPUT] graph nodes: {len(graph_nodes)}")
+print(f"[INPUT] topic_matrix files: {len(topic_matrix_paths)}")
+print(f"[INPUT] raw article files: {len(raw_paths)}")
 
 
 # ----------------------------
-# BUILD TOPIC → ARTICLE IDS
+# INDEX: topic -> article_ids
 # ----------------------------
 
 topic_article_ids = {}
@@ -75,7 +63,7 @@ print(f"[INDEX] topic_article_ids built: {len(topic_article_ids)} topics")
 
 
 # ----------------------------
-# BUILD ARTICLE → TOPIC SCORE INDEX
+# INDEX: article -> topic scores
 # ----------------------------
 
 article_topic_scores = {}
@@ -95,16 +83,15 @@ for path in topic_matrix_paths:
             topic = t["topic"]
             score = t["score"]
 
-            article_topic_scores[article_id][topic] = max(
-                score,
-                article_topic_scores[article_id].get(topic, 0)
-            )
+            prev = article_topic_scores[article_id].get(topic, 0)
+            if score > prev:
+                article_topic_scores[article_id][topic] = score
 
 print(f"[INDEX] article_topic_scores built: {len(article_topic_scores)} articles")
 
 
 # ----------------------------
-# BUILD RAW ARTICLE INDEX
+# INDEX: raw article metadata
 # ----------------------------
 
 raw_articles = {}
@@ -114,32 +101,30 @@ print("[INDEX] building raw article index...")
 for path in raw_paths:
     rows = load_jsonl(path)
 
-    for article in rows:
-        article_id = article["article_id"]
-
-        raw_articles[article_id] = {
-            "headline": article.get("headline") or article.get("title") or "",
-            "url": article.get("url") or article.get("link") or ""
+    for a in rows:
+        raw_articles[a["article_id"]] = {
+            "headline": a.get("headline") or a.get("title", ""),
+            "url": a.get("url") or a.get("link", "")
         }
 
 print(f"[INDEX] raw_articles built: {len(raw_articles)} articles")
 
 
 # ----------------------------
-# SELECT CLUSTER EVIDENCE
+# SELECT BEST EVIDENCE
 # ----------------------------
 
 used_articles = set()
 cluster_evidence = []
 
-print("[SELECT] starting cluster selection...")
+print("[SELECT] starting cluster selection...\n")
 
 for i, cluster in enumerate(cluster_summary):
 
     cluster_name = cluster["topic"]
     cluster_topics = cluster["topics"]
 
-    print(f"\n[CLUSTER {i}] {cluster_name}")
+    print(f"[CLUSTER {i}] {cluster_name}")
     print(f"[CLUSTER {i}] topics: {len(cluster_topics)}")
 
     candidates = []
@@ -166,12 +151,12 @@ for i, cluster in enumerate(cluster_summary):
     print(f"[CLUSTER {i}] candidates: {len(candidates)}")
 
     if not candidates:
-        print(f"[CLUSTER {i}] SKIPPED (no candidates)")
+        print(f"[CLUSTER {i}] SKIPPED (no candidates)\n")
         continue
 
     best = max(candidates, key=lambda x: x["score"])
 
-    print(f"[CLUSTER {i}] BEST -> {best['article_id']} ({best['score']})")
+    print(f"[CLUSTER {i}] BEST -> {best['article_id']} ({best['score']})\n")
 
     used_articles.add(best["article_id"])
 
@@ -179,6 +164,7 @@ for i, cluster in enumerate(cluster_summary):
 
     cluster_evidence.append({
         "cluster": cluster_name,
+        "count": cluster["count"],
         "evidence": {
             "article_id": best["article_id"],
             "headline": raw.get("headline", ""),
@@ -203,9 +189,8 @@ output_dir.mkdir(parents=True, exist_ok=True)
 
 output_path = output_dir / f"cluster_evidence_aggregate_{latest_date}.json"
 
-print(f"\n[SAVE] writing output -> {output_path}")
-
 with open(output_path, "w", encoding="utf-8") as f:
     json.dump(cluster_evidence, f, indent=2, ensure_ascii=False)
 
+print(f"[DONE] saved -> {output_path}")
 print(f"[DONE] clusters written: {len(cluster_evidence)}")
