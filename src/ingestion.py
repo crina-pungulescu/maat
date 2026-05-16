@@ -394,6 +394,12 @@ def normalize_title(title: str) -> str:
 
     return " ".join(title.lower().strip().split())
 
+required = ["article_id", "title", "link", "full_text"]
+
+def validate_final(article):
+
+    return article and all(article.get(k) for k in required)
+
 def is_valid_article(article: dict) -> bool:
     """
     Final safety gate: prevents empty or malformed rows from entering dataset.
@@ -487,7 +493,7 @@ def fetch_rss_articles(seen):
 
                 article["translated_text"] = ''
 
-            if not is_valid_article(article):
+            if not validate_final(article) or not is_valid_article(article):
 
                 continue
             
