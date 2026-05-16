@@ -22,7 +22,7 @@ model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
 
 MAAT_TOPICS = {
 
-    "teaching_learning": [
+    "teaching_and_learning": [
         "instructional practice",
         "pedagogical methods",
         "curricular design",
@@ -51,7 +51,7 @@ MAAT_TOPICS = {
     "student_experience": [
         "student wellbeing",
         "student life",
-        "student support",
+        "supporting staff",
         "student satisfaction",
         "student engagement",
         "student retention",
@@ -107,14 +107,14 @@ MAAT_TOPICS = {
     ],
 
     "education_cost": [
-        "tuition debt",
+        "tuition",
+        "debt",
+        "loan",
         "tuition affordability",
         "financial aid",
         "scholarships",
         "cost barriers",
         "financial hardship",
-        "privilege",
-        "opportunity inequality"
     ],
     
    "university_administration": [
@@ -144,6 +144,7 @@ MAAT_TOPICS = {
         "austerity",
         "financial concerns",
         "budget cuts",
+        "budget constraints",
         "resource constraints",
         "insufficient resources"
     ],
@@ -179,12 +180,11 @@ MAAT_TOPICS = {
         "dishonesty"
     ],
 
-    "legal_violations": [
+    "norm_violations": [
         "fraud",
         "embezzlement",
         "corruption",
         "bribery",
-        "money laundering",
         "tax evasion",
         "misconduct",
         "insider trading",
@@ -192,12 +192,10 @@ MAAT_TOPICS = {
         "perjury",
         "contempt of court",
         "privacy violation",
-        "cybercrime",
         "theft",
         "regulatory violation",
         "compliance breach",
-        "contract fraud",
-        "consumer fraud"
+        "unfair contracts"
     ],
         
     "degradation_signals": [
@@ -208,7 +206,7 @@ MAAT_TOPICS = {
         "lower expectations",
         "quality erosion",
         "oversimplification",
-        "dumbing down of material",
+        "dumbing down material",
         "programme massification",
         "over-enrollment",
         "leniency",
@@ -217,6 +215,7 @@ MAAT_TOPICS = {
         "skills mismatch",
         "employability gap",
         "opportunistic growth",
+        "incompetence",
         "credential depreciation"
     ],
 
@@ -226,8 +225,8 @@ MAAT_TOPICS = {
          "retaliation",
          "institutional abuse",
          "retaliatory litigation",
-         "silencing dissent",
-         "suppression of dissent",
+         "suppressing dissent",
+         "silencing criticism",
          "risks attached to reporting abuse",
          "self-censorship",
          "wrongful termination",
@@ -263,7 +262,7 @@ MAAT_TOPICS = {
          "decision-making opacity",
          "informal power networks",
          "self-regulation",
-         "inaction"
+         "abuse of office"
     ],
 
     
@@ -328,11 +327,12 @@ MAAT_TOPICS = {
         "uprising",
         "regime",
         "political repression",
+        "political interference",
         "state surveillance",
         "propaganda"
     ],
 
-    "regions_countries": [
+    "regions_and_countries": [
         "north america",
         "latin america",
         "south america",
