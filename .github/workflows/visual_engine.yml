@@ -2,7 +2,7 @@ name: MAAT Visualisation Engine
 
 on:
   workflow_run:
-    workflows: ["MAAT Graph Engine"]
+    workflows: ["MAAT Cluster Evidence Engine"]
     types:
       - completed
 
