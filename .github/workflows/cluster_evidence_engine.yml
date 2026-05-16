@@ -33,7 +33,7 @@ jobs:
           python src/cluster_evidence_engine.py
 
       - name: Upload cluster evidence outputs
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: cluster-evidence
           path: |
