@@ -2,42 +2,47 @@
   {
     "source": "university policy",
     "target": "university reform",
-    "weight": 30
+    "weight": 31
   },
   {
     "source": "higher education crisis",
     "target": "university reform",
-    "weight": 22
+    "weight": 23
   },
   {
     "source": "education crisis",
     "target": "higher education crisis",
-    "weight": 22
+    "weight": 23
   },
   {
     "source": "education crisis",
     "target": "university policy",
-    "weight": 22
+    "weight": 23
   },
   {
     "source": "higher education crisis",
     "target": "university policy",
-    "weight": 21
+    "weight": 22
   },
   {
     "source": "educational instability",
     "target": "higher education crisis",
-    "weight": 20
+    "weight": 21
   },
   {
     "source": "education crisis",
     "target": "educational instability",
-    "weight": 20
+    "weight": 21
   },
   {
     "source": "education crisis",
     "target": "university reform",
-    "weight": 20
+    "weight": 21
+  },
+  {
+    "source": "educational instability",
+    "target": "university reform",
+    "weight": 19
   },
   {
     "source": "outdated education model",
@@ -45,38 +50,63 @@
     "weight": 19
   },
   {
-    "source": "educational instability",
-    "target": "university reform",
-    "weight": 18
-  },
-  {
     "source": "education crisis",
     "target": "outdated education model",
-    "weight": 18
+    "weight": 19
   },
   {
     "source": "educational instability",
     "target": "university policy",
-    "weight": 18
+    "weight": 19
   },
   {
     "source": "academic model breakdown",
     "target": "outdated education model",
-    "weight": 17
+    "weight": 18
   },
   {
     "source": "educational instability",
     "target": "outdated education model",
-    "weight": 17
+    "weight": 18
   },
   {
     "source": "higher education crisis",
     "target": "outdated education model",
-    "weight": 16
+    "weight": 17
   },
   {
     "source": "academic model breakdown",
     "target": "education crisis",
+    "weight": 17
+  },
+  {
+    "source": "outdated education model",
+    "target": "university policy",
+    "weight": 17
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "educational instability",
+    "weight": 16
+  },
+  {
+    "source": "outdated education model",
+    "target": "university reform",
+    "weight": 16
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "decline of academia",
+    "weight": 16
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "university policy",
+    "weight": 16
+  },
+  {
+    "source": "education crisis",
+    "target": "educational decline",
     "weight": 16
   },
   {
@@ -85,8 +115,8 @@
     "weight": 16
   },
   {
-    "source": "outdated education model",
-    "target": "university policy",
+    "source": "educational decline",
+    "target": "educational instability",
     "weight": 16
   },
   {
@@ -95,58 +125,53 @@
     "weight": 16
   },
   {
-    "source": "academic model breakdown",
-    "target": "educational instability",
-    "weight": 15
-  },
-  {
-    "source": "outdated education model",
-    "target": "university reform",
-    "weight": 15
-  },
-  {
-    "source": "academic model breakdown",
-    "target": "decline of academia",
-    "weight": 15
-  },
-  {
-    "source": "academic model breakdown",
-    "target": "university policy",
-    "weight": 15
-  },
-  {
-    "source": "education crisis",
-    "target": "educational decline",
-    "weight": 15
-  },
-  {
-    "source": "educational decline",
-    "target": "educational instability",
-    "weight": 15
-  },
-  {
-    "source": "education crisis",
-    "target": "pedagogical innovation",
-    "weight": 15
-  },
-  {
     "source": "decline of academia",
     "target": "educational instability",
-    "weight": 14
+    "weight": 15
   },
   {
     "source": "decline of academia",
     "target": "outdated education model",
+    "weight": 15
+  },
+  {
+    "source": "decline of academia",
+    "target": "university reform",
+    "weight": 15
+  },
+  {
+    "source": "academic collapse",
+    "target": "decline of academia",
+    "weight": 15
+  },
+  {
+    "source": "decline of academia",
+    "target": "education crisis",
+    "weight": 15
+  },
+  {
+    "source": "decline of academia",
+    "target": "university policy",
+    "weight": 15
+  },
+  {
+    "source": "educational decline",
+    "target": "higher education crisis",
+    "weight": 15
+  },
+  {
+    "source": "education crisis",
+    "target": "pedagogical innovation",
+    "weight": 15
+  },
+  {
+    "source": "decline of academia",
+    "target": "higher education crisis",
     "weight": 14
   },
   {
     "source": "decline of academia",
     "target": "pedagogical innovation",
-    "weight": 14
-  },
-  {
-    "source": "decline of academia",
-    "target": "university reform",
     "weight": 14
   },
   {
@@ -155,23 +180,38 @@
     "weight": 14
   },
   {
-    "source": "academic collapse",
-    "target": "decline of academia",
+    "source": "outdated education model",
+    "target": "systemic education failure",
     "weight": 14
   },
   {
-    "source": "decline of academia",
+    "source": "academic collapse",
+    "target": "academic model breakdown",
+    "weight": 14
+  },
+  {
+    "source": "academic collapse",
     "target": "education crisis",
     "weight": 14
   },
   {
-    "source": "decline of academia",
-    "target": "university policy",
+    "source": "academic collapse",
+    "target": "educational instability",
+    "weight": 14
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "higher education crisis",
+    "weight": 14
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "university reform",
     "weight": 14
   },
   {
     "source": "educational decline",
-    "target": "higher education crisis",
+    "target": "university policy",
     "weight": 14
   },
   {
@@ -211,7 +251,7 @@
   },
   {
     "source": "decline of academia",
-    "target": "higher education crisis",
+    "target": "systemic education failure",
     "weight": 13
   },
   {
@@ -220,43 +260,38 @@
     "weight": 13
   },
   {
-    "source": "outdated education model",
-    "target": "systemic education failure",
-    "weight": 13
-  },
-  {
     "source": "pedagogical innovation",
     "target": "university reform",
     "weight": 13
   },
   {
-    "source": "academic collapse",
-    "target": "academic model breakdown",
-    "weight": 13
-  },
-  {
-    "source": "academic collapse",
-    "target": "education crisis",
-    "weight": 13
-  },
-  {
-    "source": "academic collapse",
-    "target": "educational instability",
-    "weight": 13
-  },
-  {
-    "source": "academic model breakdown",
-    "target": "higher education crisis",
-    "weight": 13
-  },
-  {
-    "source": "academic model breakdown",
+    "source": "university administrators",
     "target": "university reform",
     "weight": 13
   },
   {
-    "source": "educational decline",
+    "source": "academic collapse",
+    "target": "higher education crisis",
+    "weight": 13
+  },
+  {
+    "source": "academic collapse",
     "target": "university policy",
+    "weight": 13
+  },
+  {
+    "source": "education crisis",
+    "target": "systemic education failure",
+    "weight": 13
+  },
+  {
+    "source": "educational decline",
+    "target": "outdated education model",
+    "weight": 13
+  },
+  {
+    "source": "educational decline",
+    "target": "university reform",
     "weight": 13
   },
   {
@@ -275,7 +310,7 @@
     "weight": 12
   },
   {
-    "source": "decline of academia",
+    "source": "educational instability",
     "target": "systemic education failure",
     "weight": 12
   },
@@ -285,33 +320,33 @@
     "weight": 12
   },
   {
-    "source": "university administrators",
-    "target": "university reform",
+    "source": "academic collapse",
+    "target": "educational decline",
     "weight": 12
   },
   {
     "source": "academic collapse",
-    "target": "higher education crisis",
-    "weight": 12
-  },
-  {
-    "source": "academic collapse",
-    "target": "university policy",
-    "weight": 12
-  },
-  {
-    "source": "education crisis",
-    "target": "systemic education failure",
-    "weight": 12
-  },
-  {
-    "source": "educational decline",
     "target": "outdated education model",
     "weight": 12
   },
   {
-    "source": "educational decline",
+    "source": "academic collapse",
     "target": "university reform",
+    "weight": 12
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "educational decline",
+    "weight": 12
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "systemic education failure",
+    "weight": 12
+  },
+  {
+    "source": "decline of academia",
+    "target": "educational decline",
     "weight": 12
   },
   {
@@ -340,43 +375,18 @@
     "weight": 12
   },
   {
-    "source": "educational instability",
+    "source": "higher education crisis",
     "target": "systemic education failure",
-    "weight": 11
-  },
-  {
-    "source": "academic collapse",
-    "target": "educational decline",
-    "weight": 11
-  },
-  {
-    "source": "academic collapse",
-    "target": "outdated education model",
-    "weight": 11
-  },
-  {
-    "source": "academic collapse",
-    "target": "university reform",
-    "weight": 11
-  },
-  {
-    "source": "academic model breakdown",
-    "target": "educational decline",
-    "weight": 11
-  },
-  {
-    "source": "academic model breakdown",
-    "target": "systemic education failure",
-    "weight": 11
-  },
-  {
-    "source": "decline of academia",
-    "target": "educational decline",
     "weight": 11
   },
   {
     "source": "outdated education model",
     "target": "politicisation of science",
+    "weight": 11
+  },
+  {
+    "source": "university administrators",
+    "target": "university policy",
     "weight": 11
   },
   {
@@ -410,11 +420,6 @@
     "weight": 11
   },
   {
-    "source": "higher education crisis",
-    "target": "systemic education failure",
-    "weight": 10
-  },
-  {
     "source": "instructional excellence",
     "target": "outdated education model",
     "weight": 10
@@ -425,18 +430,33 @@
     "weight": 10
   },
   {
+    "source": "academic collapse",
+    "target": "systemic education failure",
+    "weight": 10
+  },
+  {
     "source": "decline of academia",
     "target": "politicisation of science",
     "weight": 10
   },
   {
-    "source": "silencing dissent",
-    "target": "university reform",
+    "source": "educational decline",
+    "target": "systemic education failure",
     "weight": 10
   },
   {
-    "source": "university administrators",
+    "source": "systemic education failure",
     "target": "university policy",
+    "weight": 10
+  },
+  {
+    "source": "university bylaws",
+    "target": "university policy",
+    "weight": 10
+  },
+  {
+    "source": "university bylaws",
+    "target": "university reform",
     "weight": 10
   },
   {
@@ -515,6 +535,21 @@
     "weight": 10
   },
   {
+    "source": "higher education crisis",
+    "target": "university administrators",
+    "weight": 9
+  },
+  {
+    "source": "outdated education model",
+    "target": "university administrators",
+    "weight": 9
+  },
+  {
+    "source": "systemic education failure",
+    "target": "university reform",
+    "weight": 9
+  },
+  {
     "source": "university administrators",
     "target": "university leadership",
     "weight": 9
@@ -525,52 +560,22 @@
     "weight": 9
   },
   {
-    "source": "academic collapse",
-    "target": "systemic education failure",
-    "weight": 9
-  },
-  {
     "source": "academic model breakdown",
     "target": "politicisation of science",
     "weight": 9
   },
   {
-    "source": "education crisis",
-    "target": "silencing dissent",
-    "weight": 9
-  },
-  {
-    "source": "educational decline",
-    "target": "systemic education failure",
-    "weight": 9
-  },
-  {
-    "source": "higher education crisis",
-    "target": "silencing dissent",
-    "weight": 9
-  },
-  {
-    "source": "silencing dissent",
-    "target": "university policy",
-    "weight": 9
-  },
-  {
-    "source": "systemic education failure",
-    "target": "university policy",
-    "weight": 9
-  },
-  {
-    "source": "university bylaws",
-    "target": "university policy",
-    "weight": 9
-  },
-  {
-    "source": "university bylaws",
+    "source": "student protest",
     "target": "university reform",
     "weight": 9
   },
   {
-    "source": "student protest",
+    "source": "college admissions",
+    "target": "university policy",
+    "weight": 9
+  },
+  {
+    "source": "college admissions",
     "target": "university reform",
     "weight": 9
   },
@@ -640,23 +645,18 @@
     "weight": 9
   },
   {
+    "source": "decline of academia",
+    "target": "university administrators",
+    "weight": 8
+  },
+  {
     "source": "educational instability",
     "target": "instructional excellence",
     "weight": 8
   },
   {
-    "source": "higher education crisis",
+    "source": "educational instability",
     "target": "university administrators",
-    "weight": 8
-  },
-  {
-    "source": "outdated education model",
-    "target": "university administrators",
-    "weight": 8
-  },
-  {
-    "source": "systemic education failure",
-    "target": "university reform",
     "weight": 8
   },
   {
@@ -675,6 +675,11 @@
     "weight": 8
   },
   {
+    "source": "education crisis",
+    "target": "university administrators",
+    "weight": 8
+  },
+  {
     "source": "educational decline",
     "target": "student engagement",
     "weight": 8
@@ -690,16 +695,6 @@
     "weight": 8
   },
   {
-    "source": "outdated education model",
-    "target": "silencing dissent",
-    "weight": 8
-  },
-  {
-    "source": "politicisation of science",
-    "target": "silencing dissent",
-    "weight": 8
-  },
-  {
     "source": "politicisation of science",
     "target": "university policy",
     "weight": 8
@@ -707,6 +702,11 @@
   {
     "source": "politicisation of science",
     "target": "university reform",
+    "weight": 8
+  },
+  {
+    "source": "university administrators",
+    "target": "university bylaws",
     "weight": 8
   },
   {
@@ -735,16 +735,6 @@
     "weight": 8
   },
   {
-    "source": "college admissions",
-    "target": "university policy",
-    "weight": 8
-  },
-  {
-    "source": "college admissions",
-    "target": "university reform",
-    "weight": 8
-  },
-  {
     "source": "academic model breakdown",
     "target": "school budgets",
     "weight": 8
@@ -756,6 +746,26 @@
   },
   {
     "source": "course evaluation",
+    "target": "university policy",
+    "weight": 8
+  },
+  {
+    "source": "education crisis",
+    "target": "tuition",
+    "weight": 8
+  },
+  {
+    "source": "higher education crisis",
+    "target": "tuition",
+    "weight": 8
+  },
+  {
+    "source": "student engagement",
+    "target": "tuition",
+    "weight": 8
+  },
+  {
+    "source": "tuition",
     "target": "university policy",
     "weight": 8
   },
@@ -875,16 +885,6 @@
     "weight": 7
   },
   {
-    "source": "decline of academia",
-    "target": "university administrators",
-    "weight": 7
-  },
-  {
-    "source": "educational instability",
-    "target": "university administrators",
-    "weight": 7
-  },
-  {
     "source": "higher education crisis",
     "target": "instructional excellence",
     "weight": 7
@@ -911,22 +911,22 @@
   },
   {
     "source": "decline of academia",
-    "target": "silencing dissent",
-    "weight": 7
-  },
-  {
-    "source": "decline of academia",
     "target": "student engagement",
     "weight": 7
   },
   {
-    "source": "education crisis",
-    "target": "university administrators",
+    "source": "decline of academia",
+    "target": "university bylaws",
     "weight": 7
   },
   {
-    "source": "educational instability",
-    "target": "silencing dissent",
+    "source": "education crisis",
+    "target": "university bylaws",
+    "weight": 7
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university bylaws",
     "weight": 7
   },
   {
@@ -947,11 +947,6 @@
   {
     "source": "scholarships",
     "target": "university reform",
-    "weight": 7
-  },
-  {
-    "source": "university administrators",
-    "target": "university bylaws",
     "weight": 7
   },
   {
@@ -985,11 +980,6 @@
     "weight": 7
   },
   {
-    "source": "pedagogical innovation",
-    "target": "silencing dissent",
-    "weight": 7
-  },
-  {
     "source": "academic collapse",
     "target": "school budgets",
     "weight": 7
@@ -1007,6 +997,16 @@
   {
     "source": "school budgets",
     "target": "student life",
+    "weight": 7
+  },
+  {
+    "source": "college admissions",
+    "target": "education crisis",
+    "weight": 7
+  },
+  {
+    "source": "college admissions",
+    "target": "higher education crisis",
     "weight": 7
   },
   {
@@ -1030,8 +1030,23 @@
     "weight": 7
   },
   {
+    "source": "educational instability",
+    "target": "tuition",
+    "weight": 7
+  },
+  {
     "source": "school budgets",
     "target": "student engagement",
+    "weight": 7
+  },
+  {
+    "source": "student life",
+    "target": "tuition",
+    "weight": 7
+  },
+  {
+    "source": "tuition",
+    "target": "university reform",
     "weight": 7
   },
   {
@@ -1047,11 +1062,6 @@
   {
     "source": "participatory instruction",
     "target": "student life",
-    "weight": 7
-  },
-  {
-    "source": "silencing dissent",
-    "target": "suppression of dissent",
     "weight": 7
   },
   {
@@ -1236,17 +1246,12 @@
   },
   {
     "source": "academic collapse",
-    "target": "silencing dissent",
-    "weight": 6
-  },
-  {
-    "source": "academic collapse",
     "target": "student engagement",
     "weight": 6
   },
   {
     "source": "academic model breakdown",
-    "target": "silencing dissent",
+    "target": "university bylaws",
     "weight": 6
   },
   {
@@ -1270,18 +1275,8 @@
     "weight": 6
   },
   {
-    "source": "decline of academia",
-    "target": "university bylaws",
-    "weight": 6
-  },
-  {
     "source": "education crisis",
     "target": "scholarships",
-    "weight": 6
-  },
-  {
-    "source": "education crisis",
-    "target": "university bylaws",
     "weight": 6
   },
   {
@@ -1295,33 +1290,18 @@
     "weight": 6
   },
   {
+    "source": "educational instability",
+    "target": "university bylaws",
+    "weight": 6
+  },
+  {
     "source": "higher education crisis",
     "target": "scholarships",
     "weight": 6
   },
   {
-    "source": "higher education crisis",
-    "target": "university bylaws",
-    "weight": 6
-  },
-  {
-    "source": "legitimacy crisis",
-    "target": "silencing dissent",
-    "weight": 6
-  },
-  {
     "source": "politicisation of science",
     "target": "scholarly funding",
-    "weight": 6
-  },
-  {
-    "source": "silencing dissent",
-    "target": "student engagement",
-    "weight": 6
-  },
-  {
-    "source": "silencing dissent",
-    "target": "systemic education failure",
     "weight": 6
   },
   {
@@ -1337,11 +1317,6 @@
   {
     "source": "university bylaws",
     "target": "university leadership",
-    "weight": 6
-  },
-  {
-    "source": "silencing dissent",
-    "target": "student protest",
     "weight": 6
   },
   {
@@ -1365,7 +1340,7 @@
     "weight": 6
   },
   {
-    "source": "suppression of dissent",
+    "source": "suppressing dissent",
     "target": "university reform",
     "weight": 6
   },
@@ -1401,31 +1376,16 @@
   },
   {
     "source": "college admissions",
-    "target": "education crisis",
-    "weight": 6
-  },
-  {
-    "source": "college admissions",
-    "target": "higher education crisis",
+    "target": "educational instability",
     "weight": 6
   },
   {
     "source": "course evaluation",
-    "target": "university reform",
+    "target": "tuition",
     "weight": 6
   },
   {
-    "source": "student engagement",
-    "target": "student support",
-    "weight": 6
-  },
-  {
-    "source": "student support",
-    "target": "university policy",
-    "weight": 6
-  },
-  {
-    "source": "student support",
+    "source": "course evaluation",
     "target": "university reform",
     "weight": 6
   },
@@ -1605,13 +1565,18 @@
     "weight": 5
   },
   {
+    "source": "academic collapse",
+    "target": "university bylaws",
+    "weight": 5
+  },
+  {
     "source": "academic model breakdown",
     "target": "scholarships",
     "weight": 5
   },
   {
     "source": "academic model breakdown",
-    "target": "university bylaws",
+    "target": "university administrators",
     "weight": 5
   },
   {
@@ -1631,11 +1596,6 @@
   },
   {
     "source": "bureaucratic obstruction",
-    "target": "silencing dissent",
-    "weight": 5
-  },
-  {
-    "source": "bureaucratic obstruction",
     "target": "systemic education failure",
     "weight": 5
   },
@@ -1646,11 +1606,11 @@
   },
   {
     "source": "educational decline",
-    "target": "silencing dissent",
+    "target": "university administrators",
     "weight": 5
   },
   {
-    "source": "educational instability",
+    "source": "outdated education model",
     "target": "university bylaws",
     "weight": 5
   },
@@ -1665,7 +1625,7 @@
     "weight": 5
   },
   {
-    "source": "suppression of dissent",
+    "source": "suppressing dissent",
     "target": "university policy",
     "weight": 5
   },
@@ -1675,47 +1635,22 @@
     "weight": 5
   },
   {
-    "source": "education crisis",
-    "target": "tuition debt",
-    "weight": 5
-  },
-  {
     "source": "educational decline",
     "target": "student retention",
     "weight": 5
   },
   {
-    "source": "educational instability",
-    "target": "tuition debt",
-    "weight": 5
-  },
-  {
     "source": "higher education crisis",
     "target": "student retention",
     "weight": 5
   },
   {
-    "source": "higher education crisis",
-    "target": "tuition debt",
-    "weight": 5
-  },
-  {
     "source": "student retention",
     "target": "university policy",
     "weight": 5
   },
   {
     "source": "student retention",
-    "target": "university reform",
-    "weight": 5
-  },
-  {
-    "source": "tuition debt",
-    "target": "university policy",
-    "weight": 5
-  },
-  {
-    "source": "tuition debt",
     "target": "university reform",
     "weight": 5
   },
@@ -1745,11 +1680,6 @@
     "weight": 5
   },
   {
-    "source": "populism",
-    "target": "silencing dissent",
-    "weight": 5
-  },
-  {
     "source": "student life",
     "target": "student protest",
     "weight": 5
@@ -1776,12 +1706,7 @@
   },
   {
     "source": "college admissions",
-    "target": "educational instability",
-    "weight": 5
-  },
-  {
-    "source": "college admissions",
-    "target": "student support",
+    "target": "tuition",
     "weight": 5
   },
   {
@@ -1790,23 +1715,18 @@
     "weight": 5
   },
   {
-    "source": "education crisis",
-    "target": "student support",
-    "weight": 5
-  },
-  {
-    "source": "educational instability",
-    "target": "student support",
-    "weight": 5
-  },
-  {
-    "source": "higher education crisis",
-    "target": "student support",
+    "source": "educational decline",
+    "target": "tuition",
     "weight": 5
   },
   {
     "source": "scholarships",
     "target": "student life",
+    "weight": 5
+  },
+  {
+    "source": "school budgets",
+    "target": "tuition",
     "weight": 5
   },
   {
@@ -1820,8 +1740,8 @@
     "weight": 5
   },
   {
-    "source": "student life",
-    "target": "student support",
+    "source": "academic model breakdown",
+    "target": "college admissions",
     "weight": 5
   },
   {
@@ -1850,11 +1770,6 @@
     "weight": 5
   },
   {
-    "source": "political repression",
-    "target": "silencing dissent",
-    "weight": 5
-  },
-  {
     "source": "academic model breakdown",
     "target": "selective admissions",
     "weight": 5
@@ -1950,6 +1865,11 @@
     "weight": 5
   },
   {
+    "source": "curricular design",
+    "target": "tuition",
+    "weight": 5
+  },
+  {
     "source": "education crisis",
     "target": "pedagogical methods",
     "weight": 5
@@ -1977,6 +1897,11 @@
   {
     "source": "intellectual autonomy",
     "target": "research productivity",
+    "weight": 5
+  },
+  {
+    "source": "outdated education model",
+    "target": "tuition",
     "weight": 5
   },
   {
@@ -2130,6 +2055,11 @@
     "weight": 4
   },
   {
+    "source": "systemic education failure",
+    "target": "university administrators",
+    "weight": 4
+  },
+  {
     "source": "decline of academia",
     "target": "high-impact research",
     "weight": 4
@@ -2151,7 +2081,7 @@
   },
   {
     "source": "academic collapse",
-    "target": "university bylaws",
+    "target": "university administrators",
     "weight": 4
   },
   {
@@ -2167,11 +2097,6 @@
   {
     "source": "academic model breakdown",
     "target": "scholarly funding",
-    "weight": 4
-  },
-  {
-    "source": "academic model breakdown",
-    "target": "university administrators",
     "weight": 4
   },
   {
@@ -2206,7 +2131,7 @@
   },
   {
     "source": "educational decline",
-    "target": "university administrators",
+    "target": "university bylaws",
     "weight": 4
   },
   {
@@ -2235,11 +2160,6 @@
     "weight": 4
   },
   {
-    "source": "outdated education model",
-    "target": "university bylaws",
-    "weight": 4
-  },
-  {
     "source": "politicisation of science",
     "target": "student engagement",
     "weight": 4
@@ -2261,11 +2181,6 @@
   },
   {
     "source": "scholarly funding",
-    "target": "silencing dissent",
-    "weight": 4
-  },
-  {
-    "source": "scholarly funding",
     "target": "university policy",
     "weight": 4
   },
@@ -2275,18 +2190,13 @@
     "weight": 4
   },
   {
-    "source": "silencing dissent",
-    "target": "university administrators",
-    "weight": 4
-  },
-  {
-    "source": "silencing dissent",
-    "target": "university bylaws",
-    "weight": 4
-  },
-  {
     "source": "student engagement",
     "target": "university leadership",
+    "weight": 4
+  },
+  {
+    "source": "scholarly funding",
+    "target": "silencing criticism",
     "weight": 4
   },
   {
@@ -2296,7 +2206,7 @@
   },
   {
     "source": "freedom of speech",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 4
   },
   {
@@ -2307,11 +2217,6 @@
   {
     "source": "academic collapse",
     "target": "student retention",
-    "weight": 4
-  },
-  {
-    "source": "academic collapse",
-    "target": "tuition debt",
     "weight": 4
   },
   {
@@ -2411,6 +2316,11 @@
   },
   {
     "source": "college admissions",
+    "target": "educational decline",
+    "weight": 4
+  },
+  {
+    "source": "college admissions",
     "target": "scholarships",
     "weight": 4
   },
@@ -2430,28 +2340,18 @@
     "weight": 4
   },
   {
-    "source": "course evaluation",
-    "target": "student support",
-    "weight": 4
-  },
-  {
     "source": "scholarships",
     "target": "school budgets",
     "weight": 4
   },
   {
     "source": "scholarships",
-    "target": "student support",
+    "target": "tuition",
     "weight": 4
   },
   {
     "source": "school budgets",
     "target": "student retention",
-    "weight": 4
-  },
-  {
-    "source": "school budgets",
-    "target": "student support",
     "weight": 4
   },
   {
@@ -2476,7 +2376,7 @@
   },
   {
     "source": "student retention",
-    "target": "student support",
+    "target": "tuition",
     "weight": 4
   },
   {
@@ -2496,22 +2396,17 @@
   },
   {
     "source": "academic model breakdown",
-    "target": "college admissions",
+    "target": "student retention",
     "weight": 4
   },
   {
     "source": "academic model breakdown",
-    "target": "student retention",
+    "target": "tuition",
     "weight": 4
   },
   {
     "source": "college admissions",
     "target": "curricular design",
-    "weight": 4
-  },
-  {
-    "source": "curricular design",
-    "target": "student support",
     "weight": 4
   },
   {
@@ -2521,17 +2416,17 @@
   },
   {
     "source": "education crisis",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 4
   },
   {
     "source": "higher education crisis",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 4
   },
   {
     "source": "political repression",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 4
   },
   {
@@ -2541,12 +2436,12 @@
   },
   {
     "source": "student protest",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 4
   },
   {
     "source": "legitimacy crisis",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 4
   },
   {
@@ -2565,11 +2460,6 @@
     "weight": 4
   },
   {
-    "source": "authoritarianism",
-    "target": "silencing dissent",
-    "weight": 4
-  },
-  {
     "source": "democracy",
     "target": "illiberal democracy",
     "weight": 4
@@ -2580,18 +2470,8 @@
     "weight": 4
   },
   {
-    "source": "democracy",
-    "target": "silencing dissent",
-    "weight": 4
-  },
-  {
     "source": "illiberal democracy",
     "target": "populism",
-    "weight": 4
-  },
-  {
-    "source": "illiberal democracy",
-    "target": "silencing dissent",
     "weight": 4
   },
   {
@@ -2717,6 +2597,11 @@
   {
     "source": "educational decline",
     "target": "research productivity",
+    "weight": 4
+  },
+  {
+    "source": "instructional excellence",
+    "target": "tuition",
     "weight": 4
   },
   {
@@ -3005,11 +2890,6 @@
     "weight": 4
   },
   {
-    "source": "empirical research",
-    "target": "silencing dissent",
-    "weight": 4
-  },
-  {
     "source": "decline of academia",
     "target": "international cohorts",
     "weight": 4
@@ -3111,17 +2991,7 @@
   },
   {
     "source": "systemic education failure",
-    "target": "university administrators",
-    "weight": 3
-  },
-  {
-    "source": "systemic education failure",
     "target": "university leadership",
-    "weight": 3
-  },
-  {
-    "source": "academic collapse",
-    "target": "university administrators",
     "weight": 3
   },
   {
@@ -3147,11 +3017,6 @@
   {
     "source": "education crisis",
     "target": "scholarly funding",
-    "weight": 3
-  },
-  {
-    "source": "educational decline",
-    "target": "university bylaws",
     "weight": 3
   },
   {
@@ -3215,13 +3080,18 @@
     "weight": 3
   },
   {
-    "source": "silencing dissent",
-    "target": "university leadership",
+    "source": "systemic education failure",
+    "target": "university bylaws",
     "weight": 3
   },
   {
     "source": "peer review",
     "target": "scholarly funding",
+    "weight": 3
+  },
+  {
+    "source": "peer review",
+    "target": "silencing criticism",
     "weight": 3
   },
   {
@@ -3285,11 +3155,6 @@
     "weight": 3
   },
   {
-    "source": "educational decline",
-    "target": "tuition debt",
-    "weight": 3
-  },
-  {
     "source": "educational instability",
     "target": "over-enrollment",
     "weight": 3
@@ -3322,16 +3187,6 @@
   {
     "source": "over-enrollment",
     "target": "university reform",
-    "weight": 3
-  },
-  {
-    "source": "student retention",
-    "target": "tuition debt",
-    "weight": 3
-  },
-  {
-    "source": "tuition affordability",
-    "target": "tuition debt",
     "weight": 3
   },
   {
@@ -3375,16 +3230,6 @@
     "weight": 3
   },
   {
-    "source": "silencing dissent",
-    "target": "student life",
-    "weight": 3
-  },
-  {
-    "source": "silencing dissent",
-    "target": "student voice",
-    "weight": 3
-  },
-  {
     "source": "student life",
     "target": "university leadership",
     "weight": 3
@@ -3395,13 +3240,8 @@
     "weight": 3
   },
   {
-    "source": "school budgets",
-    "target": "tuition debt",
-    "weight": 3
-  },
-  {
-    "source": "student life",
-    "target": "tuition debt",
+    "source": "academic collapse",
+    "target": "college admissions",
     "weight": 3
   },
   {
@@ -3410,8 +3250,8 @@
     "weight": 3
   },
   {
-    "source": "college admissions",
-    "target": "educational decline",
+    "source": "academic collapse",
+    "target": "tuition",
     "weight": 3
   },
   {
@@ -3466,11 +3306,6 @@
   },
   {
     "source": "educational decline",
-    "target": "student support",
-    "weight": 3
-  },
-  {
-    "source": "educational decline",
     "target": "student voice",
     "weight": 3
   },
@@ -3520,13 +3355,8 @@
     "weight": 3
   },
   {
-    "source": "student engagement",
-    "target": "tuition debt",
-    "weight": 3
-  },
-  {
     "source": "student protest",
-    "target": "student support",
+    "target": "tuition",
     "weight": 3
   },
   {
@@ -3535,28 +3365,13 @@
     "weight": 3
   },
   {
-    "source": "student support",
-    "target": "tuition affordability",
-    "weight": 3
-  },
-  {
-    "source": "student support",
-    "target": "tuition debt",
-    "weight": 3
-  },
-  {
     "source": "student wellbeing",
     "target": "university reform",
     "weight": 3
   },
   {
-    "source": "academic model breakdown",
-    "target": "student support",
-    "weight": 3
-  },
-  {
-    "source": "classroom methods",
-    "target": "student support",
+    "source": "tuition",
+    "target": "tuition affordability",
     "weight": 3
   },
   {
@@ -3626,11 +3441,6 @@
   },
   {
     "source": "freedom of speech",
-    "target": "silencing dissent",
-    "weight": 3
-  },
-  {
-    "source": "freedom of speech",
     "target": "student protest",
     "weight": 3
   },
@@ -3651,12 +3461,27 @@
   },
   {
     "source": "bureaucratic obstruction",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 3
   },
   {
     "source": "legitimacy crisis",
     "target": "political repression",
+    "weight": 3
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "silencing criticism",
+    "weight": 3
+  },
+  {
+    "source": "propaganda",
+    "target": "silencing criticism",
+    "weight": 3
+  },
+  {
+    "source": "silencing criticism",
+    "target": "suppressing dissent",
     "weight": 3
   },
   {
@@ -3827,6 +3652,11 @@
   {
     "source": "classroom methods",
     "target": "course architecture",
+    "weight": 3
+  },
+  {
+    "source": "classroom methods",
+    "target": "tuition",
     "weight": 3
   },
   {
@@ -3932,6 +3762,11 @@
   {
     "source": "intellectual autonomy",
     "target": "systemic education failure",
+    "weight": 3
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "tuition",
     "weight": 3
   },
   {
@@ -4051,12 +3886,22 @@
   },
   {
     "source": "academic model breakdown",
+    "target": "incompetence",
+    "weight": 3
+  },
+  {
+    "source": "academic model breakdown",
     "target": "quantitative research",
     "weight": 3
   },
   {
     "source": "academic model breakdown",
     "target": "thought independence",
+    "weight": 3
+  },
+  {
+    "source": "empirical research",
+    "target": "incompetence",
     "weight": 3
   },
   {
@@ -4081,6 +3926,36 @@
   },
   {
     "source": "empirical research",
+    "target": "thought independence",
+    "weight": 3
+  },
+  {
+    "source": "incompetence",
+    "target": "outdated education model",
+    "weight": 3
+  },
+  {
+    "source": "incompetence",
+    "target": "pedagogical innovation",
+    "weight": 3
+  },
+  {
+    "source": "incompetence",
+    "target": "politicisation of science",
+    "weight": 3
+  },
+  {
+    "source": "incompetence",
+    "target": "research productivity",
+    "weight": 3
+  },
+  {
+    "source": "incompetence",
+    "target": "theoretical research",
+    "weight": 3
+  },
+  {
+    "source": "incompetence",
     "target": "thought independence",
     "weight": 3
   },
@@ -4320,11 +4195,6 @@
     "weight": 3
   },
   {
-    "source": "classroom methods",
-    "target": "silencing dissent",
-    "weight": 3
-  },
-  {
     "source": "curricular design",
     "target": "student voice",
     "weight": 3
@@ -4391,17 +4261,7 @@
   },
   {
     "source": "qualitative research",
-    "target": "silencing dissent",
-    "weight": 3
-  },
-  {
-    "source": "qualitative research",
     "target": "systemic education failure",
-    "weight": 3
-  },
-  {
-    "source": "school budgets",
-    "target": "silencing dissent",
     "weight": 3
   },
   {
@@ -4410,8 +4270,23 @@
     "weight": 3
   },
   {
+    "source": "decline of academia",
+    "target": "silencing criticism",
+    "weight": 3
+  },
+  {
+    "source": "empirical research",
+    "target": "silencing criticism",
+    "weight": 3
+  },
+  {
     "source": "high-impact research",
     "target": "international cohorts",
+    "weight": 3
+  },
+  {
+    "source": "high-impact research",
+    "target": "silencing criticism",
     "weight": 3
   },
   {
@@ -4426,11 +4301,41 @@
   },
   {
     "source": "international cohorts",
+    "target": "silencing criticism",
+    "weight": 3
+  },
+  {
+    "source": "international cohorts",
     "target": "theoretical research",
     "weight": 3
   },
   {
+    "source": "politicisation of science",
+    "target": "silencing criticism",
+    "weight": 3
+  },
+  {
+    "source": "quantitative research",
+    "target": "silencing criticism",
+    "weight": 3
+  },
+  {
+    "source": "research collaboration",
+    "target": "silencing criticism",
+    "weight": 3
+  },
+  {
+    "source": "research productivity",
+    "target": "silencing criticism",
+    "weight": 3
+  },
+  {
     "source": "scholarly funding",
+    "target": "theoretical research",
+    "weight": 3
+  },
+  {
+    "source": "silencing criticism",
     "target": "theoretical research",
     "weight": 3
   },
@@ -4675,38 +4580,23 @@
     "weight": 3
   },
   {
-    "source": "research productivity",
-    "target": "silencing dissent",
-    "weight": 3
-  },
-  {
-    "source": "silencing dissent",
-    "target": "theoretical research",
-    "weight": 3
-  },
-  {
-    "source": "silencing dissent",
-    "target": "weak oversight",
-    "weight": 3
-  },
-  {
     "source": "decline of academia",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 3
   },
   {
     "source": "outdated education model",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 3
   },
   {
     "source": "pedagogical innovation",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 3
   },
   {
     "source": "politicisation of science",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 3
   },
   {
@@ -4755,8 +4645,8 @@
     "weight": 3
   },
   {
-    "source": "outdated education model",
-    "target": "student support",
+    "source": "college admissions",
+    "target": "outdated education model",
     "weight": 3
   },
   {
@@ -4900,16 +4790,6 @@
     "weight": 2
   },
   {
-    "source": "systemic education failure",
-    "target": "university bylaws",
-    "weight": 2
-  },
-  {
-    "source": "peer review",
-    "target": "silencing dissent",
-    "weight": 2
-  },
-  {
     "source": "affirmative action",
     "target": "university reform",
     "weight": 2
@@ -4937,11 +4817,6 @@
   {
     "source": "decline of academia",
     "target": "student retention",
-    "weight": 2
-  },
-  {
-    "source": "decline of academia",
-    "target": "tuition debt",
     "weight": 2
   },
   {
@@ -4997,11 +4872,6 @@
   {
     "source": "financial hardship",
     "target": "tuition affordability",
-    "weight": 2
-  },
-  {
-    "source": "financial hardship",
-    "target": "tuition debt",
     "weight": 2
   },
   {
@@ -5080,11 +4950,6 @@
     "weight": 2
   },
   {
-    "source": "academic model breakdown",
-    "target": "tuition debt",
-    "weight": 2
-  },
-  {
     "source": "school budgets",
     "target": "university leadership",
     "weight": 2
@@ -5100,23 +4965,13 @@
     "weight": 2
   },
   {
-    "source": "tuition debt",
-    "target": "university administrators",
-    "weight": 2
-  },
-  {
-    "source": "tuition debt",
-    "target": "university bylaws",
-    "weight": 2
-  },
-  {
     "source": "academic collapse",
-    "target": "college admissions",
+    "target": "loan",
     "weight": 2
   },
   {
-    "source": "academic collapse",
-    "target": "student support",
+    "source": "college admissions",
+    "target": "loan",
     "weight": 2
   },
   {
@@ -5130,11 +4985,6 @@
     "weight": 2
   },
   {
-    "source": "college admissions",
-    "target": "tuition debt",
-    "weight": 2
-  },
-  {
     "source": "course evaluation",
     "target": "financial aid",
     "weight": 2
@@ -5145,13 +4995,13 @@
     "weight": 2
   },
   {
-    "source": "course evaluation",
-    "target": "tuition debt",
+    "source": "education crisis",
+    "target": "financial aid",
     "weight": 2
   },
   {
     "source": "education crisis",
-    "target": "financial aid",
+    "target": "loan",
     "weight": 2
   },
   {
@@ -5162,6 +5012,11 @@
   {
     "source": "educational instability",
     "target": "financial aid",
+    "weight": 2
+  },
+  {
+    "source": "educational instability",
+    "target": "loan",
     "weight": 2
   },
   {
@@ -5196,12 +5051,7 @@
   },
   {
     "source": "financial aid",
-    "target": "student support",
-    "weight": 2
-  },
-  {
-    "source": "financial aid",
-    "target": "tuition debt",
+    "target": "tuition",
     "weight": 2
   },
   {
@@ -5216,6 +5066,11 @@
   },
   {
     "source": "higher education crisis",
+    "target": "loan",
+    "weight": 2
+  },
+  {
+    "source": "higher education crisis",
     "target": "student satisfaction",
     "weight": 2
   },
@@ -5225,13 +5080,43 @@
     "weight": 2
   },
   {
-    "source": "mentor-student relationship",
+    "source": "loan",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "loan",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "loan",
     "target": "student protest",
     "weight": 2
   },
   {
+    "source": "loan",
+    "target": "student retention",
+    "weight": 2
+  },
+  {
+    "source": "loan",
+    "target": "tuition",
+    "weight": 2
+  },
+  {
+    "source": "loan",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "loan",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
     "source": "mentor-student relationship",
-    "target": "student support",
+    "target": "student protest",
     "weight": 2
   },
   {
@@ -5247,11 +5132,6 @@
   {
     "source": "scholarships",
     "target": "student wellbeing",
-    "weight": 2
-  },
-  {
-    "source": "scholarships",
-    "target": "tuition debt",
     "weight": 2
   },
   {
@@ -5270,28 +5150,23 @@
     "weight": 2
   },
   {
-    "source": "student protest",
-    "target": "tuition debt",
-    "weight": 2
-  },
-  {
     "source": "student retention",
     "target": "student voice",
     "weight": 2
   },
   {
-    "source": "student satisfaction",
-    "target": "student support",
-    "weight": 2
-  },
-  {
-    "source": "student support",
-    "target": "student wellbeing",
+    "source": "student voice",
+    "target": "tuition",
     "weight": 2
   },
   {
     "source": "freedom of speech",
     "target": "student voice",
+    "weight": 2
+  },
+  {
+    "source": "college admissions",
+    "target": "university bylaws",
     "weight": 2
   },
   {
@@ -5345,23 +5220,48 @@
     "weight": 2
   },
   {
-    "source": "pedagogical innovation",
-    "target": "student support",
-    "weight": 2
-  },
-  {
     "source": "empirical research",
     "target": "misinformation",
     "weight": 2
   },
   {
+    "source": "college admissions",
+    "target": "university senate",
+    "weight": 2
+  },
+  {
+    "source": "education crisis",
+    "target": "university senate",
+    "weight": 2
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university senate",
+    "weight": 2
+  },
+  {
     "source": "student engagement",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
+    "weight": 2
+  },
+  {
+    "source": "university policy",
+    "target": "university senate",
+    "weight": 2
+  },
+  {
+    "source": "university reform",
+    "target": "university senate",
     "weight": 2
   },
   {
     "source": "bureaucratic obstruction",
     "target": "political repression",
+    "weight": 2
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "silencing criticism",
     "weight": 2
   },
   {
@@ -5376,12 +5276,12 @@
   },
   {
     "source": "censorship",
-    "target": "silencing dissent",
+    "target": "silencing criticism",
     "weight": 2
   },
   {
     "source": "censorship",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 2
   },
   {
@@ -5400,42 +5300,47 @@
     "weight": 2
   },
   {
-    "source": "propaganda",
-    "target": "silencing dissent",
+    "source": "political repression",
+    "target": "silencing criticism",
     "weight": 2
   },
   {
     "source": "propaganda",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 2
   },
   {
-    "source": "suppression of dissent",
+    "source": "silencing criticism",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "suppressing dissent",
     "target": "university administrators",
     "weight": 2
   },
   {
     "source": "authoritarianism",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 2
   },
   {
     "source": "democracy",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 2
   },
   {
     "source": "illiberal democracy",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 2
   },
   {
     "source": "populism",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 2
   },
   {
-    "source": "suppression of dissent",
+    "source": "suppressing dissent",
     "target": "university bylaws",
     "weight": 2
   },
@@ -5457,6 +5362,11 @@
   {
     "source": "academic model breakdown",
     "target": "student wellbeing",
+    "weight": 2
+  },
+  {
+    "source": "college admissions",
+    "target": "decline of academia",
     "weight": 2
   },
   {
@@ -5740,6 +5650,11 @@
     "weight": 2
   },
   {
+    "source": "instructional practice",
+    "target": "tuition",
+    "weight": 2
+  },
+  {
     "source": "outdated education model",
     "target": "undergraduate pathway",
     "weight": 2
@@ -5752,6 +5667,11 @@
   {
     "source": "pedagogical methods",
     "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "tuition",
     "weight": 2
   },
   {
@@ -6096,6 +6016,11 @@
   },
   {
     "source": "classroom methods",
+    "target": "incompetence",
+    "weight": 2
+  },
+  {
+    "source": "classroom methods",
     "target": "leniency",
     "weight": 2
   },
@@ -6142,6 +6067,26 @@
   {
     "source": "generative AI",
     "target": "politicisation of science",
+    "weight": 2
+  },
+  {
+    "source": "incompetence",
+    "target": "intellectual autonomy",
+    "weight": 2
+  },
+  {
+    "source": "incompetence",
+    "target": "quantitative research",
+    "weight": 2
+  },
+  {
+    "source": "incompetence",
+    "target": "research collaboration",
+    "weight": 2
+  },
+  {
+    "source": "incompetence",
+    "target": "unsustainable model",
     "weight": 2
   },
   {
@@ -7426,6 +7371,11 @@
   },
   {
     "source": "publication pressure",
+    "target": "silencing criticism",
+    "weight": 2
+  },
+  {
+    "source": "publication pressure",
     "target": "theoretical research",
     "weight": 2
   },
@@ -7456,6 +7406,11 @@
   },
   {
     "source": "publish or perish",
+    "target": "silencing criticism",
+    "weight": 2
+  },
+  {
+    "source": "publish or perish",
     "target": "theoretical research",
     "weight": 2
   },
@@ -7475,13 +7430,13 @@
     "weight": 2
   },
   {
-    "source": "academic collapse",
-    "target": "elite impunity",
+    "source": "scientific expertise",
+    "target": "silencing criticism",
     "weight": 2
   },
   {
     "source": "academic collapse",
-    "target": "opportunity inequality",
+    "target": "elite impunity",
     "weight": 2
   },
   {
@@ -7490,18 +7445,8 @@
     "weight": 2
   },
   {
-    "source": "academic model breakdown",
-    "target": "opportunity inequality",
-    "weight": 2
-  },
-  {
     "source": "austerity",
     "target": "elite impunity",
-    "weight": 2
-  },
-  {
-    "source": "austerity",
-    "target": "opportunity inequality",
     "weight": 2
   },
   {
@@ -7515,33 +7460,13 @@
     "weight": 2
   },
   {
-    "source": "decline of academia",
-    "target": "opportunity inequality",
-    "weight": 2
-  },
-  {
     "source": "education crisis",
     "target": "elite impunity",
     "weight": 2
   },
   {
-    "source": "education crisis",
-    "target": "opportunity inequality",
-    "weight": 2
-  },
-  {
-    "source": "educational decline",
-    "target": "opportunity inequality",
-    "weight": 2
-  },
-  {
     "source": "educational instability",
     "target": "elite impunity",
-    "weight": 2
-  },
-  {
-    "source": "educational instability",
-    "target": "opportunity inequality",
     "weight": 2
   },
   {
@@ -7585,53 +7510,8 @@
     "weight": 2
   },
   {
-    "source": "higher education crisis",
-    "target": "opportunity inequality",
-    "weight": 2
-  },
-  {
-    "source": "opportunistic growth",
-    "target": "opportunity inequality",
-    "weight": 2
-  },
-  {
     "source": "opportunistic growth",
     "target": "tuition affordability",
-    "weight": 2
-  },
-  {
-    "source": "opportunity inequality",
-    "target": "outdated education model",
-    "weight": 2
-  },
-  {
-    "source": "opportunity inequality",
-    "target": "pedagogical innovation",
-    "weight": 2
-  },
-  {
-    "source": "opportunity inequality",
-    "target": "research productivity",
-    "weight": 2
-  },
-  {
-    "source": "opportunity inequality",
-    "target": "systemic education failure",
-    "weight": 2
-  },
-  {
-    "source": "opportunity inequality",
-    "target": "tuition affordability",
-    "weight": 2
-  },
-  {
-    "source": "opportunity inequality",
-    "target": "university policy",
-    "weight": 2
-  },
-  {
-    "source": "opportunity inequality",
-    "target": "university reform",
     "weight": 2
   },
   {
@@ -7791,6 +7671,11 @@
   },
   {
     "source": "academic collapse",
+    "target": "incompetence",
+    "weight": 2
+  },
+  {
+    "source": "academic collapse",
     "target": "thought independence",
     "weight": 2
   },
@@ -7811,6 +7696,11 @@
   },
   {
     "source": "austerity",
+    "target": "incompetence",
+    "weight": 2
+  },
+  {
+    "source": "austerity",
     "target": "legitimacy crisis",
     "weight": 2
   },
@@ -7822,11 +7712,6 @@
   {
     "source": "austerity",
     "target": "qualitative research",
-    "weight": 2
-  },
-  {
-    "source": "austerity",
-    "target": "silencing dissent",
     "weight": 2
   },
   {
@@ -7852,6 +7737,11 @@
   {
     "source": "authoritarianism",
     "target": "educational decline",
+    "weight": 2
+  },
+  {
+    "source": "authoritarianism",
+    "target": "incompetence",
     "weight": 2
   },
   {
@@ -7901,6 +7791,11 @@
   },
   {
     "source": "bureaucratic obstruction",
+    "target": "incompetence",
+    "weight": 2
+  },
+  {
+    "source": "bureaucratic obstruction",
     "target": "populism",
     "weight": 2
   },
@@ -7941,6 +7836,11 @@
   },
   {
     "source": "decline of academia",
+    "target": "incompetence",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
     "target": "thought independence",
     "weight": 2
   },
@@ -7952,6 +7852,11 @@
   {
     "source": "democracy",
     "target": "empirical research",
+    "weight": 2
+  },
+  {
+    "source": "democracy",
+    "target": "incompetence",
     "weight": 2
   },
   {
@@ -7991,6 +7896,11 @@
   },
   {
     "source": "education crisis",
+    "target": "incompetence",
+    "weight": 2
+  },
+  {
+    "source": "education crisis",
     "target": "thought independence",
     "weight": 2
   },
@@ -8002,6 +7912,11 @@
   {
     "source": "educational decline",
     "target": "populism",
+    "weight": 2
+  },
+  {
+    "source": "educational instability",
+    "target": "incompetence",
     "weight": 2
   },
   {
@@ -8026,12 +7941,22 @@
   },
   {
     "source": "higher education crisis",
+    "target": "incompetence",
+    "weight": 2
+  },
+  {
+    "source": "higher education crisis",
     "target": "theoretical research",
     "weight": 2
   },
   {
     "source": "higher education crisis",
     "target": "thought independence",
+    "weight": 2
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "incompetence",
     "weight": 2
   },
   {
@@ -8070,13 +7995,48 @@
     "weight": 2
   },
   {
-    "source": "intellectual autonomy",
+    "source": "incompetence",
     "target": "legitimacy crisis",
     "weight": 2
   },
   {
+    "source": "incompetence",
+    "target": "opportunistic growth",
+    "weight": 2
+  },
+  {
+    "source": "incompetence",
+    "target": "populism",
+    "weight": 2
+  },
+  {
+    "source": "incompetence",
+    "target": "qualitative research",
+    "weight": 2
+  },
+  {
+    "source": "incompetence",
+    "target": "systemic education failure",
+    "weight": 2
+  },
+  {
+    "source": "incompetence",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "incompetence",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "incompetence",
+    "target": "weak oversight",
+    "weight": 2
+  },
+  {
     "source": "intellectual autonomy",
-    "target": "silencing dissent",
+    "target": "legitimacy crisis",
     "weight": 2
   },
   {
@@ -8107,11 +8067,6 @@
   {
     "source": "opportunistic growth",
     "target": "qualitative research",
-    "weight": 2
-  },
-  {
-    "source": "opportunistic growth",
-    "target": "silencing dissent",
     "weight": 2
   },
   {
@@ -8182,11 +8137,6 @@
   {
     "source": "qualitative research",
     "target": "weak oversight",
-    "weight": 2
-  },
-  {
-    "source": "silencing dissent",
-    "target": "thought independence",
     "weight": 2
   },
   {
@@ -8226,16 +8176,16 @@
   },
   {
     "source": "educational instability",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 2
   },
   {
-    "source": "suppression of dissent",
+    "source": "suppressing dissent",
     "target": "systemic education failure",
     "weight": 2
   },
   {
-    "source": "suppression of dissent",
+    "source": "suppressing dissent",
     "target": "weak oversight",
     "weight": 2
   },
@@ -8321,11 +8271,6 @@
   },
   {
     "source": "geopolitics",
-    "target": "silencing dissent",
-    "weight": 2
-  },
-  {
-    "source": "geopolitics",
     "target": "systemic education failure",
     "weight": 2
   },
@@ -8396,7 +8341,12 @@
   },
   {
     "source": "academic collapse",
-    "target": "suppression of dissent",
+    "target": "silencing criticism",
+    "weight": 2
+  },
+  {
+    "source": "academic collapse",
+    "target": "suppressing dissent",
     "weight": 2
   },
   {
@@ -8406,12 +8356,17 @@
   },
   {
     "source": "academic model breakdown",
-    "target": "suppression of dissent",
+    "target": "silencing criticism",
+    "weight": 2
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "suppressing dissent",
     "weight": 2
   },
   {
     "source": "empirical research",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 2
   },
   {
@@ -8436,12 +8391,7 @@
   },
   {
     "source": "high-impact research",
-    "target": "silencing dissent",
-    "weight": 2
-  },
-  {
-    "source": "high-impact research",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 2
   },
   {
@@ -8461,12 +8411,7 @@
   },
   {
     "source": "international cohorts",
-    "target": "silencing dissent",
-    "weight": 2
-  },
-  {
-    "source": "international cohorts",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 2
   },
   {
@@ -8480,37 +8425,37 @@
     "weight": 2
   },
   {
-    "source": "quantitative research",
-    "target": "silencing dissent",
+    "source": "outdated education model",
+    "target": "silencing criticism",
+    "weight": 2
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "silencing criticism",
     "weight": 2
   },
   {
     "source": "quantitative research",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 2
   },
   {
     "source": "research collaboration",
-    "target": "silencing dissent",
-    "weight": 2
-  },
-  {
-    "source": "research collaboration",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 2
   },
   {
     "source": "research productivity",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 2
   },
   {
     "source": "scholarly funding",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 2
   },
   {
-    "source": "suppression of dissent",
+    "source": "suppressing dissent",
     "target": "theoretical research",
     "weight": 2
   },
@@ -8640,18 +8585,13 @@
     "weight": 2
   },
   {
-    "source": "college admissions",
-    "target": "outdated education model",
-    "weight": 2
-  },
-  {
     "source": "curricular design",
     "target": "tuition affordability",
     "weight": 2
   },
   {
     "source": "selective admissions",
-    "target": "student support",
+    "target": "tuition",
     "weight": 2
   },
   {
@@ -8665,12 +8605,12 @@
     "weight": 2
   },
   {
-    "source": "instructional excellence",
-    "target": "student support",
+    "source": "course evaluation",
+    "target": "university administrators",
     "weight": 2
   },
   {
-    "source": "course evaluation",
+    "source": "tuition",
     "target": "university administrators",
     "weight": 2
   },
@@ -8875,13 +8815,28 @@
     "weight": 1
   },
   {
+    "source": "academic collapse",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
     "source": "academic model breakdown",
     "target": "conflict of interest",
     "weight": 1
   },
   {
+    "source": "academic model breakdown",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
     "source": "bureaucratic obstruction",
     "target": "conflict of interest",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "political interference",
     "weight": 1
   },
   {
@@ -8931,6 +8886,11 @@
   },
   {
     "source": "conflict of interest",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "conflict of interest",
     "target": "politicisation of science",
     "weight": 1
   },
@@ -8942,11 +8902,6 @@
   {
     "source": "conflict of interest",
     "target": "scholarships",
-    "weight": 1
-  },
-  {
-    "source": "conflict of interest",
-    "target": "silencing dissent",
     "weight": 1
   },
   {
@@ -8985,8 +8940,38 @@
     "weight": 1
   },
   {
+    "source": "decline of academia",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
     "source": "educational decline",
     "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "political interference",
     "weight": 1
   },
   {
@@ -9010,8 +8995,58 @@
     "weight": 1
   },
   {
-    "source": "scholarships",
-    "target": "silencing dissent",
+    "source": "outdated education model",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "political interference",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "political interference",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "political interference",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "political interference",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "political interference",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "political interference",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "political interference",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "political interference",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "political interference",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "political interference",
+    "target": "university reform",
     "weight": 1
   },
   {
@@ -9031,7 +9066,7 @@
   },
   {
     "source": "freedom of expression",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 1
   },
   {
@@ -9056,7 +9091,7 @@
   },
   {
     "source": "freedom of opinion",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 1
   },
   {
@@ -9080,7 +9115,7 @@
     "weight": 1
   },
   {
-    "source": "suppression of dissent",
+    "source": "suppressing dissent",
     "target": "united kingdom",
     "weight": 1
   },
@@ -9236,11 +9271,6 @@
   },
   {
     "source": "employability gap",
-    "target": "tuition debt",
-    "weight": 1
-  },
-  {
-    "source": "employability gap",
     "target": "university policy",
     "weight": 1
   },
@@ -9280,11 +9310,6 @@
     "weight": 1
   },
   {
-    "source": "faculty workload",
-    "target": "tuition debt",
-    "weight": 1
-  },
-  {
     "source": "financial hardship",
     "target": "insufficient resources",
     "weight": 1
@@ -9346,11 +9371,6 @@
   },
   {
     "source": "insufficient resources",
-    "target": "tuition debt",
-    "weight": 1
-  },
-  {
-    "source": "insufficient resources",
     "target": "university policy",
     "weight": 1
   },
@@ -9381,11 +9401,6 @@
   },
   {
     "source": "job insecurity",
-    "target": "tuition debt",
-    "weight": 1
-  },
-  {
-    "source": "job insecurity",
     "target": "university policy",
     "weight": 1
   },
@@ -9405,11 +9420,6 @@
     "weight": 1
   },
   {
-    "source": "over-enrollment",
-    "target": "tuition debt",
-    "weight": 1
-  },
-  {
     "source": "redundancy",
     "target": "student retention",
     "weight": 1
@@ -9417,11 +9427,6 @@
   {
     "source": "redundancy",
     "target": "tuition affordability",
-    "weight": 1
-  },
-  {
-    "source": "redundancy",
-    "target": "tuition debt",
     "weight": 1
   },
   {
@@ -9690,8 +9695,8 @@
     "weight": 1
   },
   {
-    "source": "tuition debt",
-    "target": "university leadership",
+    "source": "academic collapse",
+    "target": "debt",
     "weight": 1
   },
   {
@@ -9721,6 +9726,11 @@
   },
   {
     "source": "college admissions",
+    "target": "debt",
+    "weight": 1
+  },
+  {
+    "source": "college admissions",
     "target": "financial aid",
     "weight": 1
   },
@@ -9736,6 +9746,11 @@
   },
   {
     "source": "course evaluation",
+    "target": "debt",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
     "target": "financial hardship",
     "weight": 1
   },
@@ -9746,7 +9761,122 @@
   },
   {
     "source": "course evaluation",
+    "target": "loan",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
     "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "debt",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "debt",
+    "target": "educational decline",
+    "weight": 1
+  },
+  {
+    "source": "debt",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "debt",
+    "target": "financial aid",
+    "weight": 1
+  },
+  {
+    "source": "debt",
+    "target": "financial hardship",
+    "weight": 1
+  },
+  {
+    "source": "debt",
+    "target": "grant funding",
+    "weight": 1
+  },
+  {
+    "source": "debt",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "debt",
+    "target": "loan",
+    "weight": 1
+  },
+  {
+    "source": "debt",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "debt",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "debt",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "debt",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "debt",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "debt",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "debt",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "debt",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "debt",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "debt",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "debt",
+    "target": "tuition",
+    "weight": 1
+  },
+  {
+    "source": "debt",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "debt",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "debt",
+    "target": "university reform",
     "weight": 1
   },
   {
@@ -9762,6 +9892,11 @@
   {
     "source": "educational decline",
     "target": "grant funding",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "loan",
     "weight": 1
   },
   {
@@ -9801,6 +9936,11 @@
   },
   {
     "source": "financial aid",
+    "target": "loan",
+    "weight": 1
+  },
+  {
+    "source": "financial aid",
     "target": "mentor-student relationship",
     "weight": 1
   },
@@ -9846,6 +9986,11 @@
   },
   {
     "source": "financial hardship",
+    "target": "loan",
+    "weight": 1
+  },
+  {
+    "source": "financial hardship",
     "target": "mentor-student relationship",
     "weight": 1
   },
@@ -9881,11 +10026,6 @@
   },
   {
     "source": "financial hardship",
-    "target": "student support",
-    "weight": 1
-  },
-  {
-    "source": "financial hardship",
     "target": "student voice",
     "weight": 1
   },
@@ -9895,8 +10035,18 @@
     "weight": 1
   },
   {
+    "source": "financial hardship",
+    "target": "tuition",
+    "weight": 1
+  },
+  {
     "source": "grant funding",
     "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "grant funding",
+    "target": "loan",
     "weight": 1
   },
   {
@@ -9941,11 +10091,6 @@
   },
   {
     "source": "grant funding",
-    "target": "student support",
-    "weight": 1
-  },
-  {
-    "source": "grant funding",
     "target": "student voice",
     "weight": 1
   },
@@ -9956,12 +10101,12 @@
   },
   {
     "source": "grant funding",
-    "target": "tuition affordability",
+    "target": "tuition",
     "weight": 1
   },
   {
     "source": "grant funding",
-    "target": "tuition debt",
+    "target": "tuition affordability",
     "weight": 1
   },
   {
@@ -9975,6 +10120,41 @@
     "weight": 1
   },
   {
+    "source": "loan",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "loan",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "loan",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "loan",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "loan",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "loan",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "loan",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
     "source": "mentor-student relationship",
     "target": "scholarships",
     "weight": 1
@@ -9996,12 +10176,12 @@
   },
   {
     "source": "mentor-student relationship",
-    "target": "tuition affordability",
+    "target": "tuition",
     "weight": 1
   },
   {
     "source": "mentor-student relationship",
-    "target": "tuition debt",
+    "target": "tuition affordability",
     "weight": 1
   },
   {
@@ -10046,17 +10226,12 @@
   },
   {
     "source": "student satisfaction",
-    "target": "tuition affordability",
+    "target": "tuition",
     "weight": 1
   },
   {
     "source": "student satisfaction",
-    "target": "tuition debt",
-    "weight": 1
-  },
-  {
-    "source": "student support",
-    "target": "student voice",
+    "target": "tuition affordability",
     "weight": 1
   },
   {
@@ -10070,8 +10245,8 @@
     "weight": 1
   },
   {
-    "source": "student voice",
-    "target": "tuition debt",
+    "source": "student wellbeing",
+    "target": "tuition",
     "weight": 1
   },
   {
@@ -10080,8 +10255,8 @@
     "weight": 1
   },
   {
-    "source": "student wellbeing",
-    "target": "tuition debt",
+    "source": "academic model breakdown",
+    "target": "loan",
     "weight": 1
   },
   {
@@ -10090,7 +10265,7 @@
     "weight": 1
   },
   {
-    "source": "college admissions",
+    "source": "loan",
     "target": "university bylaws",
     "weight": 1
   },
@@ -10100,7 +10275,7 @@
     "weight": 1
   },
   {
-    "source": "student support",
+    "source": "tuition",
     "target": "university bylaws",
     "weight": 1
   },
@@ -10120,42 +10295,17 @@
     "weight": 1
   },
   {
-    "source": "participatory instruction",
-    "target": "student support",
-    "weight": 1
-  },
-  {
     "source": "student protest",
     "target": "undergraduate pathway",
     "weight": 1
   },
   {
-    "source": "student support",
-    "target": "undergraduate pathway",
-    "weight": 1
-  },
-  {
-    "source": "citation count",
-    "target": "cybercrime",
-    "weight": 1
-  },
-  {
     "source": "citation count",
     "target": "empirical research",
     "weight": 1
   },
   {
     "source": "citation count",
-    "target": "misinformation",
-    "weight": 1
-  },
-  {
-    "source": "cybercrime",
-    "target": "empirical research",
-    "weight": 1
-  },
-  {
-    "source": "cybercrime",
     "target": "misinformation",
     "weight": 1
   },
@@ -10171,27 +10321,12 @@
   },
   {
     "source": "college admissions",
-    "target": "silencing dissent",
-    "weight": 1
-  },
-  {
-    "source": "college admissions",
-    "target": "suppression of dissent",
-    "weight": 1
-  },
-  {
-    "source": "college admissions",
-    "target": "university senate",
+    "target": "suppressing dissent",
     "weight": 1
   },
   {
     "source": "education crisis",
     "target": "freedom of speech",
-    "weight": 1
-  },
-  {
-    "source": "education crisis",
-    "target": "university senate",
     "weight": 1
   },
   {
@@ -10211,11 +10346,11 @@
   },
   {
     "source": "freedom of speech",
-    "target": "university senate",
+    "target": "tuition",
     "weight": 1
   },
   {
-    "source": "higher education crisis",
+    "source": "freedom of speech",
     "target": "university senate",
     "weight": 1
   },
@@ -10236,11 +10371,11 @@
   },
   {
     "source": "political repression",
-    "target": "university senate",
+    "target": "tuition",
     "weight": 1
   },
   {
-    "source": "silencing dissent",
+    "source": "political repression",
     "target": "university senate",
     "weight": 1
   },
@@ -10251,7 +10386,7 @@
   },
   {
     "source": "student life",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 1
   },
   {
@@ -10266,7 +10401,7 @@
   },
   {
     "source": "student voice",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 1
   },
   {
@@ -10275,17 +10410,17 @@
     "weight": 1
   },
   {
-    "source": "suppression of dissent",
+    "source": "suppressing dissent",
+    "target": "tuition",
+    "weight": 1
+  },
+  {
+    "source": "suppressing dissent",
     "target": "university senate",
     "weight": 1
   },
   {
-    "source": "university policy",
-    "target": "university senate",
-    "weight": 1
-  },
-  {
-    "source": "university reform",
+    "source": "tuition",
     "target": "university senate",
     "weight": 1
   },
@@ -10326,7 +10461,7 @@
   },
   {
     "source": "bullying",
-    "target": "silencing dissent",
+    "target": "silencing criticism",
     "weight": 1
   },
   {
@@ -10336,7 +10471,7 @@
   },
   {
     "source": "bullying",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 1
   },
   {
@@ -10416,6 +10551,11 @@
   },
   {
     "source": "freedom of speech",
+    "target": "silencing criticism",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
     "target": "university administrators",
     "weight": 1
   },
@@ -10436,7 +10576,7 @@
   },
   {
     "source": "misconduct",
-    "target": "silencing dissent",
+    "target": "silencing criticism",
     "weight": 1
   },
   {
@@ -10446,7 +10586,7 @@
   },
   {
     "source": "misconduct",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 1
   },
   {
@@ -10482,6 +10622,16 @@
   {
     "source": "propaganda",
     "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "silencing criticism",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "silencing criticism",
+    "target": "university administrators",
     "weight": 1
   },
   {
@@ -10531,17 +10681,12 @@
   },
   {
     "source": "affirmative action",
-    "target": "silencing dissent",
-    "weight": 1
-  },
-  {
-    "source": "affirmative action",
     "target": "student protest",
     "weight": 1
   },
   {
     "source": "affirmative action",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 1
   },
   {
@@ -10611,17 +10756,12 @@
   },
   {
     "source": "civil unrest",
-    "target": "silencing dissent",
-    "weight": 1
-  },
-  {
-    "source": "civil unrest",
     "target": "student protest",
     "weight": 1
   },
   {
     "source": "civil unrest",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 1
   },
   {
@@ -10661,17 +10801,12 @@
   },
   {
     "source": "civil war",
-    "target": "silencing dissent",
-    "weight": 1
-  },
-  {
-    "source": "civil war",
     "target": "student protest",
     "weight": 1
   },
   {
     "source": "civil war",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 1
   },
   {
@@ -10735,17 +10870,12 @@
     "weight": 1
   },
   {
-    "source": "silencing dissent",
-    "target": "uprising",
-    "weight": 1
-  },
-  {
     "source": "student protest",
     "target": "uprising",
     "weight": 1
   },
   {
-    "source": "suppression of dissent",
+    "source": "suppressing dissent",
     "target": "uprising",
     "weight": 1
   },
@@ -10762,11 +10892,6 @@
   {
     "source": "academic model breakdown",
     "target": "professional marginalisation",
-    "weight": 1
-  },
-  {
-    "source": "college admissions",
-    "target": "decline of academia",
     "weight": 1
   },
   {
@@ -11406,6 +11531,11 @@
   },
   {
     "source": "competency outcomes",
+    "target": "tuition",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
     "target": "undergraduate pathway",
     "weight": 1
   },
@@ -11437,6 +11567,11 @@
   {
     "source": "course architecture",
     "target": "skills mismatch",
+    "weight": 1
+  },
+  {
+    "source": "course architecture",
+    "target": "tuition",
     "weight": 1
   },
   {
@@ -11472,6 +11607,11 @@
   {
     "source": "decline of academia",
     "target": "skills mismatch",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "tuition",
     "weight": 1
   },
   {
@@ -11546,6 +11686,11 @@
   },
   {
     "source": "degree pathway",
+    "target": "tuition",
+    "weight": 1
+  },
+  {
+    "source": "degree pathway",
     "target": "university policy",
     "weight": 1
   },
@@ -11590,6 +11735,11 @@
     "weight": 1
   },
   {
+    "source": "intellectual autonomy",
+    "target": "tuition",
+    "weight": 1
+  },
+  {
     "source": "outdated education model",
     "target": "skills mismatch",
     "weight": 1
@@ -11597,6 +11747,11 @@
   {
     "source": "participatory instruction",
     "target": "skills mismatch",
+    "weight": 1
+  },
+  {
+    "source": "participatory instruction",
+    "target": "tuition",
     "weight": 1
   },
   {
@@ -11610,6 +11765,11 @@
     "weight": 1
   },
   {
+    "source": "pedagogical methods",
+    "target": "tuition",
+    "weight": 1
+  },
+  {
     "source": "postgraduate pathway",
     "target": "skills mismatch",
     "weight": 1
@@ -11617,6 +11777,11 @@
   {
     "source": "research productivity",
     "target": "skills mismatch",
+    "weight": 1
+  },
+  {
+    "source": "research productivity",
+    "target": "tuition",
     "weight": 1
   },
   {
@@ -11636,12 +11801,27 @@
   },
   {
     "source": "skills mismatch",
+    "target": "tuition",
+    "weight": 1
+  },
+  {
+    "source": "skills mismatch",
     "target": "undergraduate pathway",
     "weight": 1
   },
   {
     "source": "skills mismatch",
     "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "systemic education failure",
+    "target": "tuition",
+    "weight": 1
+  },
+  {
+    "source": "tuition",
+    "target": "undergraduate pathway",
     "weight": 1
   },
   {
@@ -11886,6 +12066,11 @@
   },
   {
     "source": "AI assisted process",
+    "target": "incompetence",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
     "target": "laboratories",
     "weight": 1
   },
@@ -11922,6 +12107,11 @@
   {
     "source": "artificial intelligence",
     "target": "asia",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "incompetence",
     "weight": 1
   },
   {
@@ -11967,6 +12157,11 @@
   {
     "source": "asia",
     "target": "generative AI",
+    "weight": 1
+  },
+  {
+    "source": "asia",
+    "target": "incompetence",
     "weight": 1
   },
   {
@@ -12051,6 +12246,11 @@
   },
   {
     "source": "edtech",
+    "target": "incompetence",
+    "weight": 1
+  },
+  {
+    "source": "edtech",
     "target": "laboratories",
     "weight": 1
   },
@@ -12091,6 +12291,11 @@
   },
   {
     "source": "generative AI",
+    "target": "incompetence",
+    "weight": 1
+  },
+  {
+    "source": "generative AI",
     "target": "laboratories",
     "weight": 1
   },
@@ -12117,6 +12322,46 @@
   {
     "source": "generative AI",
     "target": "unsustainable model",
+    "weight": 1
+  },
+  {
+    "source": "incompetence",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "incompetence",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "incompetence",
+    "target": "laboratories",
+    "weight": 1
+  },
+  {
+    "source": "incompetence",
+    "target": "leniency",
+    "weight": 1
+  },
+  {
+    "source": "incompetence",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "incompetence",
+    "target": "pedagogical methods",
+    "weight": 1
+  },
+  {
+    "source": "incompetence",
+    "target": "science communication",
+    "weight": 1
+  },
+  {
+    "source": "incompetence",
+    "target": "scientific expertise",
     "weight": 1
   },
   {
@@ -12861,6 +13106,11 @@
   },
   {
     "source": "STEM qualification",
+    "target": "supporting staff",
+    "weight": 1
+  },
+  {
+    "source": "STEM qualification",
     "target": "training hospitals",
     "weight": 1
   },
@@ -12871,6 +13121,11 @@
   },
   {
     "source": "bachelor qualification",
+    "target": "supporting staff",
+    "weight": 1
+  },
+  {
+    "source": "bachelor qualification",
     "target": "training hospitals",
     "weight": 1
   },
@@ -12881,6 +13136,11 @@
   },
   {
     "source": "business qualification",
+    "target": "supporting staff",
+    "weight": 1
+  },
+  {
+    "source": "business qualification",
     "target": "training hospitals",
     "weight": 1
   },
@@ -12891,6 +13151,11 @@
   },
   {
     "source": "degree pathway",
+    "target": "supporting staff",
+    "weight": 1
+  },
+  {
+    "source": "degree pathway",
     "target": "training hospitals",
     "weight": 1
   },
@@ -12901,6 +13166,11 @@
   },
   {
     "source": "doctoral qualification",
+    "target": "supporting staff",
+    "weight": 1
+  },
+  {
+    "source": "doctoral qualification",
     "target": "training hospitals",
     "weight": 1
   },
@@ -12911,6 +13181,11 @@
   },
   {
     "source": "employability gap",
+    "target": "supporting staff",
+    "weight": 1
+  },
+  {
+    "source": "employability gap",
     "target": "training hospitals",
     "weight": 1
   },
@@ -12921,6 +13196,11 @@
   },
   {
     "source": "faculty workload",
+    "target": "supporting staff",
+    "weight": 1
+  },
+  {
+    "source": "faculty workload",
     "target": "training hospitals",
     "weight": 1
   },
@@ -12931,6 +13211,11 @@
   },
   {
     "source": "hiring market",
+    "target": "supporting staff",
+    "weight": 1
+  },
+  {
+    "source": "hiring market",
     "target": "training hospitals",
     "weight": 1
   },
@@ -12941,6 +13226,11 @@
   },
   {
     "source": "master qualification",
+    "target": "supporting staff",
+    "weight": 1
+  },
+  {
+    "source": "master qualification",
     "target": "training hospitals",
     "weight": 1
   },
@@ -12951,6 +13241,11 @@
   },
   {
     "source": "postgraduate pathway",
+    "target": "supporting staff",
+    "weight": 1
+  },
+  {
+    "source": "postgraduate pathway",
     "target": "training hospitals",
     "weight": 1
   },
@@ -12961,6 +13256,11 @@
   },
   {
     "source": "precaritylabour exploitationfaculty careers",
+    "target": "supporting staff",
+    "weight": 1
+  },
+  {
+    "source": "precaritylabour exploitationfaculty careers",
     "target": "training hospitals",
     "weight": 1
   },
@@ -12971,12 +13271,37 @@
   },
   {
     "source": "research productivity",
+    "target": "supporting staff",
+    "weight": 1
+  },
+  {
+    "source": "research productivity",
     "target": "training hospitals",
     "weight": 1
   },
   {
     "source": "research productivity",
     "target": "unemployment",
+    "weight": 1
+  },
+  {
+    "source": "supporting staff",
+    "target": "training hospitals",
+    "weight": 1
+  },
+  {
+    "source": "supporting staff",
+    "target": "unemployment",
+    "weight": 1
+  },
+  {
+    "source": "supporting staff",
+    "target": "unpaid labour",
+    "weight": 1
+  },
+  {
+    "source": "supporting staff",
+    "target": "workplace ubias",
     "weight": 1
   },
   {
@@ -13620,11 +13945,6 @@
     "weight": 1
   },
   {
-    "source": "course evaluation",
-    "target": "silencing dissent",
-    "weight": 1
-  },
-  {
     "source": "curricular design",
     "target": "distance pedagogy",
     "weight": 1
@@ -13632,11 +13952,6 @@
   {
     "source": "curricular design",
     "target": "qualitative research",
-    "weight": 1
-  },
-  {
-    "source": "curricular design",
-    "target": "silencing dissent",
     "weight": 1
   },
   {
@@ -13721,11 +14036,6 @@
   },
   {
     "source": "distance pedagogy",
-    "target": "silencing dissent",
-    "weight": 1
-  },
-  {
-    "source": "distance pedagogy",
     "target": "student engagement",
     "weight": 1
   },
@@ -13750,18 +14060,8 @@
     "weight": 1
   },
   {
-    "source": "instructional excellence",
-    "target": "silencing dissent",
-    "weight": 1
-  },
-  {
     "source": "instructional practice",
     "target": "qualitative research",
-    "weight": 1
-  },
-  {
-    "source": "instructional practice",
-    "target": "silencing dissent",
     "weight": 1
   },
   {
@@ -13770,28 +14070,13 @@
     "weight": 1
   },
   {
-    "source": "participatory instruction",
-    "target": "silencing dissent",
-    "weight": 1
-  },
-  {
     "source": "pedagogical methods",
     "target": "qualitative research",
     "weight": 1
   },
   {
-    "source": "pedagogical methods",
-    "target": "silencing dissent",
-    "weight": 1
-  },
-  {
     "source": "postgraduate pathway",
     "target": "qualitative research",
-    "weight": 1
-  },
-  {
-    "source": "postgraduate pathway",
-    "target": "silencing dissent",
     "weight": 1
   },
   {
@@ -13861,6 +14146,11 @@
   },
   {
     "source": "eastern europe",
+    "target": "silencing criticism",
+    "weight": 1
+  },
+  {
+    "source": "eastern europe",
     "target": "theoretical research",
     "weight": 1
   },
@@ -13907,6 +14197,11 @@
   {
     "source": "europe",
     "target": "scientific expertise",
+    "weight": 1
+  },
+  {
+    "source": "europe",
+    "target": "silencing criticism",
     "weight": 1
   },
   {
@@ -13981,6 +14276,11 @@
   },
   {
     "source": "italy",
+    "target": "silencing criticism",
+    "weight": 1
+  },
+  {
+    "source": "italy",
     "target": "theoretical research",
     "weight": 1
   },
@@ -14007,6 +14307,11 @@
   {
     "source": "laboratories",
     "target": "publish or perish",
+    "weight": 1
+  },
+  {
+    "source": "laboratories",
+    "target": "silencing criticism",
     "weight": 1
   },
   {
@@ -14066,6 +14371,11 @@
   },
   {
     "source": "misinformation",
+    "target": "silencing criticism",
+    "weight": 1
+  },
+  {
+    "source": "misinformation",
     "target": "theoretical research",
     "weight": 1
   },
@@ -14102,6 +14412,11 @@
   {
     "source": "russia",
     "target": "scientific expertise",
+    "weight": 1
+  },
+  {
+    "source": "russia",
+    "target": "silencing criticism",
     "weight": 1
   },
   {
@@ -14171,11 +14486,6 @@
   },
   {
     "source": "economic warfare",
-    "target": "opportunity inequality",
-    "weight": 1
-  },
-  {
-    "source": "economic warfare",
     "target": "outdated education model",
     "weight": 1
   },
@@ -14226,11 +14536,6 @@
   },
   {
     "source": "elite impunity",
-    "target": "opportunity inequality",
-    "weight": 1
-  },
-  {
-    "source": "elite impunity",
     "target": "postgraduate pathway",
     "weight": 1
   },
@@ -14251,16 +14556,6 @@
   },
   {
     "source": "opportunistic growth",
-    "target": "student life",
-    "weight": 1
-  },
-  {
-    "source": "opportunity inequality",
-    "target": "postgraduate pathway",
-    "weight": 1
-  },
-  {
-    "source": "opportunity inequality",
     "target": "student life",
     "weight": 1
   },
@@ -16465,6 +16760,81 @@
     "weight": 1
   },
   {
+    "source": "budget constraints",
+    "target": "bureaucratic obstruction",
+    "weight": 1
+  },
+  {
+    "source": "budget constraints",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "budget constraints",
+    "target": "europe",
+    "weight": 1
+  },
+  {
+    "source": "budget constraints",
+    "target": "european union",
+    "weight": 1
+  },
+  {
+    "source": "budget constraints",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "budget constraints",
+    "target": "institutional gatekeeping",
+    "weight": 1
+  },
+  {
+    "source": "budget constraints",
+    "target": "organisational structure",
+    "weight": 1
+  },
+  {
+    "source": "budget constraints",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "budget constraints",
+    "target": "public funding",
+    "weight": 1
+  },
+  {
+    "source": "budget constraints",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "budget constraints",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "budget constraints",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "budget constraints",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "budget constraints",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "budget constraints",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
     "source": "bureaucratic obstruction",
     "target": "europe",
     "weight": 1
@@ -16691,11 +17061,6 @@
   },
   {
     "source": "authoritarianism",
-    "target": "opportunity inequality",
-    "weight": 1
-  },
-  {
-    "source": "authoritarianism",
     "target": "over-enrollment",
     "weight": 1
   },
@@ -16726,11 +17091,6 @@
   },
   {
     "source": "bureaucratic obstruction",
-    "target": "opportunity inequality",
-    "weight": 1
-  },
-  {
-    "source": "bureaucratic obstruction",
     "target": "oversimplification",
     "weight": 1
   },
@@ -16747,11 +17107,6 @@
   {
     "source": "classroom methods",
     "target": "legitimacy crisis",
-    "weight": 1
-  },
-  {
-    "source": "classroom methods",
-    "target": "opportunity inequality",
     "weight": 1
   },
   {
@@ -16782,11 +17137,6 @@
   {
     "source": "democracy",
     "target": "intellectual autonomy",
-    "weight": 1
-  },
-  {
-    "source": "democracy",
-    "target": "opportunity inequality",
     "weight": 1
   },
   {
@@ -16827,6 +17177,11 @@
   {
     "source": "educational decline",
     "target": "grade inflation",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "incompetence",
     "weight": 1
   },
   {
@@ -16871,11 +17226,6 @@
   },
   {
     "source": "empirical research",
-    "target": "opportunity inequality",
-    "weight": 1
-  },
-  {
-    "source": "empirical research",
     "target": "oversimplification",
     "weight": 1
   },
@@ -16896,6 +17246,11 @@
   },
   {
     "source": "grade inflation",
+    "target": "incompetence",
+    "weight": 1
+  },
+  {
+    "source": "grade inflation",
     "target": "intellectual autonomy",
     "weight": 1
   },
@@ -16907,11 +17262,6 @@
   {
     "source": "grade inflation",
     "target": "opportunistic growth",
-    "weight": 1
-  },
-  {
-    "source": "grade inflation",
-    "target": "opportunity inequality",
     "weight": 1
   },
   {
@@ -16957,11 +17307,6 @@
   {
     "source": "grade inflation",
     "target": "school budgets",
-    "weight": 1
-  },
-  {
-    "source": "grade inflation",
-    "target": "silencing dissent",
     "weight": 1
   },
   {
@@ -17021,11 +17366,6 @@
   },
   {
     "source": "illiberal democracy",
-    "target": "opportunity inequality",
-    "weight": 1
-  },
-  {
-    "source": "illiberal democracy",
     "target": "over-enrollment",
     "weight": 1
   },
@@ -17042,6 +17382,26 @@
   {
     "source": "illiberal democracy",
     "target": "unsustainable model",
+    "weight": 1
+  },
+  {
+    "source": "incompetence",
+    "target": "over-enrollment",
+    "weight": 1
+  },
+  {
+    "source": "incompetence",
+    "target": "oversimplification",
+    "weight": 1
+  },
+  {
+    "source": "incompetence",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "incompetence",
+    "target": "tuition affordability",
     "weight": 1
   },
   {
@@ -17051,11 +17411,6 @@
   },
   {
     "source": "intellectual autonomy",
-    "target": "opportunity inequality",
-    "weight": 1
-  },
-  {
-    "source": "intellectual autonomy",
     "target": "over-enrollment",
     "weight": 1
   },
@@ -17091,11 +17446,6 @@
   },
   {
     "source": "legitimacy crisis",
-    "target": "opportunity inequality",
-    "weight": 1
-  },
-  {
-    "source": "legitimacy crisis",
     "target": "over-enrollment",
     "weight": 1
   },
@@ -17127,61 +17477,6 @@
   {
     "source": "opportunistic growth",
     "target": "unsustainable model",
-    "weight": 1
-  },
-  {
-    "source": "opportunity inequality",
-    "target": "over-enrollment",
-    "weight": 1
-  },
-  {
-    "source": "opportunity inequality",
-    "target": "oversimplification",
-    "weight": 1
-  },
-  {
-    "source": "opportunity inequality",
-    "target": "politicisation of science",
-    "weight": 1
-  },
-  {
-    "source": "opportunity inequality",
-    "target": "populism",
-    "weight": 1
-  },
-  {
-    "source": "opportunity inequality",
-    "target": "qualitative research",
-    "weight": 1
-  },
-  {
-    "source": "opportunity inequality",
-    "target": "school budgets",
-    "weight": 1
-  },
-  {
-    "source": "opportunity inequality",
-    "target": "silencing dissent",
-    "weight": 1
-  },
-  {
-    "source": "opportunity inequality",
-    "target": "theoretical research",
-    "weight": 1
-  },
-  {
-    "source": "opportunity inequality",
-    "target": "thought independence",
-    "weight": 1
-  },
-  {
-    "source": "opportunity inequality",
-    "target": "unsustainable model",
-    "weight": 1
-  },
-  {
-    "source": "opportunity inequality",
-    "target": "weak oversight",
     "weight": 1
   },
   {
@@ -17202,11 +17497,6 @@
   {
     "source": "over-enrollment",
     "target": "qualitative research",
-    "weight": 1
-  },
-  {
-    "source": "over-enrollment",
-    "target": "silencing dissent",
     "weight": 1
   },
   {
@@ -17252,11 +17542,6 @@
   {
     "source": "oversimplification",
     "target": "school budgets",
-    "weight": 1
-  },
-  {
-    "source": "oversimplification",
-    "target": "silencing dissent",
     "weight": 1
   },
   {
@@ -17340,16 +17625,6 @@
     "weight": 1
   },
   {
-    "source": "silencing dissent",
-    "target": "tuition affordability",
-    "weight": 1
-  },
-  {
-    "source": "silencing dissent",
-    "target": "unsustainable model",
-    "weight": 1
-  },
-  {
     "source": "systemic education failure",
     "target": "unsustainable model",
     "weight": 1
@@ -17401,7 +17676,7 @@
   },
   {
     "source": "educational decline",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 1
   },
   {
@@ -17426,12 +17701,7 @@
   },
   {
     "source": "institutional gatekeeping",
-    "target": "silencing dissent",
-    "weight": 1
-  },
-  {
-    "source": "institutional gatekeeping",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 1
   },
   {
@@ -17451,12 +17721,7 @@
   },
   {
     "source": "lack of oversight",
-    "target": "silencing dissent",
-    "weight": 1
-  },
-  {
-    "source": "lack of oversight",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 1
   },
   {
@@ -17475,7 +17740,7 @@
     "weight": 1
   },
   {
-    "source": "suppression of dissent",
+    "source": "suppressing dissent",
     "target": "university leadership",
     "weight": 1
   },
@@ -17976,12 +18241,12 @@
   },
   {
     "source": "harmful culture",
-    "target": "silencing dissent",
+    "target": "silencing criticism",
     "weight": 1
   },
   {
     "source": "harmful culture",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 1
   },
   {
@@ -18071,12 +18336,12 @@
   },
   {
     "source": "institutional abuse",
-    "target": "silencing dissent",
+    "target": "silencing criticism",
     "weight": 1
   },
   {
     "source": "institutional abuse",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 1
   },
   {
@@ -18131,7 +18396,12 @@
   },
   {
     "source": "intellectual autonomy",
-    "target": "suppression of dissent",
+    "target": "silencing criticism",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "suppressing dissent",
     "weight": 1
   },
   {
@@ -18261,7 +18531,7 @@
   },
   {
     "source": "peer review",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 1
   },
   {
@@ -18321,12 +18591,12 @@
   },
   {
     "source": "programme massification",
-    "target": "silencing dissent",
+    "target": "silencing criticism",
     "weight": 1
   },
   {
     "source": "programme massification",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 1
   },
   {
@@ -18356,12 +18626,7 @@
   },
   {
     "source": "publication pressure",
-    "target": "silencing dissent",
-    "weight": 1
-  },
-  {
-    "source": "publication pressure",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 1
   },
   {
@@ -18376,12 +18641,7 @@
   },
   {
     "source": "publish or perish",
-    "target": "silencing dissent",
-    "weight": 1
-  },
-  {
-    "source": "publish or perish",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 1
   },
   {
@@ -18421,12 +18681,12 @@
   },
   {
     "source": "reputation damage tactics",
-    "target": "silencing dissent",
+    "target": "silencing criticism",
     "weight": 1
   },
   {
     "source": "reputation damage tactics",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 1
   },
   {
@@ -18456,22 +18716,17 @@
   },
   {
     "source": "scientific expertise",
-    "target": "silencing dissent",
-    "weight": 1
-  },
-  {
-    "source": "scientific expertise",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 1
   },
   {
     "source": "self-censorship",
-    "target": "silencing dissent",
+    "target": "silencing criticism",
     "weight": 1
   },
   {
     "source": "self-censorship",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 1
   },
   {
@@ -18571,7 +18826,12 @@
   },
   {
     "source": "austerity",
-    "target": "suppression of dissent",
+    "target": "silencing criticism",
+    "weight": 1
+  },
+  {
+    "source": "austerity",
+    "target": "suppressing dissent",
     "weight": 1
   },
   {
@@ -18602,6 +18862,11 @@
   {
     "source": "authoritarianism",
     "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "silencing criticism",
     "weight": 1
   },
   {
@@ -18686,6 +18951,11 @@
   },
   {
     "source": "decision-making opacity",
+    "target": "incompetence",
+    "weight": 1
+  },
+  {
+    "source": "decision-making opacity",
     "target": "international cohorts",
     "weight": 1
   },
@@ -18756,12 +19026,12 @@
   },
   {
     "source": "decision-making opacity",
-    "target": "silencing dissent",
+    "target": "silencing criticism",
     "weight": 1
   },
   {
     "source": "decision-making opacity",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 1
   },
   {
@@ -18845,6 +19115,11 @@
     "weight": 1
   },
   {
+    "source": "democracy",
+    "target": "silencing criticism",
+    "weight": 1
+  },
+  {
     "source": "education crisis",
     "target": "high-impact research",
     "weight": 1
@@ -18867,6 +19142,11 @@
   {
     "source": "education crisis",
     "target": "regime",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "silencing criticism",
     "weight": 1
   },
   {
@@ -18900,8 +19180,18 @@
     "weight": 1
   },
   {
+    "source": "educational instability",
+    "target": "silencing criticism",
+    "weight": 1
+  },
+  {
     "source": "elite impunity",
     "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "incompetence",
     "weight": 1
   },
   {
@@ -18956,12 +19246,12 @@
   },
   {
     "source": "elite impunity",
-    "target": "silencing dissent",
+    "target": "silencing criticism",
     "weight": 1
   },
   {
     "source": "elite impunity",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 1
   },
   {
@@ -18987,6 +19277,11 @@
   {
     "source": "empirical research",
     "target": "regime",
+    "weight": 1
+  },
+  {
+    "source": "geopolitics",
+    "target": "incompetence",
     "weight": 1
   },
   {
@@ -19041,7 +19336,12 @@
   },
   {
     "source": "geopolitics",
-    "target": "suppression of dissent",
+    "target": "silencing criticism",
+    "weight": 1
+  },
+  {
+    "source": "geopolitics",
+    "target": "suppressing dissent",
     "weight": 1
   },
   {
@@ -19062,6 +19362,11 @@
   {
     "source": "high-impact research",
     "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "high-impact research",
+    "target": "incompetence",
     "weight": 1
   },
   {
@@ -19145,6 +19450,11 @@
     "weight": 1
   },
   {
+    "source": "higher education crisis",
+    "target": "silencing criticism",
+    "weight": 1
+  },
+  {
     "source": "illiberal democracy",
     "target": "inclusivity",
     "weight": 1
@@ -19177,6 +19487,16 @@
   {
     "source": "illiberal democracy",
     "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "silencing criticism",
+    "weight": 1
+  },
+  {
+    "source": "inclusivity",
+    "target": "incompetence",
     "weight": 1
   },
   {
@@ -19246,12 +19566,12 @@
   },
   {
     "source": "inclusivity",
-    "target": "silencing dissent",
+    "target": "silencing criticism",
     "weight": 1
   },
   {
     "source": "inclusivity",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 1
   },
   {
@@ -19267,6 +19587,41 @@
   {
     "source": "inclusivity",
     "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "incompetence",
+    "target": "international cohorts",
+    "weight": 1
+  },
+  {
+    "source": "incompetence",
+    "target": "pessimism",
+    "weight": 1
+  },
+  {
+    "source": "incompetence",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "incompetence",
+    "target": "regime",
+    "weight": 1
+  },
+  {
+    "source": "incompetence",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "incompetence",
+    "target": "silencing criticism",
+    "weight": 1
+  },
+  {
+    "source": "incompetence",
+    "target": "suppressing dissent",
     "weight": 1
   },
   {
@@ -19356,7 +19711,12 @@
   },
   {
     "source": "opportunistic growth",
-    "target": "suppression of dissent",
+    "target": "silencing criticism",
+    "weight": 1
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "suppressing dissent",
     "weight": 1
   },
   {
@@ -19426,12 +19786,12 @@
   },
   {
     "source": "pessimism",
-    "target": "silencing dissent",
+    "target": "silencing criticism",
     "weight": 1
   },
   {
     "source": "pessimism",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 1
   },
   {
@@ -19535,6 +19895,11 @@
     "weight": 1
   },
   {
+    "source": "populism",
+    "target": "silencing criticism",
+    "weight": 1
+  },
+  {
     "source": "qualitative research",
     "target": "quantitative research",
     "weight": 1
@@ -19556,7 +19921,12 @@
   },
   {
     "source": "qualitative research",
-    "target": "suppression of dissent",
+    "target": "silencing criticism",
+    "weight": 1
+  },
+  {
+    "source": "qualitative research",
+    "target": "suppressing dissent",
     "weight": 1
   },
   {
@@ -19601,12 +19971,12 @@
   },
   {
     "source": "regime",
-    "target": "silencing dissent",
+    "target": "silencing criticism",
     "weight": 1
   },
   {
     "source": "regime",
-    "target": "suppression of dissent",
+    "target": "suppressing dissent",
     "weight": 1
   },
   {
@@ -19655,7 +20025,27 @@
     "weight": 1
   },
   {
-    "source": "suppression of dissent",
+    "source": "silencing criticism",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "silencing criticism",
+    "target": "thought independence",
+    "weight": 1
+  },
+  {
+    "source": "silencing criticism",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "silencing criticism",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "suppressing dissent",
     "target": "thought independence",
     "weight": 1
   },
@@ -19816,11 +20206,6 @@
   },
   {
     "source": "classroom methods",
-    "target": "tuition debt",
-    "weight": 1
-  },
-  {
-    "source": "classroom methods",
     "target": "university administrators",
     "weight": 1
   },
@@ -19842,11 +20227,6 @@
   {
     "source": "curricular design",
     "target": "public funding",
-    "weight": 1
-  },
-  {
-    "source": "curricular design",
-    "target": "tuition debt",
     "weight": 1
   },
   {
@@ -19895,11 +20275,6 @@
     "weight": 1
   },
   {
-    "source": "instructional excellence",
-    "target": "tuition debt",
-    "weight": 1
-  },
-  {
     "source": "instructional practice",
     "target": "public funding",
     "weight": 1
@@ -19911,32 +20286,12 @@
   },
   {
     "source": "instructional practice",
-    "target": "student support",
-    "weight": 1
-  },
-  {
-    "source": "instructional practice",
-    "target": "tuition debt",
-    "weight": 1
-  },
-  {
-    "source": "instructional practice",
     "target": "university administrators",
-    "weight": 1
-  },
-  {
-    "source": "outdated education model",
-    "target": "tuition debt",
     "weight": 1
   },
   {
     "source": "pedagogical innovation",
     "target": "public funding",
-    "weight": 1
-  },
-  {
-    "source": "pedagogical innovation",
-    "target": "tuition debt",
     "weight": 1
   },
   {
@@ -19956,12 +20311,7 @@
   },
   {
     "source": "public funding",
-    "target": "student support",
-    "weight": 1
-  },
-  {
-    "source": "public funding",
-    "target": "tuition debt",
+    "target": "tuition",
     "weight": 1
   },
   {
@@ -19971,17 +20321,7 @@
   },
   {
     "source": "scholarly funding",
-    "target": "student support",
-    "weight": 1
-  },
-  {
-    "source": "scholarly funding",
-    "target": "tuition debt",
-    "weight": 1
-  },
-  {
-    "source": "student support",
-    "target": "university administrators",
+    "target": "tuition",
     "weight": 1
   },
   {
@@ -20047,6 +20387,11 @@
   {
     "source": "bachelor qualification",
     "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "bachelor qualification",
+    "target": "tuition",
     "weight": 1
   },
   {
@@ -20127,6 +20472,66 @@
   {
     "source": "faculty contracts",
     "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "tuition",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "college admissions",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "college admissions",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "systemic education failure",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "university administrators",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "university bylaws",
+    "target": "university senate",
     "weight": 1
   }
 ]

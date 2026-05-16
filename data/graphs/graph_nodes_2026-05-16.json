@@ -81,8 +81,8 @@
   {
     "id": "academic model breakdown",
     "label": "Academic Model Breakdown",
-    "weight": 21,
-    "avg_score": 0.4575,
+    "weight": 22,
+    "avg_score": 0.4559,
     "article_ids": [
       "04296ef005fd861382dd795e1768e30a",
       "08cda6adb54e206ad42db0153928fca9",
@@ -90,6 +90,7 @@
       "34523bac0e23d8f00acc34e679f221e0",
       "509363732b17034882d1355b7ac6c30b",
       "51472bed24e640d6430c32a8a3d09c41",
+      "70a63817197eb8f2e4f97d2729cd8e29",
       "7bd9124556c10582ca155f434d011549",
       "7e197346e701299fbddffe8521a943eb",
       "83d8ff82b4279c8cb724bc54419ba6f6",
@@ -110,8 +111,8 @@
   {
     "id": "educational instability",
     "label": "Educational Instability",
-    "weight": 22,
-    "avg_score": 0.4801,
+    "weight": 23,
+    "avg_score": 0.4799,
     "article_ids": [
       "04296ef005fd861382dd795e1768e30a",
       "078d69272cafe9c0253dae95cddc5c02",
@@ -122,6 +123,7 @@
       "509363732b17034882d1355b7ac6c30b",
       "51472bed24e640d6430c32a8a3d09c41",
       "59093ae2e87c5e2c7561d4d5d64fe6e2",
+      "70a63817197eb8f2e4f97d2729cd8e29",
       "7e197346e701299fbddffe8521a943eb",
       "8ad907b6a05d13f544de6886fe042824",
       "8f53a73b7260110859c8e49a1cb5857b",
@@ -140,8 +142,8 @@
   {
     "id": "outdated education model",
     "label": "Outdated Education Model",
-    "weight": 24,
-    "avg_score": 0.5141,
+    "weight": 25,
+    "avg_score": 0.5125,
     "article_ids": [
       "04296ef005fd861382dd795e1768e30a",
       "078d69272cafe9c0253dae95cddc5c02",
@@ -152,6 +154,7 @@
       "296211a6cab3b0f8d302efdc931360c1",
       "509363732b17034882d1355b7ac6c30b",
       "51472bed24e640d6430c32a8a3d09c41",
+      "70a63817197eb8f2e4f97d2729cd8e29",
       "7bd9124556c10582ca155f434d011549",
       "7e197346e701299fbddffe8521a943eb",
       "86492267b037f64f74ec4e89efb23212",
@@ -234,8 +237,8 @@
   {
     "id": "higher education crisis",
     "label": "Higher Education Crisis",
-    "weight": 24,
-    "avg_score": 0.4792,
+    "weight": 25,
+    "avg_score": 0.4803,
     "article_ids": [
       "04296ef005fd861382dd795e1768e30a",
       "078d69272cafe9c0253dae95cddc5c02",
@@ -247,6 +250,7 @@
       "509363732b17034882d1355b7ac6c30b",
       "51472bed24e640d6430c32a8a3d09c41",
       "59093ae2e87c5e2c7561d4d5d64fe6e2",
+      "70a63817197eb8f2e4f97d2729cd8e29",
       "8ad907b6a05d13f544de6886fe042824",
       "8f53a73b7260110859c8e49a1cb5857b",
       "8fad89dbb300097338dd6c06ecf734cd",
@@ -266,8 +270,8 @@
   {
     "id": "decline of academia",
     "label": "Decline Of Academia",
-    "weight": 22,
-    "avg_score": 0.4707,
+    "weight": 23,
+    "avg_score": 0.4721,
     "article_ids": [
       "04296ef005fd861382dd795e1768e30a",
       "078d69272cafe9c0253dae95cddc5c02",
@@ -276,6 +280,7 @@
       "4f20844e6a2c5e9565b51235f78f978b",
       "51472bed24e640d6430c32a8a3d09c41",
       "59093ae2e87c5e2c7561d4d5d64fe6e2",
+      "70a63817197eb8f2e4f97d2729cd8e29",
       "78c2c096571001a82d855af72ed7c966",
       "7bd9124556c10582ca155f434d011549",
       "7e197346e701299fbddffe8521a943eb",
@@ -296,13 +301,14 @@
   {
     "id": "systemic education failure",
     "label": "Systemic Education Failure",
-    "weight": 13,
-    "avg_score": 0.4935,
+    "weight": 14,
+    "avg_score": 0.4878,
     "article_ids": [
       "04296ef005fd861382dd795e1768e30a",
       "078d69272cafe9c0253dae95cddc5c02",
       "08cda6adb54e206ad42db0153928fca9",
       "51472bed24e640d6430c32a8a3d09c41",
+      "70a63817197eb8f2e4f97d2729cd8e29",
       "7e197346e701299fbddffe8521a943eb",
       "8ad907b6a05d13f544de6886fe042824",
       "8f53a73b7260110859c8e49a1cb5857b",
@@ -343,14 +349,15 @@
   {
     "id": "university administrators",
     "label": "University Administrators",
-    "weight": 13,
-    "avg_score": 0.4619,
+    "weight": 14,
+    "avg_score": 0.4611,
     "article_ids": [
       "078d69272cafe9c0253dae95cddc5c02",
       "154cb6a7b7c61022bd1e37ed2dd1b9cd",
       "204fa4ae7abb5b61d5fd9119d2978bec",
       "26b7148d7cbdd1edf96a70f60c04a52c",
       "34523bac0e23d8f00acc34e679f221e0",
+      "70a63817197eb8f2e4f97d2729cd8e29",
       "7bd9124556c10582ca155f434d011549",
       "83d8ff82b4279c8cb724bc54419ba6f6",
       "858b45a7ef474e2a83cbf0eb8b2b5695",
@@ -364,8 +371,8 @@
   {
     "id": "university reform",
     "label": "University Reform",
-    "weight": 66,
-    "avg_score": 0.4792,
+    "weight": 68,
+    "avg_score": 0.4829,
     "article_ids": [
       "04296ef005fd861382dd795e1768e30a",
       "078d69272cafe9c0253dae95cddc5c02",
@@ -379,6 +386,7 @@
       "509363732b17034882d1355b7ac6c30b",
       "51472bed24e640d6430c32a8a3d09c41",
       "59093ae2e87c5e2c7561d4d5d64fe6e2",
+      "70a63817197eb8f2e4f97d2729cd8e29",
       "785fe185d291d3695da4e2476d64354d",
       "7bd9124556c10582ca155f434d011549",
       "83d8ff82b4279c8cb724bc54419ba6f6",
@@ -509,8 +517,8 @@
   {
     "id": "education crisis",
     "label": "Education Crisis",
-    "weight": 25,
-    "avg_score": 0.4938,
+    "weight": 26,
+    "avg_score": 0.4928,
     "article_ids": [
       "04296ef005fd861382dd795e1768e30a",
       "078d69272cafe9c0253dae95cddc5c02",
@@ -521,6 +529,7 @@
       "509363732b17034882d1355b7ac6c30b",
       "51472bed24e640d6430c32a8a3d09c41",
       "59093ae2e87c5e2c7561d4d5d64fe6e2",
+      "70a63817197eb8f2e4f97d2729cd8e29",
       "7e197346e701299fbddffe8521a943eb",
       "8ad907b6a05d13f544de6886fe042824",
       "8f53a73b7260110859c8e49a1cb5857b",
@@ -542,14 +551,15 @@
   {
     "id": "academic collapse",
     "label": "Academic Collapse",
-    "weight": 16,
-    "avg_score": 0.4656,
+    "weight": 17,
+    "avg_score": 0.4668,
     "article_ids": [
       "04296ef005fd861382dd795e1768e30a",
       "08cda6adb54e206ad42db0153928fca9",
       "34523bac0e23d8f00acc34e679f221e0",
       "51472bed24e640d6430c32a8a3d09c41",
       "59093ae2e87c5e2c7561d4d5d64fe6e2",
+      "70a63817197eb8f2e4f97d2729cd8e29",
       "78c2c096571001a82d855af72ed7c966",
       "7bd9124556c10582ca155f434d011549",
       "7e197346e701299fbddffe8521a943eb",
@@ -566,8 +576,8 @@
   {
     "id": "educational decline",
     "label": "Educational Decline",
-    "weight": 15,
-    "avg_score": 0.4689,
+    "weight": 16,
+    "avg_score": 0.4677,
     "article_ids": [
       "04296ef005fd861382dd795e1768e30a",
       "078d69272cafe9c0253dae95cddc5c02",
@@ -576,6 +586,7 @@
       "509363732b17034882d1355b7ac6c30b",
       "51472bed24e640d6430c32a8a3d09c41",
       "59093ae2e87c5e2c7561d4d5d64fe6e2",
+      "70a63817197eb8f2e4f97d2729cd8e29",
       "7e197346e701299fbddffe8521a943eb",
       "8ad907b6a05d13f544de6886fe042824",
       "8f53a73b7260110859c8e49a1cb5857b",
@@ -618,12 +629,13 @@
   {
     "id": "university bylaws",
     "label": "University Bylaws",
-    "weight": 10,
-    "avg_score": 0.4315,
+    "weight": 11,
+    "avg_score": 0.4292,
     "article_ids": [
       "078d69272cafe9c0253dae95cddc5c02",
       "154cb6a7b7c61022bd1e37ed2dd1b9cd",
       "34523bac0e23d8f00acc34e679f221e0",
+      "70a63817197eb8f2e4f97d2729cd8e29",
       "7bd9124556c10582ca155f434d011549",
       "83d8ff82b4279c8cb724bc54419ba6f6",
       "858b45a7ef474e2a83cbf0eb8b2b5695",
@@ -636,8 +648,8 @@
   {
     "id": "university policy",
     "label": "University Policy",
-    "weight": 33,
-    "avg_score": 0.4768,
+    "weight": 34,
+    "avg_score": 0.4778,
     "article_ids": [
       "04296ef005fd861382dd795e1768e30a",
       "078d69272cafe9c0253dae95cddc5c02",
@@ -651,6 +663,7 @@
       "51472bed24e640d6430c32a8a3d09c41",
       "59093ae2e87c5e2c7561d4d5d64fe6e2",
       "69a8281b9c28446ad68f58f0a620c5eb",
+      "70a63817197eb8f2e4f97d2729cd8e29",
       "785fe185d291d3695da4e2476d64354d",
       "7bd9124556c10582ca155f434d011549",
       "83d8ff82b4279c8cb724bc54419ba6f6",
@@ -675,28 +688,6 @@
     ]
   },
   {
-    "id": "silencing dissent",
-    "label": "Silencing Dissent",
-    "weight": 14,
-    "avg_score": 0.459,
-    "article_ids": [
-      "04296ef005fd861382dd795e1768e30a",
-      "078d69272cafe9c0253dae95cddc5c02",
-      "154cb6a7b7c61022bd1e37ed2dd1b9cd",
-      "1cc008717e75d86809c56b809b006463",
-      "785fe185d291d3695da4e2476d64354d",
-      "86492267b037f64f74ec4e89efb23212",
-      "8f53a73b7260110859c8e49a1cb5857b",
-      "ad87fa623737d3e2ba86f5bde766a85e",
-      "b1771a0875a9135c6f56b8c844b7fe73",
-      "be706ea76c856662101ed6aeb5107331",
-      "c5a245bc8361bf934347b3d8f989a023",
-      "d2169b300df286285c2b3c8a6a5488c9",
-      "de40242e4a0a9fe50cb2cda606618c4c",
-      "f60882c0c034035572a022b866ef0c28"
-    ]
-  },
-  {
     "id": "bureaucratic obstruction",
     "label": "Bureaucratic Obstruction",
     "weight": 7,
@@ -716,6 +707,15 @@
     "label": "Conflict Of Interest",
     "weight": 1,
     "avg_score": 0.4041,
+    "article_ids": [
+      "ad87fa623737d3e2ba86f5bde766a85e"
+    ]
+  },
+  {
+    "id": "political interference",
+    "label": "Political Interference",
+    "weight": 1,
+    "avg_score": 0.4252,
     "article_ids": [
       "ad87fa623737d3e2ba86f5bde766a85e"
     ]
@@ -806,6 +806,19 @@
     ]
   },
   {
+    "id": "silencing criticism",
+    "label": "Silencing Criticism",
+    "weight": 5,
+    "avg_score": 0.4298,
+    "article_ids": [
+      "86492267b037f64f74ec4e89efb23212",
+      "8e65ab1740daa992fac0affcabcd47d6",
+      "b1771a0875a9135c6f56b8c844b7fe73",
+      "d2169b300df286285c2b3c8a6a5488c9",
+      "f60882c0c034035572a022b866ef0c28"
+    ]
+  },
+  {
     "id": "discrimination",
     "label": "Discrimination",
     "weight": 5,
@@ -843,10 +856,10 @@
     ]
   },
   {
-    "id": "suppression of dissent",
-    "label": "Suppression Of Dissent",
+    "id": "suppressing dissent",
+    "label": "Suppressing Dissent",
     "weight": 8,
-    "avg_score": 0.4521,
+    "avg_score": 0.4579,
     "article_ids": [
       "078d69272cafe9c0253dae95cddc5c02",
       "1cc008717e75d86809c56b809b006463",
@@ -911,19 +924,6 @@
       "8fad89dbb300097338dd6c06ecf734cd",
       "b962e65167b36c4e8c4f841fcdb1fc15",
       "cce60daefd4ed5d3a911dbd4d86766bc"
-    ]
-  },
-  {
-    "id": "tuition debt",
-    "label": "Tuition Debt",
-    "weight": 5,
-    "avg_score": 0.5052,
-    "article_ids": [
-      "204fa4ae7abb5b61d5fd9119d2978bec",
-      "34523bac0e23d8f00acc34e679f221e0",
-      "59093ae2e87c5e2c7561d4d5d64fe6e2",
-      "8fad89dbb300097338dd6c06ecf734cd",
-      "b962e65167b36c4e8c4f841fcdb1fc15"
     ]
   },
   {
@@ -1084,10 +1084,11 @@
   {
     "id": "college admissions",
     "label": "College Admissions",
-    "weight": 8,
-    "avg_score": 0.4385,
+    "weight": 9,
+    "avg_score": 0.4342,
     "article_ids": [
       "509363732b17034882d1355b7ac6c30b",
+      "70a63817197eb8f2e4f97d2729cd8e29",
       "8fad89dbb300097338dd6c06ecf734cd",
       "9b76ca702841853bf998aef959f21e63",
       "b962e65167b36c4e8c4f841fcdb1fc15",
@@ -1212,20 +1213,6 @@
     ]
   },
   {
-    "id": "student support",
-    "label": "Student Support",
-    "weight": 6,
-    "avg_score": 0.4683,
-    "article_ids": [
-      "204fa4ae7abb5b61d5fd9119d2978bec",
-      "509363732b17034882d1355b7ac6c30b",
-      "8fad89dbb300097338dd6c06ecf734cd",
-      "b962e65167b36c4e8c4f841fcdb1fc15",
-      "cce60daefd4ed5d3a911dbd4d86766bc",
-      "ef6f1644d0f8cf5a73af12ef46119c51"
-    ]
-  },
-  {
     "id": "student satisfaction",
     "label": "Student Satisfaction",
     "weight": 4,
@@ -1235,6 +1222,41 @@
       "b962e65167b36c4e8c4f841fcdb1fc15",
       "e42fa94528b67a5657b43803dc9a56e7",
       "ef6f1644d0f8cf5a73af12ef46119c51"
+    ]
+  },
+  {
+    "id": "tuition",
+    "label": "Tuition",
+    "weight": 8,
+    "avg_score": 0.4403,
+    "article_ids": [
+      "204fa4ae7abb5b61d5fd9119d2978bec",
+      "509363732b17034882d1355b7ac6c30b",
+      "8ad907b6a05d13f544de6886fe042824",
+      "8fad89dbb300097338dd6c06ecf734cd",
+      "998308dd964eefcf0f1ea0ad685c2d23",
+      "b962e65167b36c4e8c4f841fcdb1fc15",
+      "be706ea76c856662101ed6aeb5107331",
+      "cce60daefd4ed5d3a911dbd4d86766bc"
+    ]
+  },
+  {
+    "id": "debt",
+    "label": "Debt",
+    "weight": 1,
+    "avg_score": 0.4712,
+    "article_ids": [
+      "b962e65167b36c4e8c4f841fcdb1fc15"
+    ]
+  },
+  {
+    "id": "loan",
+    "label": "Loan",
+    "weight": 2,
+    "avg_score": 0.46,
+    "article_ids": [
+      "8fad89dbb300097338dd6c06ecf734cd",
+      "b962e65167b36c4e8c4f841fcdb1fc15"
     ]
   },
   {
@@ -1357,15 +1379,6 @@
     ]
   },
   {
-    "id": "cybercrime",
-    "label": "Cybercrime",
-    "weight": 1,
-    "avg_score": 0.4267,
-    "article_ids": [
-      "1f8fd51508bf35f5735f535339a36a5f"
-    ]
-  },
-  {
     "id": "misinformation",
     "label": "Misinformation",
     "weight": 2,
@@ -1391,9 +1404,10 @@
   {
     "id": "university senate",
     "label": "University Senate",
-    "weight": 1,
-    "avg_score": 0.4592,
+    "weight": 2,
+    "avg_score": 0.4319,
     "article_ids": [
+      "70a63817197eb8f2e4f97d2729cd8e29",
       "be706ea76c856662101ed6aeb5107331"
     ]
   },
@@ -1659,6 +1673,17 @@
     ]
   },
   {
+    "id": "incompetence",
+    "label": "Incompetence",
+    "weight": 3,
+    "avg_score": 0.4267,
+    "article_ids": [
+      "1605061f593922ebea1ec8b050e612ab",
+      "8f53a73b7260110859c8e49a1cb5857b",
+      "f60882c0c034035572a022b866ef0c28"
+    ]
+  },
+  {
     "id": "asia",
     "label": "Asia",
     "weight": 2,
@@ -1800,6 +1825,15 @@
     "article_ids": [
       "3740ac776b8f222daa94a6c8fd1cc39f",
       "dcbac7dee4113046ea87ff7c09489adf"
+    ]
+  },
+  {
+    "id": "supporting staff",
+    "label": "Supporting Staff",
+    "weight": 1,
+    "avg_score": 0.4157,
+    "article_ids": [
+      "3740ac776b8f222daa94a6c8fd1cc39f"
     ]
   },
   {
@@ -2024,16 +2058,6 @@
     ]
   },
   {
-    "id": "opportunity inequality",
-    "label": "Opportunity Inequality",
-    "weight": 2,
-    "avg_score": 0.492,
-    "article_ids": [
-      "08cda6adb54e206ad42db0153928fca9",
-      "8f53a73b7260110859c8e49a1cb5857b"
-    ]
-  },
-  {
     "id": "elite impunity",
     "label": "Elite Impunity",
     "weight": 3,
@@ -2123,6 +2147,15 @@
     "avg_score": 0.467,
     "article_ids": [
       "204fa4ae7abb5b61d5fd9119d2978bec",
+      "ff028b8c9b7332cf4b15026fd01551b8"
+    ]
+  },
+  {
+    "id": "budget constraints",
+    "label": "Budget Constraints",
+    "weight": 1,
+    "avg_score": 0.4393,
+    "article_ids": [
       "ff028b8c9b7332cf4b15026fd01551b8"
     ]
   },

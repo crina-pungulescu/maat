@@ -1,8 +1,8 @@
 [
   {
     "topic": "Higher Education Crisis",
-    "count": 190,
-    "score": 0.4702,
+    "count": 199,
+    "score": 0.4695,
     "topics": [
       "academic collapse",
       "academic model breakdown",
@@ -19,8 +19,8 @@
   },
   {
     "topic": "University Administration",
-    "count": 136,
-    "score": 0.4623,
+    "count": 142,
+    "score": 0.459,
     "topics": [
       "organisational structure",
       "senior leadership",
@@ -33,7 +33,7 @@
     ]
   },
   {
-    "topic": "Teaching Learning",
+    "topic": "Teaching And Learning",
     "count": 129,
     "score": 0.4522,
     "topics": [
@@ -60,8 +60,8 @@
   },
   {
     "topic": "Student Experience",
-    "count": 80,
-    "score": 0.4559,
+    "count": 75,
+    "score": 0.45,
     "topics": [
       "mentor-student relationship",
       "student engagement",
@@ -69,9 +69,9 @@
       "student protest",
       "student retention",
       "student satisfaction",
-      "student support",
       "student voice",
-      "student wellbeing"
+      "student wellbeing",
+      "supporting staff"
     ]
   },
   {
@@ -93,9 +93,31 @@
     ]
   },
   {
+    "topic": "Politics",
+    "count": 37,
+    "score": 0.4559,
+    "topics": [
+      "UN",
+      "authoritarianism",
+      "civil unrest",
+      "civil war",
+      "democracy",
+      "economic warfare",
+      "foreign affairs",
+      "geopolitics",
+      "illiberal democracy",
+      "political interference",
+      "political repression",
+      "populism",
+      "propaganda",
+      "regime",
+      "uprising"
+    ]
+  },
+  {
     "topic": "Academic Abuse",
-    "count": 44,
-    "score": 0.4253,
+    "count": 35,
+    "score": 0.4233,
     "topics": [
       "administrative coercion",
       "bureaucratic obstruction",
@@ -107,42 +129,22 @@
       "reputation damage tactics",
       "risks attached to reporting abuse",
       "self-censorship",
-      "silencing dissent",
-      "suppression of dissent"
-    ]
-  },
-  {
-    "topic": "Politics",
-    "count": 36,
-    "score": 0.4581,
-    "topics": [
-      "UN",
-      "authoritarianism",
-      "civil unrest",
-      "civil war",
-      "democracy",
-      "economic warfare",
-      "foreign affairs",
-      "geopolitics",
-      "illiberal democracy",
-      "political repression",
-      "populism",
-      "propaganda",
-      "regime",
-      "uprising"
+      "silencing criticism",
+      "suppressing dissent"
     ]
   },
   {
     "topic": "Education Cost",
-    "count": 26,
-    "score": 0.4569,
+    "count": 30,
+    "score": 0.4451,
     "topics": [
+      "debt",
       "financial aid",
       "financial hardship",
-      "opportunity inequality",
+      "loan",
       "scholarships",
-      "tuition affordability",
-      "tuition debt"
+      "tuition",
+      "tuition affordability"
     ]
   },
   {
@@ -185,6 +187,22 @@
     ]
   },
   {
+    "topic": "Degradation Signals",
+    "count": 21,
+    "score": 0.4397,
+    "topics": [
+      "employability gap",
+      "grade inflation",
+      "incompetence",
+      "leniency",
+      "opportunistic growth",
+      "over-enrollment",
+      "oversimplification",
+      "programme massification",
+      "skills mismatch"
+    ]
+  },
+  {
     "topic": "Academic Freedom",
     "count": 20,
     "score": 0.4336,
@@ -198,7 +216,7 @@
     ]
   },
   {
-    "topic": "Regions Countries",
+    "topic": "Regions And Countries",
     "count": 20,
     "score": 0.4733,
     "topics": [
@@ -229,6 +247,16 @@
     ]
   },
   {
+    "topic": "Admissions Access",
+    "count": 19,
+    "score": 0.4365,
+    "topics": [
+      "affirmative action",
+      "college admissions",
+      "selective admissions"
+    ]
+  },
+  {
     "topic": "Faculty Labour",
     "count": 19,
     "score": 0.4466,
@@ -245,31 +273,6 @@
     ]
   },
   {
-    "topic": "Admissions Access",
-    "count": 18,
-    "score": 0.438,
-    "topics": [
-      "affirmative action",
-      "college admissions",
-      "selective admissions"
-    ]
-  },
-  {
-    "topic": "Degradation Signals",
-    "count": 18,
-    "score": 0.4413,
-    "topics": [
-      "employability gap",
-      "grade inflation",
-      "leniency",
-      "opportunistic growth",
-      "over-enrollment",
-      "oversimplification",
-      "programme massification",
-      "skills mismatch"
-    ]
-  },
-  {
     "topic": "Accountability Gaps",
     "count": 12,
     "score": 0.4082,
@@ -279,6 +282,16 @@
       "elite impunity",
       "lack of oversight",
       "weak oversight"
+    ]
+  },
+  {
+    "topic": "Financial Constraints",
+    "count": 6,
+    "score": 0.4475,
+    "topics": [
+      "austerity",
+      "budget constraints",
+      "insufficient resources"
     ]
   },
   {
@@ -292,15 +305,6 @@
     ]
   },
   {
-    "topic": "Financial Constraints",
-    "count": 5,
-    "score": 0.4516,
-    "topics": [
-      "austerity",
-      "insufficient resources"
-    ]
-  },
-  {
     "topic": "Campus Infrastructure",
     "count": 4,
     "score": 0.4226,
@@ -310,20 +314,19 @@
     ]
   },
   {
-    "topic": "Legal Violations",
-    "count": 2,
-    "score": 0.4172,
-    "topics": [
-      "cybercrime",
-      "misconduct"
-    ]
-  },
-  {
     "topic": "Ethical Conflicts",
     "count": 1,
     "score": 0.4151,
     "topics": [
       "ethical impropriety"
+    ]
+  },
+  {
+    "topic": "Norm Violations",
+    "count": 1,
+    "score": 0.4077,
+    "topics": [
+      "misconduct"
     ]
   },
   {
