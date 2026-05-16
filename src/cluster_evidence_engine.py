@@ -1,5 +1,6 @@
 import json
 from pathlib import Path
+from collections import defaultdict
 
 
 # ----------------------------
@@ -9,7 +10,7 @@ from pathlib import Path
 def latest_file(directory, pattern):
     files = sorted(Path(directory).glob(pattern))
     if not files:
-        raise FileNotFoundError(f"No files match {pattern}")
+        raise FileNotFoundError(f"No files match {pattern} in {directory}")
     return files[-1]
 
 
@@ -48,7 +49,6 @@ raw_paths = sorted(
     Path("data/raw").glob("articles_*.jsonl")
 )
 
-
 cluster_summary = load_json(cluster_summary_path)
 graph_nodes = load_json(graph_nodes_path)
 
@@ -64,7 +64,7 @@ for node in graph_nodes:
 
 
 # ----------------------------
-# BUILD ARTICLE → TOPIC SCORES INDEX
+# BUILD ARTICLE → TOPIC SCORE INDEX
 # ----------------------------
 
 article_topic_scores = {}
@@ -82,14 +82,14 @@ for path in topic_matrix_paths:
             topic = t["topic"]
             score = t["score"]
 
-            existing = article_topic_scores[article_id].get(topic, 0)
-
-            if score > existing:
-                article_topic_scores[article_id][topic] = score
+            article_topic_scores[article_id][topic] = max(
+                score,
+                article_topic_scores[article_id].get(topic, 0)
+            )
 
 
 # ----------------------------
-# BUILD RAW ARTICLE INDEX (headline + url)
+# BUILD RAW ARTICLE INDEX
 # ----------------------------
 
 raw_articles = {}
@@ -116,7 +116,6 @@ cluster_evidence = []
 for cluster in cluster_summary:
 
     cluster_name = cluster["topic"]
-    cluster_count = cluster["count"]
     cluster_topics = cluster["topics"]
 
     candidates = []
@@ -149,7 +148,6 @@ for cluster in cluster_summary:
 
     cluster_evidence.append({
         "cluster": cluster_name,
-        "count": cluster_count,
         "evidence": {
             "article_id": best["article_id"],
             "headline": raw.get("headline", ""),
@@ -176,6 +174,5 @@ output_path = output_dir / f"cluster_evidence_aggregate_{latest_date}.json"
 
 with open(output_path, "w", encoding="utf-8") as f:
     json.dump(cluster_evidence, f, indent=2, ensure_ascii=False)
-
 
 print(f"Cluster evidence exported: {output_path}")
