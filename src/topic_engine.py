@@ -16,44 +16,40 @@ import re
 
 import html
 
-from collections import Counter
+from collections importevaluation Counter
 
 model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
 
 MAAT_TOPICS = {
 
     "teaching_learning": [
-        "teaching",
-        "learning",
-        "pedagogy",
-        "instruction",
-        "curriculum",
-        "course design",
-        "assessment",
-        "practice",
-        "active learning",
-        "learning outcomes",
-        "online learning",
-        "hybrid learning",
-        "distance education",
-        "remote teaching",
-        "BA",
-        "BSc",
-        "MA",
-        "MSc",
-        "MBA",
-        "PhD",
-        "academic degree",
-        "undegraduate degree",
-        "graduate degree",
+        "instructional practice",
+        "pedagogical methods",
+        "curricular design",
+        "course architecture",
+        "course evaluation",
+        "classroom methods",
+        "participatory instruction",
+        "competency outcomes",
+        "virtual instruction",
+        "blended instruction",
+        "remote coursework",
+        "distance pedagogy",
+        "bachelor qualification",
+        "STEM qualification",
+        "master qualification",
+        "business qualification",
+        "doctoral qualification",
+        "degree pathway",
+        "undergraduate pathway",
+        "postgraduate pathway",
         "pedagogical innovation",
-        "teaching excellence"
+        "instructional excellence"
     ],
 
 
     "student_experience": [
         "student wellbeing",
-        "student mental health",
         "student life",
         "student support",
         "student satisfaction",
@@ -61,89 +57,86 @@ MAAT_TOPICS = {
         "student retention",
         "student protest",
         "student voice",
-        "teacher-student relationship"
+        "mentor-student relationship"
     ],
 
     "educational_technology": [
         "artificial intelligence",
-        "AI in education",
+        "AI assisted process",
         "generative AI",
         "ChatGPT",
-        "educational technology",
-        "digital learning",
+        "emerging technology",
+        "digital tools",
         "learning analytics",
         "edtech",
-        "automation in education",
+        "process automation",
         "automated grading",
         "proctoring software",
         "algorithmic assessment"
     ],
 
     "research_activities": [
-        "scientific collaboration",
+        "research collaboration",
         "research productivity",
         "publication pressure",
         "publish or perish",
-        "citation metrics",
+        "citation count",
         "peer review",
-        "research evaluation",
-        "academic publishing",
         "open access",
         "h-index",
-        "research excellence",
-        "scientific innovation"
+        "quantitative research",
+        "qualitative research",
+        "empirical research",
+        "theoretical research",
+        "high-impact research"
     ],
 
     "higher_education_crisis": [
-        "institutional crisis",
         "education crisis",
-        "university crisis",
-        "systemic crisis",
+        "higher education crisis",
         "decline of academia",
         "academic collapse",
-        "university decline",
-        "erosion of higher education",
-        "breakdown of academic systems",
+        "educational decline",
+        "breakdown of academic model",
         "educational instability",
         "structural breakdown",
         "unsustainable model",
-        "crisis of legitimacy",
-        "systemic failure",
+        "legitimacy crisis",
+        "outdated education model",
+        "systemic education failure",
     ],
 
     "education_cost": [
         "tuition debt",
-        "learner wellbeing",
-        "campus unrest",
-        "retention risk",
-        "tuition",
+        "tuition affordability",
         "financial aid",
         "scholarships",
-        "affordability of education",
-        "student poverty",
-        "access to higher education",
-        "educational inequality"
+        "cost barriers",
+        "financial hardship",
+        "privilege",
+        "opportunity inequality"
     ],
     
    "university_administration": [
-       "faculty bylaws",
-       "higher education governance",
+       "university bylaws",
+       "university leadership",
        "board of trustees",
        "board of regents",
-       "faculty senate",
-       "academic council",
+       "university senate",
+       "senior leadership",
+       "university administrators",
        "organisational structure",
-       "education policy",
-       "education reform",
+       "university policy",
+       "university reform",
        "internal regulations",
-       "legislative reform"
+       "university reform"
     ],
 
     "funding_flows": [
-        "research funding",
+        "scholarly funding",
         "public funding",
-        "university budgets",
-        "grants",
+        "school budgets",
+        "grant funding",
         "endowments"
     ],
 
@@ -151,43 +144,38 @@ MAAT_TOPICS = {
         "austerity",
         "budget cuts",
         "resource constraints",
-        "financial pressure in academia",
-        "underfunding"
+        "insufficient resources"
     ],
 
-   "academic_labour": [
+   "faculty_labour": [
         "faculty contracts",
         "adjuncts",
-        "structural precarity"
+        "precarity"
         "labour exploitation"
-        "academic careers",
+        "faculty careers",
         "unpaid labour",
-        "academic workload",
+        "faculty workload",
         "job insecurity",
-        "graduate employment",
+        "hiring market",
         "redundancy",
         "unemployment"
     ],
 
     "academic_standards": [
         "integrity",
-        "ethics",
-        "academic integrity",
-        "educational quality standards",
-        "research ethics"
+        "standards",
         "transparency",
         "accountability",
-        "quality of education",
         "responsibility"
     ],
 
     "ethical_conflicts": [
         "plagiarism",
-        "research misconduct",
         "misrepresentation",
         "data fabrication",
-        "ethical breach",
-        "academic dishonesty"
+        "ethical impropriety",
+        "data misuse",
+        "dishonesty"
     ],
 
     "legal_violations": [
@@ -197,17 +185,14 @@ MAAT_TOPICS = {
         "bribery",
         "money laundering",
         "tax evasion",
-        "financial misconduct",
+        "misconduct",
         "insider trading",
-        "market manipulation",
-        "false reporting",
+        "false declarations",
         "perjury",
-        "obstruction of justice",
         "contempt of court",
-        "illegal surveillance",
-        "data privacy violation",
+        "privacy violation",
         "cybercrime",
-        "intellectual property theft",
+        "theft",
         "regulatory violation",
         "compliance breach",
         "contract fraud",
@@ -216,85 +201,72 @@ MAAT_TOPICS = {
         
     "degradation_signals": [
         "grade inflation",
-        "declining standards",
+        "declining rigour",
         "credential inflation",
-        "academic dilution",
-        "lowered assessment rigour",
-        "reduced academic expectations",
+        "content dilution",
+        "lower expectations",
         "quality erosion",
-        "loss of rigour",
         "oversimplification",
-        "dumbing down of education",
-        "massification of higher education",
-        "over-enrollment pressure",
-        "performance compression",
-        "assessment leniency",
+        "dumbing down of material",
+        "programme massification",
+        "over-enrollment",
+        "leniency",
         "rubric inflation",
         "benchmark drift",
         "skills mismatch",
         "employability gap",
-        "unchecked growth",
-        "credential devaluation"
+        "opportunistic growth",
+        "credential depreciation"
     ],
 
      "academic abuse": [
          "administrative coercion",
-         "institutional opacity",
          "procedural abuse",
-         "power asymmetry",
          "retaliation",
-         "workplace abuse",
          "institutional abuse",
          "retaliatory litigation",
          "silencing dissent",
-         "suppression of faculty dissent",
+         "suppression of dissent",
          "risks attached to reporting abuse",
          "self-censorship",
          "wrongful termination",
-         "academic retaliation",
+         "retaliation",
          "professional marginalisation",
          "career sabotage",
-         "hostile work environment",
          "procedural manipulation",
          "bureaucratic obstruction",
-         "informal punishment",
+         "disproportionate punishment",
          "exclusion",
-         "grant interference",
          "promotion blockage",
-         "tenure denial pressure",
-         "peer review weaponisation",
-         "disciplinary misuse",
+         "arbitrary tenure denial",
+         "arbitrary disciplinary actions",
          "institutional gatekeeping",
          "reputation damage tactics",
-         "non-transparent evaluation processes",
+         "non-transparent processes",
          "mobbing",
          "scarcity-based exploitation",
          "weaponised hierarchy",
-         "structural pressure",
          "weaponised collegiality"
     ],
 
      "accountability_gaps": [
          "nepotism",
-         "institutional cover-up",
+         "cover-up",
          "conflict of interest",
-         "governance opacity"
-         "oversight failure"
+         "weak oversight",
+         "power asymetry",
          "power consolidation",
          "elite impunity",
          "lack of oversight",
-         "weak governance",
-         "institutional shielding",
-         "absence of transparency",
          "unchecked authority",
          "decision-making opacity",
          "informal power networks",
-         "self-regulation failure",
-         "disciplinary inaction"
+         "self-regulation",
+         "inaction"
     ],
 
     
-    "equity_social_issues": [
+    "systemic_inequity": [
         "discrimination",
         "title IX",
         "racism",
@@ -304,38 +276,39 @@ MAAT_TOPICS = {
         "gender discrimination",
         "sexual harassment",
         "workplace harassment",
-        "institutional bias",
-        "systemic inequality",
-        "inclusive policy",
+        "workplace ubias",
+        "inclusivity",
         "accessibility equity",
         "hate incidents",
-        "bias reporting systems",
-        "toxic climate"
+        "biased systems",
+        "toxic culture",
+        "harmful culture",
+        "hostile culture",
+        "corrosive culture"
     ],
 
     "ranking_systems": [
-        "university rankings",
-        "global university rankings",
-        "institutional benchmarking",
-        "evaluation metrics",
+        "rankings",
+        "benchmarking",
+        "target metrics",
+        "performance metrics",
         "performance indicators"
     ],
 
     "politics": [
         "geopolitics",
-        "international relations",
-        "foreign policy",
+        "foreign affairs",
         "authoritarianism",
         "democracy",
         "illiberal democracy",
         "fascism",
         "nationalism",
         "populism",
-        "state power",
+        "legislation",
         "sovereignty",
-        "territorial conflict",
+        "territorial dispute",
         "war",
-        "armed conflict",
+        "armed dispute",
         "proxy war",
         "civil war",
         "military escalation",
@@ -348,12 +321,11 @@ MAAT_TOPICS = {
         "summits",
         "alliances",
         "NATO",
-        "United Nations",
-        "protest",
+        "UN",
         "civil unrest",
         "revolution",
         "uprising",
-        "regime change",
+        "regime",
         "political repression",
         "state surveillance",
         "propaganda"
@@ -376,7 +348,7 @@ MAAT_TOPICS = {
         "north africa",
         "sub-saharan africa",
         "oceania",
-        "united states",
+        "united states of america",
         "canada",
         "mexico",
         "brazil",
@@ -406,90 +378,81 @@ MAAT_TOPICS = {
     ],
 
     "internationalisation": [
-        "international students",
-        "student mobility",
-        "academic mobility",
+        "international cohorts",
+        "international exchange",
+        "international mobility",
         "study abroad",
         "visa restrictions",
-        "global education",
-        "cross-border education",
+        "global experience",
+        "cross-border experience",
         "international partnerships",
-        "transnational education",
-        "international higher education",
+        "transnational mobility",
         "brain drain"
     ],
 
     "admissions_access": [
         "college admissions",
-        "university admissions",
         "selective admissions",
         "standardised testing",
         "SAT",
         "GRE",
         "GMAT",
         "affirmative action",
-        "educational access",
         "widening participation"
     ],
 
     "campus_infrastructure": [
-        "student accommodation",
-        "campus safety",
+        "accommodation",
+        "safety",
         "laboratories",
-        "research facilities",
+        "facilities",
         "library services",
-        "digital infrastructure",
-        "campus expansion"
+        "infrastructure"
     ],
 
     "academic_freedom": [
-        "academic freedom",
         "freedom of expression",
-        "campus speech",
-        "faculty speech",
+        "freedom of speech",
+        "freedom of opinion",
         "censorship",
-        "political interference",
-        "scholarly autonomy",
-        "institutional independence"
+        "hierarchical interference",
+        "intellectual autonomy",
+        "thought independence"
     ],
 
     "sustainability_climate": [
         "climate change",
         "sustainability",
         "green campus",
-        "environmental policy",
-        "climate education",
+        "environmental sustainability",
         "carbon neutrality",
         "fossil fuel",
-        "sustainable university"
     ],
 
-    "health_professions_education": [
-        "medical education",
-        "nursing education",
-        "public health education",
+    "health_professions": [
+        "medical profession",
+        "nursing profession",
+        "health profession",
         "clinical training",
-        "medical students",
-        "teaching hospitals"
+        "training hospitals"
     ],
 
     "science_society": [
-        "public trust in science",
+        "trust in science",
         "science communication",
         "misinformation",
-        "evidence-based policy",
-        "politicization of science",
+        "evidence-based decisions",
+        "politicisation of science",
         "scientific expertise"    
     ],
     
     "future_outlook": [
         "pessimism",
         "optimism",
-        "academic uncertainty",
-        "institutional anxiety",
-        "future of higher education",
-        "educational pessimism",
-        "academic morale"
+        "uncertainty",
+        "anxiety",
+        "future planning",
+        "morale"
     ]
 }
 
