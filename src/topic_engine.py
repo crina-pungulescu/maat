@@ -16,7 +16,7 @@ import re
 
 import html
 
-from collections importevaluation Counter
+from collections import Counter
 
 model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
 
