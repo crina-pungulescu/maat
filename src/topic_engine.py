@@ -142,6 +142,7 @@ MAAT_TOPICS = {
 
     "financial_constraints": [
         "austerity",
+        "financial concerns",
         "budget cuts",
         "resource constraints",
         "insufficient resources"
