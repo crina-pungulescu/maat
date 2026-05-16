@@ -323,7 +323,7 @@ MAAT_TOPICS = {
         "NATO",
         "UN",
         "civil unrest",
-        "revolution",
+        "instability",
         "uprising",
         "regime",
         "political repression",
