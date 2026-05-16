@@ -1,0 +1,40 @@
+name: MAAT Cluster Evidence Engine
+
+on:
+  workflow_run:
+    workflows: ["MAAT Graph Engine"]
+    types:
+      - completed
+
+  workflow_dispatch:
+
+jobs:
+
+  cluster-evidence:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+
+      - name: Create cluster directories
+        run: |
+          mkdir -p data/clusters
+
+      - name: Run cluster evidence engine
+        run: |
+          python src/cluster_evidence_engine.py
+
+      - name: Upload cluster evidence outputs
+        uses: actions/upload-artifact@v4
+        with:
+          name: cluster-evidence
+          path: |
+            data/clusters/*.json
