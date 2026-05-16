@@ -277,6 +277,7 @@ def build_nodes(matrix):
 
     topic_counts = Counter()
     topic_scores = defaultdict(list)
+    topic_articles = defaultdict(set)
 
     for article in matrix:
         for t in article["scores"]:
@@ -288,6 +289,13 @@ def build_nodes(matrix):
                 topic_counts[topic] += 1
                 topic_scores[topic].append(t["score"])
 
+                # NEW: track provenance
+
+                
+                article_id = article["article_id"]
+
+                topic_articles[topic].add(article_id)
+
     nodes = []
 
     for topic, count in topic_counts.items():
@@ -298,7 +306,8 @@ def build_nodes(matrix):
             "id": topic,
             "label": pretty_name(topic),
             "weight": count,
-            "avg_score": round(avg_score, 4)
+            "avg_score": round(avg_score, 4),
+            "article_ids": sorted(list(topic_articles[topic]))
         })
 
     return nodes
