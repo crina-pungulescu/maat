@@ -9,21 +9,28 @@ from collections import defaultdict
 
 def latest_file(directory, pattern):
     files = sorted(Path(directory).glob(pattern))
+    print(f"[LOAD] Searching {directory}/{pattern} -> {len(files)} files")
+
     if not files:
         raise FileNotFoundError(f"No files match {pattern} in {directory}")
+
+    print(f"[LOAD] Using latest file: {files[-1]}")
     return files[-1]
 
 
 def load_json(path):
+    print(f"[LOAD] JSON -> {path}")
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 
 
 def load_jsonl(path):
+    print(f"[LOAD] JSONL -> {path}")
     rows = []
     with open(path, "r", encoding="utf-8") as f:
         for line in f:
             rows.append(json.loads(line))
+    print(f"[LOAD] Loaded {len(rows)} rows from JSONL")
     return rows
 
 
@@ -41,16 +48,18 @@ graph_nodes_path = latest_file(
     "graph_nodes_aggregate_*.json"
 )
 
-topic_matrix_paths = sorted(
-    Path("data/topics").glob("topic_matrix_*.json")
-)
+topic_matrix_paths = sorted(Path("data/topics").glob("topic_matrix_*.json"))
+raw_paths = sorted(Path("data/raw").glob("articles_*.jsonl"))
 
-raw_paths = sorted(
-    Path("data/raw").glob("articles_*.jsonl")
-)
+print(f"[INPUT] topic_matrix files: {len(topic_matrix_paths)}")
+print(f"[INPUT] raw article files: {len(raw_paths)}")
+
 
 cluster_summary = load_json(cluster_summary_path)
 graph_nodes = load_json(graph_nodes_path)
+
+print(f"[INPUT] clusters: {len(cluster_summary)}")
+print(f"[INPUT] graph nodes: {len(graph_nodes)}")
 
 
 # ----------------------------
@@ -62,12 +71,16 @@ topic_article_ids = {}
 for node in graph_nodes:
     topic_article_ids[node["id"]] = set(node.get("article_ids", []))
 
+print(f"[INDEX] topic_article_ids built: {len(topic_article_ids)} topics")
+
 
 # ----------------------------
 # BUILD ARTICLE → TOPIC SCORE INDEX
 # ----------------------------
 
 article_topic_scores = {}
+
+print("[INDEX] building article_topic_scores...")
 
 for path in topic_matrix_paths:
     matrix = load_json(path)
@@ -87,12 +100,16 @@ for path in topic_matrix_paths:
                 article_topic_scores[article_id].get(topic, 0)
             )
 
+print(f"[INDEX] article_topic_scores built: {len(article_topic_scores)} articles")
+
 
 # ----------------------------
 # BUILD RAW ARTICLE INDEX
 # ----------------------------
 
 raw_articles = {}
+
+print("[INDEX] building raw article index...")
 
 for path in raw_paths:
     rows = load_jsonl(path)
@@ -105,6 +122,8 @@ for path in raw_paths:
             "url": article.get("url") or article.get("link") or ""
         }
 
+print(f"[INDEX] raw_articles built: {len(raw_articles)} articles")
+
 
 # ----------------------------
 # SELECT CLUSTER EVIDENCE
@@ -113,16 +132,23 @@ for path in raw_paths:
 used_articles = set()
 cluster_evidence = []
 
-for cluster in cluster_summary:
+print("[SELECT] starting cluster selection...")
+
+for i, cluster in enumerate(cluster_summary):
 
     cluster_name = cluster["topic"]
     cluster_topics = cluster["topics"]
+
+    print(f"\n[CLUSTER {i}] {cluster_name}")
+    print(f"[CLUSTER {i}] topics: {len(cluster_topics)}")
 
     candidates = []
 
     for topic in cluster_topics:
 
         article_ids = topic_article_ids.get(topic, set())
+
+        print(f"  [TOPIC] {topic} -> {len(article_ids)} articles")
 
         for article_id in article_ids:
 
@@ -137,10 +163,15 @@ for cluster in cluster_summary:
                 "score": score
             })
 
+    print(f"[CLUSTER {i}] candidates: {len(candidates)}")
+
     if not candidates:
+        print(f"[CLUSTER {i}] SKIPPED (no candidates)")
         continue
 
     best = max(candidates, key=lambda x: x["score"])
+
+    print(f"[CLUSTER {i}] BEST -> {best['article_id']} ({best['score']})")
 
     used_articles.add(best["article_id"])
 
@@ -172,7 +203,9 @@ output_dir.mkdir(parents=True, exist_ok=True)
 
 output_path = output_dir / f"cluster_evidence_aggregate_{latest_date}.json"
 
+print(f"\n[SAVE] writing output -> {output_path}")
+
 with open(output_path, "w", encoding="utf-8") as f:
     json.dump(cluster_evidence, f, indent=2, ensure_ascii=False)
 
-print(f"Cluster evidence exported: {output_path}")
+print(f"[DONE] clusters written: {len(cluster_evidence)}")
