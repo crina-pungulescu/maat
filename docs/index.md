@@ -53,14 +53,24 @@ Each article is evaluated not by keywords, but by semantic proximity to higher e
 
 <table>
 <tr>
-<th>Topic</th>
-<th>Articles</th>
+<th>Theme</th>
+<th>Number of Articles</th>
+<th>Most Representative Article</th>
 </tr>
 
 {% for topic in topics %}
 <tr>
 <td>{{ topic.topic }}</td>
 <td>{{ topic.count }}</td>
+<td>
+
+<a href="{{ topic.evidence.url }}" target="_blank" rel="noopener noreferrer">
+
+{{ topic.evidence.headline }}
+
+</a>
+
+</td>
 </tr>
 {% endfor %}
 
