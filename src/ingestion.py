@@ -169,9 +169,36 @@ RSS_FEEDS = [
     "https://www.reuters.com/rssFeed",
     "https://apnews.com/hub/rss",
     "https://news.google.com/rss/search?q=students",
-    "https://news.google.com/rss/search?q=university",
     "https://news.google.com/rss/search?q=academia",
     "https://news.google.com/rss/search?q=education",
+    "https://news.google.com/rss/search?q=academic+standards",
+    "https://news.google.com/rss/search?q=campus",
+    "https://news.google.com/rss/search?q=academic+misconduct",
+    "https://news.google.com/rss/search?q=tenure-track",
+    "https://news.google.com/rss/search?q=college",
+    "https://news.google.com/rss/search?q=higher+education",
+    "https://news.google.com/rss/search?q=university",
+    "https://news.google.com/rss/search?q=universities",
+    "https://news.google.com/rss/search?q=academic+research",
+    "https://news.google.com/rss/search?q=faculty",
+    "https://news.google.com/rss/search?q=professor",
+    "https://news.google.com/rss/search?q=college+administration",
+    "https://news.google.com/rss/search?q=research+university",
+    "https://news.google.com/rss/search?q=academic+freedom",
+    "https://news.google.com/rss/search?q=tenure",
+    "https://news.google.com/rss/search?q=adjunct+faculty",
+    "https://news.google.com/rss/search?q=graduate+students",
+    "https://news.google.com/rss/search?q=doctoral+students",
+    "https://news.google.com/rss/search?q=research+integrity",
+    "https://news.google.com/rss/search?q=plagiarism+university",
+    "https://news.google.com/rss/search?q=Title+IX+university",
+    "https://news.google.com/rss/search?q=university+funding",
+    "https://news.google.com/rss/search?q=academic+labor",
+    "https://news.google.com/rss/search?q=student+debt+university",
+    "https://news.google.com/rss/search?q=research+funding",
+    "https://news.google.com/rss/search?q=university+rankings",
+    "https://news.google.com/rss/search?q=higher+education+policy",
+    "https://news.google.com/rss/search?q=university+governance",
     "https://www.reuters.com/world/rss",
     "https://www.reuters.com/rssFeed/topNews",
     "https://apnews.com/hub/ap-top-news?output=rss",
@@ -308,6 +335,7 @@ RSS_FEEDS = [
 RUN_DATE = datetime.utcnow().strftime("%Y-%m-%d")
 
 OUTPUT_FILE = f"data/raw/articles_{RUN_DATE}.jsonl"
+SEEN_FILE = Path("data/raw/seen_articles.json")
 
 def generate_summary(text):
 
@@ -367,37 +395,43 @@ def extract_article_text(url):
 
 def load_seen_articles():
 
-    seen = set()
+    if not SEEN_FILE.exists():
 
-    data_path = Path("data/raw")
+        log("No seen_articles.json found. Creating new memory set.")
 
-    if not data_path.exists():
+        return set()
+
+    try:
+
+        with open(SEEN_FILE, "r", encoding="utf-8") as f:
+
+            seen = set(json.load(f))
+
+        log(f"Loaded {len(seen)} seen article IDs")
+
         return seen
 
-    for file in data_path.glob("articles_*.jsonl"):
+    except Exception as e:
 
-        try:
-            with open(file, "r", encoding="utf-8") as f:
+        log(f"Failed loading seen articles: {e}")
 
-                for line in f:
+        return set()
 
-                    try:
-                        article = json.loads(line)
+def save_seen_articles(seen):
 
-                        article_id = article.get("article_id")
+    try:
 
-                        if article_id:
-                            seen.add(article_id)
+        SEEN_FILE.parent.mkdir(parents=True, exist_ok=True)
 
-                    except:
-                        continue
+        with open(SEEN_FILE, "w", encoding="utf-8") as f:
 
-        except:
-            continue
+            json.dump(sorted(list(seen)), f, indent=2)
 
-    log(f"Loaded {len(seen)} historical article IDs")
+        log(f"Saved {len(seen)} seen article IDs")
 
-    return seen
+    except Exception as e:
+
+        log(f"Failed saving seen articles: {e}")
 
 def make_article_id(article):
 
@@ -491,7 +525,7 @@ def fetch_rss_articles(seen):
 
             continue
 
-        for entry in feed.entries[:20]:
+        for entry in feed.entries[:50]:
 
             text = (entry.get("title", "") + " " + entry.get("summary", "")).strip()
 
@@ -575,6 +609,8 @@ def run_pipeline():
     log(f"Collected {len(articles)} articles")
 
     save_articles_jsonl(articles)
+
+    save_seen_articles(seen)
 
     log("MAAT ingestion complete")
 
