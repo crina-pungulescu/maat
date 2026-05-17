@@ -1,7 +1,7 @@
 [
   {
     "cluster": "Higher Education Crisis",
-    "count": 213,
+    "count": 398,
     "evidence": {
       "article_id": "c5a245bc8361bf934347b3d8f989a023",
       "headline": "Il curriculum dello studente e la Maturità-Talent Show di Valditara",
@@ -12,18 +12,18 @@
   },
   {
     "cluster": "University Administration",
-    "count": 145,
+    "count": 278,
     "evidence": {
       "article_id": "70a63817197eb8f2e4f97d2729cd8e29",
-      "headline": "Students, alumni sue to block Kentucky State University overhaul",
-      "url": "https://www.highereddive.com/news/students-alumni-sue-to-block-kentucky-state-university-overhaul/820154/",
+      "headline": "",
+      "url": "",
       "topic": "university reform",
       "score": 0.607
     }
   },
   {
     "cluster": "Teaching And Learning",
-    "count": 135,
+    "count": 259,
     "evidence": {
       "article_id": "8ad907b6a05d13f544de6886fe042824",
       "headline": "Zwischen Bildung, Kompetenz und Effizienz – Hochschulbildung und ihre versteckten Logiken",
@@ -34,7 +34,7 @@
   },
   {
     "cluster": "Student Experience",
-    "count": 80,
+    "count": 150,
     "evidence": {
       "article_id": "b962e65167b36c4e8c4f841fcdb1fc15",
       "headline": "'Huge relief' as students given loans 'in error' get repayment reprieve",
@@ -45,7 +45,7 @@
   },
   {
     "cluster": "Research Activities",
-    "count": 68,
+    "count": 131,
     "evidence": {
       "article_id": "86492267b037f64f74ec4e89efb23212",
       "headline": "Doping accademico e fabbriche di revisioni pilotate",
@@ -55,41 +55,41 @@
     }
   },
   {
-    "cluster": "Academic Abuse",
-    "count": 38,
+    "cluster": "Politics",
+    "count": 75,
     "evidence": {
       "article_id": "1cc008717e75d86809c56b809b006463",
       "headline": "A lawsuit against a Black Lives Matter activist could chill all of our speech",
       "url": "https://www.fire.org/news/lawsuit-against-black-lives-matter-activist-could-chill-all-our-speech",
-      "topic": "suppressing dissent",
-      "score": 0.5306
+      "topic": "civil unrest",
+      "score": 0.5919
     }
   },
   {
-    "cluster": "Politics",
-    "count": 38,
+    "cluster": "Academic Abuse",
+    "count": 74,
     "evidence": {
-      "article_id": "04296ef005fd861382dd795e1768e30a",
-      "headline": "A proposito di “Contro la scuola neoliberale” e della trasformazione dell’istruzione",
-      "url": "https://www.roars.it/a-proposito-di-contro-la-scuola-neoliberale-e-della-trasformazione-dellistruzione/",
-      "topic": "populism",
-      "score": 0.5387
+      "article_id": "d2169b300df286285c2b3c8a6a5488c9",
+      "headline": "What UCLA doesn’t want you to know",
+      "url": "https://www.fire.org/news/what-ucla-doesnt-want-you-know",
+      "topic": "suppressing dissent",
+      "score": 0.5209
     }
   },
   {
     "cluster": "Education Cost",
-    "count": 32,
+    "count": 60,
     "evidence": {
-      "article_id": "605def359d5c013b46fd96d3cb808041",
-      "headline": "10 ways the One Big Beautiful Bill affects student loans and financial aid",
-      "url": "https://finance.yahoo.com/personal-finance/student-loans/article/one-big-beautiful-bill-affects-student-loans-190239452.html",
-      "topic": "financial aid",
-      "score": 0.5001
+      "article_id": "509363732b17034882d1355b7ac6c30b",
+      "headline": "Hotărâre de Guvern privind stabilirea cifrei de școlarizare pentru învățământul preuniversitar și superior (2026 - 2027)",
+      "url": "https://www.edu.ro/press_rel_36_2026",
+      "topic": "tuition",
+      "score": 0.4869
     }
   },
   {
     "cluster": "Funding Flows",
-    "count": 28,
+    "count": 51,
     "evidence": {
       "article_id": "cce60daefd4ed5d3a911dbd4d86766bc",
       "headline": "Hotărâre de Guvern privind stabilirea cifrei de școlarizare pentru învățământul preuniversitar și superior",
@@ -100,7 +100,7 @@
   },
   {
     "cluster": "Science Society",
-    "count": 24,
+    "count": 47,
     "evidence": {
       "article_id": "f60882c0c034035572a022b866ef0c28",
       "headline": "Tre libri sull’università (e l’orizzonte che non si vede)",
@@ -111,7 +111,7 @@
   },
   {
     "cluster": "Regions And Countries",
-    "count": 24,
+    "count": 45,
     "evidence": {
       "article_id": "26b7148d7cbdd1edf96a70f60c04a52c",
       "headline": "Convenio entre CLACSO y la Universidad de Chile",
@@ -122,7 +122,7 @@
   },
   {
     "cluster": "Systemic Inequity",
-    "count": 22,
+    "count": 43,
     "evidence": {
       "article_id": "3c67e225a103e381d7c66fcc8d921588",
       "headline": "Sexual harassment more than twice as prevalent at England’s top universities, analysis finds",
@@ -132,19 +132,8 @@
     }
   },
   {
-    "cluster": "Academic Freedom",
-    "count": 21,
-    "evidence": {
-      "article_id": "be706ea76c856662101ed6aeb5107331",
-      "headline": "Lawmakers see different threats to campus speech — but the same stakes",
-      "url": "https://www.fire.org/news/lawmakers-see-different-threats-campus-speech-same-stakes",
-      "topic": "freedom of speech",
-      "score": 0.5547
-    }
-  },
-  {
     "cluster": "Degradation Signals",
-    "count": 21,
+    "count": 42,
     "evidence": {
       "article_id": "3740ac776b8f222daa94a6c8fd1cc39f",
       "headline": "Stagiaire « IA et formation professionnelle continue » pour le département Travail, Emploi, Compétences",
@@ -154,8 +143,19 @@
     }
   },
   {
+    "cluster": "Academic Freedom",
+    "count": 41,
+    "evidence": {
+      "article_id": "be706ea76c856662101ed6aeb5107331",
+      "headline": "Lawmakers see different threats to campus speech — but the same stakes",
+      "url": "https://www.fire.org/news/lawmakers-see-different-threats-campus-speech-same-stakes",
+      "topic": "freedom of speech",
+      "score": 0.5547
+    }
+  },
+  {
     "cluster": "Educational Technology",
-    "count": 20,
+    "count": 39,
     "evidence": {
       "article_id": "b340a5ebad69ecc5e2044993cd4a98f9",
       "headline": "KI-Literacy als Herausforderung für Hochschulen und ein Ringvorlesungskonzept als Lösungsvorschlag",
@@ -165,19 +165,8 @@
     }
   },
   {
-    "cluster": "Admissions Access",
-    "count": 20,
-    "evidence": {
-      "article_id": "46b7f26333290aa9caf9ba3df58960f4",
-      "headline": "US justice department accuses Yale medical school of illegally using race in admissions",
-      "url": "https://www.theguardian.com/education/2026/may/14/justice-department-yale-medical-school-race-admissions",
-      "topic": "affirmative action",
-      "score": 0.4628
-    }
-  },
-  {
     "cluster": "Faculty Labour",
-    "count": 19,
+    "count": 38,
     "evidence": {
       "article_id": "dcbac7dee4113046ea87ff7c09489adf",
       "headline": "Apprenti(e) chargé(e) d'études « prospective des métiers et des qualifications à l’horizon 2035 » pour le département Travail, Emploi, Compétences",
@@ -187,8 +176,19 @@
     }
   },
   {
+    "cluster": "Admissions Access",
+    "count": 37,
+    "evidence": {
+      "article_id": "46b7f26333290aa9caf9ba3df58960f4",
+      "headline": "US justice department accuses Yale medical school of illegally using race in admissions",
+      "url": "https://www.theguardian.com/education/2026/may/14/justice-department-yale-medical-school-race-admissions",
+      "topic": "affirmative action",
+      "score": 0.4628
+    }
+  },
+  {
     "cluster": "Accountability Gaps",
-    "count": 13,
+    "count": 25,
     "evidence": {
       "article_id": "ede9da649f1163ef9ebe704a630e915e",
       "headline": "New York Magazine reviewing work of writer facing plagiarism allegations",
@@ -199,7 +199,7 @@
   },
   {
     "cluster": "Internationalisation",
-    "count": 7,
+    "count": 13,
     "evidence": {
       "article_id": "83d8ff82b4279c8cb724bc54419ba6f6",
       "headline": "Dati nostri, IA loro: l’università come organismo ospite",
@@ -210,7 +210,7 @@
   },
   {
     "cluster": "Financial Constraints",
-    "count": 6,
+    "count": 12,
     "evidence": {
       "article_id": "59093ae2e87c5e2c7561d4d5d64fe6e2",
       "headline": "Thousands of University of Nottingham staff told they are at risk of redundancy",
@@ -221,7 +221,7 @@
   },
   {
     "cluster": "Campus Infrastructure",
-    "count": 4,
+    "count": 8,
     "evidence": {
       "article_id": "1605061f593922ebea1ec8b050e612ab",
       "headline": "„Erstell mir eine Hausarbeit“ – ein Experiment in der Soziologie",
@@ -232,7 +232,7 @@
   },
   {
     "cluster": "Ethical Conflicts",
-    "count": 3,
+    "count": 4,
     "evidence": {
       "article_id": "4f20844e6a2c5e9565b51235f78f978b",
       "headline": "Looking after researchers themselves is a blind spot in university research ethics",
@@ -250,17 +250,6 @@
       "url": "https://www.hepi.ac.uk/2026/05/17/weekend-reading-the-agent-quality-framework-and-the-optics-of-compliance/",
       "topic": "integrity",
       "score": 0.4913
-    }
-  },
-  {
-    "cluster": "Norm Violations",
-    "count": 1,
-    "evidence": {
-      "article_id": "d2169b300df286285c2b3c8a6a5488c9",
-      "headline": "What UCLA doesn’t want you to know",
-      "url": "https://www.fire.org/news/what-ucla-doesnt-want-you-know",
-      "topic": "misconduct",
-      "score": 0.4077
     }
   }
 ]
