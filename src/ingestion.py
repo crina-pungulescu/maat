@@ -337,6 +337,53 @@ RUN_DATE = datetime.utcnow().strftime("%Y-%m-%d")
 OUTPUT_FILE = f"data/raw/articles_{RUN_DATE}.jsonl"
 SEEN_FILE = Path("data/raw/seen_articles.json")
 
+def clean_jsonl_file(filepath):
+
+    cleaned_lines = []
+
+    removed = 0
+
+    with open(filepath, "r", encoding="utf-8") as f:
+
+        for line in f:
+
+            line = line.strip()
+
+            # skip truly empty lines
+            if not line:
+                removed += 1
+                continue
+
+            try:
+
+                article = json.loads(line)
+
+            except Exception:
+
+                removed += 1
+                continue
+
+            # remove malformed / incomplete articles
+            if not validate_final(article):
+                removed += 1
+                continue
+
+            if not is_valid_article(article):
+                removed += 1
+                continue
+
+            cleaned_lines.append(
+                json.dumps(article, ensure_ascii=False)
+            )
+
+    # rewrite cleaned file
+    with open(filepath, "w", encoding="utf-8") as f:
+
+        for line in cleaned_lines:
+            f.write(line + "\n")
+
+    log(f"Cleaned JSONL file: removed {removed} bad rows")
+
 def generate_summary(text):
 
     if not text:
@@ -609,6 +656,8 @@ def run_pipeline():
     log(f"Collected {len(articles)} articles")
 
     save_articles_jsonl(articles)
+
+    clean_jsonl_file(OUTPUT_FILE)
 
     save_seen_articles(seen)
 
