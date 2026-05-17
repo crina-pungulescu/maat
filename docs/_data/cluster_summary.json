@@ -1,8 +1,8 @@
 [
   {
     "topic": "Higher Education Crisis",
-    "count": 190,
-    "score": 0.4702,
+    "count": 199,
+    "score": 0.4695,
     "topics": [
       "academic collapse",
       "academic model breakdown",
@@ -26,8 +26,8 @@
   },
   {
     "topic": "University Administration",
-    "count": 136,
-    "score": 0.4623,
+    "count": 142,
+    "score": 0.459,
     "topics": [
       "organisational structure",
       "senior leadership",
@@ -39,15 +39,15 @@
       "university senate"
     ],
     "evidence": {
-      "article_id": "34523bac0e23d8f00acc34e679f221e0",
-      "headline": "Students at risk if universities go bust, say MPs",
-      "url": "https://www.bbc.com/news/articles/ce3p93j3823o?at_medium=RSS&at_campaign=rss",
-      "topic": "university policy",
-      "score": 0.6025
+      "article_id": "70a63817197eb8f2e4f97d2729cd8e29",
+      "headline": "Students, alumni sue to block Kentucky State University overhaul",
+      "url": "https://www.highereddive.com/news/students-alumni-sue-to-block-kentucky-state-university-overhaul/820154/",
+      "topic": "university reform",
+      "score": 0.607
     }
   },
   {
-    "topic": "Teaching Learning",
+    "topic": "Teaching And Learning",
     "count": 129,
     "score": 0.4522,
     "topics": [
@@ -81,8 +81,8 @@
   },
   {
     "topic": "Student Experience",
-    "count": 80,
-    "score": 0.4559,
+    "count": 75,
+    "score": 0.45,
     "topics": [
       "mentor-student relationship",
       "student engagement",
@@ -90,16 +90,16 @@
       "student protest",
       "student retention",
       "student satisfaction",
-      "student support",
       "student voice",
-      "student wellbeing"
+      "student wellbeing",
+      "supporting staff"
     ],
     "evidence": {
       "article_id": "b962e65167b36c4e8c4f841fcdb1fc15",
       "headline": "'Huge relief' as students given loans 'in error' get repayment reprieve",
       "url": "https://www.bbc.com/news/articles/c0e7jjwzn7eo?at_medium=RSS&at_campaign=rss",
-      "topic": "student support",
-      "score": 0.6307
+      "topic": "student retention",
+      "score": 0.5862
     }
   },
   {
@@ -128,9 +128,38 @@
     }
   },
   {
+    "topic": "Politics",
+    "count": 37,
+    "score": 0.4559,
+    "topics": [
+      "UN",
+      "authoritarianism",
+      "civil unrest",
+      "civil war",
+      "democracy",
+      "economic warfare",
+      "foreign affairs",
+      "geopolitics",
+      "illiberal democracy",
+      "political interference",
+      "political repression",
+      "populism",
+      "propaganda",
+      "regime",
+      "uprising"
+    ],
+    "evidence": {
+      "article_id": "1cc008717e75d86809c56b809b006463",
+      "headline": "A lawsuit against a Black Lives Matter activist could chill all of our speech",
+      "url": "https://www.fire.org/news/lawsuit-against-black-lives-matter-activist-could-chill-all-our-speech",
+      "topic": "civil unrest",
+      "score": 0.5919
+    }
+  },
+  {
     "topic": "Academic Abuse",
-    "count": 44,
-    "score": 0.4253,
+    "count": 35,
+    "score": 0.4233,
     "topics": [
       "administrative coercion",
       "bureaucratic obstruction",
@@ -142,63 +171,36 @@
       "reputation damage tactics",
       "risks attached to reporting abuse",
       "self-censorship",
-      "silencing dissent",
-      "suppression of dissent"
+      "silencing criticism",
+      "suppressing dissent"
     ],
     "evidence": {
-      "article_id": "1cc008717e75d86809c56b809b006463",
-      "headline": "A lawsuit against a Black Lives Matter activist could chill all of our speech",
-      "url": "https://www.fire.org/news/lawsuit-against-black-lives-matter-activist-could-chill-all-our-speech",
-      "topic": "silencing dissent",
-      "score": 0.5479
-    }
-  },
-  {
-    "topic": "Politics",
-    "count": 36,
-    "score": 0.4581,
-    "topics": [
-      "UN",
-      "authoritarianism",
-      "civil unrest",
-      "civil war",
-      "democracy",
-      "economic warfare",
-      "foreign affairs",
-      "geopolitics",
-      "illiberal democracy",
-      "political repression",
-      "populism",
-      "propaganda",
-      "regime",
-      "uprising"
-    ],
-    "evidence": {
-      "article_id": "04296ef005fd861382dd795e1768e30a",
-      "headline": "A proposito di “Contro la scuola neoliberale” e della trasformazione dell’istruzione",
-      "url": "https://www.roars.it/a-proposito-di-contro-la-scuola-neoliberale-e-della-trasformazione-dellistruzione/",
-      "topic": "populism",
-      "score": 0.5387
+      "article_id": "d2169b300df286285c2b3c8a6a5488c9",
+      "headline": "What UCLA doesn’t want you to know",
+      "url": "https://www.fire.org/news/what-ucla-doesnt-want-you-know",
+      "topic": "suppressing dissent",
+      "score": 0.5209
     }
   },
   {
     "topic": "Education Cost",
-    "count": 26,
-    "score": 0.4569,
+    "count": 30,
+    "score": 0.4451,
     "topics": [
+      "debt",
       "financial aid",
       "financial hardship",
-      "opportunity inequality",
+      "loan",
       "scholarships",
-      "tuition affordability",
-      "tuition debt"
+      "tuition",
+      "tuition affordability"
     ],
     "evidence": {
-      "article_id": "8fad89dbb300097338dd6c06ecf734cd",
-      "headline": "Nine universities start legal action over student loan error row",
-      "url": "https://www.bbc.com/news/articles/cnv884qveyqo?at_medium=RSS&at_campaign=rss",
-      "topic": "tuition debt",
-      "score": 0.5262
+      "article_id": "509363732b17034882d1355b7ac6c30b",
+      "headline": "Hotărâre de Guvern privind stabilirea cifrei de școlarizare pentru învățământul preuniversitar și superior (2026 - 2027)",
+      "url": "https://www.edu.ro/press_rel_36_2026",
+      "topic": "tuition",
+      "score": 0.4869
     }
   },
   {
@@ -262,6 +264,29 @@
     }
   },
   {
+    "topic": "Degradation Signals",
+    "count": 21,
+    "score": 0.4397,
+    "topics": [
+      "employability gap",
+      "grade inflation",
+      "incompetence",
+      "leniency",
+      "opportunistic growth",
+      "over-enrollment",
+      "oversimplification",
+      "programme massification",
+      "skills mismatch"
+    ],
+    "evidence": {
+      "article_id": "3740ac776b8f222daa94a6c8fd1cc39f",
+      "headline": "Stagiaire « IA et formation professionnelle continue » pour le département Travail, Emploi, Compétences",
+      "url": "https://www.strategie-plan.gouv.fr/offres-demploi/stagiaire-ia-et-formation-professionnelle-continue-pour-le-departement-travail",
+      "topic": "employability gap",
+      "score": 0.5953
+    }
+  },
+  {
     "topic": "Academic Freedom",
     "count": 20,
     "score": 0.4336,
@@ -282,7 +307,7 @@
     }
   },
   {
-    "topic": "Regions Countries",
+    "topic": "Regions And Countries",
     "count": 20,
     "score": 0.4733,
     "topics": [
@@ -327,6 +352,23 @@
     }
   },
   {
+    "topic": "Admissions Access",
+    "count": 19,
+    "score": 0.4365,
+    "topics": [
+      "affirmative action",
+      "college admissions",
+      "selective admissions"
+    ],
+    "evidence": {
+      "article_id": "46b7f26333290aa9caf9ba3df58960f4",
+      "headline": "US justice department accuses Yale medical school of illegally using race in admissions",
+      "url": "https://www.theguardian.com/education/2026/may/14/justice-department-yale-medical-school-race-admissions",
+      "topic": "affirmative action",
+      "score": 0.4628
+    }
+  },
+  {
     "topic": "Faculty Labour",
     "count": 19,
     "score": 0.4466,
@@ -350,45 +392,6 @@
     }
   },
   {
-    "topic": "Admissions Access",
-    "count": 18,
-    "score": 0.438,
-    "topics": [
-      "affirmative action",
-      "college admissions",
-      "selective admissions"
-    ],
-    "evidence": {
-      "article_id": "46b7f26333290aa9caf9ba3df58960f4",
-      "headline": "US justice department accuses Yale medical school of illegally using race in admissions",
-      "url": "https://www.theguardian.com/education/2026/may/14/justice-department-yale-medical-school-race-admissions",
-      "topic": "affirmative action",
-      "score": 0.4628
-    }
-  },
-  {
-    "topic": "Degradation Signals",
-    "count": 18,
-    "score": 0.4413,
-    "topics": [
-      "employability gap",
-      "grade inflation",
-      "leniency",
-      "opportunistic growth",
-      "over-enrollment",
-      "oversimplification",
-      "programme massification",
-      "skills mismatch"
-    ],
-    "evidence": {
-      "article_id": "3740ac776b8f222daa94a6c8fd1cc39f",
-      "headline": "Stagiaire « IA et formation professionnelle continue » pour le département Travail, Emploi, Compétences",
-      "url": "https://www.strategie-plan.gouv.fr/offres-demploi/stagiaire-ia-et-formation-professionnelle-continue-pour-le-departement-travail",
-      "topic": "employability gap",
-      "score": 0.5953
-    }
-  },
-  {
     "topic": "Accountability Gaps",
     "count": 12,
     "score": 0.4082,
@@ -405,6 +408,23 @@
       "url": "https://www.roars.it/fermare-la-riforma-degli-istituti-tecnici-del-ministro-valditara/",
       "topic": "weak oversight",
       "score": 0.4199
+    }
+  },
+  {
+    "topic": "Financial Constraints",
+    "count": 6,
+    "score": 0.4475,
+    "topics": [
+      "austerity",
+      "budget constraints",
+      "insufficient resources"
+    ],
+    "evidence": {
+      "article_id": "59093ae2e87c5e2c7561d4d5d64fe6e2",
+      "headline": "Thousands of University of Nottingham staff told they are at risk of redundancy",
+      "url": "https://www.theguardian.com/education/2026/may/12/thousands-of-university-of-nottingham-staff-told-they-are-at-risk-of-redundancy",
+      "topic": "insufficient resources",
+      "score": 0.468
     }
   },
   {
@@ -425,22 +445,6 @@
     }
   },
   {
-    "topic": "Financial Constraints",
-    "count": 5,
-    "score": 0.4516,
-    "topics": [
-      "austerity",
-      "insufficient resources"
-    ],
-    "evidence": {
-      "article_id": "59093ae2e87c5e2c7561d4d5d64fe6e2",
-      "headline": "Thousands of University of Nottingham staff told they are at risk of redundancy",
-      "url": "https://www.theguardian.com/education/2026/may/12/thousands-of-university-of-nottingham-staff-told-they-are-at-risk-of-redundancy",
-      "topic": "insufficient resources",
-      "score": 0.468
-    }
-  },
-  {
     "topic": "Campus Infrastructure",
     "count": 4,
     "score": 0.4226,
@@ -457,22 +461,6 @@
     }
   },
   {
-    "topic": "Legal Violations",
-    "count": 2,
-    "score": 0.4172,
-    "topics": [
-      "cybercrime",
-      "misconduct"
-    ],
-    "evidence": {
-      "article_id": "1f8fd51508bf35f5735f535339a36a5f",
-      "headline": "Hallucinated citations highest in social sciences preprints site",
-      "url": "https://www.nature.com/articles/d41586-026-01545-1",
-      "topic": "cybercrime",
-      "score": 0.4267
-    }
-  },
-  {
     "topic": "Ethical Conflicts",
     "count": 1,
     "score": 0.4151,
@@ -485,6 +473,20 @@
       "url": "https://wonkhe.com/blogs/looking-after-researchers-themselves-is-a-blind-spot-in-university-research-ethics/",
       "topic": "ethical impropriety",
       "score": 0.4151
+    }
+  },
+  {
+    "topic": "Norm Violations",
+    "count": 1,
+    "score": 0.4077,
+    "topics": [
+      "misconduct"
+    ],
+    "evidence": {
+      "headline": "",
+      "url": "",
+      "article_id": "",
+      "score": 0
     }
   },
   {
