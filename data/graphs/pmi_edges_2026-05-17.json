@@ -1,1 +1,5576 @@
-[]
+[
+  {
+    "source": "incompetence",
+    "target": "thought independence",
+    "co_occurrence": 3,
+    "pmi": 4.5236
+  },
+  {
+    "source": "AI assisted process",
+    "target": "artificial intelligence",
+    "co_occurrence": 4,
+    "pmi": 4.1085
+  },
+  {
+    "source": "AI assisted process",
+    "target": "generative AI",
+    "co_occurrence": 4,
+    "pmi": 4.1085
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "generative AI",
+    "co_occurrence": 4,
+    "pmi": 4.1085
+  },
+  {
+    "source": "democracy",
+    "target": "illiberal democracy",
+    "co_occurrence": 4,
+    "pmi": 4.1085
+  },
+  {
+    "source": "austerity",
+    "target": "opportunistic growth",
+    "co_occurrence": 4,
+    "pmi": 4.1085
+  },
+  {
+    "source": "employability gap",
+    "target": "faculty workload",
+    "co_occurrence": 3,
+    "pmi": 3.7866
+  },
+  {
+    "source": "student satisfaction",
+    "target": "student wellbeing",
+    "co_occurrence": 4,
+    "pmi": 3.7866
+  },
+  {
+    "source": "authoritarianism",
+    "target": "democracy",
+    "co_occurrence": 4,
+    "pmi": 3.7866
+  },
+  {
+    "source": "authoritarianism",
+    "target": "illiberal democracy",
+    "co_occurrence": 4,
+    "pmi": 3.7866
+  },
+  {
+    "source": "democracy",
+    "target": "populism",
+    "co_occurrence": 4,
+    "pmi": 3.7866
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "populism",
+    "co_occurrence": 4,
+    "pmi": 3.7866
+  },
+  {
+    "source": "doctoral qualification",
+    "target": "faculty workload",
+    "co_occurrence": 3,
+    "pmi": 3.7866
+  },
+  {
+    "source": "authoritarianism",
+    "target": "geopolitics",
+    "co_occurrence": 3,
+    "pmi": 3.7866
+  },
+  {
+    "source": "affirmative action",
+    "target": "racism",
+    "co_occurrence": 3,
+    "pmi": 3.6935
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student satisfaction",
+    "co_occurrence": 3,
+    "pmi": 3.6935
+  },
+  {
+    "source": "austerity",
+    "target": "weak oversight",
+    "co_occurrence": 3,
+    "pmi": 3.6935
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "weak oversight",
+    "co_occurrence": 3,
+    "pmi": 3.6935
+  },
+  {
+    "source": "propaganda",
+    "target": "silencing criticism",
+    "co_occurrence": 3,
+    "pmi": 3.5236
+  },
+  {
+    "source": "course architecture",
+    "target": "pedagogical methods",
+    "co_occurrence": 3,
+    "pmi": 3.5236
+  },
+  {
+    "source": "authoritarianism",
+    "target": "populism",
+    "co_occurrence": 4,
+    "pmi": 3.4647
+  },
+  {
+    "source": "affirmative action",
+    "target": "discrimination",
+    "co_occurrence": 3,
+    "pmi": 3.3716
+  },
+  {
+    "source": "discrimination",
+    "target": "racism",
+    "co_occurrence": 3,
+    "pmi": 3.3716
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "pmi": 3.3716
+  },
+  {
+    "source": "democracy",
+    "target": "political repression",
+    "co_occurrence": 3,
+    "pmi": 3.3716
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "political repression",
+    "co_occurrence": 3,
+    "pmi": 3.3716
+  },
+  {
+    "source": "international cohorts",
+    "target": "quantitative research",
+    "co_occurrence": 3,
+    "pmi": 3.3716
+  },
+  {
+    "source": "AI assisted process",
+    "target": "edtech",
+    "co_occurrence": 4,
+    "pmi": 3.3012
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "edtech",
+    "co_occurrence": 4,
+    "pmi": 3.3012
+  },
+  {
+    "source": "edtech",
+    "target": "generative AI",
+    "co_occurrence": 4,
+    "pmi": 3.3012
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "weak oversight",
+    "co_occurrence": 4,
+    "pmi": 3.3012
+  },
+  {
+    "source": "high-impact research",
+    "target": "quantitative research",
+    "co_occurrence": 4,
+    "pmi": 3.2016
+  },
+  {
+    "source": "peer review",
+    "target": "silencing criticism",
+    "co_occurrence": 3,
+    "pmi": 3.1085
+  },
+  {
+    "source": "student satisfaction",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 3.1085
+  },
+  {
+    "source": "democracy",
+    "target": "legitimacy crisis",
+    "co_occurrence": 3,
+    "pmi": 3.1085
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "legitimacy crisis",
+    "co_occurrence": 3,
+    "pmi": 3.1085
+  },
+  {
+    "source": "publication pressure",
+    "target": "silencing criticism",
+    "co_occurrence": 3,
+    "pmi": 3.1085
+  },
+  {
+    "source": "course architecture",
+    "target": "instructional practice",
+    "co_occurrence": 3,
+    "pmi": 3.1085
+  },
+  {
+    "source": "instructional practice",
+    "target": "pedagogical methods",
+    "co_occurrence": 6,
+    "pmi": 3.1085
+  },
+  {
+    "source": "incompetence",
+    "target": "theoretical research",
+    "co_occurrence": 3,
+    "pmi": 3.1085
+  },
+  {
+    "source": "theoretical research",
+    "target": "thought independence",
+    "co_occurrence": 3,
+    "pmi": 3.1085
+  },
+  {
+    "source": "high-impact research",
+    "target": "international cohorts",
+    "co_occurrence": 3,
+    "pmi": 3.1085
+  },
+  {
+    "source": "international cohorts",
+    "target": "silencing criticism",
+    "co_occurrence": 3,
+    "pmi": 3.1085
+  },
+  {
+    "source": "freedom of speech",
+    "target": "political repression",
+    "co_occurrence": 3,
+    "pmi": 3.0496
+  },
+  {
+    "source": "authoritarianism",
+    "target": "political repression",
+    "co_occurrence": 3,
+    "pmi": 3.0496
+  },
+  {
+    "source": "political repression",
+    "target": "populism",
+    "co_occurrence": 3,
+    "pmi": 3.0496
+  },
+  {
+    "source": "quantitative research",
+    "target": "scientific expertise",
+    "co_occurrence": 3,
+    "pmi": 3.0496
+  },
+  {
+    "source": "organisational structure",
+    "target": "university leadership",
+    "co_occurrence": 3,
+    "pmi": 2.9386
+  },
+  {
+    "source": "austerity",
+    "target": "bureaucratic obstruction",
+    "co_occurrence": 3,
+    "pmi": 2.8861
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "opportunistic growth",
+    "co_occurrence": 3,
+    "pmi": 2.8861
+  },
+  {
+    "source": "participatory instruction",
+    "target": "undergraduate pathway",
+    "co_occurrence": 6,
+    "pmi": 2.7866
+  },
+  {
+    "source": "student wellbeing",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 2.7866
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "political repression",
+    "co_occurrence": 3,
+    "pmi": 2.7866
+  },
+  {
+    "source": "authoritarianism",
+    "target": "legitimacy crisis",
+    "co_occurrence": 3,
+    "pmi": 2.7866
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "populism",
+    "co_occurrence": 3,
+    "pmi": 2.7866
+  },
+  {
+    "source": "faculty workload",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 2.7866
+  },
+  {
+    "source": "course architecture",
+    "target": "participatory instruction",
+    "co_occurrence": 3,
+    "pmi": 2.7866
+  },
+  {
+    "source": "participatory instruction",
+    "target": "pedagogical methods",
+    "co_occurrence": 6,
+    "pmi": 2.7866
+  },
+  {
+    "source": "scientific expertise",
+    "target": "theoretical research",
+    "co_occurrence": 4,
+    "pmi": 2.7866
+  },
+  {
+    "source": "laboratories",
+    "target": "research collaboration",
+    "co_occurrence": 3,
+    "pmi": 2.7866
+  },
+  {
+    "source": "quantitative research",
+    "target": "research collaboration",
+    "co_occurrence": 5,
+    "pmi": 2.7866
+  },
+  {
+    "source": "quantitative research",
+    "target": "theoretical research",
+    "co_occurrence": 4,
+    "pmi": 2.7866
+  },
+  {
+    "source": "international cohorts",
+    "target": "research collaboration",
+    "co_occurrence": 4,
+    "pmi": 2.7866
+  },
+  {
+    "source": "international cohorts",
+    "target": "scholarly funding",
+    "co_occurrence": 4,
+    "pmi": 2.7866
+  },
+  {
+    "source": "quantitative research",
+    "target": "silencing criticism",
+    "co_occurrence": 3,
+    "pmi": 2.7866
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "legitimacy crisis",
+    "co_occurrence": 4,
+    "pmi": 2.7162
+  },
+  {
+    "source": "scholarships",
+    "target": "selective admissions",
+    "co_occurrence": 4,
+    "pmi": 2.7162
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "theoretical research",
+    "co_occurrence": 6,
+    "pmi": 2.6935
+  },
+  {
+    "source": "college admissions",
+    "target": "student satisfaction",
+    "co_occurrence": 3,
+    "pmi": 2.6935
+  },
+  {
+    "source": "AI assisted process",
+    "target": "intellectual autonomy",
+    "co_occurrence": 3,
+    "pmi": 2.6935
+  },
+  {
+    "source": "AI assisted process",
+    "target": "theoretical research",
+    "co_occurrence": 3,
+    "pmi": 2.6935
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "intellectual autonomy",
+    "co_occurrence": 3,
+    "pmi": 2.6935
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "theoretical research",
+    "co_occurrence": 3,
+    "pmi": 2.6935
+  },
+  {
+    "source": "generative AI",
+    "target": "intellectual autonomy",
+    "co_occurrence": 3,
+    "pmi": 2.6935
+  },
+  {
+    "source": "generative AI",
+    "target": "theoretical research",
+    "co_occurrence": 3,
+    "pmi": 2.6935
+  },
+  {
+    "source": "international cohorts",
+    "target": "theoretical research",
+    "co_occurrence": 3,
+    "pmi": 2.6935
+  },
+  {
+    "source": "doctoral qualification",
+    "target": "postgraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 2.6491
+  },
+  {
+    "source": "course architecture",
+    "target": "postgraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 2.6491
+  },
+  {
+    "source": "degree pathway",
+    "target": "postgraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 2.6491
+  },
+  {
+    "source": "empirical research",
+    "target": "incompetence",
+    "co_occurrence": 3,
+    "pmi": 2.6491
+  },
+  {
+    "source": "empirical research",
+    "target": "laboratories",
+    "co_occurrence": 3,
+    "pmi": 2.6491
+  },
+  {
+    "source": "empirical research",
+    "target": "quantitative research",
+    "co_occurrence": 5,
+    "pmi": 2.6491
+  },
+  {
+    "source": "empirical research",
+    "target": "thought independence",
+    "co_occurrence": 3,
+    "pmi": 2.6491
+  },
+  {
+    "source": "bachelor qualification",
+    "target": "postgraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 2.6491
+  },
+  {
+    "source": "empirical research",
+    "target": "international cohorts",
+    "co_occurrence": 4,
+    "pmi": 2.6491
+  },
+  {
+    "source": "freedom of speech",
+    "target": "suppressing dissent",
+    "co_occurrence": 4,
+    "pmi": 2.6167
+  },
+  {
+    "source": "political repression",
+    "target": "suppressing dissent",
+    "co_occurrence": 4,
+    "pmi": 2.6167
+  },
+  {
+    "source": "instructional practice",
+    "target": "participatory instruction",
+    "co_occurrence": 7,
+    "pmi": 2.594
+  },
+  {
+    "source": "high-impact research",
+    "target": "research collaboration",
+    "co_occurrence": 5,
+    "pmi": 2.5236
+  },
+  {
+    "source": "high-impact research",
+    "target": "scholarly funding",
+    "co_occurrence": 5,
+    "pmi": 2.5236
+  },
+  {
+    "source": "student retention",
+    "target": "tuition affordability",
+    "co_occurrence": 4,
+    "pmi": 2.5236
+  },
+  {
+    "source": "college admissions",
+    "target": "selective admissions",
+    "co_occurrence": 4,
+    "pmi": 2.5236
+  },
+  {
+    "source": "college admissions",
+    "target": "student retention",
+    "co_occurrence": 4,
+    "pmi": 2.5236
+  },
+  {
+    "source": "student retention",
+    "target": "tuition",
+    "co_occurrence": 4,
+    "pmi": 2.5236
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "silencing criticism",
+    "co_occurrence": 3,
+    "pmi": 2.5236
+  },
+  {
+    "source": "instructional excellence",
+    "target": "instructional practice",
+    "co_occurrence": 8,
+    "pmi": 2.5236
+  },
+  {
+    "source": "course architecture",
+    "target": "curricular design",
+    "co_occurrence": 3,
+    "pmi": 2.5236
+  },
+  {
+    "source": "course architecture",
+    "target": "instructional excellence",
+    "co_occurrence": 3,
+    "pmi": 2.5236
+  },
+  {
+    "source": "instructional excellence",
+    "target": "pedagogical methods",
+    "co_occurrence": 6,
+    "pmi": 2.5236
+  },
+  {
+    "source": "high-impact research",
+    "target": "silencing criticism",
+    "co_occurrence": 3,
+    "pmi": 2.5236
+  },
+  {
+    "source": "high-impact research",
+    "target": "theoretical research",
+    "co_occurrence": 4,
+    "pmi": 2.5236
+  },
+  {
+    "source": "selective admissions",
+    "target": "student retention",
+    "co_occurrence": 3,
+    "pmi": 2.5236
+  },
+  {
+    "source": "research collaboration",
+    "target": "scientific expertise",
+    "co_occurrence": 4,
+    "pmi": 2.4647
+  },
+  {
+    "source": "quantitative research",
+    "target": "scholarly funding",
+    "co_occurrence": 4,
+    "pmi": 2.4647
+  },
+  {
+    "source": "college admissions",
+    "target": "tuition",
+    "co_occurrence": 5,
+    "pmi": 2.4305
+  },
+  {
+    "source": "university administrators",
+    "target": "university leadership",
+    "co_occurrence": 9,
+    "pmi": 2.4081
+  },
+  {
+    "source": "classroom methods",
+    "target": "course architecture",
+    "co_occurrence": 3,
+    "pmi": 2.4081
+  },
+  {
+    "source": "classroom methods",
+    "target": "pedagogical methods",
+    "co_occurrence": 6,
+    "pmi": 2.4081
+  },
+  {
+    "source": "degree pathway",
+    "target": "research productivity",
+    "co_occurrence": 3,
+    "pmi": 2.4081
+  },
+  {
+    "source": "incompetence",
+    "target": "research productivity",
+    "co_occurrence": 3,
+    "pmi": 2.4081
+  },
+  {
+    "source": "quantitative research",
+    "target": "research productivity",
+    "co_occurrence": 5,
+    "pmi": 2.4081
+  },
+  {
+    "source": "research productivity",
+    "target": "thought independence",
+    "co_occurrence": 3,
+    "pmi": 2.4081
+  },
+  {
+    "source": "organisational structure",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "pmi": 2.4081
+  },
+  {
+    "source": "austerity",
+    "target": "research productivity",
+    "co_occurrence": 4,
+    "pmi": 2.4081
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "research productivity",
+    "co_occurrence": 4,
+    "pmi": 2.4081
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "undergraduate pathway",
+    "co_occurrence": 5,
+    "pmi": 2.3861
+  },
+  {
+    "source": "empirical research",
+    "target": "high-impact research",
+    "co_occurrence": 5,
+    "pmi": 2.3861
+  },
+  {
+    "source": "peer review",
+    "target": "research collaboration",
+    "co_occurrence": 3,
+    "pmi": 2.3716
+  },
+  {
+    "source": "peer review",
+    "target": "scholarly funding",
+    "co_occurrence": 3,
+    "pmi": 2.3716
+  },
+  {
+    "source": "college admissions",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "pmi": 2.3716
+  },
+  {
+    "source": "course evaluation",
+    "target": "student satisfaction",
+    "co_occurrence": 3,
+    "pmi": 2.3716
+  },
+  {
+    "source": "course evaluation",
+    "target": "tuition",
+    "co_occurrence": 6,
+    "pmi": 2.3716
+  },
+  {
+    "source": "participatory instruction",
+    "target": "student satisfaction",
+    "co_occurrence": 3,
+    "pmi": 2.3716
+  },
+  {
+    "source": "course evaluation",
+    "target": "curricular design",
+    "co_occurrence": 9,
+    "pmi": 2.3716
+  },
+  {
+    "source": "course evaluation",
+    "target": "instructional practice",
+    "co_occurrence": 6,
+    "pmi": 2.3716
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "scientific expertise",
+    "co_occurrence": 3,
+    "pmi": 2.3716
+  },
+  {
+    "source": "authoritarianism",
+    "target": "theoretical research",
+    "co_occurrence": 3,
+    "pmi": 2.3716
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "suppressing dissent",
+    "co_occurrence": 4,
+    "pmi": 2.3536
+  },
+  {
+    "source": "curricular design",
+    "target": "instructional practice",
+    "co_occurrence": 7,
+    "pmi": 2.3309
+  },
+  {
+    "source": "faculty workload",
+    "target": "postgraduate pathway",
+    "co_occurrence": 4,
+    "pmi": 2.3272
+  },
+  {
+    "source": "college admissions",
+    "target": "scholarships",
+    "co_occurrence": 4,
+    "pmi": 2.3012
+  },
+  {
+    "source": "course evaluation",
+    "target": "scholarships",
+    "co_occurrence": 5,
+    "pmi": 2.3012
+  },
+  {
+    "source": "scholarships",
+    "target": "student retention",
+    "co_occurrence": 3,
+    "pmi": 2.3012
+  },
+  {
+    "source": "scholarships",
+    "target": "tuition",
+    "co_occurrence": 4,
+    "pmi": 2.3012
+  },
+  {
+    "source": "course architecture",
+    "target": "systemic education failure",
+    "co_occurrence": 3,
+    "pmi": 2.3012
+  },
+  {
+    "source": "austerity",
+    "target": "systemic education failure",
+    "co_occurrence": 4,
+    "pmi": 2.3012
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "systemic education failure",
+    "co_occurrence": 4,
+    "pmi": 2.3012
+  },
+  {
+    "source": "systemic education failure",
+    "target": "weak oversight",
+    "co_occurrence": 4,
+    "pmi": 2.3012
+  },
+  {
+    "source": "curricular design",
+    "target": "undergraduate pathway",
+    "co_occurrence": 5,
+    "pmi": 2.2605
+  },
+  {
+    "source": "curricular design",
+    "target": "instructional excellence",
+    "co_occurrence": 10,
+    "pmi": 2.2605
+  },
+  {
+    "source": "curricular design",
+    "target": "selective admissions",
+    "co_occurrence": 5,
+    "pmi": 2.2605
+  },
+  {
+    "source": "curricular design",
+    "target": "pedagogical methods",
+    "co_occurrence": 5,
+    "pmi": 2.2605
+  },
+  {
+    "source": "empirical research",
+    "target": "theoretical research",
+    "co_occurrence": 6,
+    "pmi": 2.2341
+  },
+  {
+    "source": "austerity",
+    "target": "empirical research",
+    "co_occurrence": 3,
+    "pmi": 2.2341
+  },
+  {
+    "source": "empirical research",
+    "target": "opportunistic growth",
+    "co_occurrence": 3,
+    "pmi": 2.2341
+  },
+  {
+    "source": "empirical research",
+    "target": "weak oversight",
+    "co_occurrence": 3,
+    "pmi": 2.2341
+  },
+  {
+    "source": "empirical research",
+    "target": "qualitative research",
+    "co_occurrence": 3,
+    "pmi": 2.2341
+  },
+  {
+    "source": "classroom methods",
+    "target": "instructional practice",
+    "co_occurrence": 7,
+    "pmi": 2.2154
+  },
+  {
+    "source": "university bylaws",
+    "target": "university leadership",
+    "co_occurrence": 6,
+    "pmi": 2.2016
+  },
+  {
+    "source": "scholarly funding",
+    "target": "silencing criticism",
+    "co_occurrence": 4,
+    "pmi": 2.2016
+  },
+  {
+    "source": "course evaluation",
+    "target": "student retention",
+    "co_occurrence": 4,
+    "pmi": 2.2016
+  },
+  {
+    "source": "curricular design",
+    "target": "participatory instruction",
+    "co_occurrence": 8,
+    "pmi": 2.2016
+  },
+  {
+    "source": "course evaluation",
+    "target": "instructional excellence",
+    "co_occurrence": 8,
+    "pmi": 2.2016
+  },
+  {
+    "source": "course evaluation",
+    "target": "selective admissions",
+    "co_occurrence": 4,
+    "pmi": 2.2016
+  },
+  {
+    "source": "instructional excellence",
+    "target": "participatory instruction",
+    "co_occurrence": 8,
+    "pmi": 2.2016
+  },
+  {
+    "source": "course evaluation",
+    "target": "pedagogical methods",
+    "co_occurrence": 4,
+    "pmi": 2.2016
+  },
+  {
+    "source": "incompetence",
+    "target": "politicisation of science",
+    "co_occurrence": 3,
+    "pmi": 2.2016
+  },
+  {
+    "source": "laboratories",
+    "target": "politicisation of science",
+    "co_occurrence": 3,
+    "pmi": 2.2016
+  },
+  {
+    "source": "politicisation of science",
+    "target": "quantitative research",
+    "co_occurrence": 5,
+    "pmi": 2.2016
+  },
+  {
+    "source": "politicisation of science",
+    "target": "thought independence",
+    "co_occurrence": 3,
+    "pmi": 2.2016
+  },
+  {
+    "source": "politicisation of science",
+    "target": "weak oversight",
+    "co_occurrence": 4,
+    "pmi": 2.2016
+  },
+  {
+    "source": "international cohorts",
+    "target": "politicisation of science",
+    "co_occurrence": 4,
+    "pmi": 2.2016
+  },
+  {
+    "source": "geopolitics",
+    "target": "politicisation of science",
+    "co_occurrence": 3,
+    "pmi": 2.2016
+  },
+  {
+    "source": "high-impact research",
+    "target": "research productivity",
+    "co_occurrence": 5,
+    "pmi": 2.1451
+  },
+  {
+    "source": "participatory instruction",
+    "target": "postgraduate pathway",
+    "co_occurrence": 7,
+    "pmi": 2.1345
+  },
+  {
+    "source": "educational decline",
+    "target": "over-enrollment",
+    "co_occurrence": 3,
+    "pmi": 2.1085
+  },
+  {
+    "source": "student life",
+    "target": "student satisfaction",
+    "co_occurrence": 4,
+    "pmi": 2.1085
+  },
+  {
+    "source": "curricular design",
+    "target": "student satisfaction",
+    "co_occurrence": 3,
+    "pmi": 2.1085
+  },
+  {
+    "source": "instructional practice",
+    "target": "intellectual autonomy",
+    "co_occurrence": 4,
+    "pmi": 2.1085
+  },
+  {
+    "source": "instructional practice",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 2.1085
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "pedagogical methods",
+    "co_occurrence": 3,
+    "pmi": 2.1085
+  },
+  {
+    "source": "research collaboration",
+    "target": "theoretical research",
+    "co_occurrence": 5,
+    "pmi": 2.1085
+  },
+  {
+    "source": "silencing criticism",
+    "target": "theoretical research",
+    "co_occurrence": 3,
+    "pmi": 2.1085
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "theoretical research",
+    "co_occurrence": 3,
+    "pmi": 2.1085
+  },
+  {
+    "source": "research collaboration",
+    "target": "research productivity",
+    "co_occurrence": 8,
+    "pmi": 2.0862
+  },
+  {
+    "source": "research productivity",
+    "target": "scientific expertise",
+    "co_occurrence": 4,
+    "pmi": 2.0862
+  },
+  {
+    "source": "pedagogical methods",
+    "target": "postgraduate pathway",
+    "co_occurrence": 4,
+    "pmi": 2.0641
+  },
+  {
+    "source": "empirical research",
+    "target": "politicisation of science",
+    "co_occurrence": 10,
+    "pmi": 2.0641
+  },
+  {
+    "source": "research collaboration",
+    "target": "scholarly funding",
+    "co_occurrence": 6,
+    "pmi": 2.0496
+  },
+  {
+    "source": "course evaluation",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "pmi": 2.0496
+  },
+  {
+    "source": "participatory instruction",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "pmi": 2.0496
+  },
+  {
+    "source": "faculty workload",
+    "target": "participatory instruction",
+    "co_occurrence": 3,
+    "pmi": 2.0496
+  },
+  {
+    "source": "curricular design",
+    "target": "scholarships",
+    "co_occurrence": 5,
+    "pmi": 2.0381
+  },
+  {
+    "source": "pedagogical methods",
+    "target": "systemic education failure",
+    "co_occurrence": 5,
+    "pmi": 2.0381
+  },
+  {
+    "source": "academic collapse",
+    "target": "over-enrollment",
+    "co_occurrence": 3,
+    "pmi": 2.0211
+  },
+  {
+    "source": "academic collapse",
+    "target": "programme massification",
+    "co_occurrence": 3,
+    "pmi": 2.0211
+  },
+  {
+    "source": "academic collapse",
+    "target": "austerity",
+    "co_occurrence": 4,
+    "pmi": 2.0211
+  },
+  {
+    "source": "academic collapse",
+    "target": "opportunistic growth",
+    "co_occurrence": 4,
+    "pmi": 2.0211
+  },
+  {
+    "source": "politicisation of science",
+    "target": "theoretical research",
+    "co_occurrence": 7,
+    "pmi": 2.009
+  },
+  {
+    "source": "school budgets",
+    "target": "tuition affordability",
+    "co_occurrence": 6,
+    "pmi": 1.993
+  },
+  {
+    "source": "research productivity",
+    "target": "theoretical research",
+    "co_occurrence": 6,
+    "pmi": 1.993
+  },
+  {
+    "source": "research productivity",
+    "target": "weak oversight",
+    "co_occurrence": 3,
+    "pmi": 1.993
+  },
+  {
+    "source": "international cohorts",
+    "target": "research productivity",
+    "co_occurrence": 3,
+    "pmi": 1.993
+  },
+  {
+    "source": "edtech",
+    "target": "research collaboration",
+    "co_occurrence": 4,
+    "pmi": 1.9792
+  },
+  {
+    "source": "instructional practice",
+    "target": "postgraduate pathway",
+    "co_occurrence": 5,
+    "pmi": 1.971
+  },
+  {
+    "source": "course evaluation",
+    "target": "student life",
+    "co_occurrence": 9,
+    "pmi": 1.9565
+  },
+  {
+    "source": "silencing criticism",
+    "target": "suppressing dissent",
+    "co_occurrence": 3,
+    "pmi": 1.9386
+  },
+  {
+    "source": "instructional excellence",
+    "target": "selective admissions",
+    "co_occurrence": 4,
+    "pmi": 1.9386
+  },
+  {
+    "source": "instructional excellence",
+    "target": "undergraduate pathway",
+    "co_occurrence": 4,
+    "pmi": 1.9386
+  },
+  {
+    "source": "high-impact research",
+    "target": "politicisation of science",
+    "co_occurrence": 5,
+    "pmi": 1.9386
+  },
+  {
+    "source": "educational decline",
+    "target": "tuition affordability",
+    "co_occurrence": 7,
+    "pmi": 1.9159
+  },
+  {
+    "source": "college admissions",
+    "target": "student life",
+    "co_occurrence": 7,
+    "pmi": 1.9159
+  },
+  {
+    "source": "student life",
+    "target": "tuition",
+    "co_occurrence": 7,
+    "pmi": 1.9159
+  },
+  {
+    "source": "freedom of speech",
+    "target": "student protest",
+    "co_occurrence": 3,
+    "pmi": 1.9121
+  },
+  {
+    "source": "political repression",
+    "target": "student protest",
+    "co_occurrence": 3,
+    "pmi": 1.9121
+  },
+  {
+    "source": "empirical research",
+    "target": "research collaboration",
+    "co_occurrence": 6,
+    "pmi": 1.9121
+  },
+  {
+    "source": "empirical research",
+    "target": "scientific expertise",
+    "co_occurrence": 3,
+    "pmi": 1.9121
+  },
+  {
+    "source": "authoritarianism",
+    "target": "empirical research",
+    "co_occurrence": 3,
+    "pmi": 1.9121
+  },
+  {
+    "source": "university administrators",
+    "target": "university bylaws",
+    "co_occurrence": 7,
+    "pmi": 1.8935
+  },
+  {
+    "source": "course evaluation",
+    "target": "school budgets",
+    "co_occurrence": 7,
+    "pmi": 1.8935
+  },
+  {
+    "source": "classroom methods",
+    "target": "participatory instruction",
+    "co_occurrence": 7,
+    "pmi": 1.8935
+  },
+  {
+    "source": "student life",
+    "target": "student voice",
+    "co_occurrence": 6,
+    "pmi": 1.8861
+  },
+  {
+    "source": "scholarships",
+    "target": "tuition affordability",
+    "co_occurrence": 3,
+    "pmi": 1.8861
+  },
+  {
+    "source": "edtech",
+    "target": "intellectual autonomy",
+    "co_occurrence": 3,
+    "pmi": 1.8861
+  },
+  {
+    "source": "edtech",
+    "target": "theoretical research",
+    "co_occurrence": 3,
+    "pmi": 1.8861
+  },
+  {
+    "source": "qualitative research",
+    "target": "systemic education failure",
+    "co_occurrence": 3,
+    "pmi": 1.8861
+  },
+  {
+    "source": "democracy",
+    "target": "systemic education failure",
+    "co_occurrence": 3,
+    "pmi": 1.8861
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "systemic education failure",
+    "co_occurrence": 3,
+    "pmi": 1.8861
+  },
+  {
+    "source": "politicisation of science",
+    "target": "populism",
+    "co_occurrence": 4,
+    "pmi": 1.8797
+  },
+  {
+    "source": "authoritarianism",
+    "target": "politicisation of science",
+    "co_occurrence": 4,
+    "pmi": 1.8797
+  },
+  {
+    "source": "curricular design",
+    "target": "postgraduate pathway",
+    "co_occurrence": 7,
+    "pmi": 1.8715
+  },
+  {
+    "source": "instructional excellence",
+    "target": "postgraduate pathway",
+    "co_occurrence": 7,
+    "pmi": 1.8715
+  },
+  {
+    "source": "educational decline",
+    "target": "school budgets",
+    "co_occurrence": 11,
+    "pmi": 1.8675
+  },
+  {
+    "source": "educational decline",
+    "target": "student retention",
+    "co_occurrence": 5,
+    "pmi": 1.8455
+  },
+  {
+    "source": "student life",
+    "target": "student retention",
+    "co_occurrence": 5,
+    "pmi": 1.8455
+  },
+  {
+    "source": "curricular design",
+    "target": "student life",
+    "co_occurrence": 10,
+    "pmi": 1.8455
+  },
+  {
+    "source": "student life",
+    "target": "undergraduate pathway",
+    "co_occurrence": 5,
+    "pmi": 1.8455
+  },
+  {
+    "source": "selective admissions",
+    "target": "student life",
+    "co_occurrence": 5,
+    "pmi": 1.8455
+  },
+  {
+    "source": "curricular design",
+    "target": "tuition",
+    "co_occurrence": 5,
+    "pmi": 1.8455
+  },
+  {
+    "source": "school budgets",
+    "target": "student retention",
+    "co_occurrence": 4,
+    "pmi": 1.8231
+  },
+  {
+    "source": "classroom methods",
+    "target": "curricular design",
+    "co_occurrence": 8,
+    "pmi": 1.8231
+  },
+  {
+    "source": "classroom methods",
+    "target": "instructional excellence",
+    "co_occurrence": 8,
+    "pmi": 1.8231
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "systemic education failure",
+    "co_occurrence": 5,
+    "pmi": 1.8157
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "scholarly funding",
+    "co_occurrence": 3,
+    "pmi": 1.7866
+  },
+  {
+    "source": "college admissions",
+    "target": "course evaluation",
+    "co_occurrence": 4,
+    "pmi": 1.7866
+  },
+  {
+    "source": "student life",
+    "target": "student wellbeing",
+    "co_occurrence": 4,
+    "pmi": 1.7866
+  },
+  {
+    "source": "curricular design",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "pmi": 1.7866
+  },
+  {
+    "source": "course evaluation",
+    "target": "participatory instruction",
+    "co_occurrence": 5,
+    "pmi": 1.7866
+  },
+  {
+    "source": "course evaluation",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 1.7866
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "participatory instruction",
+    "co_occurrence": 4,
+    "pmi": 1.7866
+  },
+  {
+    "source": "participatory instruction",
+    "target": "selective admissions",
+    "co_occurrence": 3,
+    "pmi": 1.7866
+  },
+  {
+    "source": "austerity",
+    "target": "politicisation of science",
+    "co_occurrence": 3,
+    "pmi": 1.7866
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "politicisation of science",
+    "co_occurrence": 3,
+    "pmi": 1.7866
+  },
+  {
+    "source": "politicisation of science",
+    "target": "qualitative research",
+    "co_occurrence": 3,
+    "pmi": 1.7866
+  },
+  {
+    "source": "research collaboration",
+    "target": "silencing criticism",
+    "co_occurrence": 3,
+    "pmi": 1.7866
+  },
+  {
+    "source": "democracy",
+    "target": "politicisation of science",
+    "co_occurrence": 3,
+    "pmi": 1.7866
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "politicisation of science",
+    "co_occurrence": 3,
+    "pmi": 1.7866
+  },
+  {
+    "source": "classroom methods",
+    "target": "systemic education failure",
+    "co_occurrence": 9,
+    "pmi": 1.7707
+  },
+  {
+    "source": "empirical research",
+    "target": "research productivity",
+    "co_occurrence": 7,
+    "pmi": 1.756
+  },
+  {
+    "source": "school budgets",
+    "target": "tuition",
+    "co_occurrence": 5,
+    "pmi": 1.73
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "research productivity",
+    "co_occurrence": 5,
+    "pmi": 1.73
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "politicisation of science",
+    "co_occurrence": 5,
+    "pmi": 1.7162
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "university leadership",
+    "co_occurrence": 3,
+    "pmi": 1.7162
+  },
+  {
+    "source": "scholarships",
+    "target": "student engagement",
+    "co_occurrence": 7,
+    "pmi": 1.7162
+  },
+  {
+    "source": "course evaluation",
+    "target": "student engagement",
+    "co_occurrence": 10,
+    "pmi": 1.7162
+  },
+  {
+    "source": "student engagement",
+    "target": "student satisfaction",
+    "co_occurrence": 4,
+    "pmi": 1.7162
+  },
+  {
+    "source": "student engagement",
+    "target": "tuition",
+    "co_occurrence": 8,
+    "pmi": 1.7162
+  },
+  {
+    "source": "curricular design",
+    "target": "student engagement",
+    "co_occurrence": 12,
+    "pmi": 1.7162
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "suppressing dissent",
+    "co_occurrence": 3,
+    "pmi": 1.7162
+  },
+  {
+    "source": "instructional excellence",
+    "target": "scholarships",
+    "co_occurrence": 4,
+    "pmi": 1.7162
+  },
+  {
+    "source": "course architecture",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "pmi": 1.7162
+  },
+  {
+    "source": "classroom methods",
+    "target": "school budgets",
+    "co_occurrence": 8,
+    "pmi": 1.7076
+  },
+  {
+    "source": "college admissions",
+    "target": "tuition affordability",
+    "co_occurrence": 3,
+    "pmi": 1.6935
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student life",
+    "co_occurrence": 3,
+    "pmi": 1.6935
+  },
+  {
+    "source": "tuition",
+    "target": "tuition affordability",
+    "co_occurrence": 3,
+    "pmi": 1.6935
+  },
+  {
+    "source": "austerity",
+    "target": "educational decline",
+    "co_occurrence": 3,
+    "pmi": 1.6935
+  },
+  {
+    "source": "educational decline",
+    "target": "opportunistic growth",
+    "co_occurrence": 3,
+    "pmi": 1.6935
+  },
+  {
+    "source": "educational decline",
+    "target": "weak oversight",
+    "co_occurrence": 3,
+    "pmi": 1.6935
+  },
+  {
+    "source": "classroom methods",
+    "target": "course evaluation",
+    "co_occurrence": 6,
+    "pmi": 1.6711
+  },
+  {
+    "source": "college admissions",
+    "target": "student protest",
+    "co_occurrence": 4,
+    "pmi": 1.6491
+  },
+  {
+    "source": "course evaluation",
+    "target": "postgraduate pathway",
+    "co_occurrence": 5,
+    "pmi": 1.6491
+  },
+  {
+    "source": "instructional practice",
+    "target": "pedagogical innovation",
+    "co_occurrence": 8,
+    "pmi": 1.6491
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "course architecture",
+    "co_occurrence": 3,
+    "pmi": 1.6491
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "pedagogical methods",
+    "co_occurrence": 6,
+    "pmi": 1.6491
+  },
+  {
+    "source": "course architecture",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "pmi": 1.6491
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "pedagogical methods",
+    "co_occurrence": 6,
+    "pmi": 1.6491
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "incompetence",
+    "co_occurrence": 3,
+    "pmi": 1.6491
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "thought independence",
+    "co_occurrence": 3,
+    "pmi": 1.6491
+  },
+  {
+    "source": "empirical research",
+    "target": "intellectual autonomy",
+    "co_occurrence": 4,
+    "pmi": 1.6491
+  },
+  {
+    "source": "incompetence",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "pmi": 1.6491
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "thought independence",
+    "co_occurrence": 3,
+    "pmi": 1.6491
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "programme massification",
+    "co_occurrence": 3,
+    "pmi": 1.6491
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "programme massification",
+    "co_occurrence": 3,
+    "pmi": 1.6491
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "austerity",
+    "co_occurrence": 4,
+    "pmi": 1.6491
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "opportunistic growth",
+    "co_occurrence": 4,
+    "pmi": 1.6491
+  },
+  {
+    "source": "austerity",
+    "target": "pedagogical innovation",
+    "co_occurrence": 4,
+    "pmi": 1.6491
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "pedagogical innovation",
+    "co_occurrence": 4,
+    "pmi": 1.6491
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "weak oversight",
+    "co_occurrence": 4,
+    "pmi": 1.6491
+  },
+  {
+    "source": "empirical research",
+    "target": "scholarly funding",
+    "co_occurrence": 5,
+    "pmi": 1.6491
+  },
+  {
+    "source": "empirical research",
+    "target": "silencing criticism",
+    "co_occurrence": 3,
+    "pmi": 1.6491
+  },
+  {
+    "source": "empirical research",
+    "target": "legitimacy crisis",
+    "co_occurrence": 3,
+    "pmi": 1.6491
+  },
+  {
+    "source": "educational decline",
+    "target": "systemic education failure",
+    "co_occurrence": 10,
+    "pmi": 1.6231
+  },
+  {
+    "source": "scholarships",
+    "target": "student life",
+    "co_occurrence": 5,
+    "pmi": 1.6231
+  },
+  {
+    "source": "instructional practice",
+    "target": "systemic education failure",
+    "co_occurrence": 5,
+    "pmi": 1.6231
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "politicisation of science",
+    "co_occurrence": 4,
+    "pmi": 1.6167
+  },
+  {
+    "source": "academic collapse",
+    "target": "educational decline",
+    "co_occurrence": 12,
+    "pmi": 1.606
+  },
+  {
+    "source": "academic collapse",
+    "target": "weak oversight",
+    "co_occurrence": 3,
+    "pmi": 1.606
+  },
+  {
+    "source": "academic collapse",
+    "target": "qualitative research",
+    "co_occurrence": 3,
+    "pmi": 1.606
+  },
+  {
+    "source": "academic collapse",
+    "target": "democracy",
+    "co_occurrence": 3,
+    "pmi": 1.606
+  },
+  {
+    "source": "academic collapse",
+    "target": "illiberal democracy",
+    "co_occurrence": 3,
+    "pmi": 1.606
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "university administrators",
+    "co_occurrence": 4,
+    "pmi": 1.6007
+  },
+  {
+    "source": "scholarships",
+    "target": "school budgets",
+    "co_occurrence": 4,
+    "pmi": 1.6007
+  },
+  {
+    "source": "course evaluation",
+    "target": "educational decline",
+    "co_occurrence": 7,
+    "pmi": 1.594
+  },
+  {
+    "source": "participatory instruction",
+    "target": "student life",
+    "co_occurrence": 7,
+    "pmi": 1.594
+  },
+  {
+    "source": "educational decline",
+    "target": "educational instability",
+    "co_occurrence": 16,
+    "pmi": 1.585
+  },
+  {
+    "source": "decline of academia",
+    "target": "over-enrollment",
+    "co_occurrence": 3,
+    "pmi": 1.585
+  },
+  {
+    "source": "educational instability",
+    "target": "over-enrollment",
+    "co_occurrence": 3,
+    "pmi": 1.585
+  },
+  {
+    "source": "educational instability",
+    "target": "student retention",
+    "co_occurrence": 6,
+    "pmi": 1.585
+  },
+  {
+    "source": "decline of academia",
+    "target": "programme massification",
+    "co_occurrence": 3,
+    "pmi": 1.585
+  },
+  {
+    "source": "austerity",
+    "target": "decline of academia",
+    "co_occurrence": 4,
+    "pmi": 1.585
+  },
+  {
+    "source": "austerity",
+    "target": "educational instability",
+    "co_occurrence": 4,
+    "pmi": 1.585
+  },
+  {
+    "source": "decline of academia",
+    "target": "opportunistic growth",
+    "co_occurrence": 4,
+    "pmi": 1.585
+  },
+  {
+    "source": "decline of academia",
+    "target": "weak oversight",
+    "co_occurrence": 4,
+    "pmi": 1.585
+  },
+  {
+    "source": "educational instability",
+    "target": "opportunistic growth",
+    "co_occurrence": 4,
+    "pmi": 1.585
+  },
+  {
+    "source": "educational instability",
+    "target": "weak oversight",
+    "co_occurrence": 4,
+    "pmi": 1.585
+  },
+  {
+    "source": "decline of academia",
+    "target": "international cohorts",
+    "co_occurrence": 4,
+    "pmi": 1.585
+  },
+  {
+    "source": "scholarly funding",
+    "target": "scholarships",
+    "co_occurrence": 3,
+    "pmi": 1.5642
+  },
+  {
+    "source": "course evaluation",
+    "target": "student voice",
+    "co_occurrence": 3,
+    "pmi": 1.5642
+  },
+  {
+    "source": "edtech",
+    "target": "participatory instruction",
+    "co_occurrence": 3,
+    "pmi": 1.5642
+  },
+  {
+    "source": "participatory instruction",
+    "target": "student voice",
+    "co_occurrence": 3,
+    "pmi": 1.5642
+  },
+  {
+    "source": "authoritarianism",
+    "target": "systemic education failure",
+    "co_occurrence": 3,
+    "pmi": 1.5642
+  },
+  {
+    "source": "populism",
+    "target": "systemic education failure",
+    "co_occurrence": 3,
+    "pmi": 1.5642
+  },
+  {
+    "source": "academic collapse",
+    "target": "systemic education failure",
+    "co_occurrence": 10,
+    "pmi": 1.5356
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "politicisation of science",
+    "co_occurrence": 5,
+    "pmi": 1.5236
+  },
+  {
+    "source": "student engagement",
+    "target": "student life",
+    "co_occurrence": 14,
+    "pmi": 1.5236
+  },
+  {
+    "source": "college admissions",
+    "target": "student engagement",
+    "co_occurrence": 7,
+    "pmi": 1.5236
+  },
+  {
+    "source": "college admissions",
+    "target": "curricular design",
+    "co_occurrence": 4,
+    "pmi": 1.5236
+  },
+  {
+    "source": "instructional excellence",
+    "target": "intellectual autonomy",
+    "co_occurrence": 4,
+    "pmi": 1.5236
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student life",
+    "co_occurrence": 8,
+    "pmi": 1.5236
+  },
+  {
+    "source": "instructional practice",
+    "target": "student engagement",
+    "co_occurrence": 7,
+    "pmi": 1.5236
+  },
+  {
+    "source": "instructional excellence",
+    "target": "tuition",
+    "co_occurrence": 4,
+    "pmi": 1.5236
+  },
+  {
+    "source": "pedagogical methods",
+    "target": "student life",
+    "co_occurrence": 4,
+    "pmi": 1.5236
+  },
+  {
+    "source": "curricular design",
+    "target": "student retention",
+    "co_occurrence": 3,
+    "pmi": 1.5236
+  },
+  {
+    "source": "student engagement",
+    "target": "student voice",
+    "co_occurrence": 6,
+    "pmi": 1.4938
+  },
+  {
+    "source": "student protest",
+    "target": "suppressing dissent",
+    "co_occurrence": 4,
+    "pmi": 1.4792
+  },
+  {
+    "source": "decline of academia",
+    "target": "systemic education failure",
+    "co_occurrence": 13,
+    "pmi": 1.478
+  },
+  {
+    "source": "educational instability",
+    "target": "school budgets",
+    "co_occurrence": 12,
+    "pmi": 1.4695
+  },
+  {
+    "source": "outdated education model",
+    "target": "systemic education failure",
+    "co_occurrence": 14,
+    "pmi": 1.4647
+  },
+  {
+    "source": "politicisation of science",
+    "target": "scholarly funding",
+    "co_occurrence": 6,
+    "pmi": 1.4647
+  },
+  {
+    "source": "higher education crisis",
+    "target": "over-enrollment",
+    "co_occurrence": 3,
+    "pmi": 1.4647
+  },
+  {
+    "source": "higher education crisis",
+    "target": "tuition affordability",
+    "co_occurrence": 8,
+    "pmi": 1.4647
+  },
+  {
+    "source": "higher education crisis",
+    "target": "tuition",
+    "co_occurrence": 8,
+    "pmi": 1.4647
+  },
+  {
+    "source": "course architecture",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "pmi": 1.4647
+  },
+  {
+    "source": "outdated education model",
+    "target": "pedagogical methods",
+    "co_occurrence": 6,
+    "pmi": 1.4647
+  },
+  {
+    "source": "participatory instruction",
+    "target": "research collaboration",
+    "co_occurrence": 4,
+    "pmi": 1.4647
+  },
+  {
+    "source": "incompetence",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "pmi": 1.4647
+  },
+  {
+    "source": "outdated education model",
+    "target": "thought independence",
+    "co_occurrence": 3,
+    "pmi": 1.4647
+  },
+  {
+    "source": "politicisation of science",
+    "target": "research collaboration",
+    "co_occurrence": 6,
+    "pmi": 1.4647
+  },
+  {
+    "source": "politicisation of science",
+    "target": "scientific expertise",
+    "co_occurrence": 3,
+    "pmi": 1.4647
+  },
+  {
+    "source": "outdated education model",
+    "target": "programme massification",
+    "co_occurrence": 3,
+    "pmi": 1.4647
+  },
+  {
+    "source": "austerity",
+    "target": "higher education crisis",
+    "co_occurrence": 4,
+    "pmi": 1.4647
+  },
+  {
+    "source": "austerity",
+    "target": "outdated education model",
+    "co_occurrence": 4,
+    "pmi": 1.4647
+  },
+  {
+    "source": "higher education crisis",
+    "target": "opportunistic growth",
+    "co_occurrence": 4,
+    "pmi": 1.4647
+  },
+  {
+    "source": "higher education crisis",
+    "target": "weak oversight",
+    "co_occurrence": 4,
+    "pmi": 1.4647
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "outdated education model",
+    "co_occurrence": 4,
+    "pmi": 1.4647
+  },
+  {
+    "source": "outdated education model",
+    "target": "weak oversight",
+    "co_occurrence": 4,
+    "pmi": 1.4647
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "pedagogical innovation",
+    "co_occurrence": 7,
+    "pmi": 1.4564
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "instructional practice",
+    "co_occurrence": 7,
+    "pmi": 1.4564
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "student life",
+    "co_occurrence": 7,
+    "pmi": 1.4564
+  },
+  {
+    "source": "student engagement",
+    "target": "student retention",
+    "co_occurrence": 5,
+    "pmi": 1.4532
+  },
+  {
+    "source": "student engagement",
+    "target": "undergraduate pathway",
+    "co_occurrence": 5,
+    "pmi": 1.4532
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student engagement",
+    "co_occurrence": 10,
+    "pmi": 1.4532
+  },
+  {
+    "source": "selective admissions",
+    "target": "student engagement",
+    "co_occurrence": 5,
+    "pmi": 1.4532
+  },
+  {
+    "source": "pedagogical methods",
+    "target": "student engagement",
+    "co_occurrence": 5,
+    "pmi": 1.4532
+  },
+  {
+    "source": "academic collapse",
+    "target": "legitimacy crisis",
+    "co_occurrence": 4,
+    "pmi": 1.4361
+  },
+  {
+    "source": "academic collapse",
+    "target": "student retention",
+    "co_occurrence": 4,
+    "pmi": 1.4361
+  },
+  {
+    "source": "course evaluation",
+    "target": "educational instability",
+    "co_occurrence": 9,
+    "pmi": 1.433
+  },
+  {
+    "source": "student life",
+    "target": "tuition affordability",
+    "co_occurrence": 5,
+    "pmi": 1.4305
+  },
+  {
+    "source": "educational decline",
+    "target": "tuition",
+    "co_occurrence": 5,
+    "pmi": 1.4305
+  },
+  {
+    "source": "instructional practice",
+    "target": "student life",
+    "co_occurrence": 5,
+    "pmi": 1.4305
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "systemic education failure",
+    "co_occurrence": 12,
+    "pmi": 1.4267
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "systemic education failure",
+    "co_occurrence": 12,
+    "pmi": 1.4267
+  },
+  {
+    "source": "student protest",
+    "target": "student voice",
+    "co_occurrence": 3,
+    "pmi": 1.4267
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "empirical research",
+    "co_occurrence": 3,
+    "pmi": 1.4267
+  },
+  {
+    "source": "research productivity",
+    "target": "scholarly funding",
+    "co_occurrence": 5,
+    "pmi": 1.4081
+  },
+  {
+    "source": "education crisis",
+    "target": "educational decline",
+    "co_occurrence": 16,
+    "pmi": 1.4081
+  },
+  {
+    "source": "education crisis",
+    "target": "over-enrollment",
+    "co_occurrence": 3,
+    "pmi": 1.4081
+  },
+  {
+    "source": "education crisis",
+    "target": "student retention",
+    "co_occurrence": 6,
+    "pmi": 1.4081
+  },
+  {
+    "source": "education crisis",
+    "target": "tuition affordability",
+    "co_occurrence": 8,
+    "pmi": 1.4081
+  },
+  {
+    "source": "education crisis",
+    "target": "school budgets",
+    "co_occurrence": 13,
+    "pmi": 1.4081
+  },
+  {
+    "source": "course evaluation",
+    "target": "education crisis",
+    "co_occurrence": 10,
+    "pmi": 1.4081
+  },
+  {
+    "source": "education crisis",
+    "target": "tuition",
+    "co_occurrence": 8,
+    "pmi": 1.4081
+  },
+  {
+    "source": "classroom methods",
+    "target": "pedagogical innovation",
+    "co_occurrence": 11,
+    "pmi": 1.4081
+  },
+  {
+    "source": "classroom methods",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 1.4081
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "classroom methods",
+    "co_occurrence": 11,
+    "pmi": 1.4081
+  },
+  {
+    "source": "classroom methods",
+    "target": "educational decline",
+    "co_occurrence": 8,
+    "pmi": 1.4081
+  },
+  {
+    "source": "classroom methods",
+    "target": "intellectual autonomy",
+    "co_occurrence": 4,
+    "pmi": 1.4081
+  },
+  {
+    "source": "course architecture",
+    "target": "education crisis",
+    "co_occurrence": 3,
+    "pmi": 1.4081
+  },
+  {
+    "source": "pedagogical methods",
+    "target": "research productivity",
+    "co_occurrence": 3,
+    "pmi": 1.4081
+  },
+  {
+    "source": "austerity",
+    "target": "education crisis",
+    "co_occurrence": 4,
+    "pmi": 1.4081
+  },
+  {
+    "source": "education crisis",
+    "target": "opportunistic growth",
+    "co_occurrence": 4,
+    "pmi": 1.4081
+  },
+  {
+    "source": "education crisis",
+    "target": "weak oversight",
+    "co_occurrence": 4,
+    "pmi": 1.4081
+  },
+  {
+    "source": "curricular design",
+    "target": "school budgets",
+    "co_occurrence": 6,
+    "pmi": 1.4081
+  },
+  {
+    "source": "research productivity",
+    "target": "silencing criticism",
+    "co_occurrence": 3,
+    "pmi": 1.4081
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "research productivity",
+    "co_occurrence": 3,
+    "pmi": 1.4081
+  },
+  {
+    "source": "school budgets",
+    "target": "selective admissions",
+    "co_occurrence": 3,
+    "pmi": 1.4081
+  },
+  {
+    "source": "academic collapse",
+    "target": "decline of academia",
+    "co_occurrence": 15,
+    "pmi": 1.4044
+  },
+  {
+    "source": "student engagement",
+    "target": "student wellbeing",
+    "co_occurrence": 4,
+    "pmi": 1.3943
+  },
+  {
+    "source": "participatory instruction",
+    "target": "student engagement",
+    "co_occurrence": 8,
+    "pmi": 1.3943
+  },
+  {
+    "source": "educational instability",
+    "target": "tuition affordability",
+    "co_occurrence": 7,
+    "pmi": 1.3923
+  },
+  {
+    "source": "educational instability",
+    "target": "tuition",
+    "co_occurrence": 7,
+    "pmi": 1.3923
+  },
+  {
+    "source": "instructional excellence",
+    "target": "pedagogical innovation",
+    "co_occurrence": 10,
+    "pmi": 1.3861
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "selective admissions",
+    "co_occurrence": 5,
+    "pmi": 1.3861
+  },
+  {
+    "source": "educational decline",
+    "target": "higher education crisis",
+    "co_occurrence": 15,
+    "pmi": 1.3716
+  },
+  {
+    "source": "course evaluation",
+    "target": "tuition affordability",
+    "co_occurrence": 3,
+    "pmi": 1.3716
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "research collaboration",
+    "co_occurrence": 3,
+    "pmi": 1.3716
+  },
+  {
+    "source": "scholarly funding",
+    "target": "theoretical research",
+    "co_occurrence": 3,
+    "pmi": 1.3716
+  },
+  {
+    "source": "academic collapse",
+    "target": "academic model breakdown",
+    "co_occurrence": 14,
+    "pmi": 1.369
+  },
+  {
+    "source": "educational instability",
+    "target": "systemic education failure",
+    "co_occurrence": 12,
+    "pmi": 1.3626
+  },
+  {
+    "source": "educational instability",
+    "target": "scholarships",
+    "co_occurrence": 6,
+    "pmi": 1.3626
+  },
+  {
+    "source": "higher education crisis",
+    "target": "school budgets",
+    "co_occurrence": 12,
+    "pmi": 1.3492
+  },
+  {
+    "source": "classroom methods",
+    "target": "outdated education model",
+    "co_occurrence": 12,
+    "pmi": 1.3492
+  },
+  {
+    "source": "academic collapse",
+    "target": "tuition affordability",
+    "co_occurrence": 5,
+    "pmi": 1.343
+  },
+  {
+    "source": "educational instability",
+    "target": "higher education crisis",
+    "co_occurrence": 21,
+    "pmi": 1.3334
+  },
+  {
+    "source": "student protest",
+    "target": "university bylaws",
+    "co_occurrence": 4,
+    "pmi": 1.3272
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "populism",
+    "co_occurrence": 4,
+    "pmi": 1.3272
+  },
+  {
+    "source": "participatory instruction",
+    "target": "pedagogical innovation",
+    "co_occurrence": 8,
+    "pmi": 1.3272
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "participatory instruction",
+    "co_occurrence": 8,
+    "pmi": 1.3272
+  },
+  {
+    "source": "academic collapse",
+    "target": "school budgets",
+    "co_occurrence": 8,
+    "pmi": 1.3206
+  },
+  {
+    "source": "politicisation of science",
+    "target": "research productivity",
+    "co_occurrence": 7,
+    "pmi": 1.3085
+  },
+  {
+    "source": "academic collapse",
+    "target": "educational instability",
+    "co_occurrence": 14,
+    "pmi": 1.3049
+  },
+  {
+    "source": "instructional excellence",
+    "target": "systemic education failure",
+    "co_occurrence": 6,
+    "pmi": 1.3012
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "educational decline",
+    "co_occurrence": 4,
+    "pmi": 1.3012
+  },
+  {
+    "source": "education crisis",
+    "target": "systemic education failure",
+    "co_occurrence": 13,
+    "pmi": 1.3012
+  },
+  {
+    "source": "educational decline",
+    "target": "scholarships",
+    "co_occurrence": 4,
+    "pmi": 1.3012
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "systemic education failure",
+    "co_occurrence": 3,
+    "pmi": 1.3012
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "pmi": 1.3012
+  },
+  {
+    "source": "participatory instruction",
+    "target": "systemic education failure",
+    "co_occurrence": 5,
+    "pmi": 1.3012
+  },
+  {
+    "source": "curricular design",
+    "target": "student voice",
+    "co_occurrence": 3,
+    "pmi": 1.3012
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student voice",
+    "co_occurrence": 3,
+    "pmi": 1.3012
+  },
+  {
+    "source": "education crisis",
+    "target": "higher education crisis",
+    "co_occurrence": 23,
+    "pmi": 1.2878
+  },
+  {
+    "source": "academic collapse",
+    "target": "authoritarianism",
+    "co_occurrence": 3,
+    "pmi": 1.2841
+  },
+  {
+    "source": "academic collapse",
+    "target": "populism",
+    "co_occurrence": 3,
+    "pmi": 1.2841
+  },
+  {
+    "source": "educational decline",
+    "target": "student life",
+    "co_occurrence": 9,
+    "pmi": 1.2784
+  },
+  {
+    "source": "education crisis",
+    "target": "educational instability",
+    "co_occurrence": 21,
+    "pmi": 1.2768
+  },
+  {
+    "source": "instructional practice",
+    "target": "outdated education model",
+    "co_occurrence": 7,
+    "pmi": 1.272
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "research productivity",
+    "co_occurrence": 5,
+    "pmi": 1.2706
+  },
+  {
+    "source": "educational instability",
+    "target": "populism",
+    "co_occurrence": 4,
+    "pmi": 1.263
+  },
+  {
+    "source": "outdated education model",
+    "target": "pedagogical innovation",
+    "co_occurrence": 19,
+    "pmi": 1.2532
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "higher education crisis",
+    "co_occurrence": 6,
+    "pmi": 1.2423
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "outdated education model",
+    "co_occurrence": 6,
+    "pmi": 1.2423
+  },
+  {
+    "source": "higher education crisis",
+    "target": "scholarships",
+    "co_occurrence": 6,
+    "pmi": 1.2423
+  },
+  {
+    "source": "AI assisted process",
+    "target": "academic model breakdown",
+    "co_occurrence": 3,
+    "pmi": 1.2341
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "artificial intelligence",
+    "co_occurrence": 3,
+    "pmi": 1.2341
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "generative AI",
+    "co_occurrence": 3,
+    "pmi": 1.2341
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "pmi": 1.2341
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "educational decline",
+    "co_occurrence": 12,
+    "pmi": 1.2341
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "theoretical research",
+    "co_occurrence": 6,
+    "pmi": 1.2341
+  },
+  {
+    "source": "student protest",
+    "target": "tuition",
+    "co_occurrence": 3,
+    "pmi": 1.2341
+  },
+  {
+    "source": "curricular design",
+    "target": "pedagogical innovation",
+    "co_occurrence": 9,
+    "pmi": 1.2341
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "student satisfaction",
+    "co_occurrence": 3,
+    "pmi": 1.2341
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "curricular design",
+    "co_occurrence": 9,
+    "pmi": 1.2341
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "instructional excellence",
+    "co_occurrence": 9,
+    "pmi": 1.2341
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "intellectual autonomy",
+    "co_occurrence": 6,
+    "pmi": 1.2341
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "postgraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 1.2341
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "weak oversight",
+    "co_occurrence": 3,
+    "pmi": 1.2341
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "qualitative research",
+    "co_occurrence": 3,
+    "pmi": 1.2341
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "qualitative research",
+    "co_occurrence": 3,
+    "pmi": 1.2341
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "international cohorts",
+    "co_occurrence": 3,
+    "pmi": 1.2341
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "democracy",
+    "co_occurrence": 3,
+    "pmi": 1.2341
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "illiberal democracy",
+    "co_occurrence": 3,
+    "pmi": 1.2341
+  },
+  {
+    "source": "democracy",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "pmi": 1.2341
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "pmi": 1.2341
+  },
+  {
+    "source": "outdated education model",
+    "target": "school budgets",
+    "co_occurrence": 11,
+    "pmi": 1.2237
+  },
+  {
+    "source": "education crisis",
+    "target": "student life",
+    "co_occurrence": 14,
+    "pmi": 1.2154
+  },
+  {
+    "source": "school budgets",
+    "target": "student life",
+    "co_occurrence": 7,
+    "pmi": 1.2154
+  },
+  {
+    "source": "education crisis",
+    "target": "instructional practice",
+    "co_occurrence": 7,
+    "pmi": 1.2154
+  },
+  {
+    "source": "academic collapse",
+    "target": "bureaucratic obstruction",
+    "co_occurrence": 4,
+    "pmi": 1.2137
+  },
+  {
+    "source": "instructional excellence",
+    "target": "outdated education model",
+    "co_occurrence": 10,
+    "pmi": 1.2016
+  },
+  {
+    "source": "politicisation of science",
+    "target": "systemic education failure",
+    "co_occurrence": 7,
+    "pmi": 1.2016
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student retention",
+    "co_occurrence": 5,
+    "pmi": 1.2016
+  },
+  {
+    "source": "politicisation of science",
+    "target": "silencing criticism",
+    "co_occurrence": 3,
+    "pmi": 1.2016
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "postgraduate pathway",
+    "co_occurrence": 8,
+    "pmi": 1.1897
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "postgraduate pathway",
+    "co_occurrence": 8,
+    "pmi": 1.1897
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "education crisis",
+    "co_occurrence": 6,
+    "pmi": 1.1857
+  },
+  {
+    "source": "education crisis",
+    "target": "scholarships",
+    "co_occurrence": 6,
+    "pmi": 1.1857
+  },
+  {
+    "source": "scholarships",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "pmi": 1.1857
+  },
+  {
+    "source": "school budgets",
+    "target": "student voice",
+    "co_occurrence": 3,
+    "pmi": 1.1857
+  },
+  {
+    "source": "school budgets",
+    "target": "systemic education failure",
+    "co_occurrence": 6,
+    "pmi": 1.1857
+  },
+  {
+    "source": "research productivity",
+    "target": "systemic education failure",
+    "co_occurrence": 6,
+    "pmi": 1.1857
+  },
+  {
+    "source": "edtech",
+    "target": "research productivity",
+    "co_occurrence": 3,
+    "pmi": 1.1857
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "research productivity",
+    "co_occurrence": 3,
+    "pmi": 1.1857
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "school budgets",
+    "co_occurrence": 3,
+    "pmi": 1.1857
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "outdated education model",
+    "co_occurrence": 18,
+    "pmi": 1.1752
+  },
+  {
+    "source": "decline of academia",
+    "target": "educational decline",
+    "co_occurrence": 12,
+    "pmi": 1.1699
+  },
+  {
+    "source": "educational instability",
+    "target": "student life",
+    "co_occurrence": 12,
+    "pmi": 1.1699
+  },
+  {
+    "source": "decline of academia",
+    "target": "qualitative research",
+    "co_occurrence": 3,
+    "pmi": 1.1699
+  },
+  {
+    "source": "educational instability",
+    "target": "qualitative research",
+    "co_occurrence": 3,
+    "pmi": 1.1699
+  },
+  {
+    "source": "decline of academia",
+    "target": "democracy",
+    "co_occurrence": 3,
+    "pmi": 1.1699
+  },
+  {
+    "source": "decline of academia",
+    "target": "illiberal democracy",
+    "co_occurrence": 3,
+    "pmi": 1.1699
+  },
+  {
+    "source": "democracy",
+    "target": "educational instability",
+    "co_occurrence": 3,
+    "pmi": 1.1699
+  },
+  {
+    "source": "educational instability",
+    "target": "illiberal democracy",
+    "co_occurrence": 3,
+    "pmi": 1.1699
+  },
+  {
+    "source": "classroom methods",
+    "target": "education crisis",
+    "co_occurrence": 11,
+    "pmi": 1.1671
+  },
+  {
+    "source": "educational decline",
+    "target": "outdated education model",
+    "co_occurrence": 13,
+    "pmi": 1.1651
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "scholarships",
+    "co_occurrence": 5,
+    "pmi": 1.1637
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "systemic education failure",
+    "co_occurrence": 5,
+    "pmi": 1.1637
+  },
+  {
+    "source": "curricular design",
+    "target": "education crisis",
+    "co_occurrence": 10,
+    "pmi": 1.1451
+  },
+  {
+    "source": "education crisis",
+    "target": "pedagogical methods",
+    "co_occurrence": 5,
+    "pmi": 1.1451
+  },
+  {
+    "source": "instructional excellence",
+    "target": "school budgets",
+    "co_occurrence": 5,
+    "pmi": 1.1451
+  },
+  {
+    "source": "higher education crisis",
+    "target": "populism",
+    "co_occurrence": 4,
+    "pmi": 1.1427
+  },
+  {
+    "source": "outdated education model",
+    "target": "populism",
+    "co_occurrence": 4,
+    "pmi": 1.1427
+  },
+  {
+    "source": "course evaluation",
+    "target": "higher education crisis",
+    "co_occurrence": 8,
+    "pmi": 1.1427
+  },
+  {
+    "source": "course evaluation",
+    "target": "outdated education model",
+    "co_occurrence": 8,
+    "pmi": 1.1427
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "course evaluation",
+    "co_occurrence": 7,
+    "pmi": 1.1345
+  },
+  {
+    "source": "course evaluation",
+    "target": "pedagogical innovation",
+    "co_occurrence": 7,
+    "pmi": 1.1345
+  },
+  {
+    "source": "academic collapse",
+    "target": "education crisis",
+    "co_occurrence": 14,
+    "pmi": 1.128
+  },
+  {
+    "source": "academic collapse",
+    "target": "classroom methods",
+    "co_occurrence": 7,
+    "pmi": 1.128
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "educational instability",
+    "co_occurrence": 16,
+    "pmi": 1.1255
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "decline of academia",
+    "co_occurrence": 16,
+    "pmi": 1.1255
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "school budgets",
+    "co_occurrence": 9,
+    "pmi": 1.1186
+  },
+  {
+    "source": "higher education crisis",
+    "target": "systemic education failure",
+    "co_occurrence": 11,
+    "pmi": 1.1167
+  },
+  {
+    "source": "educational instability",
+    "target": "outdated education model",
+    "co_occurrence": 18,
+    "pmi": 1.111
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student life",
+    "co_occurrence": 11,
+    "pmi": 1.1085
+  },
+  {
+    "source": "curricular design",
+    "target": "intellectual autonomy",
+    "co_occurrence": 3,
+    "pmi": 1.1085
+  },
+  {
+    "source": "curricular design",
+    "target": "educational decline",
+    "co_occurrence": 6,
+    "pmi": 1.1085
+  },
+  {
+    "source": "educational decline",
+    "target": "pedagogical methods",
+    "co_occurrence": 3,
+    "pmi": 1.1085
+  },
+  {
+    "source": "educational decline",
+    "target": "selective admissions",
+    "co_occurrence": 3,
+    "pmi": 1.1085
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "decline of academia",
+    "co_occurrence": 5,
+    "pmi": 1.0995
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "educational instability",
+    "co_occurrence": 5,
+    "pmi": 1.0995
+  },
+  {
+    "source": "education crisis",
+    "target": "populism",
+    "co_occurrence": 4,
+    "pmi": 1.0862
+  },
+  {
+    "source": "participatory instruction",
+    "target": "research productivity",
+    "co_occurrence": 4,
+    "pmi": 1.0862
+  },
+  {
+    "source": "academic collapse",
+    "target": "higher education crisis",
+    "co_occurrence": 13,
+    "pmi": 1.0776
+  },
+  {
+    "source": "decline of academia",
+    "target": "scholarly funding",
+    "co_occurrence": 7,
+    "pmi": 1.0704
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "legitimacy crisis",
+    "co_occurrence": 4,
+    "pmi": 1.0641
+  },
+  {
+    "source": "scholarships",
+    "target": "university policy",
+    "co_occurrence": 7,
+    "pmi": 1.0641
+  },
+  {
+    "source": "student engagement",
+    "target": "student protest",
+    "co_occurrence": 7,
+    "pmi": 1.0641
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "politicisation of science",
+    "co_occurrence": 10,
+    "pmi": 1.0641
+  },
+  {
+    "source": "over-enrollment",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.0641
+  },
+  {
+    "source": "tuition affordability",
+    "target": "university policy",
+    "co_occurrence": 8,
+    "pmi": 1.0641
+  },
+  {
+    "source": "college admissions",
+    "target": "university policy",
+    "co_occurrence": 8,
+    "pmi": 1.0641
+  },
+  {
+    "source": "student satisfaction",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "pmi": 1.0641
+  },
+  {
+    "source": "tuition",
+    "target": "university policy",
+    "co_occurrence": 8,
+    "pmi": 1.0641
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student retention",
+    "co_occurrence": 4,
+    "pmi": 1.0641
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "undergraduate pathway",
+    "co_occurrence": 4,
+    "pmi": 1.0641
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "undergraduate pathway",
+    "co_occurrence": 4,
+    "pmi": 1.0641
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "student engagement",
+    "co_occurrence": 7,
+    "pmi": 1.0641
+  },
+  {
+    "source": "organisational structure",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.0641
+  },
+  {
+    "source": "austerity",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "pmi": 1.0641
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "pmi": 1.0641
+  },
+  {
+    "source": "university policy",
+    "target": "weak oversight",
+    "co_occurrence": 4,
+    "pmi": 1.0641
+  },
+  {
+    "source": "decline of academia",
+    "target": "research productivity",
+    "co_occurrence": 9,
+    "pmi": 1.0544
+  },
+  {
+    "source": "classroom methods",
+    "target": "educational instability",
+    "co_occurrence": 9,
+    "pmi": 1.0544
+  },
+  {
+    "source": "AI assisted process",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "pmi": 1.0496
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "pmi": 1.0496
+  },
+  {
+    "source": "generative AI",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "pmi": 1.0496
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "outdated education model",
+    "co_occurrence": 6,
+    "pmi": 1.0496
+  },
+  {
+    "source": "outdated education model",
+    "target": "theoretical research",
+    "co_occurrence": 6,
+    "pmi": 1.0496
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student life",
+    "co_occurrence": 12,
+    "pmi": 1.0496
+  },
+  {
+    "source": "college admissions",
+    "target": "higher education crisis",
+    "co_occurrence": 6,
+    "pmi": 1.0496
+  },
+  {
+    "source": "curricular design",
+    "target": "outdated education model",
+    "co_occurrence": 9,
+    "pmi": 1.0496
+  },
+  {
+    "source": "higher education crisis",
+    "target": "qualitative research",
+    "co_occurrence": 3,
+    "pmi": 1.0496
+  },
+  {
+    "source": "outdated education model",
+    "target": "qualitative research",
+    "co_occurrence": 3,
+    "pmi": 1.0496
+  },
+  {
+    "source": "democracy",
+    "target": "higher education crisis",
+    "co_occurrence": 3,
+    "pmi": 1.0496
+  },
+  {
+    "source": "democracy",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "pmi": 1.0496
+  },
+  {
+    "source": "higher education crisis",
+    "target": "illiberal democracy",
+    "co_occurrence": 3,
+    "pmi": 1.0496
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "pmi": 1.0496
+  },
+  {
+    "source": "curricular design",
+    "target": "systemic education failure",
+    "co_occurrence": 5,
+    "pmi": 1.0381
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "education crisis",
+    "co_occurrence": 17,
+    "pmi": 1.0361
+  },
+  {
+    "source": "politicisation of science",
+    "target": "university leadership",
+    "co_occurrence": 4,
+    "pmi": 1.0317
+  },
+  {
+    "source": "classroom methods",
+    "target": "research productivity",
+    "co_occurrence": 5,
+    "pmi": 1.0296
+  },
+  {
+    "source": "academic collapse",
+    "target": "pedagogical methods",
+    "co_occurrence": 3,
+    "pmi": 1.0211
+  },
+  {
+    "source": "outdated education model",
+    "target": "politicisation of science",
+    "co_occurrence": 11,
+    "pmi": 1.0172
+  },
+  {
+    "source": "education crisis",
+    "target": "student engagement",
+    "co_occurrence": 16,
+    "pmi": 1.0158
+  },
+  {
+    "source": "classroom methods",
+    "target": "student engagement",
+    "co_occurrence": 8,
+    "pmi": 1.0158
+  },
+  {
+    "source": "education crisis",
+    "target": "outdated education model",
+    "co_occurrence": 19,
+    "pmi": 1.0122
+  },
+  {
+    "source": "decline of academia",
+    "target": "university leadership",
+    "co_occurrence": 6,
+    "pmi": 1.0
+  },
+  {
+    "source": "educational instability",
+    "target": "instructional excellence",
+    "co_occurrence": 8,
+    "pmi": 1.0
+  },
+  {
+    "source": "decline of academia",
+    "target": "high-impact research",
+    "co_occurrence": 4,
+    "pmi": 1.0
+  },
+  {
+    "source": "decline of academia",
+    "target": "legitimacy crisis",
+    "co_occurrence": 4,
+    "pmi": 1.0
+  },
+  {
+    "source": "decline of academia",
+    "target": "politicisation of science",
+    "co_occurrence": 10,
+    "pmi": 1.0
+  },
+  {
+    "source": "curricular design",
+    "target": "educational instability",
+    "co_occurrence": 8,
+    "pmi": 1.0
+  },
+  {
+    "source": "educational instability",
+    "target": "selective admissions",
+    "co_occurrence": 4,
+    "pmi": 1.0
+  },
+  {
+    "source": "decline of academia",
+    "target": "pedagogical methods",
+    "co_occurrence": 4,
+    "pmi": 1.0
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "pedagogical innovation",
+    "co_occurrence": 14,
+    "pmi": 0.997
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "empirical research",
+    "co_occurrence": 7,
+    "pmi": 0.997
+  },
+  {
+    "source": "college admissions",
+    "target": "education crisis",
+    "co_occurrence": 6,
+    "pmi": 0.993
+  },
+  {
+    "source": "college admissions",
+    "target": "school budgets",
+    "co_occurrence": 3,
+    "pmi": 0.993
+  },
+  {
+    "source": "education crisis",
+    "target": "student satisfaction",
+    "co_occurrence": 3,
+    "pmi": 0.993
+  },
+  {
+    "source": "classroom methods",
+    "target": "student life",
+    "co_occurrence": 6,
+    "pmi": 0.993
+  },
+  {
+    "source": "education crisis",
+    "target": "instructional excellence",
+    "co_occurrence": 9,
+    "pmi": 0.993
+  },
+  {
+    "source": "classroom methods",
+    "target": "tuition",
+    "co_occurrence": 3,
+    "pmi": 0.993
+  },
+  {
+    "source": "instructional practice",
+    "target": "research productivity",
+    "co_occurrence": 3,
+    "pmi": 0.993
+  },
+  {
+    "source": "classroom methods",
+    "target": "theoretical research",
+    "co_occurrence": 3,
+    "pmi": 0.993
+  },
+  {
+    "source": "education crisis",
+    "target": "qualitative research",
+    "co_occurrence": 3,
+    "pmi": 0.993
+  },
+  {
+    "source": "instructional practice",
+    "target": "school budgets",
+    "co_occurrence": 3,
+    "pmi": 0.993
+  },
+  {
+    "source": "democracy",
+    "target": "education crisis",
+    "co_occurrence": 3,
+    "pmi": 0.993
+  },
+  {
+    "source": "education crisis",
+    "target": "illiberal democracy",
+    "co_occurrence": 3,
+    "pmi": 0.993
+  },
+  {
+    "source": "politicisation of science",
+    "target": "student voice",
+    "co_occurrence": 3,
+    "pmi": 0.9792
+  },
+  {
+    "source": "course evaluation",
+    "target": "systemic education failure",
+    "co_occurrence": 4,
+    "pmi": 0.9792
+  },
+  {
+    "source": "student life",
+    "target": "student protest",
+    "co_occurrence": 5,
+    "pmi": 0.971
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "tuition affordability",
+    "co_occurrence": 5,
+    "pmi": 0.971
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "theoretical research",
+    "co_occurrence": 5,
+    "pmi": 0.971
+  },
+  {
+    "source": "decline of academia",
+    "target": "educational instability",
+    "co_occurrence": 15,
+    "pmi": 0.9683
+  },
+  {
+    "source": "academic collapse",
+    "target": "outdated education model",
+    "co_occurrence": 12,
+    "pmi": 0.9622
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "research productivity",
+    "co_occurrence": 8,
+    "pmi": 0.9487
+  },
+  {
+    "source": "classroom methods",
+    "target": "postgraduate pathway",
+    "co_occurrence": 4,
+    "pmi": 0.9487
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "research productivity",
+    "co_occurrence": 8,
+    "pmi": 0.9487
+  },
+  {
+    "source": "classroom methods",
+    "target": "empirical research",
+    "co_occurrence": 4,
+    "pmi": 0.9487
+  },
+  {
+    "source": "decline of academia",
+    "target": "pedagogical innovation",
+    "co_occurrence": 14,
+    "pmi": 0.9329
+  },
+  {
+    "source": "educational instability",
+    "target": "pedagogical innovation",
+    "co_occurrence": 14,
+    "pmi": 0.9329
+  },
+  {
+    "source": "decline of academia",
+    "target": "postgraduate pathway",
+    "co_occurrence": 7,
+    "pmi": 0.9329
+  },
+  {
+    "source": "decline of academia",
+    "target": "empirical research",
+    "co_occurrence": 7,
+    "pmi": 0.9329
+  },
+  {
+    "source": "education crisis",
+    "target": "student voice",
+    "co_occurrence": 5,
+    "pmi": 0.9227
+  },
+  {
+    "source": "academic collapse",
+    "target": "politicisation of science",
+    "co_occurrence": 7,
+    "pmi": 0.9215
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "politicisation of science",
+    "co_occurrence": 9,
+    "pmi": 0.9121
+  },
+  {
+    "source": "university bylaws",
+    "target": "university policy",
+    "co_occurrence": 9,
+    "pmi": 0.9121
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "pmi": 0.9121
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "scientific expertise",
+    "co_occurrence": 3,
+    "pmi": 0.9121
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "scientific expertise",
+    "co_occurrence": 3,
+    "pmi": 0.9121
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "research collaboration",
+    "co_occurrence": 3,
+    "pmi": 0.9121
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "quantitative research",
+    "co_occurrence": 3,
+    "pmi": 0.9121
+  },
+  {
+    "source": "empirical research",
+    "target": "participatory instruction",
+    "co_occurrence": 3,
+    "pmi": 0.9121
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "quantitative research",
+    "co_occurrence": 3,
+    "pmi": 0.9121
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "authoritarianism",
+    "co_occurrence": 3,
+    "pmi": 0.9121
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "populism",
+    "co_occurrence": 3,
+    "pmi": 0.9121
+  },
+  {
+    "source": "authoritarianism",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "pmi": 0.9121
+  },
+  {
+    "source": "higher education crisis",
+    "target": "outdated education model",
+    "co_occurrence": 17,
+    "pmi": 0.9083
+  },
+  {
+    "source": "college admissions",
+    "target": "educational instability",
+    "co_occurrence": 5,
+    "pmi": 0.9069
+  },
+  {
+    "source": "decline of academia",
+    "target": "instructional practice",
+    "co_occurrence": 5,
+    "pmi": 0.9069
+  },
+  {
+    "source": "decline of academia",
+    "target": "intellectual autonomy",
+    "co_occurrence": 5,
+    "pmi": 0.9069
+  },
+  {
+    "source": "educational instability",
+    "target": "instructional practice",
+    "co_occurrence": 5,
+    "pmi": 0.9069
+  },
+  {
+    "source": "decline of academia",
+    "target": "theoretical research",
+    "co_occurrence": 5,
+    "pmi": 0.9069
+  },
+  {
+    "source": "academic collapse",
+    "target": "research productivity",
+    "co_occurrence": 6,
+    "pmi": 0.9056
+  },
+  {
+    "source": "educational instability",
+    "target": "student engagement",
+    "co_occurrence": 13,
+    "pmi": 0.8931
+  },
+  {
+    "source": "educational decline",
+    "target": "student voice",
+    "co_occurrence": 3,
+    "pmi": 0.8861
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "systemic education failure",
+    "co_occurrence": 3,
+    "pmi": 0.8861
+  },
+  {
+    "source": "systemic education failure",
+    "target": "theoretical research",
+    "co_occurrence": 3,
+    "pmi": 0.8861
+  },
+  {
+    "source": "classroom methods",
+    "target": "decline of academia",
+    "co_occurrence": 8,
+    "pmi": 0.8845
+  },
+  {
+    "source": "academic collapse",
+    "target": "pedagogical innovation",
+    "co_occurrence": 10,
+    "pmi": 0.8836
+  },
+  {
+    "source": "academic collapse",
+    "target": "empirical research",
+    "co_occurrence": 5,
+    "pmi": 0.8836
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university leadership",
+    "co_occurrence": 6,
+    "pmi": 0.8797
+  },
+  {
+    "source": "outdated education model",
+    "target": "university leadership",
+    "co_occurrence": 6,
+    "pmi": 0.8797
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "outdated education model",
+    "co_occurrence": 4,
+    "pmi": 0.8797
+  },
+  {
+    "source": "politicisation of science",
+    "target": "university bylaws",
+    "co_occurrence": 4,
+    "pmi": 0.8797
+  },
+  {
+    "source": "student life",
+    "target": "university policy",
+    "co_occurrence": 14,
+    "pmi": 0.8715
+  },
+  {
+    "source": "education crisis",
+    "target": "pedagogical innovation",
+    "co_occurrence": 15,
+    "pmi": 0.8555
+  },
+  {
+    "source": "decline of academia",
+    "target": "institutional abuse",
+    "co_occurrence": 3,
+    "pmi": 0.848
+  },
+  {
+    "source": "decline of academia",
+    "target": "outdated education model",
+    "co_occurrence": 15,
+    "pmi": 0.848
+  },
+  {
+    "source": "decline of academia",
+    "target": "research collaboration",
+    "co_occurrence": 6,
+    "pmi": 0.848
+  },
+  {
+    "source": "decline of academia",
+    "target": "university bylaws",
+    "co_occurrence": 6,
+    "pmi": 0.848
+  },
+  {
+    "source": "decline of academia",
+    "target": "faculty workload",
+    "co_occurrence": 3,
+    "pmi": 0.848
+  },
+  {
+    "source": "decline of academia",
+    "target": "participatory instruction",
+    "co_occurrence": 6,
+    "pmi": 0.848
+  },
+  {
+    "source": "decline of academia",
+    "target": "scientific expertise",
+    "co_occurrence": 3,
+    "pmi": 0.848
+  },
+  {
+    "source": "decline of academia",
+    "target": "quantitative research",
+    "co_occurrence": 3,
+    "pmi": 0.848
+  },
+  {
+    "source": "authoritarianism",
+    "target": "decline of academia",
+    "co_occurrence": 3,
+    "pmi": 0.848
+  },
+  {
+    "source": "authoritarianism",
+    "target": "educational instability",
+    "co_occurrence": 3,
+    "pmi": 0.848
+  },
+  {
+    "source": "decline of academia",
+    "target": "populism",
+    "co_occurrence": 3,
+    "pmi": 0.848
+  },
+  {
+    "source": "educational decline",
+    "target": "instructional excellence",
+    "co_occurrence": 5,
+    "pmi": 0.8455
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student engagement",
+    "co_occurrence": 12,
+    "pmi": 0.8417
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "bureaucratic obstruction",
+    "co_occurrence": 4,
+    "pmi": 0.8417
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "university policy",
+    "co_occurrence": 6,
+    "pmi": 0.8417
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "pedagogical innovation",
+    "co_occurrence": 4,
+    "pmi": 0.8417
+  },
+  {
+    "source": "empirical research",
+    "target": "systemic education failure",
+    "co_occurrence": 4,
+    "pmi": 0.8417
+  },
+  {
+    "source": "academic collapse",
+    "target": "student life",
+    "co_occurrence": 7,
+    "pmi": 0.8284
+  },
+  {
+    "source": "instructional excellence",
+    "target": "university administrators",
+    "co_occurrence": 4,
+    "pmi": 0.8231
+  },
+  {
+    "source": "education crisis",
+    "target": "university policy",
+    "co_occurrence": 22,
+    "pmi": 0.8231
+  },
+  {
+    "source": "school budgets",
+    "target": "student engagement",
+    "co_occurrence": 7,
+    "pmi": 0.8231
+  },
+  {
+    "source": "education crisis",
+    "target": "selective admissions",
+    "co_occurrence": 4,
+    "pmi": 0.8231
+  },
+  {
+    "source": "classroom methods",
+    "target": "politicisation of science",
+    "co_occurrence": 5,
+    "pmi": 0.8231
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "student life",
+    "co_occurrence": 9,
+    "pmi": 0.819
+  },
+  {
+    "source": "educational decline",
+    "target": "pedagogical innovation",
+    "co_occurrence": 9,
+    "pmi": 0.819
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "higher education crisis",
+    "co_occurrence": 14,
+    "pmi": 0.8126
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university policy",
+    "co_occurrence": 21,
+    "pmi": 0.8126
+  },
+  {
+    "source": "outdated education model",
+    "target": "postgraduate pathway",
+    "co_occurrence": 7,
+    "pmi": 0.8126
+  },
+  {
+    "source": "decline of academia",
+    "target": "instructional excellence",
+    "co_occurrence": 7,
+    "pmi": 0.8074
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "university leadership",
+    "co_occurrence": 5,
+    "pmi": 0.8011
+  },
+  {
+    "source": "student retention",
+    "target": "university policy",
+    "co_occurrence": 5,
+    "pmi": 0.8011
+  },
+  {
+    "source": "selective admissions",
+    "target": "university policy",
+    "co_occurrence": 5,
+    "pmi": 0.8011
+  },
+  {
+    "source": "undergraduate pathway",
+    "target": "university policy",
+    "co_occurrence": 5,
+    "pmi": 0.8011
+  },
+  {
+    "source": "academic collapse",
+    "target": "student voice",
+    "co_occurrence": 3,
+    "pmi": 0.7987
+  },
+  {
+    "source": "decline of academia",
+    "target": "education crisis",
+    "co_occurrence": 15,
+    "pmi": 0.7914
+  },
+  {
+    "source": "educational decline",
+    "target": "politicisation of science",
+    "co_occurrence": 6,
+    "pmi": 0.7866
+  },
+  {
+    "source": "student life",
+    "target": "university bylaws",
+    "co_occurrence": 4,
+    "pmi": 0.7866
+  },
+  {
+    "source": "outdated education model",
+    "target": "tuition",
+    "co_occurrence": 5,
+    "pmi": 0.7866
+  },
+  {
+    "source": "instructional excellence",
+    "target": "research collaboration",
+    "co_occurrence": 3,
+    "pmi": 0.7866
+  },
+  {
+    "source": "outdated education model",
+    "target": "tuition affordability",
+    "co_occurrence": 5,
+    "pmi": 0.7866
+  },
+  {
+    "source": "educational instability",
+    "target": "student voice",
+    "co_occurrence": 4,
+    "pmi": 0.7776
+  },
+  {
+    "source": "empirical research",
+    "target": "pedagogical innovation",
+    "co_occurrence": 6,
+    "pmi": 0.7746
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student engagement",
+    "co_occurrence": 13,
+    "pmi": 0.7728
+  },
+  {
+    "source": "educational decline",
+    "target": "university policy",
+    "co_occurrence": 13,
+    "pmi": 0.7646
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university administrators",
+    "co_occurrence": 8,
+    "pmi": 0.7642
+  },
+  {
+    "source": "outdated education model",
+    "target": "university administrators",
+    "co_occurrence": 8,
+    "pmi": 0.7642
+  },
+  {
+    "source": "classroom methods",
+    "target": "higher education crisis",
+    "co_occurrence": 8,
+    "pmi": 0.7642
+  },
+  {
+    "source": "outdated education model",
+    "target": "research productivity",
+    "co_occurrence": 8,
+    "pmi": 0.7642
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "university administrators",
+    "co_occurrence": 7,
+    "pmi": 0.756
+  },
+  {
+    "source": "education crisis",
+    "target": "postgraduate pathway",
+    "co_occurrence": 7,
+    "pmi": 0.756
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "school budgets",
+    "co_occurrence": 7,
+    "pmi": 0.756
+  },
+  {
+    "source": "decline of academia",
+    "target": "higher education crisis",
+    "co_occurrence": 14,
+    "pmi": 0.7485
+  },
+  {
+    "source": "discrimination",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "pmi": 0.7422
+  },
+  {
+    "source": "populism",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "pmi": 0.7422
+  },
+  {
+    "source": "course evaluation",
+    "target": "university policy",
+    "co_occurrence": 8,
+    "pmi": 0.7422
+  },
+  {
+    "source": "student wellbeing",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "pmi": 0.7422
+  },
+  {
+    "source": "educational instability",
+    "target": "university leadership",
+    "co_occurrence": 5,
+    "pmi": 0.737
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university bylaws",
+    "co_occurrence": 6,
+    "pmi": 0.7277
+  },
+  {
+    "source": "higher education crisis",
+    "target": "political repression",
+    "co_occurrence": 3,
+    "pmi": 0.7277
+  },
+  {
+    "source": "outdated education model",
+    "target": "participatory instruction",
+    "co_occurrence": 6,
+    "pmi": 0.7277
+  },
+  {
+    "source": "outdated education model",
+    "target": "scientific expertise",
+    "co_occurrence": 3,
+    "pmi": 0.7277
+  },
+  {
+    "source": "outdated education model",
+    "target": "quantitative research",
+    "co_occurrence": 3,
+    "pmi": 0.7277
+  },
+  {
+    "source": "authoritarianism",
+    "target": "higher education crisis",
+    "co_occurrence": 3,
+    "pmi": 0.7277
+  },
+  {
+    "source": "authoritarianism",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "pmi": 0.7277
+  },
+  {
+    "source": "systemic education failure",
+    "target": "university leadership",
+    "co_occurrence": 3,
+    "pmi": 0.7162
+  },
+  {
+    "source": "educational decline",
+    "target": "student engagement",
+    "co_occurrence": 8,
+    "pmi": 0.7162
+  },
+  {
+    "source": "student engagement",
+    "target": "university bylaws",
+    "co_occurrence": 5,
+    "pmi": 0.7162
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "student engagement",
+    "co_occurrence": 11,
+    "pmi": 0.7162
+  },
+  {
+    "source": "educational instability",
+    "target": "university policy",
+    "co_occurrence": 18,
+    "pmi": 0.7105
+  },
+  {
+    "source": "school budgets",
+    "target": "university administrators",
+    "co_occurrence": 4,
+    "pmi": 0.7076
+  },
+  {
+    "source": "higher education crisis",
+    "target": "pedagogical innovation",
+    "co_occurrence": 13,
+    "pmi": 0.7057
+  },
+  {
+    "source": "university leadership",
+    "target": "university policy",
+    "co_occurrence": 7,
+    "pmi": 0.7016
+  },
+  {
+    "source": "academic collapse",
+    "target": "scholarly funding",
+    "co_occurrence": 4,
+    "pmi": 0.6991
+  },
+  {
+    "source": "academic collapse",
+    "target": "university bylaws",
+    "co_occurrence": 4,
+    "pmi": 0.6991
+  },
+  {
+    "source": "academic collapse",
+    "target": "course evaluation",
+    "co_occurrence": 4,
+    "pmi": 0.6991
+  },
+  {
+    "source": "college admissions",
+    "target": "educational decline",
+    "co_occurrence": 3,
+    "pmi": 0.6935
+  },
+  {
+    "source": "educational decline",
+    "target": "instructional practice",
+    "co_occurrence": 3,
+    "pmi": 0.6935
+  },
+  {
+    "source": "decline of academia",
+    "target": "university administrators",
+    "co_occurrence": 7,
+    "pmi": 0.6919
+  },
+  {
+    "source": "educational instability",
+    "target": "university administrators",
+    "co_occurrence": 7,
+    "pmi": 0.6919
+  },
+  {
+    "source": "decline of academia",
+    "target": "school budgets",
+    "co_occurrence": 7,
+    "pmi": 0.6919
+  },
+  {
+    "source": "higher education crisis",
+    "target": "instructional excellence",
+    "co_occurrence": 7,
+    "pmi": 0.6871
+  },
+  {
+    "source": "curricular design",
+    "target": "higher education crisis",
+    "co_occurrence": 7,
+    "pmi": 0.6871
+  },
+  {
+    "source": "university administrators",
+    "target": "university policy",
+    "co_occurrence": 10,
+    "pmi": 0.6856
+  },
+  {
+    "source": "school budgets",
+    "target": "university policy",
+    "co_occurrence": 10,
+    "pmi": 0.6856
+  },
+  {
+    "source": "educational instability",
+    "target": "politicisation of science",
+    "co_occurrence": 8,
+    "pmi": 0.6781
+  },
+  {
+    "source": "student engagement",
+    "target": "university policy",
+    "co_occurrence": 16,
+    "pmi": 0.6718
+  },
+  {
+    "source": "education crisis",
+    "target": "university bylaws",
+    "co_occurrence": 6,
+    "pmi": 0.6711
+  },
+  {
+    "source": "scholarly funding",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "pmi": 0.6711
+  },
+  {
+    "source": "education crisis",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "pmi": 0.6711
+  },
+  {
+    "source": "education crisis",
+    "target": "political repression",
+    "co_occurrence": 3,
+    "pmi": 0.6711
+  },
+  {
+    "source": "education crisis",
+    "target": "participatory instruction",
+    "co_occurrence": 6,
+    "pmi": 0.6711
+  },
+  {
+    "source": "authoritarianism",
+    "target": "education crisis",
+    "co_occurrence": 3,
+    "pmi": 0.6711
+  },
+  {
+    "source": "outdated education model",
+    "target": "student engagement",
+    "co_occurrence": 12,
+    "pmi": 0.6573
+  },
+  {
+    "source": "outdated education model",
+    "target": "scholarships",
+    "co_occurrence": 4,
+    "pmi": 0.6573
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student voice",
+    "co_occurrence": 4,
+    "pmi": 0.6573
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "university bylaws",
+    "co_occurrence": 5,
+    "pmi": 0.6491
+  },
+  {
+    "source": "affirmative action",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 0.6491
+  },
+  {
+    "source": "racism",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 0.6491
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 0.6491
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "college admissions",
+    "co_occurrence": 4,
+    "pmi": 0.6491
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "tuition",
+    "co_occurrence": 4,
+    "pmi": 0.6491
+  },
+  {
+    "source": "curricular design",
+    "target": "university policy",
+    "co_occurrence": 9,
+    "pmi": 0.6491
+  },
+  {
+    "source": "educational decline",
+    "target": "postgraduate pathway",
+    "co_occurrence": 4,
+    "pmi": 0.6491
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "research collaboration",
+    "co_occurrence": 5,
+    "pmi": 0.6491
+  },
+  {
+    "source": "empirical research",
+    "target": "instructional excellence",
+    "co_occurrence": 3,
+    "pmi": 0.6491
+  },
+  {
+    "source": "democracy",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 0.6491
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 0.6491
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "pmi": 0.6491
+  },
+  {
+    "source": "outdated education model",
+    "target": "student life",
+    "co_occurrence": 9,
+    "pmi": 0.6346
+  },
+  {
+    "source": "student life",
+    "target": "systemic education failure",
+    "co_occurrence": 5,
+    "pmi": 0.6231
+  },
+  {
+    "source": "politicisation of science",
+    "target": "suppressing dissent",
+    "co_occurrence": 3,
+    "pmi": 0.6167
+  },
+  {
+    "source": "academic collapse",
+    "target": "tuition",
+    "co_occurrence": 3,
+    "pmi": 0.606
+  },
+  {
+    "source": "academic collapse",
+    "target": "instructional practice",
+    "co_occurrence": 3,
+    "pmi": 0.606
+  },
+  {
+    "source": "academic collapse",
+    "target": "intellectual autonomy",
+    "co_occurrence": 3,
+    "pmi": 0.606
+  },
+  {
+    "source": "academic collapse",
+    "target": "theoretical research",
+    "co_occurrence": 3,
+    "pmi": 0.606
+  },
+  {
+    "source": "student protest",
+    "target": "university policy",
+    "co_occurrence": 8,
+    "pmi": 0.6047
+  },
+  {
+    "source": "student engagement",
+    "target": "university administrators",
+    "co_occurrence": 6,
+    "pmi": 0.6007
+  },
+  {
+    "source": "empirical research",
+    "target": "outdated education model",
+    "co_occurrence": 6,
+    "pmi": 0.5902
+  },
+  {
+    "source": "educational instability",
+    "target": "legitimacy crisis",
+    "co_occurrence": 3,
+    "pmi": 0.585
+  },
+  {
+    "source": "educational instability",
+    "target": "university bylaws",
+    "co_occurrence": 5,
+    "pmi": 0.585
+  },
+  {
+    "source": "decline of academia",
+    "target": "tuition affordability",
+    "co_occurrence": 4,
+    "pmi": 0.585
+  },
+  {
+    "source": "curricular design",
+    "target": "decline of academia",
+    "co_occurrence": 6,
+    "pmi": 0.585
+  },
+  {
+    "source": "decline of academia",
+    "target": "selective admissions",
+    "co_occurrence": 3,
+    "pmi": 0.585
+  },
+  {
+    "source": "decline of academia",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 0.585
+  },
+  {
+    "source": "educational instability",
+    "target": "pedagogical methods",
+    "co_occurrence": 3,
+    "pmi": 0.585
+  },
+  {
+    "source": "decline of academia",
+    "target": "silencing criticism",
+    "co_occurrence": 3,
+    "pmi": 0.585
+  },
+  {
+    "source": "student voice",
+    "target": "university policy",
+    "co_occurrence": 5,
+    "pmi": 0.5787
+  },
+  {
+    "source": "academic collapse",
+    "target": "university policy",
+    "co_occurrence": 12,
+    "pmi": 0.5616
+  },
+  {
+    "source": "academic collapse",
+    "target": "postgraduate pathway",
+    "co_occurrence": 4,
+    "pmi": 0.5616
+  },
+  {
+    "source": "education crisis",
+    "target": "university leadership",
+    "co_occurrence": 5,
+    "pmi": 0.5601
+  },
+  {
+    "source": "higher education crisis",
+    "target": "politicisation of science",
+    "co_occurrence": 8,
+    "pmi": 0.5578
+  },
+  {
+    "source": "student engagement",
+    "target": "university leadership",
+    "co_occurrence": 4,
+    "pmi": 0.5463
+  },
+  {
+    "source": "student protest",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "pmi": 0.5336
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "pmi": 0.5336
+  },
+  {
+    "source": "empirical research",
+    "target": "school budgets",
+    "co_occurrence": 3,
+    "pmi": 0.5336
+  },
+  {
+    "source": "educational decline",
+    "target": "university leadership",
+    "co_occurrence": 3,
+    "pmi": 0.5236
+  },
+  {
+    "source": "student life",
+    "target": "university leadership",
+    "co_occurrence": 3,
+    "pmi": 0.5236
+  },
+  {
+    "source": "education crisis",
+    "target": "university administrators",
+    "co_occurrence": 7,
+    "pmi": 0.515
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "university policy",
+    "co_occurrence": 15,
+    "pmi": 0.5116
+  },
+  {
+    "source": "education crisis",
+    "target": "politicisation of science",
+    "co_occurrence": 8,
+    "pmi": 0.5012
+  },
+  {
+    "source": "politicisation of science",
+    "target": "university administrators",
+    "co_occurrence": 4,
+    "pmi": 0.5012
+  },
+  {
+    "source": "politicisation of science",
+    "target": "school budgets",
+    "co_occurrence": 4,
+    "pmi": 0.5012
+  },
+  {
+    "source": "student engagement",
+    "target": "systemic education failure",
+    "co_occurrence": 6,
+    "pmi": 0.4938
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "university leadership",
+    "co_occurrence": 4,
+    "pmi": 0.4792
+  },
+  {
+    "source": "higher education crisis",
+    "target": "legitimacy crisis",
+    "co_occurrence": 3,
+    "pmi": 0.4647
+  },
+  {
+    "source": "higher education crisis",
+    "target": "instructional practice",
+    "co_occurrence": 4,
+    "pmi": 0.4647
+  },
+  {
+    "source": "higher education crisis",
+    "target": "selective admissions",
+    "co_occurrence": 3,
+    "pmi": 0.4647
+  },
+  {
+    "source": "participatory instruction",
+    "target": "politicisation of science",
+    "co_occurrence": 3,
+    "pmi": 0.4647
+  },
+  {
+    "source": "outdated education model",
+    "target": "selective admissions",
+    "co_occurrence": 3,
+    "pmi": 0.4647
+  },
+  {
+    "source": "outdated education model",
+    "target": "student retention",
+    "co_occurrence": 3,
+    "pmi": 0.4647
+  },
+  {
+    "source": "educational instability",
+    "target": "postgraduate pathway",
+    "co_occurrence": 5,
+    "pmi": 0.4475
+  },
+  {
+    "source": "academic collapse",
+    "target": "university leadership",
+    "co_occurrence": 3,
+    "pmi": 0.4361
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "edtech",
+    "co_occurrence": 3,
+    "pmi": 0.4267
+  },
+  {
+    "source": "systemic education failure",
+    "target": "university policy",
+    "co_occurrence": 9,
+    "pmi": 0.4267
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "student voice",
+    "co_occurrence": 3,
+    "pmi": 0.4267
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student voice",
+    "co_occurrence": 3,
+    "pmi": 0.4267
+  },
+  {
+    "source": "outdated education model",
+    "target": "university policy",
+    "co_occurrence": 16,
+    "pmi": 0.4203
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "university policy",
+    "co_occurrence": 14,
+    "pmi": 0.4121
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "university policy",
+    "co_occurrence": 7,
+    "pmi": 0.4121
+  },
+  {
+    "source": "education crisis",
+    "target": "legitimacy crisis",
+    "co_occurrence": 3,
+    "pmi": 0.4081
+  },
+  {
+    "source": "educational decline",
+    "target": "university administrators",
+    "co_occurrence": 4,
+    "pmi": 0.4081
+  },
+  {
+    "source": "student life",
+    "target": "university administrators",
+    "co_occurrence": 4,
+    "pmi": 0.4081
+  },
+  {
+    "source": "education crisis",
+    "target": "intellectual autonomy",
+    "co_occurrence": 4,
+    "pmi": 0.4081
+  },
+  {
+    "source": "education crisis",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 0.4081
+  },
+  {
+    "source": "educational decline",
+    "target": "research productivity",
+    "co_occurrence": 4,
+    "pmi": 0.4081
+  },
+  {
+    "source": "instructional excellence",
+    "target": "research productivity",
+    "co_occurrence": 3,
+    "pmi": 0.4081
+  },
+  {
+    "source": "curricular design",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "pmi": 0.4081
+  },
+  {
+    "source": "decline of academia",
+    "target": "student life",
+    "co_occurrence": 7,
+    "pmi": 0.3923
+  },
+  {
+    "source": "educational decline",
+    "target": "university bylaws",
+    "co_occurrence": 3,
+    "pmi": 0.3716
+  },
+  {
+    "source": "educational decline",
+    "target": "participatory instruction",
+    "co_occurrence": 3,
+    "pmi": 0.3716
+  },
+  {
+    "source": "classroom methods",
+    "target": "university policy",
+    "co_occurrence": 8,
+    "pmi": 0.3637
+  },
+  {
+    "source": "decline of academia",
+    "target": "scholarships",
+    "co_occurrence": 3,
+    "pmi": 0.3626
+  },
+  {
+    "source": "decline of academia",
+    "target": "student voice",
+    "co_occurrence": 3,
+    "pmi": 0.3626
+  },
+  {
+    "source": "decline of academia",
+    "target": "university policy",
+    "co_occurrence": 14,
+    "pmi": 0.3479
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "scholarly funding",
+    "co_occurrence": 4,
+    "pmi": 0.3272
+  },
+  {
+    "source": "freedom of speech",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 0.3272
+  },
+  {
+    "source": "faculty workload",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 0.3272
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student protest",
+    "co_occurrence": 5,
+    "pmi": 0.3272
+  },
+  {
+    "source": "political repression",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 0.3272
+  },
+  {
+    "source": "higher education crisis",
+    "target": "postgraduate pathway",
+    "co_occurrence": 5,
+    "pmi": 0.3272
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "research collaboration",
+    "co_occurrence": 4,
+    "pmi": 0.3272
+  },
+  {
+    "source": "authoritarianism",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 0.3272
+  },
+  {
+    "source": "student engagement",
+    "target": "tuition affordability",
+    "co_occurrence": 3,
+    "pmi": 0.3012
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "pmi": 0.3012
+  },
+  {
+    "source": "higher education crisis",
+    "target": "suppressing dissent",
+    "co_occurrence": 4,
+    "pmi": 0.2947
+  },
+  {
+    "source": "education crisis",
+    "target": "research productivity",
+    "co_occurrence": 6,
+    "pmi": 0.2926
+  },
+  {
+    "source": "instructional excellence",
+    "target": "university policy",
+    "co_occurrence": 7,
+    "pmi": 0.2865
+  },
+  {
+    "source": "academic collapse",
+    "target": "participatory instruction",
+    "co_occurrence": 3,
+    "pmi": 0.2841
+  },
+  {
+    "source": "education crisis",
+    "target": "student protest",
+    "co_occurrence": 5,
+    "pmi": 0.2706
+  },
+  {
+    "source": "course evaluation",
+    "target": "decline of academia",
+    "co_occurrence": 4,
+    "pmi": 0.263
+  },
+  {
+    "source": "educational instability",
+    "target": "participatory instruction",
+    "co_occurrence": 4,
+    "pmi": 0.263
+  },
+  {
+    "source": "edtech",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "pmi": 0.2423
+  },
+  {
+    "source": "outdated education model",
+    "target": "student voice",
+    "co_occurrence": 3,
+    "pmi": 0.2423
+  },
+  {
+    "source": "education crisis",
+    "target": "suppressing dissent",
+    "co_occurrence": 4,
+    "pmi": 0.2382
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "tuition",
+    "co_occurrence": 3,
+    "pmi": 0.2341
+  },
+  {
+    "source": "educational decline",
+    "target": "empirical research",
+    "co_occurrence": 3,
+    "pmi": 0.2341
+  },
+  {
+    "source": "suppressing dissent",
+    "target": "university policy",
+    "co_occurrence": 5,
+    "pmi": 0.2161
+  },
+  {
+    "source": "academic collapse",
+    "target": "student engagement",
+    "co_occurrence": 6,
+    "pmi": 0.2137
+  },
+  {
+    "source": "educational instability",
+    "target": "research productivity",
+    "co_occurrence": 5,
+    "pmi": 0.2065
+  },
+  {
+    "source": "instructional excellence",
+    "target": "politicisation of science",
+    "co_occurrence": 3,
+    "pmi": 0.2016
+  },
+  {
+    "source": "systemic education failure",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "pmi": 0.1857
+  },
+  {
+    "source": "educational instability",
+    "target": "intellectual autonomy",
+    "co_occurrence": 3,
+    "pmi": 0.1699
+  },
+  {
+    "source": "politicisation of science",
+    "target": "university policy",
+    "co_occurrence": 8,
+    "pmi": 0.1572
+  },
+  {
+    "source": "academic collapse",
+    "target": "student protest",
+    "co_occurrence": 3,
+    "pmi": 0.1466
+  },
+  {
+    "source": "outdated education model",
+    "target": "scholarly funding",
+    "co_occurrence": 4,
+    "pmi": 0.1427
+  },
+  {
+    "source": "outdated education model",
+    "target": "university bylaws",
+    "co_occurrence": 4,
+    "pmi": 0.1427
+  },
+  {
+    "source": "outdated education model",
+    "target": "research collaboration",
+    "co_occurrence": 4,
+    "pmi": 0.1427
+  },
+  {
+    "source": "educational instability",
+    "target": "empirical research",
+    "co_occurrence": 4,
+    "pmi": 0.1255
+  },
+  {
+    "source": "higher education crisis",
+    "target": "research productivity",
+    "co_occurrence": 5,
+    "pmi": 0.0862
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "university reform",
+    "co_occurrence": 7,
+    "pmi": 0.0641
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 0.0641
+  },
+  {
+    "source": "scholarships",
+    "target": "university reform",
+    "co_occurrence": 7,
+    "pmi": 0.0641
+  },
+  {
+    "source": "over-enrollment",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 0.0641
+  },
+  {
+    "source": "tuition affordability",
+    "target": "university reform",
+    "co_occurrence": 8,
+    "pmi": 0.0641
+  },
+  {
+    "source": "college admissions",
+    "target": "university reform",
+    "co_occurrence": 8,
+    "pmi": 0.0641
+  },
+  {
+    "source": "participatory instruction",
+    "target": "university policy",
+    "co_occurrence": 5,
+    "pmi": 0.0641
+  },
+  {
+    "source": "instructional practice",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "pmi": 0.0641
+  },
+  {
+    "source": "organisational structure",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 0.0641
+  },
+  {
+    "source": "austerity",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "pmi": 0.0641
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "pmi": 0.0641
+  },
+  {
+    "source": "university reform",
+    "target": "weak oversight",
+    "co_occurrence": 4,
+    "pmi": 0.0641
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "suppressing dissent",
+    "co_occurrence": 3,
+    "pmi": 0.0641
+  },
+  {
+    "source": "higher education crisis",
+    "target": "intellectual autonomy",
+    "co_occurrence": 3,
+    "pmi": 0.0496
+  },
+  {
+    "source": "academic collapse",
+    "target": "curricular design",
+    "co_occurrence": 3,
+    "pmi": 0.0211
+  },
+  {
+    "source": "academic collapse",
+    "target": "instructional excellence",
+    "co_occurrence": 3,
+    "pmi": 0.0211
+  },
+  {
+    "source": "empirical research",
+    "target": "higher education crisis",
+    "co_occurrence": 4,
+    "pmi": 0.0052
+  },
+  {
+    "source": "decline of academia",
+    "target": "student engagement",
+    "co_occurrence": 7,
+    "pmi": 0.0
+  },
+  {
+    "source": "decline of academia",
+    "target": "suppressing dissent",
+    "co_occurrence": 3,
+    "pmi": 0.0
+  },
+  {
+    "source": "education crisis",
+    "target": "theoretical research",
+    "co_occurrence": 3,
+    "pmi": -0.007
+  },
+  {
+    "source": "scholarly funding",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "pmi": -0.0208
+  },
+  {
+    "source": "university administrators",
+    "target": "university reform",
+    "co_occurrence": 12,
+    "pmi": -0.0513
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "university administrators",
+    "co_occurrence": 4,
+    "pmi": -0.0513
+  },
+  {
+    "source": "education crisis",
+    "target": "empirical research",
+    "co_occurrence": 4,
+    "pmi": -0.0513
+  },
+  {
+    "source": "university policy",
+    "target": "university reform",
+    "co_occurrence": 30,
+    "pmi": -0.0734
+  },
+  {
+    "source": "university bylaws",
+    "target": "university reform",
+    "co_occurrence": 9,
+    "pmi": -0.0879
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "university bylaws",
+    "co_occurrence": 3,
+    "pmi": -0.0879
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "scholarly funding",
+    "co_occurrence": 3,
+    "pmi": -0.0879
+  },
+  {
+    "source": "academic collapse",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "pmi": -0.0944
+  },
+  {
+    "source": "university leadership",
+    "target": "university reform",
+    "co_occurrence": 8,
+    "pmi": -0.1058
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university reform",
+    "co_occurrence": 22,
+    "pmi": -0.1203
+  },
+  {
+    "source": "outdated education model",
+    "target": "suppressing dissent",
+    "co_occurrence": 3,
+    "pmi": -0.1203
+  },
+  {
+    "source": "tuition",
+    "target": "university reform",
+    "co_occurrence": 7,
+    "pmi": -0.1285
+  },
+  {
+    "source": "educational instability",
+    "target": "scholarly funding",
+    "co_occurrence": 3,
+    "pmi": -0.152
+  },
+  {
+    "source": "politicisation of science",
+    "target": "student engagement",
+    "co_occurrence": 4,
+    "pmi": -0.1907
+  },
+  {
+    "source": "student retention",
+    "target": "university reform",
+    "co_occurrence": 5,
+    "pmi": -0.1989
+  },
+  {
+    "source": "selective admissions",
+    "target": "university reform",
+    "co_occurrence": 5,
+    "pmi": -0.1989
+  },
+  {
+    "source": "politicisation of science",
+    "target": "student life",
+    "co_occurrence": 3,
+    "pmi": -0.2134
+  },
+  {
+    "source": "student protest",
+    "target": "university reform",
+    "co_occurrence": 9,
+    "pmi": -0.2254
+  },
+  {
+    "source": "scholarly funding",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "pmi": -0.2578
+  },
+  {
+    "source": "freedom of speech",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "pmi": -0.2578
+  },
+  {
+    "source": "populism",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "pmi": -0.2578
+  },
+  {
+    "source": "political repression",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "pmi": -0.2578
+  },
+  {
+    "source": "higher education crisis",
+    "target": "scholarly funding",
+    "co_occurrence": 3,
+    "pmi": -0.2723
+  },
+  {
+    "source": "higher education crisis",
+    "target": "participatory instruction",
+    "co_occurrence": 3,
+    "pmi": -0.2723
+  },
+  {
+    "source": "educational instability",
+    "target": "university reform",
+    "co_occurrence": 18,
+    "pmi": -0.2895
+  },
+  {
+    "source": "educational instability",
+    "target": "student protest",
+    "co_occurrence": 3,
+    "pmi": -0.2895
+  },
+  {
+    "source": "education crisis",
+    "target": "university reform",
+    "co_occurrence": 20,
+    "pmi": -0.3144
+  },
+  {
+    "source": "school budgets",
+    "target": "university reform",
+    "co_occurrence": 10,
+    "pmi": -0.3144
+  },
+  {
+    "source": "research productivity",
+    "target": "university policy",
+    "co_occurrence": 5,
+    "pmi": -0.3144
+  },
+  {
+    "source": "education crisis",
+    "target": "scholarly funding",
+    "co_occurrence": 3,
+    "pmi": -0.3289
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": -0.3509
+  },
+  {
+    "source": "educational decline",
+    "target": "university reform",
+    "co_occurrence": 12,
+    "pmi": -0.3509
+  },
+  {
+    "source": "student life",
+    "target": "university reform",
+    "co_occurrence": 12,
+    "pmi": -0.3509
+  },
+  {
+    "source": "student satisfaction",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": -0.3509
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": -0.3509
+  },
+  {
+    "source": "democracy",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": -0.3509
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": -0.3509
+  },
+  {
+    "source": "empirical research",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "pmi": -0.3953
+  },
+  {
+    "source": "student voice",
+    "target": "university reform",
+    "co_occurrence": 5,
+    "pmi": -0.4213
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "pmi": -0.5208
+  },
+  {
+    "source": "student engagement",
+    "target": "university reform",
+    "co_occurrence": 14,
+    "pmi": -0.5208
+  },
+  {
+    "source": "suppressing dissent",
+    "target": "university reform",
+    "co_occurrence": 6,
+    "pmi": -0.5208
+  },
+  {
+    "source": "academic collapse",
+    "target": "university reform",
+    "co_occurrence": 11,
+    "pmi": -0.5639
+  },
+  {
+    "source": "decline of academia",
+    "target": "university reform",
+    "co_occurrence": 14,
+    "pmi": -0.6521
+  },
+  {
+    "source": "outdated education model",
+    "target": "university reform",
+    "co_occurrence": 15,
+    "pmi": -0.6728
+  },
+  {
+    "source": "discrimination",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": -0.6728
+  },
+  {
+    "source": "faculty workload",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": -0.6728
+  },
+  {
+    "source": "course evaluation",
+    "target": "university reform",
+    "co_occurrence": 6,
+    "pmi": -0.6728
+  },
+  {
+    "source": "student wellbeing",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": -0.6728
+  },
+  {
+    "source": "authoritarianism",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": -0.6728
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "university reform",
+    "co_occurrence": 13,
+    "pmi": -0.6949
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "university reform",
+    "co_occurrence": 13,
+    "pmi": -0.6949
+  },
+  {
+    "source": "curricular design",
+    "target": "university reform",
+    "co_occurrence": 7,
+    "pmi": -0.7135
+  },
+  {
+    "source": "systemic education failure",
+    "target": "university reform",
+    "co_occurrence": 8,
+    "pmi": -0.7432
+  },
+  {
+    "source": "politicisation of science",
+    "target": "university reform",
+    "co_occurrence": 8,
+    "pmi": -0.8428
+  },
+  {
+    "source": "instructional excellence",
+    "target": "university reform",
+    "co_occurrence": 6,
+    "pmi": -0.9359
+  },
+  {
+    "source": "undergraduate pathway",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": -0.9359
+  },
+  {
+    "source": "classroom methods",
+    "target": "university reform",
+    "co_occurrence": 6,
+    "pmi": -1.0513
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "university reform",
+    "co_occurrence": 5,
+    "pmi": -1.0734
+  },
+  {
+    "source": "scholarly funding",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "pmi": -1.2578
+  },
+  {
+    "source": "empirical research",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "pmi": -1.3953
+  },
+  {
+    "source": "research productivity",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "pmi": -1.6363
+  },
+  {
+    "source": "participatory instruction",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": -1.6728
+  }
+]

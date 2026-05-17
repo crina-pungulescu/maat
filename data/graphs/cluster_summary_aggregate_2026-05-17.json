@@ -1,8 +1,8 @@
 [
   {
     "topic": "Higher Education Crisis",
-    "count": 213,
-    "score": 0.4705,
+    "count": 398,
+    "score": 0.4708,
     "topics": [
       "academic collapse",
       "academic model breakdown",
@@ -19,8 +19,8 @@
   },
   {
     "topic": "University Administration",
-    "count": 145,
-    "score": 0.4585,
+    "count": 278,
+    "score": 0.4601,
     "topics": [
       "organisational structure",
       "senior leadership",
@@ -34,8 +34,8 @@
   },
   {
     "topic": "Teaching And Learning",
-    "count": 135,
-    "score": 0.452,
+    "count": 259,
+    "score": 0.4521,
     "topics": [
       "STEM qualification",
       "bachelor qualification",
@@ -60,8 +60,8 @@
   },
   {
     "topic": "Student Experience",
-    "count": 80,
-    "score": 0.4512,
+    "count": 150,
+    "score": 0.45,
     "topics": [
       "mentor-student relationship",
       "student engagement",
@@ -76,8 +76,8 @@
   },
   {
     "topic": "Research Activities",
-    "count": 68,
-    "score": 0.4542,
+    "count": 131,
+    "score": 0.455,
     "topics": [
       "citation count",
       "empirical research",
@@ -93,27 +93,8 @@
     ]
   },
   {
-    "topic": "Academic Abuse",
-    "count": 38,
-    "score": 0.4246,
-    "topics": [
-      "administrative coercion",
-      "bureaucratic obstruction",
-      "career sabotage",
-      "disproportionate punishment",
-      "institutional abuse",
-      "institutional gatekeeping",
-      "professional marginalisation",
-      "reputation damage tactics",
-      "risks attached to reporting abuse",
-      "self-censorship",
-      "silencing criticism",
-      "suppressing dissent"
-    ]
-  },
-  {
     "topic": "Politics",
-    "count": 38,
+    "count": 75,
     "score": 0.4528,
     "topics": [
       "UN",
@@ -135,9 +116,28 @@
     ]
   },
   {
+    "topic": "Academic Abuse",
+    "count": 74,
+    "score": 0.424,
+    "topics": [
+      "administrative coercion",
+      "bureaucratic obstruction",
+      "career sabotage",
+      "disproportionate punishment",
+      "institutional abuse",
+      "institutional gatekeeping",
+      "professional marginalisation",
+      "reputation damage tactics",
+      "risks attached to reporting abuse",
+      "self-censorship",
+      "silencing criticism",
+      "suppressing dissent"
+    ]
+  },
+  {
     "topic": "Education Cost",
-    "count": 32,
-    "score": 0.4471,
+    "count": 60,
+    "score": 0.4451,
     "topics": [
       "debt",
       "financial aid",
@@ -150,8 +150,8 @@
   },
   {
     "topic": "Funding Flows",
-    "count": 28,
-    "score": 0.4517,
+    "count": 51,
+    "score": 0.4523,
     "topics": [
       "grant funding",
       "public funding",
@@ -161,8 +161,8 @@
   },
   {
     "topic": "Science Society",
-    "count": 24,
-    "score": 0.4351,
+    "count": 47,
+    "score": 0.4352,
     "topics": [
       "misinformation",
       "politicisation of science",
@@ -172,8 +172,8 @@
   },
   {
     "topic": "Regions And Countries",
-    "count": 24,
-    "score": 0.4703,
+    "count": 45,
+    "score": 0.4682,
     "topics": [
       "africa",
       "argentina",
@@ -186,6 +186,7 @@
       "italy",
       "latin america",
       "north africa",
+      "palestine",
       "russia",
       "south africa",
       "spain",
@@ -195,7 +196,7 @@
   },
   {
     "topic": "Systemic Inequity",
-    "count": 22,
+    "count": 43,
     "score": 0.4533,
     "topics": [
       "DEI",
@@ -212,21 +213,8 @@
     ]
   },
   {
-    "topic": "Academic Freedom",
-    "count": 21,
-    "score": 0.4346,
-    "topics": [
-      "censorship",
-      "freedom of expression",
-      "freedom of opinion",
-      "freedom of speech",
-      "intellectual autonomy",
-      "thought independence"
-    ]
-  },
-  {
     "topic": "Degradation Signals",
-    "count": 21,
+    "count": 42,
     "score": 0.4397,
     "topics": [
       "employability gap",
@@ -241,9 +229,22 @@
     ]
   },
   {
+    "topic": "Academic Freedom",
+    "count": 41,
+    "score": 0.4342,
+    "topics": [
+      "censorship",
+      "freedom of expression",
+      "freedom of opinion",
+      "freedom of speech",
+      "intellectual autonomy",
+      "thought independence"
+    ]
+  },
+  {
     "topic": "Educational Technology",
-    "count": 20,
-    "score": 0.4643,
+    "count": 39,
+    "score": 0.4647,
     "topics": [
       "AI assisted process",
       "artificial intelligence",
@@ -253,18 +254,8 @@
     ]
   },
   {
-    "topic": "Admissions Access",
-    "count": 20,
-    "score": 0.4355,
-    "topics": [
-      "affirmative action",
-      "college admissions",
-      "selective admissions"
-    ]
-  },
-  {
     "topic": "Faculty Labour",
-    "count": 19,
+    "count": 38,
     "score": 0.4466,
     "topics": [
       "adjuncts",
@@ -279,8 +270,18 @@
     ]
   },
   {
+    "topic": "Admissions Access",
+    "count": 37,
+    "score": 0.4372,
+    "topics": [
+      "affirmative action",
+      "college admissions",
+      "selective admissions"
+    ]
+  },
+  {
     "topic": "Accountability Gaps",
-    "count": 13,
+    "count": 25,
     "score": 0.4105,
     "topics": [
       "abuse of office",
@@ -293,8 +294,8 @@
   },
   {
     "topic": "Internationalisation",
-    "count": 7,
-    "score": 0.4517,
+    "count": 13,
+    "score": 0.4527,
     "topics": [
       "international cohorts",
       "international partnerships",
@@ -303,7 +304,7 @@
   },
   {
     "topic": "Financial Constraints",
-    "count": 6,
+    "count": 12,
     "score": 0.4475,
     "topics": [
       "austerity",
@@ -313,7 +314,7 @@
   },
   {
     "topic": "Campus Infrastructure",
-    "count": 4,
+    "count": 8,
     "score": 0.4226,
     "topics": [
       "infrastructure",
@@ -322,12 +323,36 @@
   },
   {
     "topic": "Ethical Conflicts",
-    "count": 3,
+    "count": 4,
     "score": 0.4669,
     "topics": [
       "dishonesty",
       "ethical impropriety",
       "plagiarism"
+    ]
+  },
+  {
+    "topic": "Norm Violations",
+    "count": 2,
+    "score": 0.4077,
+    "topics": [
+      "misconduct"
+    ]
+  },
+  {
+    "topic": "Health Professions",
+    "count": 2,
+    "score": 0.4631,
+    "topics": [
+      "training hospitals"
+    ]
+  },
+  {
+    "topic": "Future Outlook",
+    "count": 2,
+    "score": 0.4697,
+    "topics": [
+      "pessimism"
     ]
   },
   {
@@ -337,30 +362,6 @@
     "topics": [
       "integrity",
       "transparency"
-    ]
-  },
-  {
-    "topic": "Norm Violations",
-    "count": 1,
-    "score": 0.4077,
-    "topics": [
-      "misconduct"
-    ]
-  },
-  {
-    "topic": "Health Professions",
-    "count": 1,
-    "score": 0.4631,
-    "topics": [
-      "training hospitals"
-    ]
-  },
-  {
-    "topic": "Future Outlook",
-    "count": 1,
-    "score": 0.4697,
-    "topics": [
-      "pessimism"
     ]
   }
 ]
