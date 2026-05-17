@@ -481,7 +481,15 @@ def fetch_rss_articles(seen):
 
         log(f"Fetching RSS feed: {url}")
 
-        feed = feedparser.parse(url)
+        try:
+
+            feed = feedparser.parse(url)
+
+        except Exception as e:
+
+            log(f"RSS fetch failed: {url} | {e}")
+
+            continue
 
         for entry in feed.entries[:20]:
 
