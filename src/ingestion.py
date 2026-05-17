@@ -572,7 +572,7 @@ def fetch_rss_articles(seen):
 
             continue
 
-        for entry in feed.entries[:50]:
+        for entry in feed.entries[:100]:
 
             text = (entry.get("title", "") + " " + entry.get("summary", "")).strip()
 
