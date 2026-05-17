@@ -168,9 +168,9 @@ RSS_FEEDS = [
     "https://www.wsj.com/xml/rss/3_7085.xml",
     "https://www.reuters.com/rssFeed",
     "https://apnews.com/hub/rss",
-    "https://news.google.com/rss/search?q=world+news",
-    "https://news.google.com/rss/search?q=technology",
-    "https://news.google.com/rss/search?q=politics",
+    "https://news.google.com/rss/search?q=students",
+    "https://news.google.com/rss/search?q=university",
+    "https://news.google.com/rss/search?q=academia",
     "https://news.google.com/rss/search?q=education",
     "https://www.reuters.com/world/rss",
     "https://www.reuters.com/rssFeed/topNews",
@@ -483,7 +483,7 @@ def fetch_rss_articles(seen):
 
         feed = feedparser.parse(url)
 
-        for entry in feed.entries[:100]:
+        for entry in feed.entries[:20]:
 
             text = (entry.get("title", "") + " " + entry.get("summary", "")).strip()
 
