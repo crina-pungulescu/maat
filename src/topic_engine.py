@@ -152,8 +152,8 @@ MAAT_TOPICS = {
    "faculty_labour": [
         "faculty contracts",
         "adjuncts",
-        "precarity"
-        "labour exploitation"
+        "precarity",
+        "labour exploitation",
         "faculty careers",
         "unpaid labour",
         "faculty workload",
