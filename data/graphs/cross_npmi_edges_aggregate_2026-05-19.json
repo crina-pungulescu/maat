@@ -1,0 +1,6322 @@
+[
+  {
+    "source": "incompetence",
+    "target": "thought independence",
+    "co_occurrence": 3,
+    "npmi": 1.0,
+    "source_cluster": "degradation_signals",
+    "target_cluster": "academic_freedom"
+  },
+  {
+    "source": "austerity",
+    "target": "opportunistic growth",
+    "co_occurrence": 4,
+    "npmi": 1.0,
+    "source_cluster": "financial_constraints",
+    "target_cluster": "degradation_signals"
+  },
+  {
+    "source": "career sabotage",
+    "target": "job insecurity",
+    "co_occurrence": 3,
+    "npmi": 0.911,
+    "source_cluster": "academic abuse",
+    "target_cluster": "faculty_labour"
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "weak oversight",
+    "co_occurrence": 4,
+    "npmi": 0.8623,
+    "source_cluster": "academic abuse",
+    "target_cluster": "accountability_gaps"
+  },
+  {
+    "source": "affirmative action",
+    "target": "racism",
+    "co_occurrence": 3,
+    "npmi": 0.822,
+    "source_cluster": "admissions_access",
+    "target_cluster": "systemic_inequity"
+  },
+  {
+    "source": "employability gap",
+    "target": "job insecurity",
+    "co_occurrence": 3,
+    "npmi": 0.822,
+    "source_cluster": "degradation_signals",
+    "target_cluster": "faculty_labour"
+  },
+  {
+    "source": "austerity",
+    "target": "weak oversight",
+    "co_occurrence": 3,
+    "npmi": 0.822,
+    "source_cluster": "financial_constraints",
+    "target_cluster": "accountability_gaps"
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "weak oversight",
+    "co_occurrence": 3,
+    "npmi": 0.822,
+    "source_cluster": "degradation_signals",
+    "target_cluster": "accountability_gaps"
+  },
+  {
+    "source": "high-impact research",
+    "target": "international cohorts",
+    "co_occurrence": 3,
+    "npmi": 0.822,
+    "source_cluster": "research_activities",
+    "target_cluster": "internationalisation"
+  },
+  {
+    "source": "propaganda",
+    "target": "silencing criticism",
+    "co_occurrence": 3,
+    "npmi": 0.7855,
+    "source_cluster": "politics",
+    "target_cluster": "academic abuse"
+  },
+  {
+    "source": "high-impact research",
+    "target": "scholarly funding",
+    "co_occurrence": 4,
+    "npmi": 0.7646,
+    "source_cluster": "research_activities",
+    "target_cluster": "funding_flows"
+  },
+  {
+    "source": "international cohorts",
+    "target": "scholarly funding",
+    "co_occurrence": 4,
+    "npmi": 0.7646,
+    "source_cluster": "internationalisation",
+    "target_cluster": "funding_flows"
+  },
+  {
+    "source": "affirmative action",
+    "target": "discrimination",
+    "co_occurrence": 3,
+    "npmi": 0.7529,
+    "source_cluster": "admissions_access",
+    "target_cluster": "systemic_inequity"
+  },
+  {
+    "source": "laboratories",
+    "target": "scientific expertise",
+    "co_occurrence": 3,
+    "npmi": 0.7529,
+    "source_cluster": "campus_infrastructure",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "international cohorts",
+    "target": "quantitative research",
+    "co_occurrence": 3,
+    "npmi": 0.7529,
+    "source_cluster": "internationalisation",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "theoretical research",
+    "co_occurrence": 5,
+    "npmi": 0.7527,
+    "source_cluster": "academic_freedom",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "doctoral qualification",
+    "target": "faculty workload",
+    "co_occurrence": 3,
+    "npmi": 0.7379,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "faculty_labour"
+  },
+  {
+    "source": "incompetence",
+    "target": "theoretical research",
+    "co_occurrence": 3,
+    "npmi": 0.7379,
+    "source_cluster": "degradation_signals",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "theoretical research",
+    "target": "thought independence",
+    "co_occurrence": 3,
+    "npmi": 0.7379,
+    "source_cluster": "research_activities",
+    "target_cluster": "academic_freedom"
+  },
+  {
+    "source": "scientific expertise",
+    "target": "theoretical research",
+    "co_occurrence": 4,
+    "npmi": 0.7342,
+    "source_cluster": "science_society",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "empirical research",
+    "target": "politicisation of science",
+    "co_occurrence": 9,
+    "npmi": 0.7336,
+    "source_cluster": "research_activities",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "political repression",
+    "co_occurrence": 4,
+    "npmi": 0.7246,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "politics"
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "silencing criticism",
+    "co_occurrence": 4,
+    "npmi": 0.7246,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "academic abuse"
+  },
+  {
+    "source": "scholarships",
+    "target": "selective admissions",
+    "co_occurrence": 4,
+    "npmi": 0.7246,
+    "source_cluster": "education_cost",
+    "target_cluster": "admissions_access"
+  },
+  {
+    "source": "curricular design",
+    "target": "student engagement",
+    "co_occurrence": 12,
+    "npmi": 0.7233,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "political repression",
+    "target": "suppressing dissent",
+    "co_occurrence": 5,
+    "npmi": 0.717,
+    "source_cluster": "politics",
+    "target_cluster": "academic abuse"
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "suppressing dissent",
+    "co_occurrence": 5,
+    "npmi": 0.717,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "academic abuse"
+  },
+  {
+    "source": "peer review",
+    "target": "silencing criticism",
+    "co_occurrence": 3,
+    "npmi": 0.6965,
+    "source_cluster": "research_activities",
+    "target_cluster": "academic abuse"
+  },
+  {
+    "source": "debt",
+    "target": "student retention",
+    "co_occurrence": 3,
+    "npmi": 0.6965,
+    "source_cluster": "education_cost",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "loan",
+    "target": "student retention",
+    "co_occurrence": 3,
+    "npmi": 0.6965,
+    "source_cluster": "education_cost",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "student satisfaction",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "npmi": 0.6965,
+    "source_cluster": "student_experience",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "student wellbeing",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "npmi": 0.6965,
+    "source_cluster": "student_experience",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "authoritarianism",
+    "target": "legitimacy crisis",
+    "co_occurrence": 3,
+    "npmi": 0.6965,
+    "source_cluster": "politics",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "democracy",
+    "target": "legitimacy crisis",
+    "co_occurrence": 3,
+    "npmi": 0.6965,
+    "source_cluster": "politics",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "legitimacy crisis",
+    "co_occurrence": 3,
+    "npmi": 0.6965,
+    "source_cluster": "politics",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "austerity",
+    "target": "bureaucratic obstruction",
+    "co_occurrence": 3,
+    "npmi": 0.6965,
+    "source_cluster": "financial_constraints",
+    "target_cluster": "academic abuse"
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "opportunistic growth",
+    "co_occurrence": 3,
+    "npmi": 0.6965,
+    "source_cluster": "academic abuse",
+    "target_cluster": "degradation_signals"
+  },
+  {
+    "source": "high-impact research",
+    "target": "silencing criticism",
+    "co_occurrence": 3,
+    "npmi": 0.6965,
+    "source_cluster": "research_activities",
+    "target_cluster": "academic abuse"
+  },
+  {
+    "source": "international cohorts",
+    "target": "silencing criticism",
+    "co_occurrence": 3,
+    "npmi": 0.6965,
+    "source_cluster": "internationalisation",
+    "target_cluster": "academic abuse"
+  },
+  {
+    "source": "quantitative research",
+    "target": "scholarly funding",
+    "co_occurrence": 4,
+    "npmi": 0.6888,
+    "source_cluster": "research_activities",
+    "target_cluster": "funding_flows"
+  },
+  {
+    "source": "quantitative research",
+    "target": "scientific expertise",
+    "co_occurrence": 3,
+    "npmi": 0.6839,
+    "source_cluster": "research_activities",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "course evaluation",
+    "target": "scholarships",
+    "co_occurrence": 5,
+    "npmi": 0.6783,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "outdated education model",
+    "target": "pedagogical innovation",
+    "co_occurrence": 20,
+    "npmi": 0.6705,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "course evaluation",
+    "target": "student engagement",
+    "co_occurrence": 10,
+    "npmi": 0.6582,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "empirical research",
+    "target": "international cohorts",
+    "co_occurrence": 4,
+    "npmi": 0.6564,
+    "source_cluster": "research_activities",
+    "target_cluster": "internationalisation"
+  },
+  {
+    "source": "international cohorts",
+    "target": "research collaboration",
+    "co_occurrence": 4,
+    "npmi": 0.6564,
+    "source_cluster": "internationalisation",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "educational decline",
+    "target": "school budgets",
+    "co_occurrence": 12,
+    "npmi": 0.6554,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "funding_flows"
+  },
+  {
+    "source": "politicisation of science",
+    "target": "quantitative research",
+    "co_occurrence": 5,
+    "npmi": 0.6489,
+    "source_cluster": "science_society",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "freedom of speech",
+    "target": "suppressing dissent",
+    "co_occurrence": 4,
+    "npmi": 0.6488,
+    "source_cluster": "academic_freedom",
+    "target_cluster": "academic abuse"
+  },
+  {
+    "source": "employability gap",
+    "target": "faculty workload",
+    "co_occurrence": 3,
+    "npmi": 0.6488,
+    "source_cluster": "degradation_signals",
+    "target_cluster": "faculty_labour"
+  },
+  {
+    "source": "international cohorts",
+    "target": "theoretical research",
+    "co_occurrence": 3,
+    "npmi": 0.6488,
+    "source_cluster": "internationalisation",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "course evaluation",
+    "target": "tuition",
+    "co_occurrence": 6,
+    "npmi": 0.6391,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "politicisation of science",
+    "target": "theoretical research",
+    "co_occurrence": 6,
+    "npmi": 0.6348,
+    "source_cluster": "science_society",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "freedom of speech",
+    "target": "political repression",
+    "co_occurrence": 3,
+    "npmi": 0.6275,
+    "source_cluster": "academic_freedom",
+    "target_cluster": "politics"
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "populism",
+    "co_occurrence": 3,
+    "npmi": 0.6275,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "politics"
+  },
+  {
+    "source": "quantitative research",
+    "target": "silencing criticism",
+    "co_occurrence": 3,
+    "npmi": 0.6275,
+    "source_cluster": "research_activities",
+    "target_cluster": "academic abuse"
+  },
+  {
+    "source": "scholarly funding",
+    "target": "silencing criticism",
+    "co_occurrence": 4,
+    "npmi": 0.6269,
+    "source_cluster": "funding_flows",
+    "target_cluster": "academic abuse"
+  },
+  {
+    "source": "college admissions",
+    "target": "scholarships",
+    "co_occurrence": 4,
+    "npmi": 0.6269,
+    "source_cluster": "admissions_access",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "austerity",
+    "target": "research productivity",
+    "co_occurrence": 4,
+    "npmi": 0.6269,
+    "source_cluster": "financial_constraints",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "research productivity",
+    "co_occurrence": 4,
+    "npmi": 0.6269,
+    "source_cluster": "degradation_signals",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "course evaluation",
+    "target": "student life",
+    "co_occurrence": 9,
+    "npmi": 0.6257,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "curricular design",
+    "target": "student life",
+    "co_occurrence": 10,
+    "npmi": 0.6203,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "college admissions",
+    "target": "tuition",
+    "co_occurrence": 5,
+    "npmi": 0.6113,
+    "source_cluster": "admissions_access",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "curricular design",
+    "target": "scholarships",
+    "co_occurrence": 5,
+    "npmi": 0.6113,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "curricular design",
+    "target": "selective admissions",
+    "co_occurrence": 5,
+    "npmi": 0.6113,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "admissions_access"
+  },
+  {
+    "source": "peer review",
+    "target": "scholarly funding",
+    "co_occurrence": 3,
+    "npmi": 0.6075,
+    "source_cluster": "research_activities",
+    "target_cluster": "funding_flows"
+  },
+  {
+    "source": "college admissions",
+    "target": "student satisfaction",
+    "co_occurrence": 3,
+    "npmi": 0.6075,
+    "source_cluster": "admissions_access",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "college admissions",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "npmi": 0.6075,
+    "source_cluster": "admissions_access",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "classroom methods",
+    "target": "systemic education failure",
+    "co_occurrence": 10,
+    "npmi": 0.6002,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "politicisation of science",
+    "target": "weak oversight",
+    "co_occurrence": 4,
+    "npmi": 0.5997,
+    "source_cluster": "science_society",
+    "target_cluster": "accountability_gaps"
+  },
+  {
+    "source": "high-impact research",
+    "target": "politicisation of science",
+    "co_occurrence": 4,
+    "npmi": 0.5997,
+    "source_cluster": "research_activities",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "international cohorts",
+    "target": "politicisation of science",
+    "co_occurrence": 4,
+    "npmi": 0.5997,
+    "source_cluster": "internationalisation",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "empirical research",
+    "target": "incompetence",
+    "co_occurrence": 3,
+    "npmi": 0.598,
+    "source_cluster": "research_activities",
+    "target_cluster": "degradation_signals"
+  },
+  {
+    "source": "empirical research",
+    "target": "thought independence",
+    "co_occurrence": 3,
+    "npmi": 0.598,
+    "source_cluster": "research_activities",
+    "target_cluster": "academic_freedom"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "systemic education failure",
+    "co_occurrence": 13,
+    "npmi": 0.5958,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "faculty careers",
+    "target": "postgraduate pathway",
+    "co_occurrence": 7,
+    "npmi": 0.5845,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "edtech",
+    "target": "research collaboration",
+    "co_occurrence": 4,
+    "npmi": 0.5807,
+    "source_cluster": "educational_technology",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "research collaboration",
+    "target": "scientific expertise",
+    "co_occurrence": 4,
+    "npmi": 0.5807,
+    "source_cluster": "research_activities",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "scientific expertise",
+    "co_occurrence": 3,
+    "npmi": 0.5798,
+    "source_cluster": "academic_freedom",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "education crisis",
+    "target": "school budgets",
+    "co_occurrence": 15,
+    "npmi": 0.5756,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "funding_flows"
+  },
+  {
+    "source": "instructional practice",
+    "target": "intellectual autonomy",
+    "co_occurrence": 4,
+    "npmi": 0.5745,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "academic_freedom"
+  },
+  {
+    "source": "student retention",
+    "target": "tuition affordability",
+    "co_occurrence": 5,
+    "npmi": 0.5726,
+    "source_cluster": "student_experience",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "legitimacy crisis",
+    "co_occurrence": 3,
+    "npmi": 0.5711,
+    "source_cluster": "academic abuse",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "political repression",
+    "target": "silencing criticism",
+    "co_occurrence": 3,
+    "npmi": 0.5711,
+    "source_cluster": "politics",
+    "target_cluster": "academic abuse"
+  },
+  {
+    "source": "degree pathway",
+    "target": "research productivity",
+    "co_occurrence": 3,
+    "npmi": 0.5711,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "incompetence",
+    "target": "research productivity",
+    "co_occurrence": 3,
+    "npmi": 0.5711,
+    "source_cluster": "degradation_signals",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "research productivity",
+    "target": "thought independence",
+    "co_occurrence": 3,
+    "npmi": 0.5711,
+    "source_cluster": "research_activities",
+    "target_cluster": "academic_freedom"
+  },
+  {
+    "source": "classroom methods",
+    "target": "outdated education model",
+    "co_occurrence": 14,
+    "npmi": 0.571,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "classroom methods",
+    "target": "school budgets",
+    "co_occurrence": 10,
+    "npmi": 0.5683,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "funding_flows"
+  },
+  {
+    "source": "educational decline",
+    "target": "tuition affordability",
+    "co_occurrence": 8,
+    "npmi": 0.5661,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "research productivity",
+    "co_occurrence": 5,
+    "npmi": 0.5546,
+    "source_cluster": "academic_freedom",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "course evaluation",
+    "target": "selective admissions",
+    "co_occurrence": 4,
+    "npmi": 0.5511,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "admissions_access"
+  },
+  {
+    "source": "research productivity",
+    "target": "scientific expertise",
+    "co_occurrence": 4,
+    "npmi": 0.5511,
+    "source_cluster": "research_activities",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "austerity",
+    "target": "systemic education failure",
+    "co_occurrence": 4,
+    "npmi": 0.5511,
+    "source_cluster": "financial_constraints",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "systemic education failure",
+    "co_occurrence": 4,
+    "npmi": 0.5511,
+    "source_cluster": "degradation_signals",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "systemic education failure",
+    "target": "weak oversight",
+    "co_occurrence": 4,
+    "npmi": 0.5511,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "accountability_gaps"
+  },
+  {
+    "source": "college admissions",
+    "target": "student life",
+    "co_occurrence": 7,
+    "npmi": 0.548,
+    "source_cluster": "admissions_access",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "debt",
+    "target": "student protest",
+    "co_occurrence": 3,
+    "npmi": 0.5463,
+    "source_cluster": "education_cost",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "loan",
+    "target": "student protest",
+    "co_occurrence": 3,
+    "npmi": 0.5463,
+    "source_cluster": "education_cost",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "incompetence",
+    "target": "politicisation of science",
+    "co_occurrence": 3,
+    "npmi": 0.5463,
+    "source_cluster": "degradation_signals",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "politicisation of science",
+    "target": "thought independence",
+    "co_occurrence": 3,
+    "npmi": 0.5463,
+    "source_cluster": "science_society",
+    "target_cluster": "academic_freedom"
+  },
+  {
+    "source": "student engagement",
+    "target": "tuition",
+    "co_occurrence": 8,
+    "npmi": 0.5407,
+    "source_cluster": "student_experience",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "course evaluation",
+    "target": "student satisfaction",
+    "co_occurrence": 3,
+    "npmi": 0.5385,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "course evaluation",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "npmi": 0.5385,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "participatory instruction",
+    "target": "student satisfaction",
+    "co_occurrence": 3,
+    "npmi": 0.5385,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "participatory instruction",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "npmi": 0.5385,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "empirical research",
+    "target": "scholarly funding",
+    "co_occurrence": 5,
+    "npmi": 0.5376,
+    "source_cluster": "research_activities",
+    "target_cluster": "funding_flows"
+  },
+  {
+    "source": "research collaboration",
+    "target": "scholarly funding",
+    "co_occurrence": 5,
+    "npmi": 0.5376,
+    "source_cluster": "research_activities",
+    "target_cluster": "funding_flows"
+  },
+  {
+    "source": "pedagogical methods",
+    "target": "systemic education failure",
+    "co_occurrence": 5,
+    "npmi": 0.5293,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "college admissions",
+    "target": "student retention",
+    "co_occurrence": 4,
+    "npmi": 0.5292,
+    "source_cluster": "admissions_access",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student engagement",
+    "co_occurrence": 10,
+    "npmi": 0.5289,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "scholarships",
+    "target": "student engagement",
+    "co_occurrence": 6,
+    "npmi": 0.5258,
+    "source_cluster": "education_cost",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "politicisation of science",
+    "target": "populism",
+    "co_occurrence": 4,
+    "npmi": 0.5239,
+    "source_cluster": "science_society",
+    "target_cluster": "politics"
+  },
+  {
+    "source": "faculty contracts",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "npmi": 0.5234,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "faculty workload",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "npmi": 0.5234,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "pedagogical methods",
+    "co_occurrence": 3,
+    "npmi": 0.5234,
+    "source_cluster": "academic_freedom",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "silencing criticism",
+    "target": "theoretical research",
+    "co_occurrence": 3,
+    "npmi": 0.5234,
+    "source_cluster": "academic abuse",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "theoretical research",
+    "co_occurrence": 3,
+    "npmi": 0.5234,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "politicisation of science",
+    "target": "research productivity",
+    "co_occurrence": 7,
+    "npmi": 0.5144,
+    "source_cluster": "science_society",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "educational instability",
+    "target": "school budgets",
+    "co_occurrence": 13,
+    "npmi": 0.5121,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "funding_flows"
+  },
+  {
+    "source": "empirical research",
+    "target": "laboratories",
+    "co_occurrence": 3,
+    "npmi": 0.509,
+    "source_cluster": "research_activities",
+    "target_cluster": "campus_infrastructure"
+  },
+  {
+    "source": "laboratories",
+    "target": "research collaboration",
+    "co_occurrence": 3,
+    "npmi": 0.509,
+    "source_cluster": "campus_infrastructure",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "austerity",
+    "target": "empirical research",
+    "co_occurrence": 3,
+    "npmi": 0.509,
+    "source_cluster": "financial_constraints",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "empirical research",
+    "target": "opportunistic growth",
+    "co_occurrence": 3,
+    "npmi": 0.509,
+    "source_cluster": "research_activities",
+    "target_cluster": "degradation_signals"
+  },
+  {
+    "source": "empirical research",
+    "target": "weak oversight",
+    "co_occurrence": 3,
+    "npmi": 0.509,
+    "source_cluster": "research_activities",
+    "target_cluster": "accountability_gaps"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "pedagogical methods",
+    "co_occurrence": 6,
+    "npmi": 0.5066,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "classroom methods",
+    "co_occurrence": 11,
+    "npmi": 0.505,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "school budgets",
+    "target": "tuition affordability",
+    "co_occurrence": 7,
+    "npmi": 0.5038,
+    "source_cluster": "funding_flows",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "college admissions",
+    "target": "student engagement",
+    "co_occurrence": 7,
+    "npmi": 0.5038,
+    "source_cluster": "admissions_access",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "course evaluation",
+    "target": "school budgets",
+    "co_occurrence": 7,
+    "npmi": 0.5038,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "funding_flows"
+  },
+  {
+    "source": "instructional practice",
+    "target": "student engagement",
+    "co_occurrence": 7,
+    "npmi": 0.5038,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "education crisis",
+    "target": "student life",
+    "co_occurrence": 15,
+    "npmi": 0.503,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "course architecture",
+    "target": "systemic education failure",
+    "co_occurrence": 3,
+    "npmi": 0.502,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "pedagogical innovation",
+    "co_occurrence": 7,
+    "npmi": 0.5012,
+    "source_cluster": "academic_freedom",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "participatory instruction",
+    "co_occurrence": 4,
+    "npmi": 0.4987,
+    "source_cluster": "academic_freedom",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "student life",
+    "target": "tuition",
+    "co_occurrence": 7,
+    "npmi": 0.4986,
+    "source_cluster": "student_experience",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "participatory instruction",
+    "target": "student engagement",
+    "co_occurrence": 8,
+    "npmi": 0.4939,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "course evaluation",
+    "target": "education crisis",
+    "co_occurrence": 10,
+    "npmi": 0.4923,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "student retention",
+    "target": "tuition",
+    "co_occurrence": 4,
+    "npmi": 0.4892,
+    "source_cluster": "student_experience",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "faculty careers",
+    "target": "undergraduate pathway",
+    "co_occurrence": 4,
+    "npmi": 0.4892,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "faculty careers",
+    "target": "university bylaws",
+    "co_occurrence": 6,
+    "npmi": 0.4883,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "tuition",
+    "co_occurrence": 9,
+    "npmi": 0.4851,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "classroom methods",
+    "target": "education crisis",
+    "co_occurrence": 13,
+    "npmi": 0.4844,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university policy",
+    "co_occurrence": 22,
+    "npmi": 0.4837,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "faculty careers",
+    "target": "university administrators",
+    "co_occurrence": 7,
+    "npmi": 0.4833,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "instructional practice",
+    "co_occurrence": 7,
+    "npmi": 0.4833,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "scholarships",
+    "target": "student retention",
+    "co_occurrence": 3,
+    "npmi": 0.4821,
+    "source_cluster": "education_cost",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "curricular design",
+    "target": "student satisfaction",
+    "co_occurrence": 3,
+    "npmi": 0.4821,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "curricular design",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "npmi": 0.4821,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "faculty careers",
+    "target": "organisational structure",
+    "co_occurrence": 3,
+    "npmi": 0.4821,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "research productivity",
+    "target": "weak oversight",
+    "co_occurrence": 3,
+    "npmi": 0.4821,
+    "source_cluster": "research_activities",
+    "target_cluster": "accountability_gaps"
+  },
+  {
+    "source": "international cohorts",
+    "target": "research productivity",
+    "co_occurrence": 3,
+    "npmi": 0.4821,
+    "source_cluster": "internationalisation",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "selective admissions",
+    "target": "student retention",
+    "co_occurrence": 3,
+    "npmi": 0.4821,
+    "source_cluster": "admissions_access",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "course evaluation",
+    "target": "educational decline",
+    "co_occurrence": 7,
+    "npmi": 0.4784,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "politicisation of science",
+    "target": "scholarly funding",
+    "co_occurrence": 5,
+    "npmi": 0.4762,
+    "source_cluster": "science_society",
+    "target_cluster": "funding_flows"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "participatory instruction",
+    "co_occurrence": 8,
+    "npmi": 0.4722,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "course evaluation",
+    "target": "educational instability",
+    "co_occurrence": 9,
+    "npmi": 0.4718,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "academic collapse",
+    "target": "austerity",
+    "co_occurrence": 4,
+    "npmi": 0.4708,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "financial_constraints"
+  },
+  {
+    "source": "academic collapse",
+    "target": "opportunistic growth",
+    "co_occurrence": 4,
+    "npmi": 0.4708,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "degradation_signals"
+  },
+  {
+    "source": "edtech",
+    "target": "participatory instruction",
+    "co_occurrence": 3,
+    "npmi": 0.4695,
+    "source_cluster": "educational_technology",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "school budgets",
+    "co_occurrence": 13,
+    "npmi": 0.4685,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "funding_flows"
+  },
+  {
+    "source": "outdated education model",
+    "target": "school budgets",
+    "co_occurrence": 13,
+    "npmi": 0.4685,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "funding_flows"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "curricular design",
+    "co_occurrence": 9,
+    "npmi": 0.468,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "pedagogical innovation",
+    "co_occurrence": 14,
+    "npmi": 0.4669,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "faculty workload",
+    "target": "postgraduate pathway",
+    "co_occurrence": 4,
+    "npmi": 0.4664,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "educational decline",
+    "target": "over-enrollment",
+    "co_occurrence": 3,
+    "npmi": 0.4633,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "degradation_signals"
+  },
+  {
+    "source": "classroom methods",
+    "target": "educational decline",
+    "co_occurrence": 9,
+    "npmi": 0.4625,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "scholarships",
+    "target": "student life",
+    "co_occurrence": 5,
+    "npmi": 0.4623,
+    "source_cluster": "education_cost",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "student life",
+    "target": "undergraduate pathway",
+    "co_occurrence": 5,
+    "npmi": 0.4623,
+    "source_cluster": "student_experience",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "selective admissions",
+    "target": "student life",
+    "co_occurrence": 5,
+    "npmi": 0.4623,
+    "source_cluster": "admissions_access",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "curricular design",
+    "target": "tuition",
+    "co_occurrence": 5,
+    "npmi": 0.4623,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "political repression",
+    "target": "student protest",
+    "co_occurrence": 4,
+    "npmi": 0.462,
+    "source_cluster": "politics",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "instructional excellence",
+    "target": "scholarships",
+    "co_occurrence": 4,
+    "npmi": 0.462,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "instructional excellence",
+    "target": "selective admissions",
+    "co_occurrence": 4,
+    "npmi": 0.462,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "admissions_access"
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "politicisation of science",
+    "co_occurrence": 4,
+    "npmi": 0.462,
+    "source_cluster": "academic abuse",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "politicisation of science",
+    "co_occurrence": 10,
+    "npmi": 0.46,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "laboratories",
+    "target": "politicisation of science",
+    "co_occurrence": 3,
+    "npmi": 0.4573,
+    "source_cluster": "campus_infrastructure",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "austerity",
+    "target": "politicisation of science",
+    "co_occurrence": 3,
+    "npmi": 0.4573,
+    "source_cluster": "financial_constraints",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "politicisation of science",
+    "co_occurrence": 3,
+    "npmi": 0.4573,
+    "source_cluster": "degradation_signals",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "politicisation of science",
+    "target": "qualitative research",
+    "co_occurrence": 3,
+    "npmi": 0.4573,
+    "source_cluster": "science_society",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "authoritarianism",
+    "target": "politicisation of science",
+    "co_occurrence": 3,
+    "npmi": 0.4573,
+    "source_cluster": "politics",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "democracy",
+    "target": "politicisation of science",
+    "co_occurrence": 3,
+    "npmi": 0.4573,
+    "source_cluster": "politics",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "politicisation of science",
+    "co_occurrence": 3,
+    "npmi": 0.4573,
+    "source_cluster": "politics",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "politicisation of science",
+    "target": "research collaboration",
+    "co_occurrence": 6,
+    "npmi": 0.4567,
+    "source_cluster": "science_society",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "participatory instruction",
+    "target": "student life",
+    "co_occurrence": 7,
+    "npmi": 0.4544,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "education crisis",
+    "target": "university policy",
+    "co_occurrence": 22,
+    "npmi": 0.4543,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "college admissions",
+    "target": "course evaluation",
+    "co_occurrence": 4,
+    "npmi": 0.4534,
+    "source_cluster": "admissions_access",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "course evaluation",
+    "target": "student retention",
+    "co_occurrence": 4,
+    "npmi": 0.4534,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "instructional excellence",
+    "target": "outdated education model",
+    "co_occurrence": 11,
+    "npmi": 0.449,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "decline of academia",
+    "target": "pedagogical innovation",
+    "co_occurrence": 15,
+    "npmi": 0.4469,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "intellectual autonomy",
+    "co_occurrence": 6,
+    "npmi": 0.4459,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "academic_freedom"
+  },
+  {
+    "source": "loan",
+    "target": "student life",
+    "co_occurrence": 3,
+    "npmi": 0.4456,
+    "source_cluster": "education_cost",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "educational instability",
+    "target": "student life",
+    "co_occurrence": 13,
+    "npmi": 0.4454,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "educational instability",
+    "target": "tuition",
+    "co_occurrence": 8,
+    "npmi": 0.4416,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "student life",
+    "target": "university policy",
+    "co_occurrence": 16,
+    "npmi": 0.4406,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "empirical research",
+    "target": "scientific expertise",
+    "co_occurrence": 3,
+    "npmi": 0.44,
+    "source_cluster": "research_activities",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "education crisis",
+    "target": "student engagement",
+    "co_occurrence": 15,
+    "npmi": 0.4381,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "austerity",
+    "co_occurrence": 4,
+    "npmi": 0.4368,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "financial_constraints"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "opportunistic growth",
+    "co_occurrence": 4,
+    "npmi": 0.4368,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "degradation_signals"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "tuition affordability",
+    "co_occurrence": 9,
+    "npmi": 0.4357,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "scholarly funding",
+    "target": "theoretical research",
+    "co_occurrence": 3,
+    "npmi": 0.4344,
+    "source_cluster": "funding_flows",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "student protest",
+    "target": "suppressing dissent",
+    "co_occurrence": 5,
+    "npmi": 0.4329,
+    "source_cluster": "student_experience",
+    "target_cluster": "academic abuse"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "instructional excellence",
+    "co_occurrence": 9,
+    "npmi": 0.4305,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "educational decline",
+    "target": "tuition",
+    "co_occurrence": 6,
+    "npmi": 0.4301,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "postgraduate pathway",
+    "co_occurrence": 8,
+    "npmi": 0.4299,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "academic collapse",
+    "target": "over-enrollment",
+    "co_occurrence": 3,
+    "npmi": 0.4289,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "degradation_signals"
+  },
+  {
+    "source": "academic collapse",
+    "target": "programme massification",
+    "co_occurrence": 3,
+    "npmi": 0.4289,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "degradation_signals"
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student life",
+    "co_occurrence": 8,
+    "npmi": 0.4241,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "student engagement",
+    "target": "undergraduate pathway",
+    "co_occurrence": 5,
+    "npmi": 0.4236,
+    "source_cluster": "student_experience",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "selective admissions",
+    "target": "student engagement",
+    "co_occurrence": 5,
+    "npmi": 0.4236,
+    "source_cluster": "admissions_access",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "instructional practice",
+    "target": "systemic education failure",
+    "co_occurrence": 5,
+    "npmi": 0.4236,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "pedagogical methods",
+    "target": "student engagement",
+    "co_occurrence": 5,
+    "npmi": 0.4236,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "educational instability",
+    "target": "pedagogical innovation",
+    "co_occurrence": 15,
+    "npmi": 0.4218,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "instructional excellence",
+    "target": "systemic education failure",
+    "co_occurrence": 7,
+    "npmi": 0.4208,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "student life",
+    "co_occurrence": 7,
+    "npmi": 0.4144,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "systemic education failure",
+    "co_occurrence": 4,
+    "npmi": 0.4134,
+    "source_cluster": "academic abuse",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "loan",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "npmi": 0.413,
+    "source_cluster": "education_cost",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "participatory instruction",
+    "target": "selective admissions",
+    "co_occurrence": 3,
+    "npmi": 0.413,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "admissions_access"
+  },
+  {
+    "source": "course architecture",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "npmi": 0.413,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "edtech",
+    "target": "research productivity",
+    "co_occurrence": 3,
+    "npmi": 0.413,
+    "source_cluster": "educational_technology",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "qualitative research",
+    "target": "systemic education failure",
+    "co_occurrence": 3,
+    "npmi": 0.413,
+    "source_cluster": "research_activities",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "authoritarianism",
+    "target": "systemic education failure",
+    "co_occurrence": 3,
+    "npmi": 0.413,
+    "source_cluster": "politics",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "democracy",
+    "target": "systemic education failure",
+    "co_occurrence": 3,
+    "npmi": 0.413,
+    "source_cluster": "politics",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "systemic education failure",
+    "co_occurrence": 3,
+    "npmi": 0.413,
+    "source_cluster": "politics",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student life",
+    "co_occurrence": 11,
+    "npmi": 0.4107,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "theoretical research",
+    "co_occurrence": 6,
+    "npmi": 0.41,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "politicisation of science",
+    "co_occurrence": 4,
+    "npmi": 0.4096,
+    "source_cluster": "academic_freedom",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "instructional excellence",
+    "target": "intellectual autonomy",
+    "co_occurrence": 4,
+    "npmi": 0.4096,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "academic_freedom"
+  },
+  {
+    "source": "education crisis",
+    "target": "pedagogical innovation",
+    "co_occurrence": 16,
+    "npmi": 0.4079,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "outdated education model",
+    "target": "pedagogical methods",
+    "co_occurrence": 6,
+    "npmi": 0.4076,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "austerity",
+    "target": "pedagogical innovation",
+    "co_occurrence": 4,
+    "npmi": 0.4059,
+    "source_cluster": "financial_constraints",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "pedagogical innovation",
+    "co_occurrence": 4,
+    "npmi": 0.4059,
+    "source_cluster": "degradation_signals",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "weak oversight",
+    "co_occurrence": 4,
+    "npmi": 0.4059,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "accountability_gaps"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "selective admissions",
+    "co_occurrence": 5,
+    "npmi": 0.4056,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "admissions_access"
+  },
+  {
+    "source": "decline of academia",
+    "target": "faculty careers",
+    "co_occurrence": 9,
+    "npmi": 0.4054,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "faculty_labour"
+  },
+  {
+    "source": "curricular design",
+    "target": "education crisis",
+    "co_occurrence": 10,
+    "npmi": 0.4024,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student life",
+    "co_occurrence": 13,
+    "npmi": 0.4018,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "school budgets",
+    "target": "student retention",
+    "co_occurrence": 5,
+    "npmi": 0.3999,
+    "source_cluster": "funding_flows",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "AI assisted process",
+    "target": "academic model breakdown",
+    "co_occurrence": 3,
+    "npmi": 0.3979,
+    "source_cluster": "educational_technology",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "artificial intelligence",
+    "co_occurrence": 3,
+    "npmi": 0.3979,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "educational_technology"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "generative AI",
+    "co_occurrence": 3,
+    "npmi": 0.3979,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "educational_technology"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "course architecture",
+    "co_occurrence": 3,
+    "npmi": 0.3979,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "incompetence",
+    "co_occurrence": 3,
+    "npmi": 0.3979,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "degradation_signals"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "thought independence",
+    "co_occurrence": 3,
+    "npmi": 0.3979,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "academic_freedom"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "programme massification",
+    "co_occurrence": 3,
+    "npmi": 0.3979,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "degradation_signals"
+  },
+  {
+    "source": "tuition affordability",
+    "target": "university policy",
+    "co_occurrence": 10,
+    "npmi": 0.3966,
+    "source_cluster": "education_cost",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "educational instability",
+    "target": "tuition affordability",
+    "co_occurrence": 8,
+    "npmi": 0.3948,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "scholarships",
+    "target": "school budgets",
+    "co_occurrence": 4,
+    "npmi": 0.3915,
+    "source_cluster": "education_cost",
+    "target_cluster": "funding_flows"
+  },
+  {
+    "source": "college admissions",
+    "target": "curricular design",
+    "co_occurrence": 4,
+    "npmi": 0.3915,
+    "source_cluster": "admissions_access",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "austerity",
+    "target": "decline of academia",
+    "co_occurrence": 4,
+    "npmi": 0.3915,
+    "source_cluster": "financial_constraints",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "decline of academia",
+    "target": "opportunistic growth",
+    "co_occurrence": 4,
+    "npmi": 0.3915,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "degradation_signals"
+  },
+  {
+    "source": "decline of academia",
+    "target": "weak oversight",
+    "co_occurrence": 4,
+    "npmi": 0.3915,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "accountability_gaps"
+  },
+  {
+    "source": "decline of academia",
+    "target": "international cohorts",
+    "co_occurrence": 4,
+    "npmi": 0.3915,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "internationalisation"
+  },
+  {
+    "source": "research productivity",
+    "target": "scholarly funding",
+    "co_occurrence": 4,
+    "npmi": 0.3915,
+    "source_cluster": "research_activities",
+    "target_cluster": "funding_flows"
+  },
+  {
+    "source": "education crisis",
+    "target": "tuition",
+    "co_occurrence": 8,
+    "npmi": 0.3912,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "research productivity",
+    "co_occurrence": 8,
+    "npmi": 0.3912,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "course evaluation",
+    "co_occurrence": 7,
+    "npmi": 0.3898,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "research productivity",
+    "co_occurrence": 5,
+    "npmi": 0.3886,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "freedom of speech",
+    "target": "student protest",
+    "co_occurrence": 3,
+    "npmi": 0.3883,
+    "source_cluster": "academic_freedom",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "empirical research",
+    "co_occurrence": 3,
+    "npmi": 0.3836,
+    "source_cluster": "academic abuse",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "empirical research",
+    "target": "silencing criticism",
+    "co_occurrence": 3,
+    "npmi": 0.3836,
+    "source_cluster": "research_activities",
+    "target_cluster": "academic abuse"
+  },
+  {
+    "source": "research collaboration",
+    "target": "silencing criticism",
+    "co_occurrence": 3,
+    "npmi": 0.3836,
+    "source_cluster": "research_activities",
+    "target_cluster": "academic abuse"
+  },
+  {
+    "source": "empirical research",
+    "target": "legitimacy crisis",
+    "co_occurrence": 3,
+    "npmi": 0.3836,
+    "source_cluster": "research_activities",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "educational instability",
+    "target": "university policy",
+    "co_occurrence": 19,
+    "npmi": 0.3823,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "outdated education model",
+    "target": "politicisation of science",
+    "co_occurrence": 10,
+    "npmi": 0.3809,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "academic collapse",
+    "target": "school budgets",
+    "co_occurrence": 9,
+    "npmi": 0.3801,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "funding_flows"
+  },
+  {
+    "source": "faculty careers",
+    "target": "student life",
+    "co_occurrence": 7,
+    "npmi": 0.378,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "instructional practice",
+    "target": "outdated education model",
+    "co_occurrence": 7,
+    "npmi": 0.378,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "educational decline",
+    "target": "student retention",
+    "co_occurrence": 5,
+    "npmi": 0.3776,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "austerity",
+    "target": "educational instability",
+    "co_occurrence": 4,
+    "npmi": 0.3776,
+    "source_cluster": "financial_constraints",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "educational instability",
+    "target": "opportunistic growth",
+    "co_occurrence": 4,
+    "npmi": 0.3776,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "degradation_signals"
+  },
+  {
+    "source": "educational instability",
+    "target": "weak oversight",
+    "co_occurrence": 4,
+    "npmi": 0.3776,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "accountability_gaps"
+  },
+  {
+    "source": "educational decline",
+    "target": "student life",
+    "co_occurrence": 9,
+    "npmi": 0.377,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "tuition",
+    "target": "university policy",
+    "co_occurrence": 9,
+    "npmi": 0.377,
+    "source_cluster": "education_cost",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "austerity",
+    "target": "educational decline",
+    "co_occurrence": 3,
+    "npmi": 0.3743,
+    "source_cluster": "financial_constraints",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "educational decline",
+    "target": "opportunistic growth",
+    "co_occurrence": 3,
+    "npmi": 0.3743,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "degradation_signals"
+  },
+  {
+    "source": "educational decline",
+    "target": "weak oversight",
+    "co_occurrence": 3,
+    "npmi": 0.3743,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "accountability_gaps"
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "student engagement",
+    "co_occurrence": 7,
+    "npmi": 0.3703,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "incompetence",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "npmi": 0.3698,
+    "source_cluster": "degradation_signals",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "thought independence",
+    "co_occurrence": 3,
+    "npmi": 0.3698,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "academic_freedom"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "programme massification",
+    "co_occurrence": 3,
+    "npmi": 0.3698,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "degradation_signals"
+  },
+  {
+    "source": "decline of academia",
+    "target": "politicisation of science",
+    "co_occurrence": 9,
+    "npmi": 0.3679,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "student life",
+    "target": "tuition affordability",
+    "co_occurrence": 6,
+    "npmi": 0.3661,
+    "source_cluster": "student_experience",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "research productivity",
+    "target": "systemic education failure",
+    "co_occurrence": 6,
+    "npmi": 0.3661,
+    "source_cluster": "research_activities",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "course evaluation",
+    "target": "student voice",
+    "co_occurrence": 3,
+    "npmi": 0.3653,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "faculty workload",
+    "target": "participatory instruction",
+    "co_occurrence": 3,
+    "npmi": 0.3653,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "participatory instruction",
+    "target": "student voice",
+    "co_occurrence": 3,
+    "npmi": 0.3653,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "college admissions",
+    "target": "student protest",
+    "co_occurrence": 4,
+    "npmi": 0.3643,
+    "source_cluster": "admissions_access",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "education crisis",
+    "target": "instructional excellence",
+    "co_occurrence": 10,
+    "npmi": 0.363,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "education crisis",
+    "target": "instructional practice",
+    "co_occurrence": 7,
+    "npmi": 0.3627,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "classroom methods",
+    "target": "intellectual autonomy",
+    "co_occurrence": 4,
+    "npmi": 0.361,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "academic_freedom"
+  },
+  {
+    "source": "course evaluation",
+    "target": "higher education crisis",
+    "co_occurrence": 8,
+    "npmi": 0.3606,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "course evaluation",
+    "target": "outdated education model",
+    "co_occurrence": 8,
+    "npmi": 0.3606,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "college admissions",
+    "target": "university policy",
+    "co_occurrence": 8,
+    "npmi": 0.3573,
+    "source_cluster": "admissions_access",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "decline of academia",
+    "target": "over-enrollment",
+    "co_occurrence": 3,
+    "npmi": 0.3566,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "degradation_signals"
+  },
+  {
+    "source": "school budgets",
+    "target": "tuition",
+    "co_occurrence": 5,
+    "npmi": 0.3566,
+    "source_cluster": "funding_flows",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "instructional practice",
+    "target": "student life",
+    "co_occurrence": 5,
+    "npmi": 0.3566,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "pedagogical methods",
+    "target": "research productivity",
+    "co_occurrence": 3,
+    "npmi": 0.3566,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "decline of academia",
+    "target": "programme massification",
+    "co_occurrence": 3,
+    "npmi": 0.3566,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "degradation_signals"
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "research productivity",
+    "co_occurrence": 3,
+    "npmi": 0.3566,
+    "source_cluster": "academic abuse",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "research productivity",
+    "target": "silencing criticism",
+    "co_occurrence": 3,
+    "npmi": 0.3566,
+    "source_cluster": "research_activities",
+    "target_cluster": "academic abuse"
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "research productivity",
+    "co_occurrence": 3,
+    "npmi": 0.3566,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student engagement",
+    "co_occurrence": 11,
+    "npmi": 0.3561,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "politicisation of science",
+    "co_occurrence": 8,
+    "npmi": 0.3557,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "faculty careers",
+    "target": "university leadership",
+    "co_occurrence": 4,
+    "npmi": 0.3515,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "pedagogical methods",
+    "target": "student life",
+    "co_occurrence": 4,
+    "npmi": 0.3515,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "austerity",
+    "target": "higher education crisis",
+    "co_occurrence": 4,
+    "npmi": 0.3515,
+    "source_cluster": "financial_constraints",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "austerity",
+    "target": "outdated education model",
+    "co_occurrence": 4,
+    "npmi": 0.3515,
+    "source_cluster": "financial_constraints",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "opportunistic growth",
+    "co_occurrence": 4,
+    "npmi": 0.3515,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "degradation_signals"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "weak oversight",
+    "co_occurrence": 4,
+    "npmi": 0.3515,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "accountability_gaps"
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "outdated education model",
+    "co_occurrence": 4,
+    "npmi": 0.3515,
+    "source_cluster": "degradation_signals",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "outdated education model",
+    "target": "weak oversight",
+    "co_occurrence": 4,
+    "npmi": 0.3515,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "accountability_gaps"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "research productivity",
+    "co_occurrence": 8,
+    "npmi": 0.3508,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "curricular design",
+    "target": "outdated education model",
+    "co_occurrence": 9,
+    "npmi": 0.3502,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "empirical research",
+    "co_occurrence": 7,
+    "npmi": 0.3498,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "theoretical research",
+    "co_occurrence": 5,
+    "npmi": 0.349,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "educational instability",
+    "target": "instructional excellence",
+    "co_occurrence": 9,
+    "npmi": 0.3488,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "classroom methods",
+    "target": "educational instability",
+    "co_occurrence": 10,
+    "npmi": 0.3483,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "outdated education model",
+    "co_occurrence": 6,
+    "npmi": 0.3469,
+    "source_cluster": "academic_freedom",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "outdated education model",
+    "target": "theoretical research",
+    "co_occurrence": 6,
+    "npmi": 0.3469,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "participatory instruction",
+    "target": "research collaboration",
+    "co_occurrence": 4,
+    "npmi": 0.3452,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "academic collapse",
+    "target": "tuition affordability",
+    "co_occurrence": 6,
+    "npmi": 0.3448,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "education crisis",
+    "target": "tuition affordability",
+    "co_occurrence": 8,
+    "npmi": 0.3444,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "educational instability",
+    "target": "over-enrollment",
+    "co_occurrence": 3,
+    "npmi": 0.344,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "degradation_signals"
+  },
+  {
+    "source": "populism",
+    "target": "systemic education failure",
+    "co_occurrence": 3,
+    "npmi": 0.344,
+    "source_cluster": "politics",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "educational instability",
+    "target": "scholarships",
+    "co_occurrence": 5,
+    "npmi": 0.3416,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "participatory instruction",
+    "target": "systemic education failure",
+    "co_occurrence": 5,
+    "npmi": 0.3416,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "curricular design",
+    "target": "school budgets",
+    "co_occurrence": 6,
+    "npmi": 0.3407,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "funding_flows"
+  },
+  {
+    "source": "academic collapse",
+    "target": "weak oversight",
+    "co_occurrence": 3,
+    "npmi": 0.3399,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "accountability_gaps"
+  },
+  {
+    "source": "academic collapse",
+    "target": "qualitative research",
+    "co_occurrence": 3,
+    "npmi": 0.3399,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "academic collapse",
+    "target": "authoritarianism",
+    "co_occurrence": 3,
+    "npmi": 0.3399,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "politics"
+  },
+  {
+    "source": "academic collapse",
+    "target": "democracy",
+    "co_occurrence": 3,
+    "npmi": 0.3399,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "politics"
+  },
+  {
+    "source": "academic collapse",
+    "target": "illiberal democracy",
+    "co_occurrence": 3,
+    "npmi": 0.3399,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "politics"
+  },
+  {
+    "source": "austerity",
+    "target": "education crisis",
+    "co_occurrence": 4,
+    "npmi": 0.3391,
+    "source_cluster": "financial_constraints",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "education crisis",
+    "target": "opportunistic growth",
+    "co_occurrence": 4,
+    "npmi": 0.3391,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "degradation_signals"
+  },
+  {
+    "source": "education crisis",
+    "target": "weak oversight",
+    "co_occurrence": 4,
+    "npmi": 0.3391,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "accountability_gaps"
+  },
+  {
+    "source": "academic collapse",
+    "target": "classroom methods",
+    "co_occurrence": 8,
+    "npmi": 0.3366,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "faculty workload",
+    "target": "research collaboration",
+    "co_occurrence": 3,
+    "npmi": 0.3359,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "postgraduate pathway",
+    "co_occurrence": 3,
+    "npmi": 0.3359,
+    "source_cluster": "academic_freedom",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "research collaboration",
+    "co_occurrence": 3,
+    "npmi": 0.3359,
+    "source_cluster": "academic_freedom",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "empirical research",
+    "target": "intellectual autonomy",
+    "co_occurrence": 3,
+    "npmi": 0.3359,
+    "source_cluster": "research_activities",
+    "target_cluster": "academic_freedom"
+  },
+  {
+    "source": "academic collapse",
+    "target": "pedagogical innovation",
+    "co_occurrence": 11,
+    "npmi": 0.3356,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "politicisation of science",
+    "target": "systemic education failure",
+    "co_occurrence": 6,
+    "npmi": 0.3346,
+    "source_cluster": "science_society",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "school budgets",
+    "target": "systemic education failure",
+    "co_occurrence": 7,
+    "npmi": 0.3338,
+    "source_cluster": "funding_flows",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "school budgets",
+    "co_occurrence": 9,
+    "npmi": 0.3332,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "funding_flows"
+  },
+  {
+    "source": "school budgets",
+    "target": "student life",
+    "co_occurrence": 8,
+    "npmi": 0.3319,
+    "source_cluster": "funding_flows",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "student protest",
+    "co_occurrence": 3,
+    "npmi": 0.3319,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "decline of academia",
+    "target": "research productivity",
+    "co_occurrence": 8,
+    "npmi": 0.3319,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "politicisation of science",
+    "target": "silencing criticism",
+    "co_occurrence": 3,
+    "npmi": 0.3319,
+    "source_cluster": "science_society",
+    "target_cluster": "academic abuse"
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "politicisation of science",
+    "co_occurrence": 3,
+    "npmi": 0.3319,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "populism",
+    "co_occurrence": 4,
+    "npmi": 0.3301,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "politics"
+  },
+  {
+    "source": "educational instability",
+    "target": "student engagement",
+    "co_occurrence": 12,
+    "npmi": 0.3256,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "educational instability",
+    "target": "student retention",
+    "co_occurrence": 6,
+    "npmi": 0.3246,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "instructional excellence",
+    "target": "tuition",
+    "co_occurrence": 4,
+    "npmi": 0.3243,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "college admissions",
+    "target": "tuition affordability",
+    "co_occurrence": 3,
+    "npmi": 0.324,
+    "source_cluster": "admissions_access",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "AI assisted process",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.3202,
+    "source_cluster": "educational_technology",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.3202,
+    "source_cluster": "educational_technology",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "generative AI",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.3202,
+    "source_cluster": "educational_technology",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "over-enrollment",
+    "co_occurrence": 3,
+    "npmi": 0.3202,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "degradation_signals"
+  },
+  {
+    "source": "course architecture",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.3202,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "incompetence",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.3202,
+    "source_cluster": "degradation_signals",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "outdated education model",
+    "target": "thought independence",
+    "co_occurrence": 3,
+    "npmi": 0.3202,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "academic_freedom"
+  },
+  {
+    "source": "outdated education model",
+    "target": "programme massification",
+    "co_occurrence": 3,
+    "npmi": 0.3202,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "degradation_signals"
+  },
+  {
+    "source": "student engagement",
+    "target": "university policy",
+    "co_occurrence": 15,
+    "npmi": 0.3184,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "pedagogical innovation",
+    "co_occurrence": 14,
+    "npmi": 0.3183,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "scholarships",
+    "target": "university policy",
+    "co_occurrence": 6,
+    "npmi": 0.3168,
+    "source_cluster": "education_cost",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "curricular design",
+    "target": "educational decline",
+    "co_occurrence": 6,
+    "npmi": 0.3168,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "faculty careers",
+    "target": "participatory instruction",
+    "co_occurrence": 4,
+    "npmi": 0.3157,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "participatory instruction",
+    "target": "research productivity",
+    "co_occurrence": 4,
+    "npmi": 0.3157,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "classroom methods",
+    "target": "student engagement",
+    "co_occurrence": 8,
+    "npmi": 0.3138,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "curricular design",
+    "target": "educational instability",
+    "co_occurrence": 8,
+    "npmi": 0.3138,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "scholarships",
+    "co_occurrence": 5,
+    "npmi": 0.3133,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "higher education crisis",
+    "co_occurrence": 5,
+    "npmi": 0.3133,
+    "source_cluster": "academic abuse",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "outdated education model",
+    "co_occurrence": 5,
+    "npmi": 0.3133,
+    "source_cluster": "academic abuse",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "university leadership",
+    "co_occurrence": 6,
+    "npmi": 0.3111,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "instructional excellence",
+    "target": "school budgets",
+    "co_occurrence": 6,
+    "npmi": 0.3092,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "funding_flows"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "student engagement",
+    "co_occurrence": 11,
+    "npmi": 0.3091,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "education crisis",
+    "target": "over-enrollment",
+    "co_occurrence": 3,
+    "npmi": 0.3089,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "degradation_signals"
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "npmi": 0.3089,
+    "source_cluster": "academic abuse",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "curricular design",
+    "target": "intellectual autonomy",
+    "co_occurrence": 3,
+    "npmi": 0.3089,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "academic_freedom"
+  },
+  {
+    "source": "course architecture",
+    "target": "education crisis",
+    "co_occurrence": 3,
+    "npmi": 0.3089,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "weak oversight",
+    "co_occurrence": 3,
+    "npmi": 0.3089,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "accountability_gaps"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "qualitative research",
+    "co_occurrence": 3,
+    "npmi": 0.3089,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "curricular design",
+    "target": "student voice",
+    "co_occurrence": 3,
+    "npmi": 0.3089,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "international cohorts",
+    "co_occurrence": 3,
+    "npmi": 0.3089,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "internationalisation"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "authoritarianism",
+    "co_occurrence": 3,
+    "npmi": 0.3089,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "politics"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "democracy",
+    "co_occurrence": 3,
+    "npmi": 0.3089,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "politics"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "illiberal democracy",
+    "co_occurrence": 3,
+    "npmi": 0.3089,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "politics"
+  },
+  {
+    "source": "faculty careers",
+    "target": "university policy",
+    "co_occurrence": 10,
+    "npmi": 0.3067,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "systemic education failure",
+    "co_occurrence": 5,
+    "npmi": 0.3066,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "educational decline",
+    "target": "university policy",
+    "co_occurrence": 13,
+    "npmi": 0.3036,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "educational instability",
+    "target": "populism",
+    "co_occurrence": 4,
+    "npmi": 0.3018,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "politics"
+  },
+  {
+    "source": "decline of academia",
+    "target": "faculty workload",
+    "co_occurrence": 5,
+    "npmi": 0.2999,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "faculty_labour"
+  },
+  {
+    "source": "education crisis",
+    "target": "scholarships",
+    "co_occurrence": 5,
+    "npmi": 0.2999,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "decline of academia",
+    "target": "intellectual autonomy",
+    "co_occurrence": 5,
+    "npmi": 0.2999,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "academic_freedom"
+  },
+  {
+    "source": "education crisis",
+    "target": "pedagogical methods",
+    "co_occurrence": 5,
+    "npmi": 0.2999,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "decline of academia",
+    "target": "theoretical research",
+    "co_occurrence": 5,
+    "npmi": 0.2999,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "education crisis",
+    "co_occurrence": 5,
+    "npmi": 0.2999,
+    "source_cluster": "academic abuse",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "student life",
+    "co_occurrence": 10,
+    "npmi": 0.2995,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "scholarships",
+    "co_occurrence": 4,
+    "npmi": 0.2991,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "undergraduate pathway",
+    "co_occurrence": 4,
+    "npmi": 0.2991,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "decline of academia",
+    "target": "university leadership",
+    "co_occurrence": 6,
+    "npmi": 0.2943,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "college admissions",
+    "target": "higher education crisis",
+    "co_occurrence": 6,
+    "npmi": 0.2943,
+    "source_cluster": "admissions_access",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "decline of academia",
+    "target": "university bylaws",
+    "co_occurrence": 7,
+    "npmi": 0.2938,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "decline of academia",
+    "target": "postgraduate pathway",
+    "co_occurrence": 7,
+    "npmi": 0.2938,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "decline of academia",
+    "target": "empirical research",
+    "co_occurrence": 7,
+    "npmi": 0.2938,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "systemic education failure",
+    "co_occurrence": 3,
+    "npmi": 0.2876,
+    "source_cluster": "student_experience",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "educational decline",
+    "target": "instructional excellence",
+    "co_occurrence": 6,
+    "npmi": 0.2853,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "school budgets",
+    "target": "student engagement",
+    "co_occurrence": 8,
+    "npmi": 0.2851,
+    "source_cluster": "funding_flows",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "politicisation of science",
+    "target": "student voice",
+    "co_occurrence": 3,
+    "npmi": 0.2842,
+    "source_cluster": "science_society",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student voice",
+    "co_occurrence": 3,
+    "npmi": 0.2842,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student engagement",
+    "co_occurrence": 12,
+    "npmi": 0.2839,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "university administrators",
+    "co_occurrence": 8,
+    "npmi": 0.2823,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "student satisfaction",
+    "co_occurrence": 3,
+    "npmi": 0.2808,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "npmi": 0.2808,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "qualitative research",
+    "co_occurrence": 3,
+    "npmi": 0.2808,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "authoritarianism",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "npmi": 0.2808,
+    "source_cluster": "politics",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "democracy",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "npmi": 0.2808,
+    "source_cluster": "politics",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "npmi": 0.2808,
+    "source_cluster": "politics",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "education crisis",
+    "target": "student retention",
+    "co_occurrence": 6,
+    "npmi": 0.28,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "college admissions",
+    "target": "education crisis",
+    "co_occurrence": 6,
+    "npmi": 0.28,
+    "source_cluster": "admissions_access",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "outdated education model",
+    "target": "research productivity",
+    "co_occurrence": 8,
+    "npmi": 0.2796,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university administrators",
+    "co_occurrence": 9,
+    "npmi": 0.278,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "populism",
+    "co_occurrence": 4,
+    "npmi": 0.2757,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "politics"
+  },
+  {
+    "source": "outdated education model",
+    "target": "populism",
+    "co_occurrence": 4,
+    "npmi": 0.2757,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "politics"
+  },
+  {
+    "source": "faculty careers",
+    "target": "pedagogical innovation",
+    "co_occurrence": 7,
+    "npmi": 0.2752,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "classroom methods",
+    "target": "research productivity",
+    "co_occurrence": 5,
+    "npmi": 0.2746,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "curricular design",
+    "target": "systemic education failure",
+    "co_occurrence": 5,
+    "npmi": 0.2746,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "student satisfaction",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "npmi": 0.2732,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "student wellbeing",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "npmi": 0.2732,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "austerity",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "npmi": 0.2732,
+    "source_cluster": "financial_constraints",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "npmi": 0.2732,
+    "source_cluster": "degradation_signals",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "university policy",
+    "target": "weak oversight",
+    "co_occurrence": 4,
+    "npmi": 0.2732,
+    "source_cluster": "university_administration",
+    "target_cluster": "accountability_gaps"
+  },
+  {
+    "source": "academic collapse",
+    "target": "research productivity",
+    "co_occurrence": 6,
+    "npmi": 0.273,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "academic collapse",
+    "target": "populism",
+    "co_occurrence": 3,
+    "npmi": 0.2709,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "politics"
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "pedagogical innovation",
+    "co_occurrence": 4,
+    "npmi": 0.2682,
+    "source_cluster": "student_experience",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "pedagogical innovation",
+    "co_occurrence": 4,
+    "npmi": 0.2682,
+    "source_cluster": "academic abuse",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "instructional practice",
+    "target": "research productivity",
+    "co_occurrence": 3,
+    "npmi": 0.2676,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "decline of academia",
+    "target": "organisational structure",
+    "co_occurrence": 3,
+    "npmi": 0.2676,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "school budgets",
+    "co_occurrence": 3,
+    "npmi": 0.2676,
+    "source_cluster": "academic abuse",
+    "target_cluster": "funding_flows"
+  },
+  {
+    "source": "decline of academia",
+    "target": "qualitative research",
+    "co_occurrence": 3,
+    "npmi": 0.2676,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "decline of academia",
+    "target": "high-impact research",
+    "co_occurrence": 3,
+    "npmi": 0.2676,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "authoritarianism",
+    "target": "decline of academia",
+    "co_occurrence": 3,
+    "npmi": 0.2676,
+    "source_cluster": "politics",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "decline of academia",
+    "target": "democracy",
+    "co_occurrence": 3,
+    "npmi": 0.2676,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "politics"
+  },
+  {
+    "source": "decline of academia",
+    "target": "illiberal democracy",
+    "co_occurrence": 3,
+    "npmi": 0.2676,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "politics"
+  },
+  {
+    "source": "curricular design",
+    "target": "student retention",
+    "co_occurrence": 3,
+    "npmi": 0.2676,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "school budgets",
+    "target": "selective admissions",
+    "co_occurrence": 3,
+    "npmi": 0.2676,
+    "source_cluster": "funding_flows",
+    "target_cluster": "admissions_access"
+  },
+  {
+    "source": "decline of academia",
+    "target": "university administrators",
+    "co_occurrence": 8,
+    "npmi": 0.2634,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "education crisis",
+    "target": "populism",
+    "co_occurrence": 4,
+    "npmi": 0.2633,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "politics"
+  },
+  {
+    "source": "educational decline",
+    "target": "pedagogical innovation",
+    "co_occurrence": 9,
+    "npmi": 0.2621,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "course evaluation",
+    "target": "university policy",
+    "co_occurrence": 8,
+    "npmi": 0.2582,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "student protest",
+    "target": "university bylaws",
+    "co_occurrence": 4,
+    "npmi": 0.2561,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "academic collapse",
+    "target": "student life",
+    "co_occurrence": 8,
+    "npmi": 0.2556,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "course evaluation",
+    "target": "tuition affordability",
+    "co_occurrence": 3,
+    "npmi": 0.255,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "educational instability",
+    "target": "qualitative research",
+    "co_occurrence": 3,
+    "npmi": 0.255,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "authoritarianism",
+    "target": "educational instability",
+    "co_occurrence": 3,
+    "npmi": 0.255,
+    "source_cluster": "politics",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "democracy",
+    "target": "educational instability",
+    "co_occurrence": 3,
+    "npmi": 0.255,
+    "source_cluster": "politics",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "educational instability",
+    "target": "illiberal democracy",
+    "co_occurrence": 3,
+    "npmi": 0.255,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "politics"
+  },
+  {
+    "source": "curricular design",
+    "target": "faculty careers",
+    "co_occurrence": 4,
+    "npmi": 0.2538,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "faculty_labour"
+  },
+  {
+    "source": "decline of academia",
+    "target": "pedagogical methods",
+    "co_occurrence": 4,
+    "npmi": 0.2538,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "decline of academia",
+    "co_occurrence": 4,
+    "npmi": 0.2538,
+    "source_cluster": "academic abuse",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "decline of academia",
+    "target": "participatory instruction",
+    "co_occurrence": 6,
+    "npmi": 0.2528,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "decline of academia",
+    "target": "scholarly funding",
+    "co_occurrence": 5,
+    "npmi": 0.2509,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "funding_flows"
+  },
+  {
+    "source": "decline of academia",
+    "target": "instructional practice",
+    "co_occurrence": 5,
+    "npmi": 0.2509,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "over-enrollment",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.2489,
+    "source_cluster": "degradation_signals",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "faculty contracts",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.2489,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "educational decline",
+    "target": "scholarships",
+    "co_occurrence": 3,
+    "npmi": 0.2489,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "loan",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.2489,
+    "source_cluster": "education_cost",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "educational decline",
+    "target": "pedagogical methods",
+    "co_occurrence": 3,
+    "npmi": 0.2489,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "educational decline",
+    "co_occurrence": 3,
+    "npmi": 0.2489,
+    "source_cluster": "academic abuse",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "educational decline",
+    "target": "selective admissions",
+    "co_occurrence": 3,
+    "npmi": 0.2489,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "admissions_access"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university leadership",
+    "co_occurrence": 6,
+    "npmi": 0.2479,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "outdated education model",
+    "target": "university leadership",
+    "co_occurrence": 6,
+    "npmi": 0.2479,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "classroom methods",
+    "target": "higher education crisis",
+    "co_occurrence": 9,
+    "npmi": 0.2456,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "educational instability",
+    "target": "university administrators",
+    "co_occurrence": 8,
+    "npmi": 0.2453,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "classroom methods",
+    "target": "politicisation of science",
+    "co_occurrence": 5,
+    "npmi": 0.2452,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university bylaws",
+    "co_occurrence": 7,
+    "npmi": 0.2444,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "outdated education model",
+    "target": "postgraduate pathway",
+    "co_occurrence": 7,
+    "npmi": 0.2444,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "instructional excellence",
+    "co_occurrence": 8,
+    "npmi": 0.244,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "education crisis",
+    "target": "student voice",
+    "co_occurrence": 5,
+    "npmi": 0.2433,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "curricular design",
+    "target": "university policy",
+    "co_occurrence": 9,
+    "npmi": 0.2422,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "academic collapse",
+    "target": "politicisation of science",
+    "co_occurrence": 6,
+    "npmi": 0.2415,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "academic collapse",
+    "target": "university policy",
+    "co_occurrence": 13,
+    "npmi": 0.2406,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "educational instability",
+    "target": "faculty careers",
+    "co_occurrence": 7,
+    "npmi": 0.2402,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "faculty_labour"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "edtech",
+    "co_occurrence": 3,
+    "npmi": 0.2399,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "educational_technology"
+  },
+  {
+    "source": "educational instability",
+    "target": "selective admissions",
+    "co_occurrence": 4,
+    "npmi": 0.2399,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "admissions_access"
+  },
+  {
+    "source": "course evaluation",
+    "target": "systemic education failure",
+    "co_occurrence": 4,
+    "npmi": 0.2399,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "systemic education failure",
+    "co_occurrence": 3,
+    "npmi": 0.2399,
+    "source_cluster": "academic_freedom",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "scientific expertise",
+    "co_occurrence": 3,
+    "npmi": 0.2399,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "classroom methods",
+    "target": "theoretical research",
+    "co_occurrence": 3,
+    "npmi": 0.2399,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "systemic education failure",
+    "target": "theoretical research",
+    "co_occurrence": 3,
+    "npmi": 0.2399,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "quantitative research",
+    "co_occurrence": 3,
+    "npmi": 0.2399,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "educational instability",
+    "co_occurrence": 4,
+    "npmi": 0.2399,
+    "source_cluster": "academic abuse",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "populism",
+    "co_occurrence": 3,
+    "npmi": 0.2399,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "politics"
+  },
+  {
+    "source": "student life",
+    "target": "university bylaws",
+    "co_occurrence": 5,
+    "npmi": 0.2396,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "college admissions",
+    "target": "educational instability",
+    "co_occurrence": 5,
+    "npmi": 0.2359,
+    "source_cluster": "admissions_access",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "educational instability",
+    "target": "instructional practice",
+    "co_occurrence": 5,
+    "npmi": 0.2359,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "university policy",
+    "co_occurrence": 14,
+    "npmi": 0.2358,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "academic collapse",
+    "target": "student retention",
+    "co_occurrence": 4,
+    "npmi": 0.2354,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "classroom methods",
+    "target": "decline of academia",
+    "co_occurrence": 8,
+    "npmi": 0.2328,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "university policy",
+    "co_occurrence": 15,
+    "npmi": 0.2323,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "empirical research",
+    "target": "pedagogical innovation",
+    "co_occurrence": 6,
+    "npmi": 0.232,
+    "source_cluster": "research_activities",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "faculty careers",
+    "target": "tuition",
+    "co_occurrence": 3,
+    "npmi": 0.2312,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "organisational structure",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.2312,
+    "source_cluster": "university_administration",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "qualitative research",
+    "co_occurrence": 3,
+    "npmi": 0.2312,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "outdated education model",
+    "target": "qualitative research",
+    "co_occurrence": 3,
+    "npmi": 0.2312,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "authoritarianism",
+    "target": "higher education crisis",
+    "co_occurrence": 3,
+    "npmi": 0.2312,
+    "source_cluster": "politics",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "authoritarianism",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.2312,
+    "source_cluster": "politics",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "democracy",
+    "target": "higher education crisis",
+    "co_occurrence": 3,
+    "npmi": 0.2312,
+    "source_cluster": "politics",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "democracy",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.2312,
+    "source_cluster": "politics",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "illiberal democracy",
+    "co_occurrence": 3,
+    "npmi": 0.2312,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "politics"
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.2312,
+    "source_cluster": "politics",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "education crisis",
+    "target": "postgraduate pathway",
+    "co_occurrence": 7,
+    "npmi": 0.2292,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "selective admissions",
+    "target": "university policy",
+    "co_occurrence": 5,
+    "npmi": 0.2286,
+    "source_cluster": "admissions_access",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "university policy",
+    "co_occurrence": 5,
+    "npmi": 0.2286,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "undergraduate pathway",
+    "target": "university policy",
+    "co_occurrence": 5,
+    "npmi": 0.2286,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "university policy",
+    "co_occurrence": 5,
+    "npmi": 0.2286,
+    "source_cluster": "academic abuse",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "faculty careers",
+    "target": "instructional excellence",
+    "co_occurrence": 4,
+    "npmi": 0.2266,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "outdated education model",
+    "target": "student engagement",
+    "co_occurrence": 11,
+    "npmi": 0.2261,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "empirical research",
+    "target": "participatory instruction",
+    "co_occurrence": 3,
+    "npmi": 0.2255,
+    "source_cluster": "research_activities",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "decline of academia",
+    "target": "instructional excellence",
+    "co_occurrence": 7,
+    "npmi": 0.2238,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "school budgets",
+    "target": "university policy",
+    "co_occurrence": 11,
+    "npmi": 0.2223,
+    "source_cluster": "funding_flows",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "outdated education model",
+    "target": "student life",
+    "co_occurrence": 10,
+    "npmi": 0.2205,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "education crisis",
+    "target": "student satisfaction",
+    "co_occurrence": 3,
+    "npmi": 0.2199,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "education crisis",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "npmi": 0.2199,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "school budgets",
+    "target": "student voice",
+    "co_occurrence": 3,
+    "npmi": 0.2199,
+    "source_cluster": "funding_flows",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "education crisis",
+    "target": "qualitative research",
+    "co_occurrence": 3,
+    "npmi": 0.2199,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "authoritarianism",
+    "target": "education crisis",
+    "co_occurrence": 3,
+    "npmi": 0.2199,
+    "source_cluster": "politics",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "democracy",
+    "target": "education crisis",
+    "co_occurrence": 3,
+    "npmi": 0.2199,
+    "source_cluster": "politics",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "education crisis",
+    "target": "illiberal democracy",
+    "co_occurrence": 3,
+    "npmi": 0.2199,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "politics"
+  },
+  {
+    "source": "academic collapse",
+    "target": "university bylaws",
+    "co_occurrence": 5,
+    "npmi": 0.2197,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "academic collapse",
+    "target": "empirical research",
+    "co_occurrence": 5,
+    "npmi": 0.2197,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "tuition affordability",
+    "co_occurrence": 5,
+    "npmi": 0.2179,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "decline of academia",
+    "target": "research collaboration",
+    "co_occurrence": 6,
+    "npmi": 0.2153,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "academic collapse",
+    "target": "pedagogical methods",
+    "co_occurrence": 3,
+    "npmi": 0.2145,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "academic collapse",
+    "target": "bureaucratic obstruction",
+    "co_occurrence": 3,
+    "npmi": 0.2145,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "academic abuse"
+  },
+  {
+    "source": "student life",
+    "target": "university leadership",
+    "co_occurrence": 4,
+    "npmi": 0.2138,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "scientific expertise",
+    "co_occurrence": 3,
+    "npmi": 0.2118,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "quantitative research",
+    "co_occurrence": 3,
+    "npmi": 0.2118,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "outdated education model",
+    "target": "university administrators",
+    "co_occurrence": 8,
+    "npmi": 0.2111,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "faculty careers",
+    "target": "higher education crisis",
+    "co_occurrence": 7,
+    "npmi": 0.2079,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "curricular design",
+    "target": "higher education crisis",
+    "co_occurrence": 7,
+    "npmi": 0.2079,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student retention",
+    "co_occurrence": 5,
+    "npmi": 0.2076,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "classroom methods",
+    "target": "empirical research",
+    "co_occurrence": 4,
+    "npmi": 0.2075,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "empirical research",
+    "target": "systemic education failure",
+    "co_occurrence": 4,
+    "npmi": 0.2075,
+    "source_cluster": "research_activities",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "educational instability",
+    "target": "politicisation of science",
+    "co_occurrence": 7,
+    "npmi": 0.2066,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "politicisation of science",
+    "target": "university leadership",
+    "co_occurrence": 3,
+    "npmi": 0.2064,
+    "source_cluster": "science_society",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "student protest",
+    "target": "tuition",
+    "co_occurrence": 3,
+    "npmi": 0.2064,
+    "source_cluster": "student_experience",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "classroom methods",
+    "target": "student life",
+    "co_occurrence": 6,
+    "npmi": 0.2064,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "outdated education model",
+    "target": "participatory instruction",
+    "co_occurrence": 6,
+    "npmi": 0.2064,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "student life",
+    "target": "systemic education failure",
+    "co_occurrence": 6,
+    "npmi": 0.2064,
+    "source_cluster": "student_experience",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "politicisation of science",
+    "target": "suppressing dissent",
+    "co_occurrence": 3,
+    "npmi": 0.2064,
+    "source_cluster": "science_society",
+    "target_cluster": "academic abuse"
+  },
+  {
+    "source": "decline of academia",
+    "target": "university policy",
+    "co_occurrence": 15,
+    "npmi": 0.2061,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "student retention",
+    "target": "university policy",
+    "co_occurrence": 6,
+    "npmi": 0.2035,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "college admissions",
+    "co_occurrence": 4,
+    "npmi": 0.2014,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "admissions_access"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student retention",
+    "co_occurrence": 4,
+    "npmi": 0.2014,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "education crisis",
+    "target": "selective admissions",
+    "co_occurrence": 4,
+    "npmi": 0.2014,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "admissions_access"
+  },
+  {
+    "source": "educational decline",
+    "target": "student voice",
+    "co_occurrence": 3,
+    "npmi": 0.2012,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "educational instability",
+    "target": "university bylaws",
+    "co_occurrence": 6,
+    "npmi": 0.1992,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "educational decline",
+    "target": "politicisation of science",
+    "co_occurrence": 5,
+    "npmi": 0.1992,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "course evaluation",
+    "target": "faculty careers",
+    "co_occurrence": 3,
+    "npmi": 0.1986,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "faculty_labour"
+  },
+  {
+    "source": "decline of academia",
+    "target": "scientific expertise",
+    "co_occurrence": 3,
+    "npmi": 0.1986,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "decline of academia",
+    "target": "quantitative research",
+    "co_occurrence": 3,
+    "npmi": 0.1986,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "decline of academia",
+    "target": "populism",
+    "co_occurrence": 3,
+    "npmi": 0.1986,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "politics"
+  },
+  {
+    "source": "discrimination",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "npmi": 0.1974,
+    "source_cluster": "systemic_inequity",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "populism",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "npmi": 0.1974,
+    "source_cluster": "politics",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "research collaboration",
+    "co_occurrence": 3,
+    "npmi": 0.196,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "academic collapse",
+    "target": "tuition",
+    "co_occurrence": 4,
+    "npmi": 0.1954,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "educational instability",
+    "target": "university leadership",
+    "co_occurrence": 5,
+    "npmi": 0.1926,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "education crisis",
+    "target": "participatory instruction",
+    "co_occurrence": 6,
+    "npmi": 0.1921,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "educational decline",
+    "target": "student engagement",
+    "co_occurrence": 7,
+    "npmi": 0.1877,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "academic collapse",
+    "target": "faculty careers",
+    "co_occurrence": 5,
+    "npmi": 0.1877,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "faculty_labour"
+  },
+  {
+    "source": "educational instability",
+    "target": "student voice",
+    "co_occurrence": 4,
+    "npmi": 0.1876,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "faculty workload",
+    "target": "student life",
+    "co_occurrence": 3,
+    "npmi": 0.1835,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "bureaucratic obstruction",
+    "co_occurrence": 3,
+    "npmi": 0.1835,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "academic abuse"
+  },
+  {
+    "source": "tuition",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "npmi": 0.1835,
+    "source_cluster": "education_cost",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "research collaboration",
+    "co_occurrence": 5,
+    "npmi": 0.1829,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "curricular design",
+    "target": "decline of academia",
+    "co_occurrence": 6,
+    "npmi": 0.181,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "outdated education model",
+    "target": "university policy",
+    "co_occurrence": 16,
+    "npmi": 0.1804,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "college admissions",
+    "target": "school budgets",
+    "co_occurrence": 3,
+    "npmi": 0.1786,
+    "source_cluster": "admissions_access",
+    "target_cluster": "funding_flows"
+  },
+  {
+    "source": "instructional practice",
+    "target": "school budgets",
+    "co_occurrence": 3,
+    "npmi": 0.1786,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "funding_flows"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "politicisation of science",
+    "co_occurrence": 7,
+    "npmi": 0.1744,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "instructional excellence",
+    "target": "university administrators",
+    "co_occurrence": 4,
+    "npmi": 0.1742,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "participatory instruction",
+    "target": "politicisation of science",
+    "co_occurrence": 3,
+    "npmi": 0.1738,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "student voice",
+    "target": "university policy",
+    "co_occurrence": 5,
+    "npmi": 0.1719,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "faculty careers",
+    "target": "research collaboration",
+    "co_occurrence": 3,
+    "npmi": 0.1691,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "decline of academia",
+    "target": "tuition affordability",
+    "co_occurrence": 5,
+    "npmi": 0.1689,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "faculty careers",
+    "target": "student engagement",
+    "co_occurrence": 5,
+    "npmi": 0.1689,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "empirical research",
+    "target": "outdated education model",
+    "co_occurrence": 6,
+    "npmi": 0.1689,
+    "source_cluster": "research_activities",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "academic collapse",
+    "target": "student voice",
+    "co_occurrence": 3,
+    "npmi": 0.1668,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "academic collapse",
+    "target": "intellectual autonomy",
+    "co_occurrence": 3,
+    "npmi": 0.1668,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "academic_freedom"
+  },
+  {
+    "source": "academic collapse",
+    "target": "theoretical research",
+    "co_occurrence": 3,
+    "npmi": 0.1668,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "educational decline",
+    "target": "postgraduate pathway",
+    "co_occurrence": 4,
+    "npmi": 0.165,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "outdated education model",
+    "target": "tuition",
+    "co_occurrence": 5,
+    "npmi": 0.1643,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "edtech",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.1621,
+    "source_cluster": "educational_technology",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "systemic education failure",
+    "target": "university leadership",
+    "co_occurrence": 3,
+    "npmi": 0.1621,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "classroom methods",
+    "target": "tuition",
+    "co_occurrence": 3,
+    "npmi": 0.1621,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "outdated education model",
+    "target": "scientific expertise",
+    "co_occurrence": 3,
+    "npmi": 0.1621,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "outdated education model",
+    "target": "quantitative research",
+    "co_occurrence": 3,
+    "npmi": 0.1621,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student voice",
+    "co_occurrence": 4,
+    "npmi": 0.1614,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "tuition",
+    "co_occurrence": 4,
+    "npmi": 0.1614,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "affirmative action",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.1599,
+    "source_cluster": "admissions_access",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "racism",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.1599,
+    "source_cluster": "systemic_inequity",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "college admissions",
+    "target": "educational decline",
+    "co_occurrence": 3,
+    "npmi": 0.1599,
+    "source_cluster": "admissions_access",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "educational decline",
+    "target": "instructional practice",
+    "co_occurrence": 3,
+    "npmi": 0.1599,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "authoritarianism",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.1599,
+    "source_cluster": "politics",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "democracy",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.1599,
+    "source_cluster": "politics",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.1599,
+    "source_cluster": "politics",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "academic collapse",
+    "target": "course evaluation",
+    "co_occurrence": 4,
+    "npmi": 0.1596,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "education crisis",
+    "target": "politicisation of science",
+    "co_occurrence": 7,
+    "npmi": 0.1591,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "npmi": 0.1553,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "education crisis",
+    "target": "university bylaws",
+    "co_occurrence": 6,
+    "npmi": 0.1545,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "school budgets",
+    "co_occurrence": 7,
+    "npmi": 0.1545,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "funding_flows"
+  },
+  {
+    "source": "decline of academia",
+    "target": "student life",
+    "co_occurrence": 8,
+    "npmi": 0.1518,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "education crisis",
+    "target": "university leadership",
+    "co_occurrence": 5,
+    "npmi": 0.1509,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "student life",
+    "target": "university administrators",
+    "co_occurrence": 5,
+    "npmi": 0.1509,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "tuition affordability",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "npmi": 0.1509,
+    "source_cluster": "education_cost",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "faculty careers",
+    "co_occurrence": 5,
+    "npmi": 0.1509,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "faculty_labour"
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "npmi": 0.1509,
+    "source_cluster": "academic_freedom",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "education crisis",
+    "target": "intellectual autonomy",
+    "co_occurrence": 4,
+    "npmi": 0.1491,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "academic_freedom"
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "university policy",
+    "co_occurrence": 7,
+    "npmi": 0.1478,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "politicisation of science",
+    "target": "university bylaws",
+    "co_occurrence": 3,
+    "npmi": 0.1443,
+    "source_cluster": "science_society",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "instructional excellence",
+    "target": "research collaboration",
+    "co_occurrence": 3,
+    "npmi": 0.1443,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "empirical research",
+    "target": "instructional excellence",
+    "co_occurrence": 3,
+    "npmi": 0.1443,
+    "source_cluster": "research_activities",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "student engagement",
+    "target": "tuition affordability",
+    "co_occurrence": 4,
+    "npmi": 0.1422,
+    "source_cluster": "student_experience",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "decline of academia",
+    "target": "selective admissions",
+    "co_occurrence": 3,
+    "npmi": 0.1422,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "admissions_access"
+  },
+  {
+    "source": "decline of academia",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "npmi": 0.1422,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "faculty careers",
+    "target": "research productivity",
+    "co_occurrence": 3,
+    "npmi": 0.1422,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "decline of academia",
+    "target": "silencing criticism",
+    "co_occurrence": 3,
+    "npmi": 0.1422,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "academic abuse"
+  },
+  {
+    "source": "student protest",
+    "target": "university policy",
+    "co_occurrence": 8,
+    "npmi": 0.1416,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "systemic education failure",
+    "target": "university policy",
+    "co_occurrence": 9,
+    "npmi": 0.1376,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "decline of academia",
+    "target": "school budgets",
+    "co_occurrence": 7,
+    "npmi": 0.1367,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "funding_flows"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student voice",
+    "co_occurrence": 3,
+    "npmi": 0.1358,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "educational decline",
+    "target": "faculty careers",
+    "co_occurrence": 4,
+    "npmi": 0.1355,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "faculty_labour"
+  },
+  {
+    "source": "educational decline",
+    "target": "research productivity",
+    "co_occurrence": 4,
+    "npmi": 0.1355,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "faculty careers",
+    "target": "outdated education model",
+    "co_occurrence": 6,
+    "npmi": 0.1346,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "educational instability",
+    "target": "mentor-student relationship",
+    "co_occurrence": 3,
+    "npmi": 0.1295,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "educational instability",
+    "target": "pedagogical methods",
+    "co_occurrence": 3,
+    "npmi": 0.1295,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "politicisation of science",
+    "target": "school budgets",
+    "co_occurrence": 4,
+    "npmi": 0.1289,
+    "source_cluster": "science_society",
+    "target_cluster": "funding_flows"
+  },
+  {
+    "source": "education crisis",
+    "target": "university administrators",
+    "co_occurrence": 7,
+    "npmi": 0.1281,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "academic collapse",
+    "target": "postgraduate pathway",
+    "co_occurrence": 4,
+    "npmi": 0.1273,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "outdated education model",
+    "target": "tuition affordability",
+    "co_occurrence": 5,
+    "npmi": 0.1256,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "academic collapse",
+    "target": "scholarly funding",
+    "co_occurrence": 3,
+    "npmi": 0.1254,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "funding_flows"
+  },
+  {
+    "source": "academic collapse",
+    "target": "instructional practice",
+    "co_occurrence": 3,
+    "npmi": 0.1254,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "npmi": 0.1214,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "education crisis",
+    "target": "faculty careers",
+    "co_occurrence": 6,
+    "npmi": 0.1203,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "faculty_labour"
+  },
+  {
+    "source": "education crisis",
+    "target": "research productivity",
+    "co_occurrence": 6,
+    "npmi": 0.1203,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "educational instability",
+    "target": "postgraduate pathway",
+    "co_occurrence": 5,
+    "npmi": 0.1188,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "instructional excellence",
+    "target": "research productivity",
+    "co_occurrence": 3,
+    "npmi": 0.1174,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "instructional practice",
+    "co_occurrence": 4,
+    "npmi": 0.1161,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "student engagement",
+    "target": "university administrators",
+    "co_occurrence": 5,
+    "npmi": 0.1122,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "student engagement",
+    "target": "university bylaws",
+    "co_occurrence": 4,
+    "npmi": 0.1098,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "student voice",
+    "co_occurrence": 3,
+    "npmi": 0.1077,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "mentor-student relationship",
+    "co_occurrence": 3,
+    "npmi": 0.1057,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.1057,
+    "source_cluster": "student_experience",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "political repression",
+    "co_occurrence": 3,
+    "npmi": 0.1057,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "politics"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "selective admissions",
+    "co_occurrence": 3,
+    "npmi": 0.1057,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "admissions_access"
+  },
+  {
+    "source": "outdated education model",
+    "target": "selective admissions",
+    "co_occurrence": 3,
+    "npmi": 0.1057,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "admissions_access"
+  },
+  {
+    "source": "outdated education model",
+    "target": "scholarships",
+    "co_occurrence": 3,
+    "npmi": 0.1057,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "school budgets",
+    "target": "university administrators",
+    "co_occurrence": 4,
+    "npmi": 0.1037,
+    "source_cluster": "funding_flows",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "education crisis",
+    "target": "mentor-student relationship",
+    "co_occurrence": 3,
+    "npmi": 0.0945,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "education crisis",
+    "target": "political repression",
+    "co_occurrence": 3,
+    "npmi": 0.0945,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "politics"
+  },
+  {
+    "source": "education crisis",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "npmi": 0.0945,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "decline of academia",
+    "target": "student voice",
+    "co_occurrence": 3,
+    "npmi": 0.0945,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "scholarly funding",
+    "co_occurrence": 3,
+    "npmi": 0.0945,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "funding_flows"
+  },
+  {
+    "source": "curricular design",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "npmi": 0.0945,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "university bylaws",
+    "co_occurrence": 4,
+    "npmi": 0.0933,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "instructional excellence",
+    "target": "politicisation of science",
+    "co_occurrence": 3,
+    "npmi": 0.0926,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "freedom of speech",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.0908,
+    "source_cluster": "academic_freedom",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "educational decline",
+    "target": "participatory instruction",
+    "co_occurrence": 3,
+    "npmi": 0.0908,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "postgraduate pathway",
+    "co_occurrence": 5,
+    "npmi": 0.0906,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "academic collapse",
+    "target": "university leadership",
+    "co_occurrence": 3,
+    "npmi": 0.089,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "educational instability",
+    "target": "research productivity",
+    "co_occurrence": 5,
+    "npmi": 0.0869,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "student engagement",
+    "target": "systemic education failure",
+    "co_occurrence": 5,
+    "npmi": 0.0869,
+    "source_cluster": "student_experience",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "faculty workload",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "npmi": 0.0831,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "educational decline",
+    "target": "university administrators",
+    "co_occurrence": 4,
+    "npmi": 0.0831,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "educational instability",
+    "target": "faculty workload",
+    "co_occurrence": 3,
+    "npmi": 0.0819,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "faculty_labour"
+  },
+  {
+    "source": "educational instability",
+    "target": "intellectual autonomy",
+    "co_occurrence": 3,
+    "npmi": 0.0819,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "academic_freedom"
+  },
+  {
+    "source": "course evaluation",
+    "target": "decline of academia",
+    "co_occurrence": 4,
+    "npmi": 0.0803,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "empirical research",
+    "target": "school budgets",
+    "co_occurrence": 3,
+    "npmi": 0.0801,
+    "source_cluster": "research_activities",
+    "target_cluster": "funding_flows"
+  },
+  {
+    "source": "suppressing dissent",
+    "target": "university policy",
+    "co_occurrence": 5,
+    "npmi": 0.0796,
+    "source_cluster": "academic abuse",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "classroom methods",
+    "target": "university policy",
+    "co_occurrence": 8,
+    "npmi": 0.0781,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "politicisation of science",
+    "target": "university policy",
+    "co_occurrence": 7,
+    "npmi": 0.0777,
+    "source_cluster": "science_society",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "instructional excellence",
+    "target": "university policy",
+    "co_occurrence": 7,
+    "npmi": 0.0777,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "suppressing dissent",
+    "co_occurrence": 4,
+    "npmi": 0.0761,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "academic abuse"
+  },
+  {
+    "source": "student engagement",
+    "target": "university leadership",
+    "co_occurrence": 3,
+    "npmi": 0.0731,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "faculty careers",
+    "target": "systemic education failure",
+    "co_occurrence": 3,
+    "npmi": 0.0731,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "academic collapse",
+    "target": "instructional excellence",
+    "co_occurrence": 4,
+    "npmi": 0.0705,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "student protest",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "npmi": 0.0697,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "politicisation of science",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "npmi": 0.0697,
+    "source_cluster": "science_society",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "educational instability",
+    "target": "participatory instruction",
+    "co_occurrence": 4,
+    "npmi": 0.0664,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "scholarly funding",
+    "co_occurrence": 3,
+    "npmi": 0.0663,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "funding_flows"
+  },
+  {
+    "source": "education crisis",
+    "target": "suppressing dissent",
+    "co_occurrence": 4,
+    "npmi": 0.0637,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "academic abuse"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "university bylaws",
+    "co_occurrence": 4,
+    "npmi": 0.0624,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "research collaboration",
+    "co_occurrence": 4,
+    "npmi": 0.0624,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "educational decline",
+    "target": "university bylaws",
+    "co_occurrence": 3,
+    "npmi": 0.0613,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "educational decline",
+    "target": "empirical research",
+    "co_occurrence": 3,
+    "npmi": 0.0613,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "research productivity",
+    "co_occurrence": 5,
+    "npmi": 0.0586,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "faculty workload",
+    "target": "higher education crisis",
+    "co_occurrence": 3,
+    "npmi": 0.058,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "outdated education model",
+    "target": "student voice",
+    "co_occurrence": 3,
+    "npmi": 0.058,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "university leadership",
+    "co_occurrence": 3,
+    "npmi": 0.058,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "intellectual autonomy",
+    "co_occurrence": 3,
+    "npmi": 0.058,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "academic_freedom"
+  },
+  {
+    "source": "academic collapse",
+    "target": "participatory instruction",
+    "co_occurrence": 3,
+    "npmi": 0.0564,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "education crisis",
+    "target": "faculty workload",
+    "co_occurrence": 3,
+    "npmi": 0.0468,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "faculty_labour"
+  },
+  {
+    "source": "education crisis",
+    "target": "theoretical research",
+    "co_occurrence": 3,
+    "npmi": 0.0468,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "academic collapse",
+    "target": "university administrators",
+    "co_occurrence": 4,
+    "npmi": 0.0454,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "participatory instruction",
+    "target": "university policy",
+    "co_occurrence": 5,
+    "npmi": 0.0409,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "instructional practice",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "npmi": 0.0378,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "political repression",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.0344,
+    "source_cluster": "politics",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "educational instability",
+    "target": "empirical research",
+    "co_occurrence": 4,
+    "npmi": 0.034,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "tuition",
+    "co_occurrence": 3,
+    "npmi": 0.0299,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "suppressing dissent",
+    "co_occurrence": 3,
+    "npmi": 0.0299,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "academic abuse"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student protest",
+    "co_occurrence": 5,
+    "npmi": 0.0292,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "tuition affordability",
+    "target": "university reform",
+    "co_occurrence": 10,
+    "npmi": 0.0267,
+    "source_cluster": "education_cost",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "systemic education failure",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "npmi": 0.0254,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "college admissions",
+    "target": "university reform",
+    "co_occurrence": 8,
+    "npmi": 0.024,
+    "source_cluster": "admissions_access",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "scholarships",
+    "target": "university reform",
+    "co_occurrence": 6,
+    "npmi": 0.0213,
+    "source_cluster": "education_cost",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "university reform",
+    "co_occurrence": 6,
+    "npmi": 0.0213,
+    "source_cluster": "academic abuse",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "austerity",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "npmi": 0.0184,
+    "source_cluster": "financial_constraints",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "npmi": 0.0184,
+    "source_cluster": "degradation_signals",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "university reform",
+    "target": "weak oversight",
+    "co_occurrence": 4,
+    "npmi": 0.0184,
+    "source_cluster": "university_administration",
+    "target_cluster": "accountability_gaps"
+  },
+  {
+    "source": "over-enrollment",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": 0.0167,
+    "source_cluster": "degradation_signals",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "faculty contracts",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": 0.0167,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "debt",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": 0.0167,
+    "source_cluster": "education_cost",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "loan",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": 0.0167,
+    "source_cluster": "education_cost",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "decline of academia",
+    "target": "suppressing dissent",
+    "co_occurrence": 3,
+    "npmi": 0.0167,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "academic abuse"
+  },
+  {
+    "source": "outdated education model",
+    "target": "student retention",
+    "co_occurrence": 3,
+    "npmi": 0.0167,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "outdated education model",
+    "target": "scholarly funding",
+    "co_occurrence": 3,
+    "npmi": 0.0167,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "funding_flows"
+  },
+  {
+    "source": "education crisis",
+    "target": "student protest",
+    "co_occurrence": 5,
+    "npmi": 0.0158,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "outdated education model",
+    "target": "university bylaws",
+    "co_occurrence": 4,
+    "npmi": 0.0079,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "outdated education model",
+    "target": "research collaboration",
+    "co_occurrence": 4,
+    "npmi": 0.0079,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "empirical research",
+    "target": "higher education crisis",
+    "co_occurrence": 4,
+    "npmi": 0.0079,
+    "source_cluster": "research_activities",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "academic collapse",
+    "target": "student engagement",
+    "co_occurrence": 5,
+    "npmi": 0.0,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "academic collapse",
+    "target": "curricular design",
+    "co_occurrence": 3,
+    "npmi": 0.0,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "education crisis",
+    "target": "empirical research",
+    "co_occurrence": 4,
+    "npmi": -0.0044,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "politicisation of science",
+    "target": "student life",
+    "co_occurrence": 3,
+    "npmi": -0.008,
+    "source_cluster": "science_society",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": -0.0133,
+    "source_cluster": "academic_freedom",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "outdated education model",
+    "target": "suppressing dissent",
+    "co_occurrence": 3,
+    "npmi": -0.0197,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "academic abuse"
+  },
+  {
+    "source": "decline of academia",
+    "target": "student engagement",
+    "co_occurrence": 6,
+    "npmi": -0.0202,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "academic collapse",
+    "target": "student protest",
+    "co_occurrence": 3,
+    "npmi": -0.0248,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "research productivity",
+    "target": "university policy",
+    "co_occurrence": 5,
+    "npmi": -0.0261,
+    "source_cluster": "research_activities",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "tuition",
+    "target": "university reform",
+    "co_occurrence": 8,
+    "npmi": -0.0283,
+    "source_cluster": "education_cost",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "student retention",
+    "target": "university reform",
+    "co_occurrence": 7,
+    "npmi": -0.0333,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "politicisation of science",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "npmi": -0.0406,
+    "source_cluster": "science_society",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "university reform",
+    "co_occurrence": 5,
+    "npmi": -0.0471,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "selective admissions",
+    "target": "university reform",
+    "co_occurrence": 5,
+    "npmi": -0.0471,
+    "source_cluster": "admissions_access",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "participatory instruction",
+    "co_occurrence": 3,
+    "npmi": -0.0523,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "scholarly funding",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": -0.0546,
+    "source_cluster": "funding_flows",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university reform",
+    "co_occurrence": 24,
+    "npmi": -0.0553,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "freedom of speech",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "npmi": -0.0574,
+    "source_cluster": "academic_freedom",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "populism",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "npmi": -0.0574,
+    "source_cluster": "politics",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "empirical research",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "npmi": -0.0704,
+    "source_cluster": "research_activities",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "student satisfaction",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": -0.0723,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "student wellbeing",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": -0.0723,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "authoritarianism",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": -0.0723,
+    "source_cluster": "politics",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "democracy",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": -0.0723,
+    "source_cluster": "politics",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": -0.0723,
+    "source_cluster": "politics",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "npmi": -0.0787,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "student protest",
+    "target": "university reform",
+    "co_occurrence": 10,
+    "npmi": -0.1027,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "student voice",
+    "target": "university reform",
+    "co_occurrence": 5,
+    "npmi": -0.1038,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "faculty careers",
+    "target": "university reform",
+    "co_occurrence": 9,
+    "npmi": -0.1095,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "educational instability",
+    "target": "student protest",
+    "co_occurrence": 3,
+    "npmi": -0.1097,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "student life",
+    "target": "university reform",
+    "co_occurrence": 14,
+    "npmi": -0.1166,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "political repression",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "npmi": -0.1193,
+    "source_cluster": "politics",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "educational decline",
+    "target": "university reform",
+    "co_occurrence": 13,
+    "npmi": -0.1213,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "educational instability",
+    "target": "university reform",
+    "co_occurrence": 20,
+    "npmi": -0.1266,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "school budgets",
+    "target": "university reform",
+    "co_occurrence": 12,
+    "npmi": -0.1266,
+    "source_cluster": "funding_flows",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "suppressing dissent",
+    "target": "university reform",
+    "co_occurrence": 6,
+    "npmi": -0.1384,
+    "source_cluster": "academic abuse",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "discrimination",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": -0.1413,
+    "source_cluster": "systemic_inequity",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "faculty workload",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "npmi": -0.1717,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "course evaluation",
+    "target": "university reform",
+    "co_occurrence": 6,
+    "npmi": -0.1799,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "education crisis",
+    "target": "university reform",
+    "co_occurrence": 21,
+    "npmi": -0.1816,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "academic collapse",
+    "target": "university reform",
+    "co_occurrence": 13,
+    "npmi": -0.1843,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "undergraduate pathway",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": -0.1977,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": -0.1977,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "curricular design",
+    "target": "university reform",
+    "co_occurrence": 7,
+    "npmi": -0.2033,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "student engagement",
+    "target": "university reform",
+    "co_occurrence": 13,
+    "npmi": -0.2133,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "systemic education failure",
+    "target": "university reform",
+    "co_occurrence": 9,
+    "npmi": -0.2141,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "instructional excellence",
+    "target": "university reform",
+    "co_occurrence": 7,
+    "npmi": -0.2369,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "politicisation of science",
+    "target": "university reform",
+    "co_occurrence": 7,
+    "npmi": -0.2369,
+    "source_cluster": "science_society",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "decline of academia",
+    "target": "university reform",
+    "co_occurrence": 15,
+    "npmi": -0.2563,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "university reform",
+    "co_occurrence": 14,
+    "npmi": -0.2615,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "university reform",
+    "co_occurrence": 5,
+    "npmi": -0.2699,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "university reform",
+    "co_occurrence": 12,
+    "npmi": -0.2739,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "scholarly funding",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": -0.2867,
+    "source_cluster": "funding_flows",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "classroom methods",
+    "target": "university reform",
+    "co_occurrence": 7,
+    "npmi": -0.2969,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "outdated education model",
+    "target": "university reform",
+    "co_occurrence": 16,
+    "npmi": -0.3011,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "empirical research",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "npmi": -0.3252,
+    "source_cluster": "research_activities",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "research productivity",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "npmi": -0.3548,
+    "source_cluster": "research_activities",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "participatory instruction",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": -0.3558,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "university_administration"
+  }
+]
