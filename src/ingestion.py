@@ -132,8 +132,6 @@ RSS_FEEDS = [
     "https://www.insidehighered.com/rss/quicktakes",
     "https://www.timeshighereducation.com/opinion/rss",
     "https://www.science.org/rss/news_current.xml",
-    "https://www.nature.com/subjects/scientific-community.rss",
-    "https://www.nature.com/subjects/science-policy.rss",
     "https://www.nature.com/subjects/higher-education.rss",
     "https://www.nsf.gov/news/newsrss.xml",
     "https://new.nsf.gov/rss/news_all.xml",
@@ -234,6 +232,49 @@ RSS_FEEDS = [
     "https://www.marketwatch.com/rss/topstories",
     "https://finance.yahoo.com/news/rssindex",
     "https://www.ft.com/markets?format=rss",
+    "https://www.highereddive.com/feeds/news/",
+    "https://thepienews.com/feed/",
+    "https://www.facultyfocus.com/feed/",
+    "https://www.ruffalonl.com/blog/feed/",
+    "https://tophat.com/feed/",
+    "https://www.insidehighered.com/rss.xml",
+    "https://feeds.feedburner.com/EdTechHiEd",
+    "https://www.advance-he.ac.uk/news-and-views/feed",
+    "https://www.educationdynamics.com/feed/",
+    "https://www.terminalfour.com/blog/rss/index.xml",
+    "https://wonkhe.com/feed/",
+    "https://feeds.feedburner.com/mfeldstein/feed",
+    "https://www.hepi.ac.uk/category/blog/feed/",
+    "https://www.higheredtoday.org/feed/",
+    "https://www.campusreview.com.au/feed/",
+    "https://feeds.feedburner.com/OnlineContinuingProfessionalEducationUpdateByUpcea",
+    "https://www.scholarlyteacher.com/blog-feed.xml",
+    "https://www.highereducationinquirer.org/feeds/posts/default",
+    "https://www.higheredgeek.com/blog?format=RSS",
+    "https://feeds.feedburner.com/highereducationwhisperer",
+    "https://srheblog.com/feed/",
+    "https://teachinginhighered.com/feed/",
+    "https://edualliancegroup.blog/feed/",
+    "https://sovorelpublishing.com/index.php/feed/",
+    "https://www.continuous-learning-institute.com/blog.rss",
+    "https://www.theguardian.com/education/higher-education/rss",
+    "https://wenr.wes.org/feed/",
+    "https://higheredstrategy.com/blog/feed/",
+    "highereddatastories.com/feeds/posts/default",
+    "https://recessionreality.blogspot.com/feeds/posts/default",
+    "https://andrewmcgettigan.org/feed/",
+    "https://ihec-djc.blogspot.com/feeds/posts/default",
+    "https://www.feedspot.com/infiniterss.php?_src=feed_title&followfeedid=4654987&q=site:https%3A%2F%2Fteachingandlearninginhighered.org%2Ffeed%2F",
+    "https://higheredincrisis.org/feed/",
+    "https://feeds.feedburner.com/Inside-Higher-Ed",
+    "https://aeradivisionj.blogspot.com/feeds/posts/default?alt=rss",
+    "https://www.millennialprofessor.com/feeds/posts/default?alt=rss",
+    "https://mistakengoal.com/blog/feed/",
+    "https://feeds.feedburner.com/highedwebtech",
+    "https://globalhighered.wordpress.com/feed/",
+    "https://helpfulprofessor.com/feed/",
+    "https://www.timeshighereducation.com/academic/blog",
+    
     
 
     # 🇩🇪 German-speaking Europe
@@ -295,6 +336,7 @@ RSS_FEEDS = [
     "https://www.forskningsradet.no/rss/",
     "https://www.vr.se/english/about-us/news.html/rss",
     "https://ufm.dk/en/news/rss",
+    "https://studyindenmark.dk/news/aggregator/RSS",
 
     # 🇵🇱 Poland 
     "https://www.gov.pl/web/science/rss",
@@ -543,7 +585,7 @@ def is_valid_article(article: dict) -> bool:
         return False
 
     # 3. minimum content sanity
-    if len(article["full_text"]) < 1500:
+    if len(article["full_text"]) < 1000:
         return False
 
     # 4. link sanity
