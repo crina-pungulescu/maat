@@ -1,0 +1,662 @@
+[
+  {
+    "source": "education_cost",
+    "target": "funding_flows",
+    "weight": 15
+  },
+  {
+    "source": "academic abuse",
+    "target": "university_administration",
+    "weight": 25
+  },
+  {
+    "source": "academic abuse",
+    "target": "future_outlook",
+    "weight": 2
+  },
+  {
+    "source": "academic_standards",
+    "target": "higher_education_crisis",
+    "weight": 1
+  },
+  {
+    "source": "financial_constraints",
+    "target": "funding_flows",
+    "weight": 4
+  },
+  {
+    "source": "academic abuse",
+    "target": "accountability_gaps",
+    "weight": 7
+  },
+  {
+    "source": "academic abuse",
+    "target": "higher_education_crisis",
+    "weight": 34
+  },
+  {
+    "source": "academic abuse",
+    "target": "academic_freedom",
+    "weight": 4
+  },
+  {
+    "source": "academic_standards",
+    "target": "accountability_gaps",
+    "weight": 1
+  },
+  {
+    "source": "academic abuse",
+    "target": "politics",
+    "weight": 6
+  },
+  {
+    "source": "accountability_gaps",
+    "target": "politics",
+    "weight": 4
+  },
+  {
+    "source": "academic_freedom",
+    "target": "politics",
+    "weight": 5
+  },
+  {
+    "source": "accountability_gaps",
+    "target": "future_outlook",
+    "weight": 1
+  },
+  {
+    "source": "accountability_gaps",
+    "target": "higher_education_crisis",
+    "weight": 20
+  },
+  {
+    "source": "accountability_gaps",
+    "target": "degradation_signals",
+    "weight": 2
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "science_society",
+    "weight": 7
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "politics",
+    "weight": 12
+  },
+  {
+    "source": "academic_freedom",
+    "target": "higher_education_crisis",
+    "weight": 5
+  },
+  {
+    "source": "degradation_signals",
+    "target": "higher_education_crisis",
+    "weight": 21
+  },
+  {
+    "source": "academic abuse",
+    "target": "academic_standards",
+    "weight": 2
+  },
+  {
+    "source": "research_activities",
+    "target": "science_society",
+    "weight": 7
+  },
+  {
+    "source": "internationalisation",
+    "target": "regions_and_countries",
+    "weight": 1
+  },
+  {
+    "source": "politics",
+    "target": "systemic_inequity",
+    "weight": 3
+  },
+  {
+    "source": "internationalisation",
+    "target": "politics",
+    "weight": 2
+  },
+  {
+    "source": "academic abuse",
+    "target": "science_society",
+    "weight": 3
+  },
+  {
+    "source": "academic_standards",
+    "target": "politics",
+    "weight": 1
+  },
+  {
+    "source": "academic_standards",
+    "target": "science_society",
+    "weight": 1
+  },
+  {
+    "source": "degradation_signals",
+    "target": "science_society",
+    "weight": 1
+  },
+  {
+    "source": "accountability_gaps",
+    "target": "science_society",
+    "weight": 2
+  },
+  {
+    "source": "academic_freedom",
+    "target": "academic_standards",
+    "weight": 1
+  },
+  {
+    "source": "academic_freedom",
+    "target": "degradation_signals",
+    "weight": 1
+  },
+  {
+    "source": "academic abuse",
+    "target": "degradation_signals",
+    "weight": 1
+  },
+  {
+    "source": "academic_freedom",
+    "target": "accountability_gaps",
+    "weight": 2
+  },
+  {
+    "source": "politics",
+    "target": "university_administration",
+    "weight": 6
+  },
+  {
+    "source": "admissions_access",
+    "target": "education_cost",
+    "weight": 6
+  },
+  {
+    "source": "internationalisation",
+    "target": "teaching_and_learning",
+    "weight": 23
+  },
+  {
+    "source": "politics",
+    "target": "science_society",
+    "weight": 1
+  },
+  {
+    "source": "degradation_signals",
+    "target": "teaching_and_learning",
+    "weight": 7
+  },
+  {
+    "source": "academic_standards",
+    "target": "research_activities",
+    "weight": 1
+  },
+  {
+    "source": "academic abuse",
+    "target": "research_activities",
+    "weight": 5
+  },
+  {
+    "source": "accountability_gaps",
+    "target": "research_activities",
+    "weight": 2
+  },
+  {
+    "source": "academic_freedom",
+    "target": "science_society",
+    "weight": 1
+  },
+  {
+    "source": "academic_freedom",
+    "target": "research_activities",
+    "weight": 2
+  },
+  {
+    "source": "academic_freedom",
+    "target": "systemic_inequity",
+    "weight": 1
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "teaching_and_learning",
+    "weight": 133
+  },
+  {
+    "source": "student_experience",
+    "target": "teaching_and_learning",
+    "weight": 105
+  },
+  {
+    "source": "faculty_labour",
+    "target": "teaching_and_learning",
+    "weight": 29
+  },
+  {
+    "source": "research_activities",
+    "target": "teaching_and_learning",
+    "weight": 31
+  },
+  {
+    "source": "educational_technology",
+    "target": "teaching_and_learning",
+    "weight": 9
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "research_activities",
+    "weight": 31
+  },
+  {
+    "source": "education_cost",
+    "target": "higher_education_crisis",
+    "weight": 27
+  },
+  {
+    "source": "admissions_access",
+    "target": "teaching_and_learning",
+    "weight": 22
+  },
+  {
+    "source": "accountability_gaps",
+    "target": "systemic_inequity",
+    "weight": 1
+  },
+  {
+    "source": "politics",
+    "target": "research_activities",
+    "weight": 1
+  },
+  {
+    "source": "education_cost",
+    "target": "teaching_and_learning",
+    "weight": 37
+  },
+  {
+    "source": "research_activities",
+    "target": "systemic_inequity",
+    "weight": 3
+  },
+  {
+    "source": "academic_freedom",
+    "target": "teaching_and_learning",
+    "weight": 3
+  },
+  {
+    "source": "education_cost",
+    "target": "financial_constraints",
+    "weight": 3
+  },
+  {
+    "source": "faculty_labour",
+    "target": "student_experience",
+    "weight": 17
+  },
+  {
+    "source": "admissions_access",
+    "target": "student_experience",
+    "weight": 16
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "university_administration",
+    "weight": 57
+  },
+  {
+    "source": "education_cost",
+    "target": "university_administration",
+    "weight": 18
+  },
+  {
+    "source": "degradation_signals",
+    "target": "education_cost",
+    "weight": 4
+  },
+  {
+    "source": "admissions_access",
+    "target": "degradation_signals",
+    "weight": 3
+  },
+  {
+    "source": "education_cost",
+    "target": "student_experience",
+    "weight": 24
+  },
+  {
+    "source": "internationalisation",
+    "target": "research_activities",
+    "weight": 1
+  },
+  {
+    "source": "internationalisation",
+    "target": "systemic_inequity",
+    "weight": 1
+  },
+  {
+    "source": "education_cost",
+    "target": "faculty_labour",
+    "weight": 7
+  },
+  {
+    "source": "student_experience",
+    "target": "university_administration",
+    "weight": 49
+  },
+  {
+    "source": "academic abuse",
+    "target": "faculty_labour",
+    "weight": 3
+  },
+  {
+    "source": "faculty_labour",
+    "target": "funding_flows",
+    "weight": 3
+  },
+  {
+    "source": "science_society",
+    "target": "teaching_and_learning",
+    "weight": 9
+  },
+  {
+    "source": "science_society",
+    "target": "student_experience",
+    "weight": 5
+  },
+  {
+    "source": "academic abuse",
+    "target": "systemic_inequity",
+    "weight": 1
+  },
+  {
+    "source": "systemic_inequity",
+    "target": "teaching_and_learning",
+    "weight": 6
+  },
+  {
+    "source": "faculty_labour",
+    "target": "university_administration",
+    "weight": 19
+  },
+  {
+    "source": "teaching_and_learning",
+    "target": "university_administration",
+    "weight": 74
+  },
+  {
+    "source": "degradation_signals",
+    "target": "funding_flows",
+    "weight": 1
+  },
+  {
+    "source": "academic abuse",
+    "target": "funding_flows",
+    "weight": 1
+  },
+  {
+    "source": "faculty_labour",
+    "target": "higher_education_crisis",
+    "weight": 19
+  },
+  {
+    "source": "politics",
+    "target": "student_experience",
+    "weight": 4
+  },
+  {
+    "source": "academic_freedom",
+    "target": "student_experience",
+    "weight": 5
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "student_experience",
+    "weight": 72
+  },
+  {
+    "source": "funding_flows",
+    "target": "science_society",
+    "weight": 1
+  },
+  {
+    "source": "funding_flows",
+    "target": "research_activities",
+    "weight": 2
+  },
+  {
+    "source": "research_activities",
+    "target": "student_experience",
+    "weight": 22
+  },
+  {
+    "source": "funding_flows",
+    "target": "higher_education_crisis",
+    "weight": 24
+  },
+  {
+    "source": "admissions_access",
+    "target": "higher_education_crisis",
+    "weight": 19
+  },
+  {
+    "source": "funding_flows",
+    "target": "teaching_and_learning",
+    "weight": 9
+  },
+  {
+    "source": "faculty_labour",
+    "target": "future_outlook",
+    "weight": 1
+  },
+  {
+    "source": "future_outlook",
+    "target": "higher_education_crisis",
+    "weight": 9
+  },
+  {
+    "source": "academic abuse",
+    "target": "student_experience",
+    "weight": 10
+  },
+  {
+    "source": "sustainability_climate",
+    "target": "university_administration",
+    "weight": 4
+  },
+  {
+    "source": "funding_flows",
+    "target": "university_administration",
+    "weight": 13
+  },
+  {
+    "source": "faculty_labour",
+    "target": "research_activities",
+    "weight": 5
+  },
+  {
+    "source": "admissions_access",
+    "target": "university_administration",
+    "weight": 9
+  },
+  {
+    "source": "faculty_labour",
+    "target": "science_society",
+    "weight": 1
+  },
+  {
+    "source": "admissions_access",
+    "target": "funding_flows",
+    "weight": 2
+  },
+  {
+    "source": "future_outlook",
+    "target": "university_administration",
+    "weight": 2
+  },
+  {
+    "source": "student_experience",
+    "target": "systemic_inequity",
+    "weight": 5
+  },
+  {
+    "source": "academic abuse",
+    "target": "education_cost",
+    "weight": 1
+  },
+  {
+    "source": "educational_technology",
+    "target": "higher_education_crisis",
+    "weight": 10
+  },
+  {
+    "source": "degradation_signals",
+    "target": "university_administration",
+    "weight": 6
+  },
+  {
+    "source": "admissions_access",
+    "target": "faculty_labour",
+    "weight": 2
+  },
+  {
+    "source": "future_outlook",
+    "target": "teaching_and_learning",
+    "weight": 2
+  },
+  {
+    "source": "degradation_signals",
+    "target": "student_experience",
+    "weight": 4
+  },
+  {
+    "source": "sustainability_climate",
+    "target": "teaching_and_learning",
+    "weight": 3
+  },
+  {
+    "source": "accountability_gaps",
+    "target": "faculty_labour",
+    "weight": 1
+  },
+  {
+    "source": "research_activities",
+    "target": "university_administration",
+    "weight": 15
+  },
+  {
+    "source": "science_society",
+    "target": "university_administration",
+    "weight": 2
+  },
+  {
+    "source": "educational_technology",
+    "target": "student_experience",
+    "weight": 1
+  },
+  {
+    "source": "accountability_gaps",
+    "target": "education_cost",
+    "weight": 1
+  },
+  {
+    "source": "academic abuse",
+    "target": "teaching_and_learning",
+    "weight": 6
+  },
+  {
+    "source": "funding_flows",
+    "target": "student_experience",
+    "weight": 10
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "sustainability_climate",
+    "weight": 8
+  },
+  {
+    "source": "financial_constraints",
+    "target": "higher_education_crisis",
+    "weight": 2
+  },
+  {
+    "source": "academic_freedom",
+    "target": "university_administration",
+    "weight": 3
+  },
+  {
+    "source": "accountability_gaps",
+    "target": "university_administration",
+    "weight": 4
+  },
+  {
+    "source": "education_cost",
+    "target": "internationalisation",
+    "weight": 2
+  },
+  {
+    "source": "internationalisation",
+    "target": "university_administration",
+    "weight": 14
+  },
+  {
+    "source": "student_experience",
+    "target": "sustainability_climate",
+    "weight": 2
+  },
+  {
+    "source": "degradation_signals",
+    "target": "faculty_labour",
+    "weight": 1
+  },
+  {
+    "source": "financial_constraints",
+    "target": "university_administration",
+    "weight": 1
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "internationalisation",
+    "weight": 23
+  },
+  {
+    "source": "systemic_inequity",
+    "target": "university_administration",
+    "weight": 4
+  },
+  {
+    "source": "internationalisation",
+    "target": "student_experience",
+    "weight": 6
+  },
+  {
+    "source": "education_cost",
+    "target": "research_activities",
+    "weight": 2
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "systemic_inequity",
+    "weight": 6
+  },
+  {
+    "source": "accountability_gaps",
+    "target": "teaching_and_learning",
+    "weight": 3
+  },
+  {
+    "source": "faculty_labour",
+    "target": "internationalisation",
+    "weight": 1
+  },
+  {
+    "source": "accountability_gaps",
+    "target": "student_experience",
+    "weight": 1
+  },
+  {
+    "source": "educational_technology",
+    "target": "university_administration",
+    "weight": 1
+  }
+]
