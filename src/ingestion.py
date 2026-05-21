@@ -614,7 +614,7 @@ def fetch_rss_articles(seen):
 
             continue
 
-        for entry in feed.entries[:100]:
+        for entry in feed.entries[:20]:
 
             text = (entry.get("title", "") + " " + entry.get("summary", "")).strip()
 
@@ -628,7 +628,7 @@ def fetch_rss_articles(seen):
 
             seen_titles.add(title_norm)
 
-            if not full_text or len(full_text) < 1500:
+            if not full_text or len(full_text) < 1000:
                 continue
 
             is_rel, max_score = compute_relevance(text)
