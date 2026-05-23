@@ -136,6 +136,7 @@ MAAT_TOPICS = {
        "university reform",
        "internal regulations",
        "institutional governance",
+       "institutional partnerships",
        "university reform"
     ],
 
