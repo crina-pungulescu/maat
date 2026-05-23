@@ -107,13 +107,16 @@ MAAT_TOPICS = {
     ],
 
     "education_cost": [
-        "tuition",
+        "tuition fee",
         "debt",
         "loan",
         "tuition affordability",
-        "financial aid",
+        "need-based financial support",
+        "need-based financial assistance",
+        "fee waivers and bursaries",
         "scholarships",
         "cost barriers",
+        "cost of attendance support",
         "financial hardship",
     ],
     
@@ -134,10 +137,11 @@ MAAT_TOPICS = {
 
     "funding_flows": [
         "scholarly funding",
-        "public funding",
+        "public scholarly funding",
         "school budgets",
-        "grant funding",
-        "endowments"
+        "scholarly grant funding",
+        "scholarly funding streams",
+        "scholarly endowments"
     ],
 
     "financial_constraints": [
@@ -173,7 +177,11 @@ MAAT_TOPICS = {
 
     "ethical_conflicts": [
         "plagiarism",
-        "misrepresentation",
+        "deliberate misrepresentation",
+        "factual misrepresentation",
+        "intentional misrepresentation",
+        "fraudulent misrepresentation",
+        "unethical behaviour",
         "data fabrication",
         "ethical impropriety",
         "data misuse",
@@ -228,7 +236,7 @@ MAAT_TOPICS = {
          "suppressing dissent",
          "silencing criticism",
          "risks attached to reporting abuse",
-         "self-censorship",
+         "fear-driven self-silencing",
          "wrongful termination",
          "retaliation",
          "professional marginalisation",
@@ -271,7 +279,7 @@ MAAT_TOPICS = {
         "title IX",
         "racism",
         "bullying",
-        "DEI",
+        "diversity equity and inclusion initiatives",
         "equity initiatives",
         "gender discrimination",
         "sexual harassment",
@@ -364,7 +372,7 @@ MAAT_TOPICS = {
         "turkey",
         "israel",
         "palestine",
-        "gaza",
+        "gaza strip",
         "ukraine",
         "united kingdom",
         "france",
@@ -392,12 +400,12 @@ MAAT_TOPICS = {
     ],
 
     "admissions_access": [
-        "college admissions",
-        "selective admissions",
+        "admissions process",
+        "admissions selectivity",
         "standardised testing",
-        "SAT",
-        "GRE",
-        "GMAT",
+        "scholastic aptitude test",
+        "graduate record examination",
+        "graduate management admission test",
         "affirmative action",
         "widening participation"
     ],
@@ -441,7 +449,6 @@ MAAT_TOPICS = {
     "science_society": [
         "trust in science",
         "science communication",
-        "misinformation",
         "evidence-based decisions",
         "politicisation of science",
         "scientific expertise"    
