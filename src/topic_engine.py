@@ -168,8 +168,13 @@ MAAT_TOPICS = {
     ],
 
     "academic_standards": [
+        "reporting honesty",
+        "rigorous standards",
+        "reporting clarity",
+        "accountable conduct",
+        "responsible conduct"
         "integrity",
-        "standards",
+        "standards of conduct",
         "transparency",
         "accountability",
         "responsibility"
@@ -238,7 +243,6 @@ MAAT_TOPICS = {
          "risks attached to reporting abuse",
          "fear-driven self-silencing",
          "wrongful termination",
-         "retaliation",
          "professional marginalisation",
          "career sabotage",
          "procedural manipulation",
@@ -447,9 +451,14 @@ MAAT_TOPICS = {
     ],
 
     "science_society": [
+        "public misinformation",
+        "media falsehoods",
+        "false narratives",
+        "fabricated news",
+        "contested scientific claims"
         "trust in science",
         "science communication",
-        "evidence-based decisions",
+        "evidence-based reasoning",
         "politicisation of science",
         "scientific expertise"    
     ],
