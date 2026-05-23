@@ -37,6 +37,7 @@ MAAT_TOPICS = {
         "distance pedagogy",
         "bachelor qualification",
         "STEM qualification",
+        "online learning",
         "master qualification",
         "business qualification",
         "doctoral qualification",
@@ -51,7 +52,9 @@ MAAT_TOPICS = {
     "student_experience": [
         "student wellbeing",
         "student life",
+        "college experience",
         "supporting staff",
+        "student experience",
         "student satisfaction",
         "student engagement",
         "student retention",
@@ -67,7 +70,7 @@ MAAT_TOPICS = {
         "ChatGPT",
         "emerging technology",
         "digital tools",
-        "learning analytics",
+        "analytics",
         "edtech",
         "process automation",
         "automated grading",
@@ -135,12 +138,27 @@ MAAT_TOPICS = {
        "university reform"
     ],
 
+     "accreditation": [
+        "accreditation process",
+        "accreditation review",
+        "accreditation body",
+        "accreditation standards",
+        "loss of accreditation",
+        "accreditation withdrawal",
+        "programme accreditation",
+        "institutional accreditation",
+        "accreditation compliance",
+        "quality assurance review",
+        "quality assurance body",
+        "external review process",
+        "validation process",
+]
+
     "funding_flows": [
         "scholarly funding",
         "public scholarly funding",
         "school budgets",
         "scholarly grant funding",
-        "scholarly funding streams",
         "scholarly endowments"
     ],
 
@@ -217,7 +235,12 @@ MAAT_TOPICS = {
         "credential inflation",
         "content dilution",
         "lower expectations",
-        "quality erosion",
+        "erosion of rigour",
+        "deteriorating outcomes",
+        "falling benchmarks",
+        "mission erosion",
+        "performative commitment",
+        "mission drift",
         "oversimplification",
         "dumbing down material",
         "programme massification",
@@ -254,7 +277,7 @@ MAAT_TOPICS = {
          "arbitrary disciplinary actions",
          "institutional gatekeeping",
          "reputation damage tactics",
-         "non-transparent processes",
+         "non-transparent procedures",
          "mobbing",
          "scarcity-based exploitation",
          "weaponised hierarchy",
@@ -404,7 +427,7 @@ MAAT_TOPICS = {
     ],
 
     "admissions_access": [
-        "admissions process",
+        "admissions criteria",
         "admissions selectivity",
         "standardised testing",
         "scholastic aptitude test",
