@@ -155,16 +155,16 @@ MAAT_TOPICS = {
 
    "faculty_labour": [
         "faculty contracts",
-        "adjuncts",
-        "precarity",
-        "labour exploitation",
+        "adjunct faculty",
+        "faculty precarity",
+        "faculty labour exploitation",
         "faculty careers",
-        "unpaid labour",
+        "unpaid faculty labour",
         "faculty workload",
-        "job insecurity",
-        "hiring market",
-        "redundancy",
-        "unemployment"
+        "faculty job insecurity",
+        "faculty hiring market",
+        "faculty redundancy",
+        "faculty unemployment"
     ],
 
     "academic_standards": [
