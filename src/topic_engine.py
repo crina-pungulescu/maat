@@ -135,6 +135,7 @@ MAAT_TOPICS = {
        "university policy",
        "university reform",
        "internal regulations",
+       "institutional governance",
        "university reform"
     ],
 
@@ -258,8 +259,8 @@ MAAT_TOPICS = {
      "academic abuse": [
          "administrative coercion",
          "procedural abuse",
-         "retaliation",
-         "institutional abuse",
+         "administrative retaliation",
+         "administrative abuse",
          "retaliatory litigation",
          "suppressing dissent",
          "silencing criticism",
@@ -271,11 +272,11 @@ MAAT_TOPICS = {
          "procedural manipulation",
          "bureaucratic obstruction",
          "disproportionate punishment",
-         "exclusion",
+         "punitive exclusion exclusion",
          "promotion blockage",
          "arbitrary tenure denial",
          "arbitrary disciplinary actions",
-         "institutional gatekeeping",
+         "bureaucratic gatekeeping",
          "reputation damage tactics",
          "non-transparent procedures",
          "mobbing",
