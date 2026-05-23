@@ -21,81 +21,8 @@ DetectorFactory.seed = 0
 # 🌍 Multilingual semantic model (lightweight, strong baseline)
 model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
 
-MAAT_CONCEPTS = [
-    # general
-
-    "news about universities and higher education",
-
-    # 🏛️ institutional structure
-
-    "university system",
-
-    "higher education institutions",
-
-    "academic organization",
-
-    # ⚖️ governance + policy (core axis)
-
-    "higher education governance",
-
-    "university reform",
-
-    "education policy",
-
-    "funding of universities",
-
-    # 🧠 academic integrity axis
-
-    "academic misconduct",
-
-    "research integrity",
-
-    "scientific fraud",
-
-    "plagiarism in academia",
-
-    "academic abuse",
-
-    "title IX",
-
-    "unpaid labour in academia",
-
-    "publish or perish coercion",
-
-    "retaliation by university",
-
-    "suppression of faculty dissent",
-
-
-    # 👥 human/structural dynamics
-
-    "faculty employment",
-
-    "student experience",
-
-    "academic labor",
-
-    "academic labour",
-
-    "research careers",
-
-    "adjunct faculty",
-
-    "precariat",
-
-    # 🌍 system-level change
-
-    "accreditation systems",
-
-    "ranking systems",
-
-    "international universities",
-
-    "higher education crisis"
-
-]
-
-concept_embeddings = model.encode(MAAT_CONCEPTS, convert_to_tensor=True)
+from topic_engine import FLAT_MAAT_TOPICS
+concept_embeddings = model.encode(FLAT_MAAT_TOPICS, convert_to_tensor=True)
 
 model_name = "google/flan-t5-small"
 
