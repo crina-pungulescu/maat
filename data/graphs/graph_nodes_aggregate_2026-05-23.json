@@ -2321,12 +2321,11 @@
   {
     "id": "public funding",
     "label": "Public Funding",
-    "weight": 10,
-    "avg_score": 0.4958,
+    "weight": 9,
+    "avg_score": 0.488,
     "article_ids": [
       "0f2abf383a7ad97345ad30bce8847e04",
       "0fbd3030c68b7ba593e6422d6ea246d9",
-      "4e02c5af4024fb1d5d1103d94355dcba",
       "53c62ff4a7c24a70a4605579b2e8c253",
       "6672029ebc985fa0410ae020435fc01f",
       "80eef45f5cef9d5a825bb8d0b978c90d",
@@ -3176,10 +3175,9 @@
   {
     "id": "financial aid",
     "label": "Financial Aid",
-    "weight": 5,
-    "avg_score": 0.514,
+    "weight": 4,
+    "avg_score": 0.5357,
     "article_ids": [
-      "4e02c5af4024fb1d5d1103d94355dcba",
       "53c62ff4a7c24a70a4605579b2e8c253",
       "6672029ebc985fa0410ae020435fc01f",
       "80eef45f5cef9d5a825bb8d0b978c90d",
@@ -3189,10 +3187,9 @@
   {
     "id": "grant funding",
     "label": "Grant Funding",
-    "weight": 6,
-    "avg_score": 0.5249,
+    "weight": 5,
+    "avg_score": 0.5287,
     "article_ids": [
-      "4e02c5af4024fb1d5d1103d94355dcba",
       "53c62ff4a7c24a70a4605579b2e8c253",
       "6672029ebc985fa0410ae020435fc01f",
       "80eef45f5cef9d5a825bb8d0b978c90d",
@@ -4397,6 +4394,15 @@
     ]
   },
   {
+    "id": "diversity equity and inclusion initiatives",
+    "label": "Diversity Equity And Inclusion Initiatives",
+    "weight": 1,
+    "avg_score": 0.4248,
+    "article_ids": [
+      "b9b7a368ea0cbe7e8902cd0c0a3c12b8"
+    ]
+  },
+  {
     "id": "unemployment",
     "label": "Unemployment",
     "weight": 1,
@@ -4406,10 +4412,64 @@
     ]
   },
   {
+    "id": "tuition fee",
+    "label": "Tuition Fee",
+    "weight": 1,
+    "avg_score": 0.4466,
+    "article_ids": [
+      "4e02c5af4024fb1d5d1103d94355dcba"
+    ]
+  },
+  {
+    "id": "public scholarly funding",
+    "label": "Public Scholarly Funding",
+    "weight": 1,
+    "avg_score": 0.6262,
+    "article_ids": [
+      "4e02c5af4024fb1d5d1103d94355dcba"
+    ]
+  },
+  {
+    "id": "scholarly grant funding",
+    "label": "Scholarly Grant Funding",
+    "weight": 1,
+    "avg_score": 0.5618,
+    "article_ids": [
+      "4e02c5af4024fb1d5d1103d94355dcba"
+    ]
+  },
+  {
+    "id": "scholarly funding streams",
+    "label": "Scholarly Funding Streams",
+    "weight": 1,
+    "avg_score": 0.5957,
+    "article_ids": [
+      "4e02c5af4024fb1d5d1103d94355dcba"
+    ]
+  },
+  {
+    "id": "scholarly endowments",
+    "label": "Scholarly Endowments",
+    "weight": 1,
+    "avg_score": 0.4184,
+    "article_ids": [
+      "4e02c5af4024fb1d5d1103d94355dcba"
+    ]
+  },
+  {
     "id": "plagiarism",
     "label": "Plagiarism",
     "weight": 1,
     "avg_score": 0.41,
+    "article_ids": [
+      "bfd27109fe37acb178debfff2abea39f"
+    ]
+  },
+  {
+    "id": "fraudulent misrepresentation",
+    "label": "Fraudulent Misrepresentation",
+    "weight": 1,
+    "avg_score": 0.4704,
     "article_ids": [
       "bfd27109fe37acb178debfff2abea39f"
     ]
@@ -4442,10 +4502,28 @@
     ]
   },
   {
+    "id": "fear-driven self-silencing",
+    "label": "Fear Driven Self Silencing",
+    "weight": 1,
+    "avg_score": 0.4019,
+    "article_ids": [
+      "73a19c3e2953f124c13cba41a1490d41"
+    ]
+  },
+  {
     "id": "self-regulation",
     "label": "Self Regulation",
     "weight": 1,
     "avg_score": 0.5107,
+    "article_ids": [
+      "73a19c3e2953f124c13cba41a1490d41"
+    ]
+  },
+  {
+    "id": "scholastic aptitude test",
+    "label": "Scholastic Aptitude Test",
+    "weight": 1,
+    "avg_score": 0.4466,
     "article_ids": [
       "73a19c3e2953f124c13cba41a1490d41"
     ]

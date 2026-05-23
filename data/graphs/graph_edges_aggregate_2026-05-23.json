@@ -2690,11 +2690,6 @@
     "weight": 10
   },
   {
-    "source": "public funding",
-    "target": "scholarly funding",
-    "weight": 10
-  },
-  {
     "source": "academic model breakdown",
     "target": "instructional practice",
     "weight": 10
@@ -2945,6 +2940,11 @@
     "weight": 9
   },
   {
+    "source": "public funding",
+    "target": "scholarly funding",
+    "weight": 9
+  },
+  {
     "source": "scholarly funding",
     "target": "school budgets",
     "weight": 9
@@ -3185,11 +3185,6 @@
     "weight": 8
   },
   {
-    "source": "public funding",
-    "target": "school budgets",
-    "weight": 8
-  },
-  {
     "source": "academic model breakdown",
     "target": "course architecture",
     "weight": 8
@@ -3370,18 +3365,8 @@
     "weight": 8
   },
   {
-    "source": "public funding",
-    "target": "scholarships",
-    "weight": 8
-  },
-  {
     "source": "global experience",
     "target": "study abroad",
-    "weight": 8
-  },
-  {
-    "source": "public funding",
-    "target": "university policy",
     "weight": 8
   },
   {
@@ -3532,6 +3517,11 @@
   {
     "source": "higher education crisis",
     "target": "international cohorts",
+    "weight": 7
+  },
+  {
+    "source": "public funding",
+    "target": "school budgets",
     "weight": 7
   },
   {
@@ -3705,13 +3695,18 @@
     "weight": 7
   },
   {
+    "source": "public funding",
+    "target": "scholarships",
+    "weight": 7
+  },
+  {
     "source": "global experience",
     "target": "postgraduate pathway",
     "weight": 7
   },
   {
-    "source": "higher education crisis",
-    "target": "public funding",
+    "source": "public funding",
+    "target": "university policy",
     "weight": 7
   },
   {
@@ -4210,33 +4205,13 @@
     "weight": 6
   },
   {
-    "source": "grant funding",
-    "target": "public funding",
-    "weight": 6
-  },
-  {
-    "source": "grant funding",
-    "target": "scholarly funding",
-    "weight": 6
-  },
-  {
-    "source": "grant funding",
-    "target": "scholarships",
-    "weight": 6
-  },
-  {
     "source": "course architecture",
     "target": "university leadership",
     "weight": 6
   },
   {
-    "source": "education crisis",
+    "source": "higher education crisis",
     "target": "public funding",
-    "weight": 6
-  },
-  {
-    "source": "public funding",
-    "target": "tuition affordability",
     "weight": 6
   },
   {
@@ -4945,22 +4920,17 @@
     "weight": 5
   },
   {
-    "source": "financial aid",
-    "target": "grant funding",
-    "weight": 5
-  },
-  {
-    "source": "financial aid",
+    "source": "grant funding",
     "target": "public funding",
     "weight": 5
   },
   {
-    "source": "financial aid",
+    "source": "grant funding",
     "target": "scholarly funding",
     "weight": 5
   },
   {
-    "source": "financial aid",
+    "source": "grant funding",
     "target": "scholarships",
     "weight": 5
   },
@@ -5065,23 +5035,13 @@
     "weight": 5
   },
   {
-    "source": "grant funding",
-    "target": "higher education crisis",
+    "source": "education crisis",
+    "target": "public funding",
     "weight": 5
   },
   {
-    "source": "grant funding",
-    "target": "school budgets",
-    "weight": 5
-  },
-  {
-    "source": "grant funding",
+    "source": "public funding",
     "target": "tuition affordability",
-    "weight": 5
-  },
-  {
-    "source": "grant funding",
-    "target": "university policy",
     "weight": 5
   },
   {
@@ -5885,6 +5845,26 @@
     "weight": 4
   },
   {
+    "source": "financial aid",
+    "target": "grant funding",
+    "weight": 4
+  },
+  {
+    "source": "financial aid",
+    "target": "public funding",
+    "weight": 4
+  },
+  {
+    "source": "financial aid",
+    "target": "scholarly funding",
+    "weight": 4
+  },
+  {
+    "source": "financial aid",
+    "target": "scholarships",
+    "weight": 4
+  },
+  {
     "source": "educational instability",
     "target": "inclusivity",
     "weight": 4
@@ -5995,32 +5975,22 @@
     "weight": 4
   },
   {
-    "source": "education crisis",
-    "target": "financial aid",
-    "weight": 4
-  },
-  {
-    "source": "education crisis",
-    "target": "grant funding",
-    "weight": 4
-  },
-  {
-    "source": "financial aid",
+    "source": "grant funding",
     "target": "higher education crisis",
     "weight": 4
   },
   {
-    "source": "financial aid",
+    "source": "grant funding",
     "target": "school budgets",
     "weight": 4
   },
   {
-    "source": "financial aid",
+    "source": "grant funding",
     "target": "tuition affordability",
     "weight": 4
   },
   {
-    "source": "financial aid",
+    "source": "grant funding",
     "target": "university policy",
     "weight": 4
   },
@@ -6302,11 +6272,6 @@
   {
     "source": "educational instability",
     "target": "politicisation of science",
-    "weight": 4
-  },
-  {
-    "source": "educational instability",
-    "target": "public funding",
     "weight": 4
   },
   {
@@ -7575,8 +7540,38 @@
     "weight": 3
   },
   {
+    "source": "education crisis",
+    "target": "financial aid",
+    "weight": 3
+  },
+  {
+    "source": "education crisis",
+    "target": "grant funding",
+    "weight": 3
+  },
+  {
+    "source": "financial aid",
+    "target": "higher education crisis",
+    "weight": 3
+  },
+  {
+    "source": "financial aid",
+    "target": "school budgets",
+    "weight": 3
+  },
+  {
     "source": "financial aid",
     "target": "tuition",
+    "weight": 3
+  },
+  {
+    "source": "financial aid",
+    "target": "tuition affordability",
+    "weight": 3
+  },
+  {
+    "source": "financial aid",
+    "target": "university policy",
     "weight": 3
   },
   {
@@ -8120,13 +8115,13 @@
     "weight": 3
   },
   {
-    "source": "educational decline",
-    "target": "public funding",
+    "source": "educational instability",
+    "target": "legitimacy crisis",
     "weight": 3
   },
   {
     "source": "educational instability",
-    "target": "legitimacy crisis",
+    "target": "public funding",
     "weight": 3
   },
   {
@@ -10630,11 +10625,6 @@
     "weight": 2
   },
   {
-    "source": "financial aid",
-    "target": "insufficient resources",
-    "weight": 2
-  },
-  {
     "source": "financial concerns",
     "target": "public funding",
     "weight": 2
@@ -10650,18 +10640,8 @@
     "weight": 2
   },
   {
-    "source": "grant funding",
-    "target": "insufficient resources",
-    "weight": 2
-  },
-  {
     "source": "higher education crisis",
     "target": "insufficient resources",
-    "weight": 2
-  },
-  {
-    "source": "insufficient resources",
-    "target": "public funding",
     "weight": 2
   },
   {
@@ -11800,6 +11780,11 @@
     "weight": 2
   },
   {
+    "source": "educational decline",
+    "target": "public funding",
+    "weight": 2
+  },
+  {
     "source": "higher education crisis",
     "target": "legitimacy crisis",
     "weight": 2
@@ -12592,26 +12577,6 @@
   {
     "source": "college admissions",
     "target": "public funding",
-    "weight": 2
-  },
-  {
-    "source": "educational decline",
-    "target": "financial aid",
-    "weight": 2
-  },
-  {
-    "source": "educational decline",
-    "target": "grant funding",
-    "weight": 2
-  },
-  {
-    "source": "educational instability",
-    "target": "financial aid",
-    "weight": 2
-  },
-  {
-    "source": "educational instability",
-    "target": "grant funding",
     "weight": 2
   },
   {
@@ -16646,6 +16611,11 @@
   },
   {
     "source": "financial aid",
+    "target": "insufficient resources",
+    "weight": 1
+  },
+  {
+    "source": "financial aid",
     "target": "resource constraints",
     "weight": 1
   },
@@ -16751,12 +16721,22 @@
   },
   {
     "source": "grant funding",
+    "target": "insufficient resources",
+    "weight": 1
+  },
+  {
+    "source": "grant funding",
     "target": "resource constraints",
     "weight": 1
   },
   {
     "source": "higher education crisis",
     "target": "resource constraints",
+    "weight": 1
+  },
+  {
+    "source": "insufficient resources",
+    "target": "public funding",
     "weight": 1
   },
   {
@@ -22031,7 +22011,27 @@
   },
   {
     "source": "educational decline",
+    "target": "financial aid",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "grant funding",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
     "target": "loan",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "financial aid",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "grant funding",
     "weight": 1
   },
   {
@@ -30895,6 +30895,91 @@
     "weight": 1
   },
   {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "peer review",
+    "weight": 1
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "thought independence",
+    "weight": 1
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
     "source": "inclusivity",
     "target": "peer review",
     "weight": 1
@@ -31045,8 +31130,58 @@
     "weight": 1
   },
   {
+    "source": "education crisis",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "scholarly funding streams",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "scholarly grant funding",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
     "source": "educational decline",
     "target": "insufficient resources",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "scholarly funding streams",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "scholarly grant funding",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "tuition fee",
     "weight": 1
   },
   {
@@ -31055,13 +31190,73 @@
     "weight": 1
   },
   {
-    "source": "financial aid",
-    "target": "student voice",
+    "source": "educational instability",
+    "target": "public scholarly funding",
     "weight": 1
   },
   {
-    "source": "grant funding",
-    "target": "student voice",
+    "source": "educational instability",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "scholarly funding streams",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "scholarly grant funding",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "scholarly funding streams",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "scholarly grant funding",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "insufficient resources",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "insufficient resources",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "insufficient resources",
+    "target": "scholarly funding streams",
+    "weight": 1
+  },
+  {
+    "source": "insufficient resources",
+    "target": "scholarly grant funding",
     "weight": 1
   },
   {
@@ -31070,8 +31265,208 @@
     "weight": 1
   },
   {
-    "source": "public funding",
+    "source": "insufficient resources",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "scholarly funding streams",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "scholarly grant funding",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
     "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "scholarly funding streams",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "scholarly grant funding",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "scholarly funding streams",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "scholarly grant funding",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding streams",
+    "target": "scholarly grant funding",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding streams",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding streams",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding streams",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding streams",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding streams",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding streams",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "scholarly grant funding",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "scholarly grant funding",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "scholarly grant funding",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "scholarly grant funding",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "scholarly grant funding",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "scholarly grant funding",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "scholarships",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "school budgets",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "student voice",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "tuition affordability",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "tuition fee",
+    "target": "university policy",
     "weight": 1
   },
   {
@@ -31091,6 +31486,11 @@
   },
   {
     "source": "bribery",
+    "target": "fraudulent misrepresentation",
+    "weight": 1
+  },
+  {
+    "source": "bribery",
     "target": "plagiarism",
     "weight": 1
   },
@@ -31106,6 +31506,11 @@
   },
   {
     "source": "corruption",
+    "target": "fraudulent misrepresentation",
+    "weight": 1
+  },
+  {
+    "source": "corruption",
     "target": "plagiarism",
     "weight": 1
   },
@@ -31116,12 +31521,37 @@
   },
   {
     "source": "dishonesty",
+    "target": "fraudulent misrepresentation",
+    "weight": 1
+  },
+  {
+    "source": "dishonesty",
     "target": "plagiarism",
     "weight": 1
   },
   {
     "source": "fraud",
+    "target": "fraudulent misrepresentation",
+    "weight": 1
+  },
+  {
+    "source": "fraud",
     "target": "plagiarism",
+    "weight": 1
+  },
+  {
+    "source": "fraudulent misrepresentation",
+    "target": "plagiarism",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "fear-driven self-silencing",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "scholastic aptitude test",
     "weight": 1
   },
   {
@@ -31131,12 +31561,32 @@
   },
   {
     "source": "classroom methods",
+    "target": "fear-driven self-silencing",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
     "target": "self-regulation",
     "weight": 1
   },
   {
     "source": "course evaluation",
+    "target": "fear-driven self-silencing",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
     "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "scholastic aptitude test",
     "weight": 1
   },
   {
@@ -31150,6 +31600,81 @@
     "weight": 1
   },
   {
+    "source": "fear-driven self-silencing",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "fear-driven self-silencing",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "fear-driven self-silencing",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "fear-driven self-silencing",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "fear-driven self-silencing",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "fear-driven self-silencing",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "fear-driven self-silencing",
+    "target": "pedagogical methods",
+    "weight": 1
+  },
+  {
+    "source": "fear-driven self-silencing",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "fear-driven self-silencing",
+    "target": "self-regulation",
+    "weight": 1
+  },
+  {
+    "source": "fear-driven self-silencing",
+    "target": "skills mismatch",
+    "weight": 1
+  },
+  {
+    "source": "fear-driven self-silencing",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "fear-driven self-silencing",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "fear-driven self-silencing",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "fear-driven self-silencing",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
     "source": "instructional excellence",
     "target": "self-regulation",
     "weight": 1
@@ -31157,6 +31682,11 @@
   {
     "source": "instructional practice",
     "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "instructional practice",
+    "target": "scholastic aptitude test",
     "weight": 1
   },
   {
@@ -31176,7 +31706,17 @@
   },
   {
     "source": "intellectual autonomy",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
     "target": "self-regulation",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "scholastic aptitude test",
     "weight": 1
   },
   {
@@ -31191,7 +31731,17 @@
   },
   {
     "source": "outdated education model",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
     "target": "self-regulation",
+    "weight": 1
+  },
+  {
+    "source": "participatory instruction",
+    "target": "scholastic aptitude test",
     "weight": 1
   },
   {
@@ -31206,12 +31756,47 @@
   },
   {
     "source": "pedagogical methods",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical methods",
     "target": "self-regulation",
     "weight": 1
   },
   {
     "source": "pedagogical methods",
     "target": "skills mismatch",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "self-regulation",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "skills mismatch",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "systemic education failure",
     "weight": 1
   },
   {

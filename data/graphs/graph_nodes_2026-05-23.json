@@ -133,6 +133,15 @@
     ]
   },
   {
+    "id": "diversity equity and inclusion initiatives",
+    "label": "Diversity Equity And Inclusion Initiatives",
+    "weight": 1,
+    "avg_score": 0.4248,
+    "article_ids": [
+      "b9b7a368ea0cbe7e8902cd0c0a3c12b8"
+    ]
+  },
+  {
     "id": "inclusivity",
     "label": "Inclusivity",
     "weight": 1,
@@ -235,19 +244,19 @@
     ]
   },
   {
-    "id": "tuition affordability",
-    "label": "Tuition Affordability",
+    "id": "tuition fee",
+    "label": "Tuition Fee",
     "weight": 1,
-    "avg_score": 0.4356,
+    "avg_score": 0.4466,
     "article_ids": [
       "4e02c5af4024fb1d5d1103d94355dcba"
     ]
   },
   {
-    "id": "financial aid",
-    "label": "Financial Aid",
+    "id": "tuition affordability",
+    "label": "Tuition Affordability",
     "weight": 1,
-    "avg_score": 0.4274,
+    "avg_score": 0.4356,
     "article_ids": [
       "4e02c5af4024fb1d5d1103d94355dcba"
     ]
@@ -271,19 +280,37 @@
     ]
   },
   {
-    "id": "public funding",
-    "label": "Public Funding",
+    "id": "public scholarly funding",
+    "label": "Public Scholarly Funding",
     "weight": 1,
-    "avg_score": 0.5657,
+    "avg_score": 0.6262,
     "article_ids": [
       "4e02c5af4024fb1d5d1103d94355dcba"
     ]
   },
   {
-    "id": "grant funding",
-    "label": "Grant Funding",
+    "id": "scholarly grant funding",
+    "label": "Scholarly Grant Funding",
     "weight": 1,
-    "avg_score": 0.5058,
+    "avg_score": 0.5618,
+    "article_ids": [
+      "4e02c5af4024fb1d5d1103d94355dcba"
+    ]
+  },
+  {
+    "id": "scholarly funding streams",
+    "label": "Scholarly Funding Streams",
+    "weight": 1,
+    "avg_score": 0.5957,
+    "article_ids": [
+      "4e02c5af4024fb1d5d1103d94355dcba"
+    ]
+  },
+  {
+    "id": "scholarly endowments",
+    "label": "Scholarly Endowments",
+    "weight": 1,
+    "avg_score": 0.4184,
     "article_ids": [
       "4e02c5af4024fb1d5d1103d94355dcba"
     ]
@@ -302,6 +329,15 @@
     "label": "Plagiarism",
     "weight": 1,
     "avg_score": 0.41,
+    "article_ids": [
+      "bfd27109fe37acb178debfff2abea39f"
+    ]
+  },
+  {
+    "id": "fraudulent misrepresentation",
+    "label": "Fraudulent Misrepresentation",
+    "weight": 1,
+    "avg_score": 0.4704,
     "article_ids": [
       "bfd27109fe37acb178debfff2abea39f"
     ]
@@ -426,10 +462,28 @@
     ]
   },
   {
+    "id": "fear-driven self-silencing",
+    "label": "Fear Driven Self Silencing",
+    "weight": 1,
+    "avg_score": 0.4019,
+    "article_ids": [
+      "73a19c3e2953f124c13cba41a1490d41"
+    ]
+  },
+  {
     "id": "self-regulation",
     "label": "Self Regulation",
     "weight": 1,
     "avg_score": 0.5107,
+    "article_ids": [
+      "73a19c3e2953f124c13cba41a1490d41"
+    ]
+  },
+  {
+    "id": "scholastic aptitude test",
+    "label": "Scholastic Aptitude Test",
+    "weight": 1,
+    "avg_score": 0.4466,
     "article_ids": [
       "73a19c3e2953f124c13cba41a1490d41"
     ]

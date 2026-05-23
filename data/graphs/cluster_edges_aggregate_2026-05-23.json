@@ -25,6 +25,11 @@
     "weight": 2
   },
   {
+    "source": "financial_constraints",
+    "target": "funding_flows",
+    "weight": 4
+  },
+  {
     "source": "accountability_gaps",
     "target": "degradation_signals",
     "weight": 3
@@ -53,11 +58,6 @@
     "source": "academic_standards",
     "target": "accountability_gaps",
     "weight": 2
-  },
-  {
-    "source": "financial_constraints",
-    "target": "funding_flows",
-    "weight": 4
   },
   {
     "source": "accountability_gaps",
@@ -457,7 +457,7 @@
   {
     "source": "funding_flows",
     "target": "higher_education_crisis",
-    "weight": 26
+    "weight": 25
   },
   {
     "source": "academic_freedom",

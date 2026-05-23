@@ -28,6 +28,19 @@
     ]
   },
   {
+    "topic": "Funding Flows",
+    "count": 8,
+    "score": 0.5393,
+    "topics": [
+      "public scholarly funding",
+      "scholarly endowments",
+      "scholarly funding",
+      "scholarly funding streams",
+      "scholarly grant funding",
+      "school budgets"
+    ]
+  },
+  {
     "topic": "Teaching And Learning",
     "count": 7,
     "score": 0.4472,
@@ -38,17 +51,6 @@
       "instructional practice",
       "participatory instruction",
       "pedagogical methods"
-    ]
-  },
-  {
-    "topic": "Funding Flows",
-    "count": 6,
-    "score": 0.5263,
-    "topics": [
-      "grant funding",
-      "public funding",
-      "scholarly funding",
-      "school budgets"
     ]
   },
   {
@@ -84,11 +86,21 @@
   {
     "topic": "Education Cost",
     "count": 3,
-    "score": 0.4258,
+    "score": 0.4322,
     "topics": [
-      "financial aid",
       "scholarships",
-      "tuition affordability"
+      "tuition affordability",
+      "tuition fee"
+    ]
+  },
+  {
+    "topic": "Ethical Conflicts",
+    "count": 3,
+    "score": 0.4516,
+    "topics": [
+      "dishonesty",
+      "fraudulent misrepresentation",
+      "plagiarism"
     ]
   },
   {
@@ -102,19 +114,11 @@
     ]
   },
   {
-    "topic": "Ethical Conflicts",
-    "count": 2,
-    "score": 0.4422,
-    "topics": [
-      "dishonesty",
-      "plagiarism"
-    ]
-  },
-  {
     "topic": "Systemic Inequity",
-    "count": 1,
-    "score": 0.5263,
+    "count": 2,
+    "score": 0.4756,
     "topics": [
+      "diversity equity and inclusion initiatives",
       "inclusivity"
     ]
   },
@@ -143,11 +147,27 @@
     ]
   },
   {
+    "topic": "Academic Abuse",
+    "count": 1,
+    "score": 0.4019,
+    "topics": [
+      "fear-driven self-silencing"
+    ]
+  },
+  {
     "topic": "Accountability Gaps",
     "count": 1,
     "score": 0.5107,
     "topics": [
       "self-regulation"
+    ]
+  },
+  {
+    "topic": "Admissions Access",
+    "count": 1,
+    "score": 0.4466,
+    "topics": [
+      "scholastic aptitude test"
     ]
   }
 ]

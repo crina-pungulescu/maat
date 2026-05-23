@@ -6,14 +6,14 @@
     "npmi": 1.0
   },
   {
-    "source": "financial aid",
-    "target": "grant funding",
-    "co_occurrence": 5,
-    "npmi": 0.9495
-  },
-  {
     "source": "AI assisted process",
     "target": "artificial intelligence",
+    "co_occurrence": 4,
+    "npmi": 0.9418
+  },
+  {
+    "source": "financial aid",
+    "target": "grant funding",
     "co_occurrence": 4,
     "npmi": 0.9418
   },
@@ -42,6 +42,12 @@
     "npmi": 0.8761
   },
   {
+    "source": "endowments",
+    "target": "grant funding",
+    "co_occurrence": 3,
+    "npmi": 0.8761
+  },
+  {
     "source": "career sabotage",
     "target": "pessimism",
     "co_occurrence": 3,
@@ -56,20 +62,14 @@
   {
     "source": "grant funding",
     "target": "public funding",
-    "co_occurrence": 6,
-    "npmi": 0.851
+    "co_occurrence": 5,
+    "npmi": 0.8372
   },
   {
     "source": "science communication",
     "target": "scientific expertise",
     "co_occurrence": 4,
     "npmi": 0.836
-  },
-  {
-    "source": "endowments",
-    "target": "grant funding",
-    "co_occurrence": 3,
-    "npmi": 0.8318
   },
   {
     "source": "freedom of expression",
@@ -102,10 +102,16 @@
     "npmi": 0.8193
   },
   {
+    "source": "budget constraints",
+    "target": "public funding",
+    "co_occurrence": 4,
+    "npmi": 0.7885
+  },
+  {
     "source": "financial aid",
     "target": "public funding",
-    "co_occurrence": 5,
-    "npmi": 0.808
+    "co_occurrence": 4,
+    "npmi": 0.7885
   },
   {
     "source": "incompetence",
@@ -198,12 +204,6 @@
     "npmi": 0.761
   },
   {
-    "source": "budget constraints",
-    "target": "public funding",
-    "co_occurrence": 4,
-    "npmi": 0.761
-  },
-  {
     "source": "institutional gatekeeping",
     "target": "senior leadership",
     "co_occurrence": 5,
@@ -270,6 +270,12 @@
     "npmi": 0.7362
   },
   {
+    "source": "endowments",
+    "target": "public funding",
+    "co_occurrence": 3,
+    "npmi": 0.7335
+  },
+  {
     "source": "freedom of expression",
     "target": "suppressing dissent",
     "co_occurrence": 5,
@@ -292,12 +298,6 @@
     "target": "weak oversight",
     "co_occurrence": 5,
     "npmi": 0.7312
-  },
-  {
-    "source": "public funding",
-    "target": "scholarly funding",
-    "co_occurrence": 10,
-    "npmi": 0.7298
   },
   {
     "source": "global experience",
@@ -348,16 +348,16 @@
     "npmi": 0.7079
   },
   {
-    "source": "endowments",
-    "target": "public funding",
-    "co_occurrence": 3,
-    "npmi": 0.7079
-  },
-  {
     "source": "degree pathway",
     "target": "doctoral qualification",
     "co_occurrence": 5,
     "npmi": 0.7071
+  },
+  {
+    "source": "public funding",
+    "target": "scholarly funding",
+    "co_occurrence": 9,
+    "npmi": 0.7043
   },
   {
     "source": "international cohorts",
@@ -540,12 +540,6 @@
     "npmi": 0.6537
   },
   {
-    "source": "public funding",
-    "target": "school budgets",
-    "co_occurrence": 8,
-    "npmi": 0.6536
-  },
-  {
     "source": "bureaucratic obstruction",
     "target": "elite impunity",
     "co_occurrence": 5,
@@ -666,10 +660,10 @@
     "npmi": 0.621
   },
   {
-    "source": "grant funding",
-    "target": "scholarly funding",
-    "co_occurrence": 6,
-    "npmi": 0.621
+    "source": "public funding",
+    "target": "school budgets",
+    "co_occurrence": 7,
+    "npmi": 0.6183
   },
   {
     "source": "bureaucratic obstruction",
@@ -816,7 +810,7 @@
     "npmi": 0.5902
   },
   {
-    "source": "financial aid",
+    "source": "grant funding",
     "target": "scholarly funding",
     "co_occurrence": 5,
     "npmi": 0.5897
@@ -860,12 +854,6 @@
   {
     "source": "research collaboration",
     "target": "scientific expertise",
-    "co_occurrence": 5,
-    "npmi": 0.5798
-  },
-  {
-    "source": "grant funding",
-    "target": "school budgets",
     "co_occurrence": 5,
     "npmi": 0.5798
   },
@@ -937,6 +925,12 @@
   },
   {
     "source": "budget constraints",
+    "target": "scholarly funding",
+    "co_occurrence": 4,
+    "npmi": 0.5554
+  },
+  {
+    "source": "financial aid",
     "target": "scholarly funding",
     "co_occurrence": 4,
     "npmi": 0.5554
@@ -1032,7 +1026,7 @@
     "npmi": 0.5357
   },
   {
-    "source": "financial aid",
+    "source": "grant funding",
     "target": "school budgets",
     "co_occurrence": 4,
     "npmi": 0.5354
@@ -1114,12 +1108,6 @@
     "target": "suppressing dissent",
     "co_occurrence": 3,
     "npmi": 0.5166
-  },
-  {
-    "source": "grant funding",
-    "target": "tuition affordability",
-    "co_occurrence": 5,
-    "npmi": 0.5151
   },
   {
     "source": "empirical research",
@@ -1272,6 +1260,12 @@
     "npmi": 0.4824
   },
   {
+    "source": "financial aid",
+    "target": "school budgets",
+    "co_occurrence": 3,
+    "npmi": 0.4824
+  },
+  {
     "source": "student life",
     "target": "student retention",
     "co_occurrence": 37,
@@ -1302,7 +1296,7 @@
     "npmi": 0.4776
   },
   {
-    "source": "financial aid",
+    "source": "grant funding",
     "target": "tuition affordability",
     "co_occurrence": 4,
     "npmi": 0.4745
@@ -1470,12 +1464,6 @@
     "npmi": 0.4468
   },
   {
-    "source": "public funding",
-    "target": "tuition affordability",
-    "co_occurrence": 6,
-    "npmi": 0.4467
-  },
-  {
     "source": "participatory instruction",
     "target": "student wellbeing",
     "co_occurrence": 16,
@@ -1522,12 +1510,6 @@
     "target": "university leadership",
     "co_occurrence": 9,
     "npmi": 0.4402
-  },
-  {
-    "source": "grant funding",
-    "target": "scholarships",
-    "co_occurrence": 6,
-    "npmi": 0.4395
   },
   {
     "source": "politicisation of science",
@@ -1608,6 +1590,12 @@
     "npmi": 0.4257
   },
   {
+    "source": "financial aid",
+    "target": "tuition affordability",
+    "co_occurrence": 3,
+    "npmi": 0.4257
+  },
+  {
     "source": "elite impunity",
     "target": "inclusivity",
     "co_occurrence": 3,
@@ -1656,7 +1644,7 @@
     "npmi": 0.4182
   },
   {
-    "source": "financial aid",
+    "source": "grant funding",
     "target": "scholarships",
     "co_occurrence": 5,
     "npmi": 0.4173
@@ -1710,12 +1698,6 @@
     "npmi": 0.4095
   },
   {
-    "source": "public funding",
-    "target": "scholarships",
-    "co_occurrence": 8,
-    "npmi": 0.4087
-  },
-  {
     "source": "student engagement",
     "target": "student satisfaction",
     "co_occurrence": 36,
@@ -1762,6 +1744,12 @@
     "target": "student satisfaction",
     "co_occurrence": 15,
     "npmi": 0.4031
+  },
+  {
+    "source": "public funding",
+    "target": "tuition affordability",
+    "co_occurrence": 5,
+    "npmi": 0.4028
   },
   {
     "source": "student protest",
@@ -1816,6 +1804,12 @@
     "target": "scholarships",
     "co_occurrence": 6,
     "npmi": 0.3945
+  },
+  {
+    "source": "financial aid",
+    "target": "scholarships",
+    "co_occurrence": 4,
+    "npmi": 0.393
   },
   {
     "source": "suppressing dissent",
@@ -1882,6 +1876,12 @@
     "target": "curricular design",
     "co_occurrence": 13,
     "npmi": 0.3842
+  },
+  {
+    "source": "public funding",
+    "target": "scholarships",
+    "co_occurrence": 7,
+    "npmi": 0.3834
   },
   {
     "source": "academic collapse",
@@ -2431,6 +2431,12 @@
   },
   {
     "source": "budget constraints",
+    "target": "tuition",
+    "co_occurrence": 3,
+    "npmi": 0.3342
+  },
+  {
+    "source": "financial aid",
     "target": "tuition",
     "co_occurrence": 3,
     "npmi": 0.3342
@@ -3018,7 +3024,7 @@
     "npmi": 0.28
   },
   {
-    "source": "financial aid",
+    "source": "grant funding",
     "target": "tuition",
     "co_occurrence": 3,
     "npmi": 0.28
@@ -3690,12 +3696,6 @@
     "npmi": 0.2358
   },
   {
-    "source": "grant funding",
-    "target": "tuition",
-    "co_occurrence": 3,
-    "npmi": 0.2358
-  },
-  {
     "source": "course evaluation",
     "target": "tuition affordability",
     "co_occurrence": 7,
@@ -3880,6 +3880,12 @@
     "target": "research collaboration",
     "co_occurrence": 11,
     "npmi": 0.2235
+  },
+  {
+    "source": "public funding",
+    "target": "tuition",
+    "co_occurrence": 4,
+    "npmi": 0.2228
   },
   {
     "source": "university policy",
@@ -4290,12 +4296,6 @@
     "npmi": 0.1954
   },
   {
-    "source": "public funding",
-    "target": "tuition",
-    "co_occurrence": 4,
-    "npmi": 0.1953
-  },
-  {
     "source": "college admissions",
     "target": "curricular design",
     "co_occurrence": 16,
@@ -4680,12 +4680,6 @@
     "npmi": 0.1771
   },
   {
-    "source": "public funding",
-    "target": "university policy",
-    "co_occurrence": 8,
-    "npmi": 0.1766
-  },
-  {
     "source": "educational decline",
     "target": "elite impunity",
     "co_occurrence": 4,
@@ -4860,18 +4854,6 @@
     "npmi": 0.1652
   },
   {
-    "source": "grant funding",
-    "target": "university policy",
-    "co_occurrence": 5,
-    "npmi": 0.1649
-  },
-  {
-    "source": "education crisis",
-    "target": "financial aid",
-    "co_occurrence": 4,
-    "npmi": 0.1637
-  },
-  {
     "source": "education crisis",
     "target": "future planning",
     "co_occurrence": 4,
@@ -4956,16 +4938,16 @@
     "npmi": 0.1616
   },
   {
-    "source": "grant funding",
-    "target": "higher education crisis",
-    "co_occurrence": 5,
-    "npmi": 0.1616
-  },
-  {
     "source": "bureaucratic obstruction",
     "target": "educational decline",
     "co_occurrence": 5,
     "npmi": 0.1611
+  },
+  {
+    "source": "public funding",
+    "target": "university policy",
+    "co_occurrence": 7,
+    "npmi": 0.1608
   },
   {
     "source": "international partnerships",
@@ -5340,7 +5322,7 @@
     "npmi": 0.1452
   },
   {
-    "source": "financial aid",
+    "source": "grant funding",
     "target": "university policy",
     "co_occurrence": 4,
     "npmi": 0.1446
@@ -5424,7 +5406,7 @@
     "npmi": 0.1416
   },
   {
-    "source": "financial aid",
+    "source": "grant funding",
     "target": "higher education crisis",
     "co_occurrence": 4,
     "npmi": 0.1416
@@ -5546,6 +5528,12 @@
   {
     "source": "budget constraints",
     "target": "education crisis",
+    "co_occurrence": 3,
+    "npmi": 0.1366
+  },
+  {
+    "source": "education crisis",
+    "target": "financial aid",
     "co_occurrence": 3,
     "npmi": 0.1366
   },
@@ -5679,6 +5667,12 @@
     "source": "faculty workload",
     "target": "postgraduate pathway",
     "co_occurrence": 6,
+    "npmi": 0.1312
+  },
+  {
+    "source": "public funding",
+    "target": "university administrators",
+    "co_occurrence": 5,
     "npmi": 0.1312
   },
   {
@@ -5862,12 +5856,6 @@
     "npmi": 0.125
   },
   {
-    "source": "higher education crisis",
-    "target": "public funding",
-    "co_occurrence": 7,
-    "npmi": 0.125
-  },
-  {
     "source": "peer review",
     "target": "student life",
     "co_occurrence": 3,
@@ -6000,6 +5988,12 @@
     "npmi": 0.1189
   },
   {
+    "source": "financial aid",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.1189
+  },
+  {
     "source": "participatory instruction",
     "target": "research productivity",
     "co_occurrence": 3,
@@ -6066,13 +6060,13 @@
     "npmi": 0.1162
   },
   {
-    "source": "education crisis",
-    "target": "grant funding",
-    "co_occurrence": 4,
-    "npmi": 0.1162
+    "source": "budget constraints",
+    "target": "higher education crisis",
+    "co_occurrence": 3,
+    "npmi": 0.116
   },
   {
-    "source": "budget constraints",
+    "source": "financial aid",
     "target": "higher education crisis",
     "co_occurrence": 3,
     "npmi": 0.116
@@ -6258,6 +6252,12 @@
     "npmi": 0.1097
   },
   {
+    "source": "academic model breakdown",
+    "target": "public funding",
+    "co_occurrence": 4,
+    "npmi": 0.1097
+  },
+  {
     "source": "academic collapse",
     "target": "course evaluation",
     "co_occurrence": 8,
@@ -6378,6 +6378,12 @@
     "npmi": 0.1052
   },
   {
+    "source": "higher education crisis",
+    "target": "public funding",
+    "co_occurrence": 6,
+    "npmi": 0.1052
+  },
+  {
     "source": "course evaluation",
     "target": "education crisis",
     "co_occurrence": 14,
@@ -6444,12 +6450,6 @@
     "npmi": 0.102
   },
   {
-    "source": "public funding",
-    "target": "university administrators",
-    "co_occurrence": 5,
-    "npmi": 0.102
-  },
-  {
     "source": "over-enrollment",
     "target": "student life",
     "co_occurrence": 8,
@@ -6500,12 +6500,6 @@
   {
     "source": "education crisis",
     "target": "international cohorts",
-    "co_occurrence": 6,
-    "npmi": 0.0992
-  },
-  {
-    "source": "education crisis",
-    "target": "public funding",
     "co_occurrence": 6,
     "npmi": 0.0992
   },
@@ -6912,6 +6906,12 @@
     "npmi": 0.0825
   },
   {
+    "source": "education crisis",
+    "target": "grant funding",
+    "co_occurrence": 3,
+    "npmi": 0.0825
+  },
+  {
     "source": "academic model breakdown",
     "target": "competency outcomes",
     "co_occurrence": 4,
@@ -6920,12 +6920,6 @@
   {
     "source": "college admissions",
     "target": "university bylaws",
-    "co_occurrence": 4,
-    "npmi": 0.0822
-  },
-  {
-    "source": "academic model breakdown",
-    "target": "public funding",
     "co_occurrence": 4,
     "npmi": 0.0822
   },
@@ -7095,6 +7089,12 @@
     "source": "faculty workload",
     "target": "university policy",
     "co_occurrence": 7,
+    "npmi": 0.0729
+  },
+  {
+    "source": "education crisis",
+    "target": "public funding",
+    "co_occurrence": 5,
     "npmi": 0.0729
   },
   {
@@ -7812,12 +7812,6 @@
     "npmi": 0.0403
   },
   {
-    "source": "educational decline",
-    "target": "public funding",
-    "co_occurrence": 3,
-    "npmi": 0.0403
-  },
-  {
     "source": "pedagogical innovation",
     "target": "university leadership",
     "co_occurrence": 16,
@@ -8458,12 +8452,6 @@
     "target": "university policy",
     "co_occurrence": 8,
     "npmi": 0.0076
-  },
-  {
-    "source": "educational instability",
-    "target": "public funding",
-    "co_occurrence": 4,
-    "npmi": 0.0071
   },
   {
     "source": "student satisfaction",
@@ -9156,10 +9144,22 @@
     "npmi": -0.0376
   },
   {
+    "source": "educational instability",
+    "target": "public funding",
+    "co_occurrence": 3,
+    "npmi": -0.0376
+  },
+  {
     "source": "academic model breakdown",
     "target": "global experience",
     "co_occurrence": 3,
     "npmi": -0.0376
+  },
+  {
+    "source": "public funding",
+    "target": "student engagement",
+    "co_occurrence": 4,
+    "npmi": -0.0377
   },
   {
     "source": "postgraduate pathway",
@@ -9408,12 +9408,6 @@
     "npmi": -0.0646
   },
   {
-    "source": "public funding",
-    "target": "student engagement",
-    "co_occurrence": 4,
-    "npmi": -0.0652
-  },
-  {
     "source": "scholarly funding",
     "target": "student life",
     "co_occurrence": 8,
@@ -9502,6 +9496,12 @@
     "target": "university administrators",
     "co_occurrence": 5,
     "npmi": -0.0758
+  },
+  {
+    "source": "public funding",
+    "target": "university reform",
+    "co_occurrence": 6,
+    "npmi": -0.0759
   },
   {
     "source": "higher education crisis",
@@ -9628,6 +9628,18 @@
     "target": "university reform",
     "co_occurrence": 3,
     "npmi": -0.0887
+  },
+  {
+    "source": "grant funding",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": -0.0887
+  },
+  {
+    "source": "outdated education model",
+    "target": "public funding",
+    "co_occurrence": 3,
+    "npmi": -0.089
   },
   {
     "source": "outdated education model",
@@ -9768,12 +9780,6 @@
     "npmi": -0.1049
   },
   {
-    "source": "public funding",
-    "target": "university reform",
-    "co_occurrence": 6,
-    "npmi": -0.1066
-  },
-  {
     "source": "educational instability",
     "target": "intellectual autonomy",
     "co_occurrence": 3,
@@ -9832,12 +9838,6 @@
     "target": "student engagement",
     "co_occurrence": 4,
     "npmi": -0.1127
-  },
-  {
-    "source": "outdated education model",
-    "target": "public funding",
-    "co_occurrence": 3,
-    "npmi": -0.1146
   },
   {
     "source": "school budgets",
@@ -9991,12 +9991,6 @@
   },
   {
     "source": "institutional abuse",
-    "target": "university reform",
-    "co_occurrence": 3,
-    "npmi": -0.1329
-  },
-  {
-    "source": "grant funding",
     "target": "university reform",
     "co_occurrence": 3,
     "npmi": -0.1329

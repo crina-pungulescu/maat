@@ -1,5 +1,13 @@
 [
   {
+    "source": "financial aid",
+    "target": "grant funding",
+    "co_occurrence": 4,
+    "pmi": 5.2095,
+    "source_cluster": "education_cost",
+    "target_cluster": "funding_flows"
+  },
+  {
     "source": "career sabotage",
     "target": "pessimism",
     "co_occurrence": 3,
@@ -14,14 +22,6 @@
     "pmi": 5.1163,
     "source_cluster": "ethical_conflicts",
     "target_cluster": "academic_standards"
-  },
-  {
-    "source": "financial aid",
-    "target": "grant funding",
-    "co_occurrence": 5,
-    "pmi": 4.9464,
-    "source_cluster": "education_cost",
-    "target_cluster": "funding_flows"
   },
   {
     "source": "institutional gatekeeping",
@@ -88,6 +88,22 @@
     "target_cluster": "accountability_gaps"
   },
   {
+    "source": "budget constraints",
+    "target": "public funding",
+    "co_occurrence": 4,
+    "pmi": 4.3615,
+    "source_cluster": "financial_constraints",
+    "target_cluster": "funding_flows"
+  },
+  {
+    "source": "financial aid",
+    "target": "public funding",
+    "co_occurrence": 4,
+    "pmi": 4.3615,
+    "source_cluster": "education_cost",
+    "target_cluster": "funding_flows"
+  },
+  {
     "source": "incompetence",
     "target": "weak oversight",
     "co_occurrence": 4,
@@ -142,22 +158,6 @@
     "pmi": 4.2095,
     "source_cluster": "academic abuse",
     "target_cluster": "accountability_gaps"
-  },
-  {
-    "source": "budget constraints",
-    "target": "public funding",
-    "co_occurrence": 4,
-    "pmi": 4.2095,
-    "source_cluster": "financial_constraints",
-    "target_cluster": "funding_flows"
-  },
-  {
-    "source": "financial aid",
-    "target": "public funding",
-    "co_occurrence": 5,
-    "pmi": 4.2095,
-    "source_cluster": "education_cost",
-    "target_cluster": "funding_flows"
   },
   {
     "source": "authoritarianism",
@@ -778,7 +778,7 @@
   {
     "source": "financial aid",
     "target": "scholarly funding",
-    "co_occurrence": 5,
+    "co_occurrence": 4,
     "pmi": 3.0719,
     "source_cluster": "education_cost",
     "target_cluster": "funding_flows"
@@ -822,14 +822,6 @@
     "pmi": 2.9871,
     "source_cluster": "politics",
     "target_cluster": "university_administration"
-  },
-  {
-    "source": "financial aid",
-    "target": "school budgets",
-    "co_occurrence": 4,
-    "pmi": 2.9615,
-    "source_cluster": "education_cost",
-    "target_cluster": "funding_flows"
   },
   {
     "source": "accountability",
@@ -878,6 +870,14 @@
     "pmi": 2.8875,
     "source_cluster": "teaching_and_learning",
     "target_cluster": "educational_technology"
+  },
+  {
+    "source": "financial aid",
+    "target": "school budgets",
+    "co_occurrence": 3,
+    "pmi": 2.8684,
+    "source_cluster": "education_cost",
+    "target_cluster": "funding_flows"
   },
   {
     "source": "politicisation of science",
@@ -960,14 +960,6 @@
     "target_cluster": "politics"
   },
   {
-    "source": "grant funding",
-    "target": "tuition affordability",
-    "co_occurrence": 5,
-    "pmi": 2.6834,
-    "source_cluster": "funding_flows",
-    "target_cluster": "education_cost"
-  },
-  {
     "source": "empirical research",
     "target": "intellectual autonomy",
     "co_occurrence": 5,
@@ -1006,6 +998,14 @@
     "pmi": 2.6569,
     "source_cluster": "higher_education_crisis",
     "target_cluster": "academic abuse"
+  },
+  {
+    "source": "grant funding",
+    "target": "tuition affordability",
+    "co_occurrence": 4,
+    "pmi": 2.6245,
+    "source_cluster": "funding_flows",
+    "target_cluster": "education_cost"
   },
   {
     "source": "politicisation of science",
@@ -1192,14 +1192,6 @@
     "target_cluster": "university_administration"
   },
   {
-    "source": "public funding",
-    "target": "tuition affordability",
-    "co_occurrence": 6,
-    "pmi": 2.2095,
-    "source_cluster": "funding_flows",
-    "target_cluster": "education_cost"
-  },
-  {
     "source": "competency outcomes",
     "target": "inclusivity",
     "co_occurrence": 3,
@@ -1250,7 +1242,7 @@
   {
     "source": "grant funding",
     "target": "scholarships",
-    "co_occurrence": 6,
+    "co_occurrence": 5,
     "pmi": 2.1738,
     "source_cluster": "funding_flows",
     "target_cluster": "education_cost"
@@ -1286,6 +1278,14 @@
     "pmi": 2.1391,
     "source_cluster": "higher_education_crisis",
     "target_cluster": "degradation_signals"
+  },
+  {
+    "source": "public funding",
+    "target": "tuition affordability",
+    "co_occurrence": 5,
+    "pmi": 2.0984,
+    "source_cluster": "funding_flows",
+    "target_cluster": "education_cost"
   },
   {
     "source": "institutional gatekeeping",
@@ -1472,14 +1472,6 @@
     "target_cluster": "student_experience"
   },
   {
-    "source": "public funding",
-    "target": "scholarships",
-    "co_occurrence": 8,
-    "pmi": 1.8519,
-    "source_cluster": "funding_flows",
-    "target_cluster": "education_cost"
-  },
-  {
     "source": "politicisation of science",
     "target": "scholarly funding",
     "co_occurrence": 3,
@@ -1517,6 +1509,14 @@
     "co_occurrence": 6,
     "pmi": 1.8171,
     "source_cluster": "teaching_and_learning",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "public funding",
+    "target": "scholarships",
+    "co_occurrence": 7,
+    "pmi": 1.8113,
+    "source_cluster": "funding_flows",
     "target_cluster": "education_cost"
   },
   {
@@ -1662,6 +1662,14 @@
     "pmi": 1.6734,
     "source_cluster": "faculty_labour",
     "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "grant funding",
+    "target": "tuition",
+    "co_occurrence": 3,
+    "pmi": 1.6651,
+    "source_cluster": "funding_flows",
+    "target_cluster": "education_cost"
   },
   {
     "source": "scholarly funding",
@@ -2072,14 +2080,6 @@
     "target_cluster": "education_cost"
   },
   {
-    "source": "grant funding",
-    "target": "tuition",
-    "co_occurrence": 3,
-    "pmi": 1.4021,
-    "source_cluster": "funding_flows",
-    "target_cluster": "education_cost"
-  },
-  {
     "source": "pedagogical methods",
     "target": "student wellbeing",
     "co_occurrence": 10,
@@ -2486,6 +2486,14 @@
     "pmi": 1.2337,
     "source_cluster": "teaching_and_learning",
     "target_cluster": "student_experience"
+  },
+  {
+    "source": "public funding",
+    "target": "tuition",
+    "co_occurrence": 4,
+    "pmi": 1.2322,
+    "source_cluster": "funding_flows",
+    "target_cluster": "education_cost"
   },
   {
     "source": "education crisis",
@@ -2998,14 +3006,6 @@
     "pmi": 1.0802,
     "source_cluster": "education_cost",
     "target_cluster": "university_administration"
-  },
-  {
-    "source": "public funding",
-    "target": "tuition",
-    "co_occurrence": 4,
-    "pmi": 1.0802,
-    "source_cluster": "funding_flows",
-    "target_cluster": "education_cost"
   },
   {
     "source": "pedagogical methods",
@@ -3841,14 +3841,6 @@
   },
   {
     "source": "education crisis",
-    "target": "financial aid",
-    "co_occurrence": 4,
-    "pmi": 0.9057,
-    "source_cluster": "higher_education_crisis",
-    "target_cluster": "education_cost"
-  },
-  {
-    "source": "education crisis",
     "target": "future planning",
     "co_occurrence": 4,
     "pmi": 0.9057,
@@ -4064,14 +4056,6 @@
     "target_cluster": "student_experience"
   },
   {
-    "source": "grant funding",
-    "target": "university policy",
-    "co_occurrence": 5,
-    "pmi": 0.859,
-    "source_cluster": "funding_flows",
-    "target_cluster": "university_administration"
-  },
-  {
     "source": "academic model breakdown",
     "target": "undergraduate pathway",
     "co_occurrence": 28,
@@ -4109,14 +4093,6 @@
     "co_occurrence": 5,
     "pmi": 0.8421,
     "source_cluster": "politics",
-    "target_cluster": "higher_education_crisis"
-  },
-  {
-    "source": "grant funding",
-    "target": "higher education crisis",
-    "co_occurrence": 5,
-    "pmi": 0.8421,
-    "source_cluster": "funding_flows",
     "target_cluster": "higher_education_crisis"
   },
   {
@@ -4273,6 +4249,14 @@
   },
   {
     "source": "education crisis",
+    "target": "financial aid",
+    "co_occurrence": 3,
+    "pmi": 0.8126,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "education crisis",
     "target": "opportunistic growth",
     "co_occurrence": 3,
     "pmi": 0.8126,
@@ -4328,17 +4312,9 @@
     "target_cluster": "university_administration"
   },
   {
-    "source": "financial aid",
+    "source": "grant funding",
     "target": "university policy",
     "co_occurrence": 4,
-    "pmi": 0.8001,
-    "source_cluster": "education_cost",
-    "target_cluster": "university_administration"
-  },
-  {
-    "source": "public funding",
-    "target": "university policy",
-    "co_occurrence": 8,
     "pmi": 0.8001,
     "source_cluster": "funding_flows",
     "target_cluster": "university_administration"
@@ -4424,11 +4400,11 @@
     "target_cluster": "higher_education_crisis"
   },
   {
-    "source": "financial aid",
+    "source": "grant funding",
     "target": "higher education crisis",
     "co_occurrence": 4,
     "pmi": 0.7832,
-    "source_cluster": "education_cost",
+    "source_cluster": "funding_flows",
     "target_cluster": "higher_education_crisis"
   },
   {
@@ -4621,6 +4597,14 @@
     "co_occurrence": 28,
     "pmi": 0.7594,
     "source_cluster": "faculty_labour",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "public funding",
+    "target": "university policy",
+    "co_occurrence": 7,
+    "pmi": 0.7594,
+    "source_cluster": "funding_flows",
     "target_cluster": "university_administration"
   },
   {
@@ -4928,6 +4912,14 @@
     "target_cluster": "university_administration"
   },
   {
+    "source": "financial aid",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 0.707,
+    "source_cluster": "education_cost",
+    "target_cluster": "university_administration"
+  },
+  {
     "source": "educational decline",
     "target": "scholarships",
     "co_occurrence": 17,
@@ -5096,6 +5088,14 @@
     "target_cluster": "higher_education_crisis"
   },
   {
+    "source": "financial aid",
+    "target": "higher education crisis",
+    "co_occurrence": 3,
+    "pmi": 0.6901,
+    "source_cluster": "education_cost",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
     "source": "higher education crisis",
     "target": "opportunistic growth",
     "co_occurrence": 3,
@@ -5134,6 +5134,14 @@
     "pmi": 0.689,
     "source_cluster": "teaching_and_learning",
     "target_cluster": "faculty_labour"
+  },
+  {
+    "source": "public funding",
+    "target": "university administrators",
+    "co_occurrence": 5,
+    "pmi": 0.6834,
+    "source_cluster": "funding_flows",
+    "target_cluster": "university_administration"
   },
   {
     "source": "curricular design",
@@ -5384,14 +5392,6 @@
     "target_cluster": "politics"
   },
   {
-    "source": "education crisis",
-    "target": "grant funding",
-    "co_occurrence": 4,
-    "pmi": 0.6426,
-    "source_cluster": "higher_education_crisis",
-    "target_cluster": "funding_flows"
-  },
-  {
     "source": "outdated education model",
     "target": "tuition affordability",
     "co_occurrence": 18,
@@ -5592,6 +5592,14 @@
     "target_cluster": "teaching_and_learning"
   },
   {
+    "source": "academic model breakdown",
+    "target": "public funding",
+    "co_occurrence": 4,
+    "pmi": 0.6066,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "funding_flows"
+  },
+  {
     "source": "higher education crisis",
     "target": "selective admissions",
     "co_occurrence": 12,
@@ -5694,14 +5702,6 @@
     "pmi": 0.5905,
     "source_cluster": "higher_education_crisis",
     "target_cluster": "internationalisation"
-  },
-  {
-    "source": "higher education crisis",
-    "target": "public funding",
-    "co_occurrence": 7,
-    "pmi": 0.5905,
-    "source_cluster": "higher_education_crisis",
-    "target_cluster": "funding_flows"
   },
   {
     "source": "faculty workload",
@@ -6160,14 +6160,6 @@
     "target_cluster": "university_administration"
   },
   {
-    "source": "public funding",
-    "target": "university administrators",
-    "co_occurrence": 5,
-    "pmi": 0.5314,
-    "source_cluster": "funding_flows",
-    "target_cluster": "university_administration"
-  },
-  {
     "source": "course evaluation",
     "target": "scholarships",
     "co_occurrence": 8,
@@ -6238,6 +6230,14 @@
     "pmi": 0.5202,
     "source_cluster": "internationalisation",
     "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "public funding",
+    "co_occurrence": 6,
+    "pmi": 0.5202,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "funding_flows"
   },
   {
     "source": "postgraduate pathway",
@@ -6473,8 +6473,8 @@
   },
   {
     "source": "education crisis",
-    "target": "public funding",
-    "co_occurrence": 6,
+    "target": "grant funding",
+    "co_occurrence": 3,
     "pmi": 0.4906,
     "source_cluster": "higher_education_crisis",
     "target_cluster": "funding_flows"
@@ -6702,14 +6702,6 @@
     "pmi": 0.4546,
     "source_cluster": "admissions_access",
     "target_cluster": "university_administration"
-  },
-  {
-    "source": "academic model breakdown",
-    "target": "public funding",
-    "co_occurrence": 4,
-    "pmi": 0.4546,
-    "source_cluster": "higher_education_crisis",
-    "target_cluster": "funding_flows"
   },
   {
     "source": "participatory instruction",
@@ -7254,6 +7246,14 @@
     "pmi": 0.3801,
     "source_cluster": "higher_education_crisis",
     "target_cluster": "university_administration"
+  },
+  {
+    "source": "education crisis",
+    "target": "public funding",
+    "co_occurrence": 5,
+    "pmi": 0.3796,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "funding_flows"
   },
   {
     "source": "student life",
@@ -8198,14 +8198,6 @@
     "pmi": 0.2398,
     "source_cluster": "teaching_and_learning",
     "target_cluster": "higher_education_crisis"
-  },
-  {
-    "source": "educational decline",
-    "target": "public funding",
-    "co_occurrence": 3,
-    "pmi": 0.2398,
-    "source_cluster": "higher_education_crisis",
-    "target_cluster": "funding_flows"
   },
   {
     "source": "higher education crisis",
@@ -9304,14 +9296,6 @@
     "target_cluster": "higher_education_crisis"
   },
   {
-    "source": "educational instability",
-    "target": "public funding",
-    "co_occurrence": 4,
-    "pmi": 0.0395,
-    "source_cluster": "higher_education_crisis",
-    "target_cluster": "funding_flows"
-  },
-  {
     "source": "school budgets",
     "target": "student retention",
     "co_occurrence": 4,
@@ -10280,6 +10264,14 @@
     "target_cluster": "internationalisation"
   },
   {
+    "source": "public funding",
+    "target": "student engagement",
+    "co_occurrence": 4,
+    "pmi": -0.2084,
+    "source_cluster": "funding_flows",
+    "target_cluster": "student_experience"
+  },
+  {
     "source": "educational decline",
     "target": "university administrators",
     "co_occurrence": 14,
@@ -10318,6 +10310,14 @@
     "pmi": -0.2235,
     "source_cluster": "higher_education_crisis",
     "target_cluster": "academic_freedom"
+  },
+  {
+    "source": "educational instability",
+    "target": "public funding",
+    "co_occurrence": 3,
+    "pmi": -0.2235,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "funding_flows"
   },
   {
     "source": "academic model breakdown",
@@ -10648,14 +10648,6 @@
     "target_cluster": "research_activities"
   },
   {
-    "source": "public funding",
-    "target": "student engagement",
-    "co_occurrence": 4,
-    "pmi": -0.3604,
-    "source_cluster": "funding_flows",
-    "target_cluster": "student_experience"
-  },
-  {
     "source": "higher education crisis",
     "target": "student satisfaction",
     "co_occurrence": 13,
@@ -10701,6 +10693,14 @@
     "co_occurrence": 4,
     "pmi": -0.3755,
     "source_cluster": "research_activities",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "public funding",
+    "target": "university reform",
+    "co_occurrence": 6,
+    "pmi": -0.3755,
+    "source_cluster": "funding_flows",
     "target_cluster": "university_administration"
   },
   {
@@ -11064,9 +11064,9 @@
     "target_cluster": "university_administration"
   },
   {
-    "source": "public funding",
+    "source": "grant funding",
     "target": "university reform",
-    "co_occurrence": 6,
+    "co_occurrence": 3,
     "pmi": -0.5275,
     "source_cluster": "funding_flows",
     "target_cluster": "university_administration"
@@ -11086,6 +11086,14 @@
     "pmi": -0.5293,
     "source_cluster": "systemic_inequity",
     "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "outdated education model",
+    "target": "public funding",
+    "co_occurrence": 3,
+    "pmi": -0.5293,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "funding_flows"
   },
   {
     "source": "educational decline",
@@ -11288,14 +11296,6 @@
     "target_cluster": "university_administration"
   },
   {
-    "source": "outdated education model",
-    "target": "public funding",
-    "co_occurrence": 3,
-    "pmi": -0.6813,
-    "source_cluster": "higher_education_crisis",
-    "target_cluster": "funding_flows"
-  },
-  {
     "source": "student engagement",
     "target": "university reform",
     "co_occurrence": 51,
@@ -11485,14 +11485,6 @@
     "co_occurrence": 3,
     "pmi": -0.7905,
     "source_cluster": "academic abuse",
-    "target_cluster": "university_administration"
-  },
-  {
-    "source": "grant funding",
-    "target": "university reform",
-    "co_occurrence": 3,
-    "pmi": -0.7905,
-    "source_cluster": "funding_flows",
     "target_cluster": "university_administration"
   },
   {
