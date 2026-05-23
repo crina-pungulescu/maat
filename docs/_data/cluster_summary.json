@@ -1,8 +1,8 @@
 [
   {
     "topic": "Higher Education Crisis",
-    "count": 587,
-    "score": 0.4603,
+    "count": 606,
+    "score": 0.4602,
     "topics": [
       "academic collapse",
       "academic model breakdown",
@@ -27,8 +27,8 @@
   },
   {
     "topic": "Teaching And Learning",
-    "count": 484,
-    "score": 0.449,
+    "count": 491,
+    "score": 0.4488,
     "topics": [
       "STEM qualification",
       "bachelor qualification",
@@ -62,8 +62,8 @@
   },
   {
     "topic": "University Administration",
-    "count": 394,
-    "score": 0.4537,
+    "count": 399,
+    "score": 0.4535,
     "topics": [
       "board of regents",
       "board of trustees",
@@ -87,8 +87,8 @@
   },
   {
     "topic": "Student Experience",
-    "count": 374,
-    "score": 0.4533,
+    "count": 385,
+    "score": 0.4532,
     "topics": [
       "mentor-student relationship",
       "student engagement",
@@ -110,8 +110,8 @@
   },
   {
     "topic": "Education Cost",
-    "count": 108,
-    "score": 0.4953,
+    "count": 111,
+    "score": 0.4897,
     "topics": [
       "cost barriers",
       "debt",
@@ -120,7 +120,8 @@
       "loan",
       "scholarships",
       "tuition",
-      "tuition affordability"
+      "tuition affordability",
+      "tuition fee"
     ],
     "evidence": {
       "article_id": "f17df6f2dc1306755a21e670cbcea69a",
@@ -132,8 +133,8 @@
   },
   {
     "topic": "Research Activities",
-    "count": 71,
-    "score": 0.4344,
+    "count": 74,
+    "score": 0.4343,
     "topics": [
       "empirical research",
       "high-impact research",
@@ -155,14 +156,15 @@
   },
   {
     "topic": "Academic Abuse",
-    "count": 70,
-    "score": 0.4338,
+    "count": 71,
+    "score": 0.4321,
     "topics": [
       "administrative coercion",
       "arbitrary disciplinary actions",
       "bureaucratic obstruction",
       "career sabotage",
       "disproportionate punishment",
+      "fear-driven self-silencing",
       "institutional abuse",
       "institutional gatekeeping",
       "non-transparent processes",
@@ -185,12 +187,36 @@
     }
   },
   {
+    "topic": "Funding Flows",
+    "count": 62,
+    "score": 0.5095,
+    "topics": [
+      "endowments",
+      "grant funding",
+      "public funding",
+      "public scholarly funding",
+      "scholarly endowments",
+      "scholarly funding",
+      "scholarly funding streams",
+      "scholarly grant funding",
+      "school budgets"
+    ],
+    "evidence": {
+      "article_id": "53c62ff4a7c24a70a4605579b2e8c253",
+      "headline": "Funding awarded to Advance HE members in small, specialist, independent and college-based UK HE institutions",
+      "url": "https://www.advance-he.ac.uk/news-and-views/funding-awarded-advance-he-members-small-specialist-independent-and-college-based-uk",
+      "topic": "grant funding",
+      "score": 0.6724
+    }
+  },
+  {
     "topic": "Admissions Access",
-    "count": 59,
-    "score": 0.4398,
+    "count": 60,
+    "score": 0.441,
     "topics": [
       "affirmative action",
       "college admissions",
+      "scholastic aptitude test",
       "selective admissions",
       "standardised testing",
       "widening participation"
@@ -205,13 +231,14 @@
   },
   {
     "topic": "Faculty Labour",
-    "count": 57,
-    "score": 0.4335,
+    "count": 58,
+    "score": 0.4275,
     "topics": [
       "faculty careers",
       "faculty contracts",
       "faculty workload",
-      "job insecurity"
+      "job insecurity",
+      "unemployment"
     ],
     "evidence": {
       "article_id": "e5d330d9ccbc69a9ef061d12b201b1d3",
@@ -219,25 +246,6 @@
       "url": "https://www.highereddive.com/news/states-sue-education-departments-professional-student-definition/820774/",
       "topic": "faculty contracts",
       "score": 0.5322
-    }
-  },
-  {
-    "topic": "Funding Flows",
-    "count": 54,
-    "score": 0.4753,
-    "topics": [
-      "endowments",
-      "grant funding",
-      "public funding",
-      "scholarly funding",
-      "school budgets"
-    ],
-    "evidence": {
-      "article_id": "53c62ff4a7c24a70a4605579b2e8c253",
-      "headline": "Funding awarded to Advance HE members in small, specialist, independent and college-based UK HE institutions",
-      "url": "https://www.advance-he.ac.uk/news-and-views/funding-awarded-advance-he-members-small-specialist-independent-and-college-based-uk",
-      "topic": "grant funding",
-      "score": 0.6724
     }
   },
   {
@@ -331,8 +339,8 @@
   },
   {
     "topic": "Degradation Signals",
-    "count": 35,
-    "score": 0.4271,
+    "count": 36,
+    "score": 0.4267,
     "topics": [
       "credential inflation",
       "employability gap",
@@ -378,8 +386,8 @@
   },
   {
     "topic": "Academic Freedom",
-    "count": 30,
-    "score": 0.4482,
+    "count": 33,
+    "score": 0.4484,
     "topics": [
       "censorship",
       "freedom of expression",
@@ -398,23 +406,24 @@
   },
   {
     "topic": "Accountability Gaps",
-    "count": 28,
-    "score": 0.4311,
+    "count": 29,
+    "score": 0.4411,
     "topics": [
       "abuse of office",
       "conflict of interest",
       "decision-making opacity",
       "elite impunity",
       "lack of oversight",
+      "self-regulation",
       "unchecked authority",
       "weak oversight"
     ],
     "evidence": {
-      "article_id": "9f59a8d727d0f24569723d8294ea62c8",
-      "headline": "La scuola dei talenti: per i poveri soft skills, filiera e sane regole di vita militare",
-      "url": "https://www.roars.it/la-scuola-dei-talenti-per-i-poveri-soft-skills-filiera-e-sane-regole-di-vita-militare/",
-      "topic": "elite impunity",
-      "score": 0.4949
+      "article_id": "73a19c3e2953f124c13cba41a1490d41",
+      "headline": "84% students show self-management skills, but parents put academics first: Study",
+      "url": "https://timesofindia.indiatimes.com/education/news/84-students-show-self-management-skills-but-parents-still-see-academics-first-what-a-school-experiment-reveals/articleshow/131272105.cms",
+      "topic": "self-regulation",
+      "score": 0.5107
     }
   },
   {
@@ -439,11 +448,12 @@
   },
   {
     "topic": "Systemic Inequity",
-    "count": 21,
-    "score": 0.4374,
+    "count": 23,
+    "score": 0.4369,
     "topics": [
       "biased systems",
       "bullying",
+      "diversity equity and inclusion initiatives",
       "equity initiatives",
       "gender discrimination",
       "harmful culture",
@@ -463,8 +473,8 @@
   },
   {
     "topic": "Financial Constraints",
-    "count": 16,
-    "score": 0.4387,
+    "count": 17,
+    "score": 0.437,
     "topics": [
       "austerity",
       "budget constraints",
@@ -500,6 +510,26 @@
     }
   },
   {
+    "topic": "Norm Violations",
+    "count": 11,
+    "score": 0.4266,
+    "topics": [
+      "bribery",
+      "contempt of court",
+      "corruption",
+      "fraud",
+      "misconduct",
+      "regulatory violation"
+    ],
+    "evidence": {
+      "article_id": "e320b68cee26142f19957fc1847f7b13",
+      "headline": "Impugnazione via PEC a indirizzo sbagliato: cosa dice la Corte Costituzionale",
+      "url": "https://www.agendadigitale.eu/documenti/giustizia-digitale/impugnazione-via-pec-a-indirizzo-sbagliato-cosa-dice-la-corte-costituzionale/",
+      "topic": "regulatory violation",
+      "score": 0.4753
+    }
+  },
+  {
     "topic": "Future Outlook",
     "count": 10,
     "score": 0.4365,
@@ -518,6 +548,25 @@
     }
   },
   {
+    "topic": "Ethical Conflicts",
+    "count": 9,
+    "score": 0.4407,
+    "topics": [
+      "dishonesty",
+      "ethical impropriety",
+      "fraudulent misrepresentation",
+      "misrepresentation",
+      "plagiarism"
+    ],
+    "evidence": {
+      "article_id": "bfd27109fe37acb178debfff2abea39f",
+      "headline": "Fraudster trying to sell fake ancient statues to Sotheby’s foiled over bogus invoices",
+      "url": "https://www.theguardian.com/uk-news/2026/may/23/fraudster-trying-to-sell-fake-ancient-statues-to-sothebys-foiled-over-bogus-invoices",
+      "topic": "dishonesty",
+      "score": 0.4744
+    }
+  },
+  {
     "topic": "Sustainability Climate",
     "count": 9,
     "score": 0.4411,
@@ -532,40 +581,6 @@
       "url": "https://www.terminalfour.com/blog/posts/a-day-in-the-life-how-schools-and-students-are-showcasing-campus-life-online.html",
       "topic": "green campus",
       "score": 0.4641
-    }
-  },
-  {
-    "topic": "Norm Violations",
-    "count": 8,
-    "score": 0.4262,
-    "topics": [
-      "contempt of court",
-      "corruption",
-      "misconduct",
-      "regulatory violation"
-    ],
-    "evidence": {
-      "article_id": "e320b68cee26142f19957fc1847f7b13",
-      "headline": "Impugnazione via PEC a indirizzo sbagliato: cosa dice la Corte Costituzionale",
-      "url": "https://www.agendadigitale.eu/documenti/giustizia-digitale/impugnazione-via-pec-a-indirizzo-sbagliato-cosa-dice-la-corte-costituzionale/",
-      "topic": "regulatory violation",
-      "score": 0.4753
-    }
-  },
-  {
-    "topic": "Ethical Conflicts",
-    "count": 6,
-    "score": 0.4244,
-    "topics": [
-      "ethical impropriety",
-      "misrepresentation"
-    ],
-    "evidence": {
-      "article_id": "215fa6513d5a03e42b02e1737180642e",
-      "headline": "Strategies for Navigating Ethical AI Use in College Courses",
-      "url": "https://www.scholarlyteacher.com/post/strategies-for-navigating-ethical-ai-use-in-college-courses",
-      "topic": "ethical impropriety",
-      "score": 0.4292
     }
   },
   {
