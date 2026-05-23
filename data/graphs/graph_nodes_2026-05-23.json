@@ -133,6 +133,24 @@
     ]
   },
   {
+    "id": "adjunct faculty",
+    "label": "Adjunct Faculty",
+    "weight": 1,
+    "avg_score": 0.4623,
+    "article_ids": [
+      "b9b7a368ea0cbe7e8902cd0c0a3c12b8"
+    ]
+  },
+  {
+    "id": "faculty precarity",
+    "label": "Faculty Precarity",
+    "weight": 1,
+    "avg_score": 0.4104,
+    "article_ids": [
+      "b9b7a368ea0cbe7e8902cd0c0a3c12b8"
+    ]
+  },
+  {
     "id": "diversity equity and inclusion initiatives",
     "label": "Diversity Equity And Inclusion Initiatives",
     "weight": 1,
@@ -222,15 +240,6 @@
       "4e02c5af4024fb1d5d1103d94355dcba",
       "b92e26a102e2bfa801d4a82e16a90449",
       "c1eb83540e22464215f7f7af91e2c06b"
-    ]
-  },
-  {
-    "id": "unemployment",
-    "label": "Unemployment",
-    "weight": 1,
-    "avg_score": 0.4033,
-    "article_ids": [
-      "b92e26a102e2bfa801d4a82e16a90449"
     ]
   },
   {
