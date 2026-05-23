@@ -72,7 +72,7 @@
       {
         "topic": "STEM qualification",
         "cluster": "teaching_and_learning",
-        "score": 0.15295588970184326
+        "score": 0.15295596420764923
       },
       {
         "topic": "master qualification",
@@ -137,7 +137,7 @@
       {
         "topic": "student engagement",
         "cluster": "student_experience",
-        "score": 0.46783289313316345
+        "score": 0.46783292293548584
       },
       {
         "topic": "student retention",
@@ -192,7 +192,7 @@
       {
         "topic": "learning analytics",
         "cluster": "educational_technology",
-        "score": 0.20513954758644104
+        "score": 0.20513956248760223
       },
       {
         "topic": "edtech",
@@ -202,7 +202,7 @@
       {
         "topic": "process automation",
         "cluster": "educational_technology",
-        "score": -0.11905020475387573
+        "score": -0.11905021220445633
       },
       {
         "topic": "automated grading",
@@ -272,7 +272,7 @@
       {
         "topic": "empirical research",
         "cluster": "research_activities",
-        "score": 0.3325921595096588
+        "score": 0.33259209990501404
       },
       {
         "topic": "theoretical research",
@@ -345,14 +345,14 @@
         "score": 0.22179070115089417
       },
       {
-        "topic": "tuition",
+        "topic": "tuition fee",
         "cluster": "education_cost",
-        "score": 0.32342928647994995
+        "score": 0.19751858711242676
       },
       {
         "topic": "debt",
         "cluster": "education_cost",
-        "score": 0.0501532107591629
+        "score": 0.05015318840742111
       },
       {
         "topic": "loan",
@@ -365,9 +365,19 @@
         "score": 0.25309324264526367
       },
       {
-        "topic": "financial aid",
+        "topic": "need-based financial support",
         "cluster": "education_cost",
-        "score": 0.1220097541809082
+        "score": 0.09366276860237122
+      },
+      {
+        "topic": "need-based financial assistance",
+        "cluster": "education_cost",
+        "score": 0.10768178105354309
+      },
+      {
+        "topic": "fee waivers and bursaries",
+        "cluster": "education_cost",
+        "score": -0.026834269985556602
       },
       {
         "topic": "scholarships",
@@ -378,6 +388,11 @@
         "topic": "cost barriers",
         "cluster": "education_cost",
         "score": 0.06513181328773499
+      },
+      {
+        "topic": "cost of attendance support",
+        "cluster": "education_cost",
+        "score": 0.19720575213432312
       },
       {
         "topic": "financial hardship",
@@ -450,9 +465,9 @@
         "score": 0.35547196865081787
       },
       {
-        "topic": "public funding",
+        "topic": "public scholarly funding",
         "cluster": "funding_flows",
-        "score": 0.1624729037284851
+        "score": 0.34856247901916504
       },
       {
         "topic": "school budgets",
@@ -460,14 +475,19 @@
         "score": 0.13523586094379425
       },
       {
-        "topic": "grant funding",
+        "topic": "scholarly grant funding",
         "cluster": "funding_flows",
-        "score": 0.14757324755191803
+        "score": 0.3022516071796417
       },
       {
-        "topic": "endowments",
+        "topic": "scholarly funding streams",
         "cluster": "funding_flows",
-        "score": 0.17897486686706543
+        "score": 0.3128146529197693
+      },
+      {
+        "topic": "scholarly endowments",
+        "cluster": "funding_flows",
+        "score": 0.38691461086273193
       },
       {
         "topic": "austerity",
@@ -477,7 +497,7 @@
       {
         "topic": "financial concerns",
         "cluster": "financial_constraints",
-        "score": 0.08877409249544144
+        "score": 0.08877412974834442
       },
       {
         "topic": "budget cuts",
@@ -487,7 +507,7 @@
       {
         "topic": "budget constraints",
         "cluster": "financial_constraints",
-        "score": 0.08617784082889557
+        "score": 0.08617782592773438
       },
       {
         "topic": "resource constraints",
@@ -585,9 +605,29 @@
         "score": 0.23308998346328735
       },
       {
-        "topic": "misrepresentation",
+        "topic": "deliberate misrepresentation",
         "cluster": "ethical_conflicts",
-        "score": 0.3058886229991913
+        "score": 0.3077370524406433
+      },
+      {
+        "topic": "factual misrepresentation",
+        "cluster": "ethical_conflicts",
+        "score": 0.2049477994441986
+      },
+      {
+        "topic": "intentional misrepresentation",
+        "cluster": "ethical_conflicts",
+        "score": 0.2689974308013916
+      },
+      {
+        "topic": "fraudulent misrepresentation",
+        "cluster": "ethical_conflicts",
+        "score": 0.14675608277320862
+      },
+      {
+        "topic": "unethical behaviour",
+        "cluster": "ethical_conflicts",
+        "score": 0.2253718376159668
       },
       {
         "topic": "data fabrication",
@@ -662,7 +702,7 @@
       {
         "topic": "privacy violation",
         "cluster": "norm_violations",
-        "score": 0.2176140695810318
+        "score": 0.21761402487754822
       },
       {
         "topic": "theft",
@@ -707,7 +747,7 @@
       {
         "topic": "lower expectations",
         "cluster": "degradation_signals",
-        "score": 0.16260670125484467
+        "score": 0.16260665655136108
       },
       {
         "topic": "quality erosion",
@@ -815,9 +855,9 @@
         "score": 0.16187965869903564
       },
       {
-        "topic": "self-censorship",
+        "topic": "fear-driven self-silencing",
         "cluster": "academic abuse",
-        "score": 0.32251226902008057
+        "score": 0.13282927870750427
       },
       {
         "topic": "wrongful termination",
@@ -862,7 +902,7 @@
       {
         "topic": "promotion blockage",
         "cluster": "academic abuse",
-        "score": -0.01525137759745121
+        "score": -0.015251366421580315
       },
       {
         "topic": "arbitrary tenure denial",
@@ -995,9 +1035,9 @@
         "score": 0.23839586973190308
       },
       {
-        "topic": "DEI",
+        "topic": "diversity equity and inclusion initiatives",
         "cluster": "systemic_inequity",
-        "score": 0.31916025280952454
+        "score": 0.4247528910636902
       },
       {
         "topic": "equity initiatives",
@@ -1147,7 +1187,7 @@
       {
         "topic": "war",
         "cluster": "politics",
-        "score": 0.173103466629982
+        "score": 0.1731034219264984
       },
       {
         "topic": "armed dispute",
@@ -1415,9 +1455,9 @@
         "score": 0.22848045825958252
       },
       {
-        "topic": "gaza",
+        "topic": "gaza strip",
         "cluster": "regions_and_countries",
-        "score": 0.27190423011779785
+        "score": 0.18366187810897827
       },
       {
         "topic": "ukraine",
@@ -1525,14 +1565,14 @@
         "score": 0.08214157074689865
       },
       {
-        "topic": "college admissions",
+        "topic": "admissions process",
         "cluster": "admissions_access",
-        "score": 0.32880699634552
+        "score": 0.26641497015953064
       },
       {
-        "topic": "selective admissions",
+        "topic": "admissions selectivity",
         "cluster": "admissions_access",
-        "score": 0.28145307302474976
+        "score": 0.3327781856060028
       },
       {
         "topic": "standardised testing",
@@ -1540,19 +1580,19 @@
         "score": 0.11507548391819
       },
       {
-        "topic": "SAT",
+        "topic": "scholastic aptitude test",
         "cluster": "admissions_access",
-        "score": 0.22338351607322693
+        "score": 0.2874951660633087
       },
       {
-        "topic": "GRE",
+        "topic": "graduate record examination",
         "cluster": "admissions_access",
-        "score": 0.25082436203956604
+        "score": 0.21840500831604004
       },
       {
-        "topic": "GMAT",
+        "topic": "graduate management admission test",
         "cluster": "admissions_access",
-        "score": 0.2064180225133896
+        "score": 0.2520742416381836
       },
       {
         "topic": "affirmative action",
@@ -1607,7 +1647,7 @@
       {
         "topic": "freedom of opinion",
         "cluster": "academic_freedom",
-        "score": 0.3902924060821533
+        "score": 0.3902924358844757
       },
       {
         "topic": "censorship",
@@ -1667,7 +1707,7 @@
       {
         "topic": "nursing profession",
         "cluster": "health_professions",
-        "score": 0.17334876954555511
+        "score": 0.1733488142490387
       },
       {
         "topic": "health profession",
@@ -1682,7 +1722,7 @@
       {
         "topic": "training hospitals",
         "cluster": "health_professions",
-        "score": 0.11242075264453888
+        "score": 0.11242072284221649
       },
       {
         "topic": "trust in science",
@@ -1693,11 +1733,6 @@
         "topic": "science communication",
         "cluster": "science_society",
         "score": 0.22100940346717834
-      },
-      {
-        "topic": "misinformation",
-        "cluster": "science_society",
-        "score": 0.24972397089004517
       },
       {
         "topic": "evidence-based decisions",
@@ -1732,7 +1767,7 @@
       {
         "topic": "anxiety",
         "cluster": "future_outlook",
-        "score": 0.11977330595254898
+        "score": 0.11977333575487137
       },
       {
         "topic": "future planning",
@@ -1742,7 +1777,7 @@
       {
         "topic": "morale",
         "cluster": "future_outlook",
-        "score": 0.39678388833999634
+        "score": 0.39678385853767395
       }
     ]
   },
@@ -1819,7 +1854,7 @@
       {
         "topic": "STEM qualification",
         "cluster": "teaching_and_learning",
-        "score": 0.22033509612083435
+        "score": 0.22033514082431793
       },
       {
         "topic": "master qualification",
@@ -1884,7 +1919,7 @@
       {
         "topic": "student engagement",
         "cluster": "student_experience",
-        "score": 0.14508287608623505
+        "score": 0.14508289098739624
       },
       {
         "topic": "student retention",
@@ -1939,7 +1974,7 @@
       {
         "topic": "learning analytics",
         "cluster": "educational_technology",
-        "score": 0.13806769251823425
+        "score": 0.13806772232055664
       },
       {
         "topic": "edtech",
@@ -1949,7 +1984,7 @@
       {
         "topic": "process automation",
         "cluster": "educational_technology",
-        "score": -0.0013087689876556396
+        "score": -0.0013087615370750427
       },
       {
         "topic": "automated grading",
@@ -2019,7 +2054,7 @@
       {
         "topic": "empirical research",
         "cluster": "research_activities",
-        "score": 0.14722052216529846
+        "score": 0.14722053706645966
       },
       {
         "topic": "theoretical research",
@@ -2092,14 +2127,14 @@
         "score": 0.36086922883987427
       },
       {
-        "topic": "tuition",
+        "topic": "tuition fee",
         "cluster": "education_cost",
-        "score": 0.29632318019866943
+        "score": 0.2968759536743164
       },
       {
         "topic": "debt",
         "cluster": "education_cost",
-        "score": 0.16930203139781952
+        "score": 0.1693020761013031
       },
       {
         "topic": "loan",
@@ -2112,9 +2147,19 @@
         "score": 0.34679466485977173
       },
       {
-        "topic": "financial aid",
+        "topic": "need-based financial support",
         "cluster": "education_cost",
-        "score": 0.26826515793800354
+        "score": 0.12985391914844513
+      },
+      {
+        "topic": "need-based financial assistance",
+        "cluster": "education_cost",
+        "score": 0.15902307629585266
+      },
+      {
+        "topic": "fee waivers and bursaries",
+        "cluster": "education_cost",
+        "score": 0.18211457133293152
       },
       {
         "topic": "scholarships",
@@ -2125,6 +2170,11 @@
         "topic": "cost barriers",
         "cluster": "education_cost",
         "score": 0.2203035056591034
+      },
+      {
+        "topic": "cost of attendance support",
+        "cluster": "education_cost",
+        "score": 0.24368800222873688
       },
       {
         "topic": "financial hardship",
@@ -2197,9 +2247,9 @@
         "score": 0.25897467136383057
       },
       {
-        "topic": "public funding",
+        "topic": "public scholarly funding",
         "cluster": "funding_flows",
-        "score": 0.3185655474662781
+        "score": 0.29436883330345154
       },
       {
         "topic": "school budgets",
@@ -2207,14 +2257,19 @@
         "score": 0.45081979036331177
       },
       {
-        "topic": "grant funding",
+        "topic": "scholarly grant funding",
         "cluster": "funding_flows",
-        "score": 0.3428800702095032
+        "score": 0.2991064190864563
       },
       {
-        "topic": "endowments",
+        "topic": "scholarly funding streams",
         "cluster": "funding_flows",
-        "score": 0.26097458600997925
+        "score": 0.23331409692764282
+      },
+      {
+        "topic": "scholarly endowments",
+        "cluster": "funding_flows",
+        "score": 0.21301129460334778
       },
       {
         "topic": "austerity",
@@ -2224,7 +2279,7 @@
       {
         "topic": "financial concerns",
         "cluster": "financial_constraints",
-        "score": 0.07577793300151825
+        "score": 0.07577794790267944
       },
       {
         "topic": "budget cuts",
@@ -2332,9 +2387,29 @@
         "score": 0.13023418188095093
       },
       {
-        "topic": "misrepresentation",
+        "topic": "deliberate misrepresentation",
         "cluster": "ethical_conflicts",
-        "score": 0.16565683484077454
+        "score": 0.1524631232023239
+      },
+      {
+        "topic": "factual misrepresentation",
+        "cluster": "ethical_conflicts",
+        "score": 0.15629661083221436
+      },
+      {
+        "topic": "intentional misrepresentation",
+        "cluster": "ethical_conflicts",
+        "score": 0.14389675855636597
+      },
+      {
+        "topic": "fraudulent misrepresentation",
+        "cluster": "ethical_conflicts",
+        "score": 0.15163454413414001
+      },
+      {
+        "topic": "unethical behaviour",
+        "cluster": "ethical_conflicts",
+        "score": 0.11032198369503021
       },
       {
         "topic": "data fabrication",
@@ -2409,7 +2484,7 @@
       {
         "topic": "privacy violation",
         "cluster": "norm_violations",
-        "score": -0.03055054321885109
+        "score": -0.030550550669431686
       },
       {
         "topic": "theft",
@@ -2454,7 +2529,7 @@
       {
         "topic": "lower expectations",
         "cluster": "degradation_signals",
-        "score": 0.241376131772995
+        "score": 0.24137616157531738
       },
       {
         "topic": "quality erosion",
@@ -2464,7 +2539,7 @@
       {
         "topic": "oversimplification",
         "cluster": "degradation_signals",
-        "score": 0.21106252074241638
+        "score": 0.211062490940094
       },
       {
         "topic": "dumbing down material",
@@ -2562,9 +2637,9 @@
         "score": -0.01026441715657711
       },
       {
-        "topic": "self-censorship",
+        "topic": "fear-driven self-silencing",
         "cluster": "academic abuse",
-        "score": 0.12306707352399826
+        "score": 0.06135693937540054
       },
       {
         "topic": "wrongful termination",
@@ -2609,7 +2684,7 @@
       {
         "topic": "promotion blockage",
         "cluster": "academic abuse",
-        "score": 0.23445501923561096
+        "score": 0.23445504903793335
       },
       {
         "topic": "arbitrary tenure denial",
@@ -2742,14 +2817,14 @@
         "score": 0.1532982587814331
       },
       {
-        "topic": "DEI",
+        "topic": "diversity equity and inclusion initiatives",
         "cluster": "systemic_inequity",
-        "score": 0.0731130838394165
+        "score": 0.22694966197013855
       },
       {
         "topic": "equity initiatives",
         "cluster": "systemic_inequity",
-        "score": 0.24676167964935303
+        "score": 0.2467617243528366
       },
       {
         "topic": "gender discrimination",
@@ -2894,7 +2969,7 @@
       {
         "topic": "war",
         "cluster": "politics",
-        "score": 0.09371644258499146
+        "score": 0.09371638298034668
       },
       {
         "topic": "armed dispute",
@@ -2964,7 +3039,7 @@
       {
         "topic": "UN",
         "cluster": "politics",
-        "score": 0.11579087376594543
+        "score": 0.11579088866710663
       },
       {
         "topic": "civil unrest",
@@ -3162,9 +3237,9 @@
         "score": 0.07198236137628555
       },
       {
-        "topic": "gaza",
+        "topic": "gaza strip",
         "cluster": "regions_and_countries",
-        "score": -0.009787687100470066
+        "score": 0.02041231468319893
       },
       {
         "topic": "ukraine",
@@ -3272,14 +3347,14 @@
         "score": 0.10220121592283249
       },
       {
-        "topic": "college admissions",
+        "topic": "admissions process",
         "cluster": "admissions_access",
-        "score": 0.18151554465293884
+        "score": 0.2580936849117279
       },
       {
-        "topic": "selective admissions",
+        "topic": "admissions selectivity",
         "cluster": "admissions_access",
-        "score": 0.2723315954208374
+        "score": 0.2607083320617676
       },
       {
         "topic": "standardised testing",
@@ -3287,24 +3362,24 @@
         "score": 0.17794691026210785
       },
       {
-        "topic": "SAT",
+        "topic": "scholastic aptitude test",
         "cluster": "admissions_access",
-        "score": 0.04516923427581787
+        "score": 0.23731878399848938
       },
       {
-        "topic": "GRE",
+        "topic": "graduate record examination",
         "cluster": "admissions_access",
-        "score": 0.036828696727752686
+        "score": 0.16789047420024872
       },
       {
-        "topic": "GMAT",
+        "topic": "graduate management admission test",
         "cluster": "admissions_access",
-        "score": -0.025322165340185165
+        "score": 0.2415284365415573
       },
       {
         "topic": "affirmative action",
         "cluster": "admissions_access",
-        "score": 0.2058527022600174
+        "score": 0.20585276186466217
       },
       {
         "topic": "widening participation",
@@ -3354,7 +3429,7 @@
       {
         "topic": "freedom of opinion",
         "cluster": "academic_freedom",
-        "score": 0.08409348130226135
+        "score": 0.08409349620342255
       },
       {
         "topic": "censorship",
@@ -3409,12 +3484,12 @@
       {
         "topic": "medical profession",
         "cluster": "health_professions",
-        "score": 0.057163167744874954
+        "score": 0.05716320127248764
       },
       {
         "topic": "nursing profession",
         "cluster": "health_professions",
-        "score": 0.11498552560806274
+        "score": 0.11498551070690155
       },
       {
         "topic": "health profession",
@@ -3429,7 +3504,7 @@
       {
         "topic": "training hospitals",
         "cluster": "health_professions",
-        "score": 0.1654529869556427
+        "score": 0.1654529720544815
       },
       {
         "topic": "trust in science",
@@ -3440,11 +3515,6 @@
         "topic": "science communication",
         "cluster": "science_society",
         "score": 0.05054366961121559
-      },
-      {
-        "topic": "misinformation",
-        "cluster": "science_society",
-        "score": 0.1975511908531189
       },
       {
         "topic": "evidence-based decisions",
@@ -3479,17 +3549,17 @@
       {
         "topic": "anxiety",
         "cluster": "future_outlook",
-        "score": 0.001630557468160987
+        "score": 0.0016305522294715047
       },
       {
         "topic": "future planning",
         "cluster": "future_outlook",
-        "score": 0.09378640353679657
+        "score": 0.09378641098737717
       },
       {
         "topic": "morale",
         "cluster": "future_outlook",
-        "score": 0.09785182029008865
+        "score": 0.09785181283950806
       }
     ]
   },
@@ -3566,7 +3636,7 @@
       {
         "topic": "STEM qualification",
         "cluster": "teaching_and_learning",
-        "score": 0.1847068816423416
+        "score": 0.1847068965435028
       },
       {
         "topic": "master qualification",
@@ -3631,7 +3701,7 @@
       {
         "topic": "student engagement",
         "cluster": "student_experience",
-        "score": 0.339728981256485
+        "score": 0.33972904086112976
       },
       {
         "topic": "student retention",
@@ -3696,7 +3766,7 @@
       {
         "topic": "process automation",
         "cluster": "educational_technology",
-        "score": 0.102549709379673
+        "score": 0.10254975408315659
       },
       {
         "topic": "automated grading",
@@ -3766,7 +3836,7 @@
       {
         "topic": "empirical research",
         "cluster": "research_activities",
-        "score": 0.260569304227829
+        "score": 0.2605692744255066
       },
       {
         "topic": "theoretical research",
@@ -3839,14 +3909,14 @@
         "score": 0.38902294635772705
       },
       {
-        "topic": "tuition",
+        "topic": "tuition fee",
         "cluster": "education_cost",
-        "score": 0.39786985516548157
+        "score": 0.4465760588645935
       },
       {
         "topic": "debt",
         "cluster": "education_cost",
-        "score": 0.17620888352394104
+        "score": 0.17620891332626343
       },
       {
         "topic": "loan",
@@ -3859,9 +3929,19 @@
         "score": 0.4356427788734436
       },
       {
-        "topic": "financial aid",
+        "topic": "need-based financial support",
         "cluster": "education_cost",
-        "score": 0.4273575246334076
+        "score": 0.29686239361763
+      },
+      {
+        "topic": "need-based financial assistance",
+        "cluster": "education_cost",
+        "score": 0.3247758746147156
+      },
+      {
+        "topic": "fee waivers and bursaries",
+        "cluster": "education_cost",
+        "score": 0.24294987320899963
       },
       {
         "topic": "scholarships",
@@ -3872,6 +3952,11 @@
         "topic": "cost barriers",
         "cluster": "education_cost",
         "score": 0.32308316230773926
+      },
+      {
+        "topic": "cost of attendance support",
+        "cluster": "education_cost",
+        "score": 0.33984375
       },
       {
         "topic": "financial hardship",
@@ -3944,9 +4029,9 @@
         "score": 0.5710731744766235
       },
       {
-        "topic": "public funding",
+        "topic": "public scholarly funding",
         "cluster": "funding_flows",
-        "score": 0.5657073259353638
+        "score": 0.6261932849884033
       },
       {
         "topic": "school budgets",
@@ -3954,14 +4039,19 @@
         "score": 0.5177857875823975
       },
       {
-        "topic": "grant funding",
+        "topic": "scholarly grant funding",
         "cluster": "funding_flows",
-        "score": 0.5058084726333618
+        "score": 0.5618300437927246
       },
       {
-        "topic": "endowments",
+        "topic": "scholarly funding streams",
         "cluster": "funding_flows",
-        "score": 0.2533149719238281
+        "score": 0.5956535339355469
+      },
+      {
+        "topic": "scholarly endowments",
+        "cluster": "funding_flows",
+        "score": 0.41843292117118835
       },
       {
         "topic": "austerity",
@@ -3971,7 +4061,7 @@
       {
         "topic": "financial concerns",
         "cluster": "financial_constraints",
-        "score": 0.22743242979049683
+        "score": 0.22743239998817444
       },
       {
         "topic": "budget cuts",
@@ -4079,9 +4169,29 @@
         "score": 0.1331852376461029
       },
       {
-        "topic": "misrepresentation",
+        "topic": "deliberate misrepresentation",
         "cluster": "ethical_conflicts",
-        "score": 0.17608901858329773
+        "score": 0.1661798506975174
+      },
+      {
+        "topic": "factual misrepresentation",
+        "cluster": "ethical_conflicts",
+        "score": 0.19646839797496796
+      },
+      {
+        "topic": "intentional misrepresentation",
+        "cluster": "ethical_conflicts",
+        "score": 0.1491897702217102
+      },
+      {
+        "topic": "fraudulent misrepresentation",
+        "cluster": "ethical_conflicts",
+        "score": 0.14960435032844543
+      },
+      {
+        "topic": "unethical behaviour",
+        "cluster": "ethical_conflicts",
+        "score": 0.13463354110717773
       },
       {
         "topic": "data fabrication",
@@ -4156,7 +4266,7 @@
       {
         "topic": "privacy violation",
         "cluster": "norm_violations",
-        "score": 0.05213135480880737
+        "score": 0.05213133618235588
       },
       {
         "topic": "theft",
@@ -4201,7 +4311,7 @@
       {
         "topic": "lower expectations",
         "cluster": "degradation_signals",
-        "score": 0.14838245511054993
+        "score": 0.14838247001171112
       },
       {
         "topic": "quality erosion",
@@ -4309,9 +4419,9 @@
         "score": 0.09192847460508347
       },
       {
-        "topic": "self-censorship",
+        "topic": "fear-driven self-silencing",
         "cluster": "academic abuse",
-        "score": 0.15370845794677734
+        "score": 0.09555422514677048
       },
       {
         "topic": "wrongful termination",
@@ -4356,7 +4466,7 @@
       {
         "topic": "promotion blockage",
         "cluster": "academic abuse",
-        "score": 0.11557194590568542
+        "score": 0.11557193100452423
       },
       {
         "topic": "arbitrary tenure denial",
@@ -4489,14 +4599,14 @@
         "score": 0.05598171800374985
       },
       {
-        "topic": "DEI",
+        "topic": "diversity equity and inclusion initiatives",
         "cluster": "systemic_inequity",
-        "score": 0.06255234777927399
+        "score": 0.1569850742816925
       },
       {
         "topic": "equity initiatives",
         "cluster": "systemic_inequity",
-        "score": 0.22943726181983948
+        "score": 0.22943735122680664
       },
       {
         "topic": "gender discrimination",
@@ -4641,7 +4751,7 @@
       {
         "topic": "war",
         "cluster": "politics",
-        "score": 0.07074891775846481
+        "score": 0.07074885815382004
       },
       {
         "topic": "armed dispute",
@@ -4711,7 +4821,7 @@
       {
         "topic": "UN",
         "cluster": "politics",
-        "score": 0.22733676433563232
+        "score": 0.22733674943447113
       },
       {
         "topic": "civil unrest",
@@ -4909,9 +5019,9 @@
         "score": 0.014526884071528912
       },
       {
-        "topic": "gaza",
+        "topic": "gaza strip",
         "cluster": "regions_and_countries",
-        "score": 0.048654183745384216
+        "score": 0.020104125142097473
       },
       {
         "topic": "ukraine",
@@ -5019,14 +5129,14 @@
         "score": 0.1452089101076126
       },
       {
-        "topic": "college admissions",
+        "topic": "admissions process",
         "cluster": "admissions_access",
-        "score": 0.282060831785202
+        "score": 0.2601982355117798
       },
       {
-        "topic": "selective admissions",
+        "topic": "admissions selectivity",
         "cluster": "admissions_access",
-        "score": 0.24513690173625946
+        "score": 0.2090405970811844
       },
       {
         "topic": "standardised testing",
@@ -5034,24 +5144,24 @@
         "score": 0.1263258159160614
       },
       {
-        "topic": "SAT",
+        "topic": "scholastic aptitude test",
         "cluster": "admissions_access",
-        "score": 0.04414329677820206
+        "score": 0.26761069893836975
       },
       {
-        "topic": "GRE",
+        "topic": "graduate record examination",
         "cluster": "admissions_access",
-        "score": 0.11452329903841019
+        "score": 0.15714991092681885
       },
       {
-        "topic": "GMAT",
+        "topic": "graduate management admission test",
         "cluster": "admissions_access",
-        "score": 0.2050708532333374
+        "score": 0.22002658247947693
       },
       {
         "topic": "affirmative action",
         "cluster": "admissions_access",
-        "score": 0.14106662571430206
+        "score": 0.14106668531894684
       },
       {
         "topic": "widening participation",
@@ -5101,7 +5211,7 @@
       {
         "topic": "freedom of opinion",
         "cluster": "academic_freedom",
-        "score": 0.26064297556877136
+        "score": 0.26064303517341614
       },
       {
         "topic": "censorship",
@@ -5156,12 +5266,12 @@
       {
         "topic": "medical profession",
         "cluster": "health_professions",
-        "score": 0.06058806553483009
+        "score": 0.06058809906244278
       },
       {
         "topic": "nursing profession",
         "cluster": "health_professions",
-        "score": 0.027516519650816917
+        "score": 0.027516497299075127
       },
       {
         "topic": "health profession",
@@ -5176,7 +5286,7 @@
       {
         "topic": "training hospitals",
         "cluster": "health_professions",
-        "score": 0.1300794780254364
+        "score": 0.1300795078277588
       },
       {
         "topic": "trust in science",
@@ -5187,11 +5297,6 @@
         "topic": "science communication",
         "cluster": "science_society",
         "score": 0.25896936655044556
-      },
-      {
-        "topic": "misinformation",
-        "cluster": "science_society",
-        "score": 0.21332082152366638
       },
       {
         "topic": "evidence-based decisions",
@@ -5226,7 +5331,7 @@
       {
         "topic": "anxiety",
         "cluster": "future_outlook",
-        "score": 0.10043439269065857
+        "score": 0.10043440759181976
       },
       {
         "topic": "future planning",
@@ -5236,7 +5341,7 @@
       {
         "topic": "morale",
         "cluster": "future_outlook",
-        "score": 0.0690281093120575
+        "score": 0.06902813166379929
       }
     ]
   },
@@ -5313,7 +5418,7 @@
       {
         "topic": "STEM qualification",
         "cluster": "teaching_and_learning",
-        "score": 0.04694459214806557
+        "score": 0.046944573521614075
       },
       {
         "topic": "master qualification",
@@ -5378,7 +5483,7 @@
       {
         "topic": "student engagement",
         "cluster": "student_experience",
-        "score": -0.017192566767334938
+        "score": -0.01719256117939949
       },
       {
         "topic": "student retention",
@@ -5433,7 +5538,7 @@
       {
         "topic": "learning analytics",
         "cluster": "educational_technology",
-        "score": -0.04596475511789322
+        "score": -0.045964740216732025
       },
       {
         "topic": "edtech",
@@ -5443,7 +5548,7 @@
       {
         "topic": "process automation",
         "cluster": "educational_technology",
-        "score": -0.029330873861908913
+        "score": -0.029330898076295853
       },
       {
         "topic": "automated grading",
@@ -5513,7 +5618,7 @@
       {
         "topic": "empirical research",
         "cluster": "research_activities",
-        "score": 0.1678219586610794
+        "score": 0.16782188415527344
       },
       {
         "topic": "theoretical research",
@@ -5586,14 +5691,14 @@
         "score": 0.03234480693936348
       },
       {
-        "topic": "tuition",
+        "topic": "tuition fee",
         "cluster": "education_cost",
-        "score": -0.024007704108953476
+        "score": -0.028254767879843712
       },
       {
         "topic": "debt",
         "cluster": "education_cost",
-        "score": 0.1086437776684761
+        "score": 0.10864381492137909
       },
       {
         "topic": "loan",
@@ -5606,9 +5711,19 @@
         "score": 0.019104624167084694
       },
       {
-        "topic": "financial aid",
+        "topic": "need-based financial support",
         "cluster": "education_cost",
-        "score": -0.018776407465338707
+        "score": -0.07604175806045532
+      },
+      {
+        "topic": "need-based financial assistance",
+        "cluster": "education_cost",
+        "score": -0.06550974398851395
+      },
+      {
+        "topic": "fee waivers and bursaries",
+        "cluster": "education_cost",
+        "score": 0.18678852915763855
       },
       {
         "topic": "scholarships",
@@ -5619,6 +5734,11 @@
         "topic": "cost barriers",
         "cluster": "education_cost",
         "score": 0.129970520734787
+      },
+      {
+        "topic": "cost of attendance support",
+        "cluster": "education_cost",
+        "score": -0.05599938705563545
       },
       {
         "topic": "financial hardship",
@@ -5691,9 +5811,9 @@
         "score": 0.14604124426841736
       },
       {
-        "topic": "public funding",
+        "topic": "public scholarly funding",
         "cluster": "funding_flows",
-        "score": 0.06424007564783096
+        "score": 0.17554767429828644
       },
       {
         "topic": "school budgets",
@@ -5701,14 +5821,19 @@
         "score": 0.02955791912972927
       },
       {
-        "topic": "grant funding",
+        "topic": "scholarly grant funding",
         "cluster": "funding_flows",
-        "score": 0.023219909518957138
+        "score": 0.11087973415851593
       },
       {
-        "topic": "endowments",
+        "topic": "scholarly funding streams",
         "cluster": "funding_flows",
-        "score": 0.2508717179298401
+        "score": 0.14783135056495667
+      },
+      {
+        "topic": "scholarly endowments",
+        "cluster": "funding_flows",
+        "score": 0.30858421325683594
       },
       {
         "topic": "austerity",
@@ -5718,7 +5843,7 @@
       {
         "topic": "financial concerns",
         "cluster": "financial_constraints",
-        "score": 0.028565140441060066
+        "score": 0.028565168380737305
       },
       {
         "topic": "budget cuts",
@@ -5728,7 +5853,7 @@
       {
         "topic": "budget constraints",
         "cluster": "financial_constraints",
-        "score": 0.08791525661945343
+        "score": 0.08791524171829224
       },
       {
         "topic": "resource constraints",
@@ -5826,9 +5951,29 @@
         "score": 0.4099925756454468
       },
       {
-        "topic": "misrepresentation",
+        "topic": "deliberate misrepresentation",
         "cluster": "ethical_conflicts",
-        "score": 0.2856551706790924
+        "score": 0.30859044194221497
+      },
+      {
+        "topic": "factual misrepresentation",
+        "cluster": "ethical_conflicts",
+        "score": 0.305536150932312
+      },
+      {
+        "topic": "intentional misrepresentation",
+        "cluster": "ethical_conflicts",
+        "score": 0.30932024121284485
+      },
+      {
+        "topic": "fraudulent misrepresentation",
+        "cluster": "ethical_conflicts",
+        "score": 0.47037965059280396
+      },
+      {
+        "topic": "unethical behaviour",
+        "cluster": "ethical_conflicts",
+        "score": 0.2914449870586395
       },
       {
         "topic": "data fabrication",
@@ -5903,7 +6048,7 @@
       {
         "topic": "privacy violation",
         "cluster": "norm_violations",
-        "score": 0.22024306654930115
+        "score": 0.22024308145046234
       },
       {
         "topic": "theft",
@@ -5958,7 +6103,7 @@
       {
         "topic": "oversimplification",
         "cluster": "degradation_signals",
-        "score": 0.2658686339855194
+        "score": 0.265868604183197
       },
       {
         "topic": "dumbing down material",
@@ -6056,9 +6201,9 @@
         "score": 0.08377981930971146
       },
       {
-        "topic": "self-censorship",
+        "topic": "fear-driven self-silencing",
         "cluster": "academic abuse",
-        "score": 0.23082949221134186
+        "score": 0.14996613562107086
       },
       {
         "topic": "wrongful termination",
@@ -6236,14 +6381,14 @@
         "score": 0.04635240137577057
       },
       {
-        "topic": "DEI",
+        "topic": "diversity equity and inclusion initiatives",
         "cluster": "systemic_inequity",
-        "score": 0.1359635293483734
+        "score": -0.0936763733625412
       },
       {
         "topic": "equity initiatives",
         "cluster": "systemic_inequity",
-        "score": 0.06581109762191772
+        "score": 0.06581112742424011
       },
       {
         "topic": "gender discrimination",
@@ -6388,7 +6533,7 @@
       {
         "topic": "war",
         "cluster": "politics",
-        "score": 0.0023175999522209167
+        "score": 0.0023175887763500214
       },
       {
         "topic": "armed dispute",
@@ -6458,7 +6603,7 @@
       {
         "topic": "UN",
         "cluster": "politics",
-        "score": 0.05438663065433502
+        "score": 0.054386626929044724
       },
       {
         "topic": "civil unrest",
@@ -6656,9 +6801,9 @@
         "score": 0.05431908369064331
       },
       {
-        "topic": "gaza",
+        "topic": "gaza strip",
         "cluster": "regions_and_countries",
-        "score": 0.1144823357462883
+        "score": 0.20134058594703674
       },
       {
         "topic": "ukraine",
@@ -6766,14 +6911,14 @@
         "score": 0.09727369248867035
       },
       {
-        "topic": "college admissions",
+        "topic": "admissions process",
         "cluster": "admissions_access",
-        "score": -0.039583247154951096
+        "score": 0.025180594995617867
       },
       {
-        "topic": "selective admissions",
+        "topic": "admissions selectivity",
         "cluster": "admissions_access",
-        "score": 0.06182127445936203
+        "score": 0.015013573691248894
       },
       {
         "topic": "standardised testing",
@@ -6781,24 +6926,24 @@
         "score": 0.02066797763109207
       },
       {
-        "topic": "SAT",
+        "topic": "scholastic aptitude test",
         "cluster": "admissions_access",
-        "score": -0.003569886088371277
+        "score": 0.04057493433356285
       },
       {
-        "topic": "GRE",
+        "topic": "graduate record examination",
         "cluster": "admissions_access",
-        "score": 0.056588828563690186
+        "score": 0.09847802668809891
       },
       {
-        "topic": "GMAT",
+        "topic": "graduate management admission test",
         "cluster": "admissions_access",
-        "score": 0.03000490739941597
+        "score": -0.0588744655251503
       },
       {
         "topic": "affirmative action",
         "cluster": "admissions_access",
-        "score": -0.02837110310792923
+        "score": -0.02837109938263893
       },
       {
         "topic": "widening participation",
@@ -6848,7 +6993,7 @@
       {
         "topic": "freedom of opinion",
         "cluster": "academic_freedom",
-        "score": 0.05431932210922241
+        "score": 0.054319385439157486
       },
       {
         "topic": "censorship",
@@ -6903,12 +7048,12 @@
       {
         "topic": "medical profession",
         "cluster": "health_professions",
-        "score": 0.0596800222992897
+        "score": 0.059680044651031494
       },
       {
         "topic": "nursing profession",
         "cluster": "health_professions",
-        "score": 0.013753410428762436
+        "score": 0.013753414154052734
       },
       {
         "topic": "health profession",
@@ -6923,7 +7068,7 @@
       {
         "topic": "training hospitals",
         "cluster": "health_professions",
-        "score": -0.1066424548625946
+        "score": -0.1066424623131752
       },
       {
         "topic": "trust in science",
@@ -6934,11 +7079,6 @@
         "topic": "science communication",
         "cluster": "science_society",
         "score": 0.1062108501791954
-      },
-      {
-        "topic": "misinformation",
-        "cluster": "science_society",
-        "score": 0.39334502816200256
       },
       {
         "topic": "evidence-based decisions",
@@ -6973,7 +7113,7 @@
       {
         "topic": "anxiety",
         "cluster": "future_outlook",
-        "score": -0.09426891803741455
+        "score": -0.09426891058683395
       },
       {
         "topic": "future planning",
@@ -6983,7 +7123,7 @@
       {
         "topic": "morale",
         "cluster": "future_outlook",
-        "score": 0.12002471834421158
+        "score": 0.12002471089363098
       }
     ]
   },
@@ -7060,7 +7200,7 @@
       {
         "topic": "STEM qualification",
         "cluster": "teaching_and_learning",
-        "score": 0.07416895776987076
+        "score": 0.07416900992393494
       },
       {
         "topic": "master qualification",
@@ -7125,7 +7265,7 @@
       {
         "topic": "student engagement",
         "cluster": "student_experience",
-        "score": 0.23149342834949493
+        "score": 0.23149347305297852
       },
       {
         "topic": "student retention",
@@ -7180,7 +7320,7 @@
       {
         "topic": "learning analytics",
         "cluster": "educational_technology",
-        "score": 0.3489733338356018
+        "score": 0.3489733934402466
       },
       {
         "topic": "edtech",
@@ -7190,7 +7330,7 @@
       {
         "topic": "process automation",
         "cluster": "educational_technology",
-        "score": 0.04964856058359146
+        "score": 0.04964854568243027
       },
       {
         "topic": "automated grading",
@@ -7260,7 +7400,7 @@
       {
         "topic": "empirical research",
         "cluster": "research_activities",
-        "score": 0.35311001539230347
+        "score": 0.3531099557876587
       },
       {
         "topic": "theoretical research",
@@ -7333,14 +7473,14 @@
         "score": 0.4035242795944214
       },
       {
-        "topic": "tuition",
+        "topic": "tuition fee",
         "cluster": "education_cost",
-        "score": 0.29970410466194153
+        "score": 0.1654738336801529
       },
       {
         "topic": "debt",
         "cluster": "education_cost",
-        "score": 0.24905207753181458
+        "score": 0.24905206263065338
       },
       {
         "topic": "loan",
@@ -7353,9 +7493,19 @@
         "score": 0.2718092203140259
       },
       {
-        "topic": "financial aid",
+        "topic": "need-based financial support",
         "cluster": "education_cost",
-        "score": 0.18592697381973267
+        "score": 0.16412092745304108
+      },
+      {
+        "topic": "need-based financial assistance",
+        "cluster": "education_cost",
+        "score": 0.1454031765460968
+      },
+      {
+        "topic": "fee waivers and bursaries",
+        "cluster": "education_cost",
+        "score": -0.041911132633686066
       },
       {
         "topic": "scholarships",
@@ -7366,6 +7516,11 @@
         "topic": "cost barriers",
         "cluster": "education_cost",
         "score": 0.11341487616300583
+      },
+      {
+        "topic": "cost of attendance support",
+        "cluster": "education_cost",
+        "score": -0.003047894686460495
       },
       {
         "topic": "financial hardship",
@@ -7438,9 +7593,9 @@
         "score": 0.2831648886203766
       },
       {
-        "topic": "public funding",
+        "topic": "public scholarly funding",
         "cluster": "funding_flows",
-        "score": 0.23372036218643188
+        "score": 0.2826744019985199
       },
       {
         "topic": "school budgets",
@@ -7448,14 +7603,19 @@
         "score": 0.4185463488101959
       },
       {
-        "topic": "grant funding",
+        "topic": "scholarly grant funding",
         "cluster": "funding_flows",
-        "score": 0.1322517991065979
+        "score": 0.1994878649711609
       },
       {
-        "topic": "endowments",
+        "topic": "scholarly funding streams",
         "cluster": "funding_flows",
-        "score": 0.12469050288200378
+        "score": 0.2837575376033783
+      },
+      {
+        "topic": "scholarly endowments",
+        "cluster": "funding_flows",
+        "score": 0.21000048518180847
       },
       {
         "topic": "austerity",
@@ -7465,7 +7625,7 @@
       {
         "topic": "financial concerns",
         "cluster": "financial_constraints",
-        "score": 0.21827001869678497
+        "score": 0.218269944190979
       },
       {
         "topic": "budget cuts",
@@ -7573,9 +7733,29 @@
         "score": 0.06537313014268875
       },
       {
-        "topic": "misrepresentation",
+        "topic": "deliberate misrepresentation",
         "cluster": "ethical_conflicts",
-        "score": 0.11189144104719162
+        "score": 0.1353970468044281
+      },
+      {
+        "topic": "factual misrepresentation",
+        "cluster": "ethical_conflicts",
+        "score": 0.12680746614933014
+      },
+      {
+        "topic": "intentional misrepresentation",
+        "cluster": "ethical_conflicts",
+        "score": 0.09707506000995636
+      },
+      {
+        "topic": "fraudulent misrepresentation",
+        "cluster": "ethical_conflicts",
+        "score": 0.03967411816120148
+      },
+      {
+        "topic": "unethical behaviour",
+        "cluster": "ethical_conflicts",
+        "score": 0.04697981849312782
       },
       {
         "topic": "data fabrication",
@@ -7650,7 +7830,7 @@
       {
         "topic": "privacy violation",
         "cluster": "norm_violations",
-        "score": -0.04450879991054535
+        "score": -0.044508785009384155
       },
       {
         "topic": "theft",
@@ -7705,7 +7885,7 @@
       {
         "topic": "oversimplification",
         "cluster": "degradation_signals",
-        "score": 0.278391033411026
+        "score": 0.2783910632133484
       },
       {
         "topic": "dumbing down material",
@@ -7803,9 +7983,9 @@
         "score": 0.033701300621032715
       },
       {
-        "topic": "self-censorship",
+        "topic": "fear-driven self-silencing",
         "cluster": "academic abuse",
-        "score": 0.11574115604162216
+        "score": 0.13224753737449646
       },
       {
         "topic": "wrongful termination",
@@ -7850,7 +8030,7 @@
       {
         "topic": "promotion blockage",
         "cluster": "academic abuse",
-        "score": 0.0519091933965683
+        "score": 0.051909204572439194
       },
       {
         "topic": "arbitrary tenure denial",
@@ -7983,9 +8163,9 @@
         "score": 0.11591088771820068
       },
       {
-        "topic": "DEI",
+        "topic": "diversity equity and inclusion initiatives",
         "cluster": "systemic_inequity",
-        "score": 0.1171848252415657
+        "score": 0.0658053308725357
       },
       {
         "topic": "equity initiatives",
@@ -8135,7 +8315,7 @@
       {
         "topic": "war",
         "cluster": "politics",
-        "score": 0.21887820959091187
+        "score": 0.2188781499862671
       },
       {
         "topic": "armed dispute",
@@ -8205,7 +8385,7 @@
       {
         "topic": "UN",
         "cluster": "politics",
-        "score": 0.07219670712947845
+        "score": 0.07219672203063965
       },
       {
         "topic": "civil unrest",
@@ -8403,9 +8583,9 @@
         "score": -0.009313526563346386
       },
       {
-        "topic": "gaza",
+        "topic": "gaza strip",
         "cluster": "regions_and_countries",
-        "score": 0.09768541157245636
+        "score": 0.048735495656728745
       },
       {
         "topic": "ukraine",
@@ -8513,14 +8693,14 @@
         "score": 0.11466220021247864
       },
       {
-        "topic": "college admissions",
+        "topic": "admissions process",
         "cluster": "admissions_access",
-        "score": 0.1582348346710205
+        "score": 0.14351139962673187
       },
       {
-        "topic": "selective admissions",
+        "topic": "admissions selectivity",
         "cluster": "admissions_access",
-        "score": 0.12106567621231079
+        "score": 0.113494873046875
       },
       {
         "topic": "standardised testing",
@@ -8528,19 +8708,19 @@
         "score": 0.1338428258895874
       },
       {
-        "topic": "SAT",
+        "topic": "scholastic aptitude test",
         "cluster": "admissions_access",
-        "score": 0.052759382873773575
+        "score": 0.2508143484592438
       },
       {
-        "topic": "GRE",
+        "topic": "graduate record examination",
         "cluster": "admissions_access",
-        "score": 0.06458281725645065
+        "score": 0.09012234210968018
       },
       {
-        "topic": "GMAT",
+        "topic": "graduate management admission test",
         "cluster": "admissions_access",
-        "score": 0.02600816823542118
+        "score": 0.10534542798995972
       },
       {
         "topic": "affirmative action",
@@ -8650,12 +8830,12 @@
       {
         "topic": "medical profession",
         "cluster": "health_professions",
-        "score": 0.023314543068408966
+        "score": 0.02331458032131195
       },
       {
         "topic": "nursing profession",
         "cluster": "health_professions",
-        "score": 0.05405107140541077
+        "score": 0.054051075130701065
       },
       {
         "topic": "health profession",
@@ -8670,7 +8850,7 @@
       {
         "topic": "training hospitals",
         "cluster": "health_professions",
-        "score": 0.12523214519023895
+        "score": 0.12523213028907776
       },
       {
         "topic": "trust in science",
@@ -8681,11 +8861,6 @@
         "topic": "science communication",
         "cluster": "science_society",
         "score": 0.1190570592880249
-      },
-      {
-        "topic": "misinformation",
-        "cluster": "science_society",
-        "score": 0.1671394407749176
       },
       {
         "topic": "evidence-based decisions",
@@ -8720,7 +8895,7 @@
       {
         "topic": "anxiety",
         "cluster": "future_outlook",
-        "score": 0.14734596014022827
+        "score": 0.14734597504138947
       },
       {
         "topic": "future planning",
@@ -8807,7 +8982,7 @@
       {
         "topic": "STEM qualification",
         "cluster": "teaching_and_learning",
-        "score": 0.23872247338294983
+        "score": 0.2387225180864334
       },
       {
         "topic": "master qualification",
@@ -8872,7 +9047,7 @@
       {
         "topic": "student engagement",
         "cluster": "student_experience",
-        "score": 0.442396342754364
+        "score": 0.4423964023590088
       },
       {
         "topic": "student retention",
@@ -8927,7 +9102,7 @@
       {
         "topic": "learning analytics",
         "cluster": "educational_technology",
-        "score": 0.3007153570652008
+        "score": 0.3007153868675232
       },
       {
         "topic": "edtech",
@@ -8937,7 +9112,7 @@
       {
         "topic": "process automation",
         "cluster": "educational_technology",
-        "score": 0.12976282835006714
+        "score": 0.12976281344890594
       },
       {
         "topic": "automated grading",
@@ -9007,7 +9182,7 @@
       {
         "topic": "empirical research",
         "cluster": "research_activities",
-        "score": 0.33692827820777893
+        "score": 0.3369283080101013
       },
       {
         "topic": "theoretical research",
@@ -9080,14 +9255,14 @@
         "score": 0.43190109729766846
       },
       {
-        "topic": "tuition",
+        "topic": "tuition fee",
         "cluster": "education_cost",
-        "score": 0.3329271078109741
+        "score": 0.249999538064003
       },
       {
         "topic": "debt",
         "cluster": "education_cost",
-        "score": -0.03514355421066284
+        "score": -0.03514355793595314
       },
       {
         "topic": "loan",
@@ -9100,9 +9275,19 @@
         "score": 0.2675100564956665
       },
       {
-        "topic": "financial aid",
+        "topic": "need-based financial support",
         "cluster": "education_cost",
-        "score": 0.03865449130535126
+        "score": 0.04202013090252876
+      },
+      {
+        "topic": "need-based financial assistance",
+        "cluster": "education_cost",
+        "score": 0.028815099969506264
+      },
+      {
+        "topic": "fee waivers and bursaries",
+        "cluster": "education_cost",
+        "score": 0.01645101234316826
       },
       {
         "topic": "scholarships",
@@ -9113,6 +9298,11 @@
         "topic": "cost barriers",
         "cluster": "education_cost",
         "score": 0.07325845956802368
+      },
+      {
+        "topic": "cost of attendance support",
+        "cluster": "education_cost",
+        "score": 0.11466190963983536
       },
       {
         "topic": "financial hardship",
@@ -9185,9 +9375,9 @@
         "score": 0.23193363845348358
       },
       {
-        "topic": "public funding",
+        "topic": "public scholarly funding",
         "cluster": "funding_flows",
-        "score": 0.13091996312141418
+        "score": 0.24042850732803345
       },
       {
         "topic": "school budgets",
@@ -9195,14 +9385,19 @@
         "score": 0.2959826588630676
       },
       {
-        "topic": "grant funding",
+        "topic": "scholarly grant funding",
         "cluster": "funding_flows",
-        "score": 0.06265135854482651
+        "score": 0.16679421067237854
       },
       {
-        "topic": "endowments",
+        "topic": "scholarly funding streams",
         "cluster": "funding_flows",
-        "score": 0.06866784393787384
+        "score": 0.16654744744300842
+      },
+      {
+        "topic": "scholarly endowments",
+        "cluster": "funding_flows",
+        "score": 0.20716461539268494
       },
       {
         "topic": "austerity",
@@ -9212,7 +9407,7 @@
       {
         "topic": "financial concerns",
         "cluster": "financial_constraints",
-        "score": 0.08737434446811676
+        "score": 0.08737432956695557
       },
       {
         "topic": "budget cuts",
@@ -9222,7 +9417,7 @@
       {
         "topic": "budget constraints",
         "cluster": "financial_constraints",
-        "score": 0.08992119133472443
+        "score": 0.08992119878530502
       },
       {
         "topic": "resource constraints",
@@ -9320,9 +9515,29 @@
         "score": 0.09688417613506317
       },
       {
-        "topic": "misrepresentation",
+        "topic": "deliberate misrepresentation",
         "cluster": "ethical_conflicts",
-        "score": 0.2126399576663971
+        "score": 0.2624545395374298
+      },
+      {
+        "topic": "factual misrepresentation",
+        "cluster": "ethical_conflicts",
+        "score": 0.13684207201004028
+      },
+      {
+        "topic": "intentional misrepresentation",
+        "cluster": "ethical_conflicts",
+        "score": 0.25639447569847107
+      },
+      {
+        "topic": "fraudulent misrepresentation",
+        "cluster": "ethical_conflicts",
+        "score": 0.11349619179964066
+      },
+      {
+        "topic": "unethical behaviour",
+        "cluster": "ethical_conflicts",
+        "score": 0.2570878267288208
       },
       {
         "topic": "data fabrication",
@@ -9397,7 +9612,7 @@
       {
         "topic": "privacy violation",
         "cluster": "norm_violations",
-        "score": 0.16560357809066772
+        "score": 0.16560351848602295
       },
       {
         "topic": "theft",
@@ -9442,7 +9657,7 @@
       {
         "topic": "lower expectations",
         "cluster": "degradation_signals",
-        "score": 0.20613417029380798
+        "score": 0.2061341255903244
       },
       {
         "topic": "quality erosion",
@@ -9452,7 +9667,7 @@
       {
         "topic": "oversimplification",
         "cluster": "degradation_signals",
-        "score": 0.23892948031425476
+        "score": 0.23892946541309357
       },
       {
         "topic": "dumbing down material",
@@ -9550,9 +9765,9 @@
         "score": 0.2596895396709442
       },
       {
-        "topic": "self-censorship",
+        "topic": "fear-driven self-silencing",
         "cluster": "academic abuse",
-        "score": 0.3557969629764557
+        "score": 0.4019238352775574
       },
       {
         "topic": "wrongful termination",
@@ -9597,7 +9812,7 @@
       {
         "topic": "promotion blockage",
         "cluster": "academic abuse",
-        "score": 0.04607388377189636
+        "score": 0.04607395827770233
       },
       {
         "topic": "arbitrary tenure denial",
@@ -9730,9 +9945,9 @@
         "score": 0.31969311833381653
       },
       {
-        "topic": "DEI",
+        "topic": "diversity equity and inclusion initiatives",
         "cluster": "systemic_inequity",
-        "score": 0.11184519529342651
+        "score": 0.170247882604599
       },
       {
         "topic": "equity initiatives",
@@ -9882,7 +10097,7 @@
       {
         "topic": "war",
         "cluster": "politics",
-        "score": -0.015202149748802185
+        "score": -0.01520213857293129
       },
       {
         "topic": "armed dispute",
@@ -9952,7 +10167,7 @@
       {
         "topic": "UN",
         "cluster": "politics",
-        "score": -0.02837197110056877
+        "score": -0.028371939435601234
       },
       {
         "topic": "civil unrest",
@@ -10150,9 +10365,9 @@
         "score": 0.004948945716023445
       },
       {
-        "topic": "gaza",
+        "topic": "gaza strip",
         "cluster": "regions_and_countries",
-        "score": 0.05068451538681984
+        "score": -0.029605921357870102
       },
       {
         "topic": "ukraine",
@@ -10260,14 +10475,14 @@
         "score": 0.10265757143497467
       },
       {
-        "topic": "college admissions",
+        "topic": "admissions process",
         "cluster": "admissions_access",
-        "score": 0.23523955047130585
+        "score": 0.26943859457969666
       },
       {
-        "topic": "selective admissions",
+        "topic": "admissions selectivity",
         "cluster": "admissions_access",
-        "score": 0.32673078775405884
+        "score": 0.33178946375846863
       },
       {
         "topic": "standardised testing",
@@ -10275,19 +10490,19 @@
         "score": 0.2413659691810608
       },
       {
-        "topic": "SAT",
+        "topic": "scholastic aptitude test",
         "cluster": "admissions_access",
-        "score": 0.06561630219221115
+        "score": 0.44658419489860535
       },
       {
-        "topic": "GRE",
+        "topic": "graduate record examination",
         "cluster": "admissions_access",
-        "score": 0.05072630196809769
+        "score": 0.20847734808921814
       },
       {
-        "topic": "GMAT",
+        "topic": "graduate management admission test",
         "cluster": "admissions_access",
-        "score": 0.06168551743030548
+        "score": 0.36960649490356445
       },
       {
         "topic": "affirmative action",
@@ -10397,12 +10612,12 @@
       {
         "topic": "medical profession",
         "cluster": "health_professions",
-        "score": 0.143011212348938
+        "score": 0.1430111825466156
       },
       {
         "topic": "nursing profession",
         "cluster": "health_professions",
-        "score": 0.11326778680086136
+        "score": 0.11326776444911957
       },
       {
         "topic": "health profession",
@@ -10428,11 +10643,6 @@
         "topic": "science communication",
         "cluster": "science_society",
         "score": 0.19195979833602905
-      },
-      {
-        "topic": "misinformation",
-        "cluster": "science_society",
-        "score": 0.14787058532238007
       },
       {
         "topic": "evidence-based decisions",
@@ -10467,7 +10677,7 @@
       {
         "topic": "anxiety",
         "cluster": "future_outlook",
-        "score": 0.21244560182094574
+        "score": 0.21244558691978455
       },
       {
         "topic": "future planning",
@@ -10477,7 +10687,7 @@
       {
         "topic": "morale",
         "cluster": "future_outlook",
-        "score": 0.2702261507511139
+        "score": 0.2702261209487915
       }
     ]
   },
@@ -10554,7 +10764,7 @@
       {
         "topic": "STEM qualification",
         "cluster": "teaching_and_learning",
-        "score": 0.03960593789815903
+        "score": 0.03960596024990082
       },
       {
         "topic": "master qualification",
@@ -10619,7 +10829,7 @@
       {
         "topic": "student engagement",
         "cluster": "student_experience",
-        "score": 0.07001622021198273
+        "score": 0.07001625001430511
       },
       {
         "topic": "student retention",
@@ -10674,7 +10884,7 @@
       {
         "topic": "learning analytics",
         "cluster": "educational_technology",
-        "score": 0.0973675474524498
+        "score": 0.0973675325512886
       },
       {
         "topic": "edtech",
@@ -10684,7 +10894,7 @@
       {
         "topic": "process automation",
         "cluster": "educational_technology",
-        "score": -0.060223352164030075
+        "score": -0.060223374515771866
       },
       {
         "topic": "automated grading",
@@ -10827,14 +11037,14 @@
         "score": 0.06687578558921814
       },
       {
-        "topic": "tuition",
+        "topic": "tuition fee",
         "cluster": "education_cost",
-        "score": 0.003780566155910492
+        "score": -0.06256367266178131
       },
       {
         "topic": "debt",
         "cluster": "education_cost",
-        "score": 0.06974198669195175
+        "score": 0.06974199414253235
       },
       {
         "topic": "loan",
@@ -10847,9 +11057,19 @@
         "score": 0.0020398423075675964
       },
       {
-        "topic": "financial aid",
+        "topic": "need-based financial support",
         "cluster": "education_cost",
-        "score": -0.03284228593111038
+        "score": -0.09876556694507599
+      },
+      {
+        "topic": "need-based financial assistance",
+        "cluster": "education_cost",
+        "score": -0.10160111635923386
+      },
+      {
+        "topic": "fee waivers and bursaries",
+        "cluster": "education_cost",
+        "score": 0.05921991914510727
       },
       {
         "topic": "scholarships",
@@ -10860,6 +11080,11 @@
         "topic": "cost barriers",
         "cluster": "education_cost",
         "score": 0.0653311014175415
+      },
+      {
+        "topic": "cost of attendance support",
+        "cluster": "education_cost",
+        "score": -0.07444345951080322
       },
       {
         "topic": "financial hardship",
@@ -10932,9 +11157,9 @@
         "score": 0.10004580020904541
       },
       {
-        "topic": "public funding",
+        "topic": "public scholarly funding",
         "cluster": "funding_flows",
-        "score": 0.028266381472349167
+        "score": 0.10428700596094131
       },
       {
         "topic": "school budgets",
@@ -10942,14 +11167,19 @@
         "score": 0.04264060780405998
       },
       {
-        "topic": "grant funding",
+        "topic": "scholarly grant funding",
         "cluster": "funding_flows",
-        "score": -0.06376813352108002
+        "score": 0.02514622174203396
       },
       {
-        "topic": "endowments",
+        "topic": "scholarly funding streams",
         "cluster": "funding_flows",
-        "score": 0.09898212552070618
+        "score": 0.09329156577587128
+      },
+      {
+        "topic": "scholarly endowments",
+        "cluster": "funding_flows",
+        "score": 0.18295294046401978
       },
       {
         "topic": "austerity",
@@ -10959,7 +11189,7 @@
       {
         "topic": "financial concerns",
         "cluster": "financial_constraints",
-        "score": 0.034228600561618805
+        "score": 0.03422864153981209
       },
       {
         "topic": "budget cuts",
@@ -10969,7 +11199,7 @@
       {
         "topic": "budget constraints",
         "cluster": "financial_constraints",
-        "score": 0.08234825730323792
+        "score": 0.08234824240207672
       },
       {
         "topic": "resource constraints",
@@ -11067,9 +11297,29 @@
         "score": 0.26997923851013184
       },
       {
-        "topic": "misrepresentation",
+        "topic": "deliberate misrepresentation",
         "cluster": "ethical_conflicts",
-        "score": 0.3004012703895569
+        "score": 0.34054791927337646
+      },
+      {
+        "topic": "factual misrepresentation",
+        "cluster": "ethical_conflicts",
+        "score": 0.3088190257549286
+      },
+      {
+        "topic": "intentional misrepresentation",
+        "cluster": "ethical_conflicts",
+        "score": 0.3034746050834656
+      },
+      {
+        "topic": "fraudulent misrepresentation",
+        "cluster": "ethical_conflicts",
+        "score": 0.31368303298950195
+      },
+      {
+        "topic": "unethical behaviour",
+        "cluster": "ethical_conflicts",
+        "score": 0.219400554895401
       },
       {
         "topic": "data fabrication",
@@ -11189,7 +11439,7 @@
       {
         "topic": "lower expectations",
         "cluster": "degradation_signals",
-        "score": 0.033259402960538864
+        "score": 0.03325934335589409
       },
       {
         "topic": "quality erosion",
@@ -11199,7 +11449,7 @@
       {
         "topic": "oversimplification",
         "cluster": "degradation_signals",
-        "score": 0.20025868713855743
+        "score": 0.20025873184204102
       },
       {
         "topic": "dumbing down material",
@@ -11297,9 +11547,9 @@
         "score": 0.14443767070770264
       },
       {
-        "topic": "self-censorship",
+        "topic": "fear-driven self-silencing",
         "cluster": "academic abuse",
-        "score": 0.22178219258785248
+        "score": 0.17916715145111084
       },
       {
         "topic": "wrongful termination",
@@ -11344,7 +11594,7 @@
       {
         "topic": "promotion blockage",
         "cluster": "academic abuse",
-        "score": 0.012033291161060333
+        "score": 0.012033253908157349
       },
       {
         "topic": "arbitrary tenure denial",
@@ -11477,14 +11727,14 @@
         "score": 0.0961218923330307
       },
       {
-        "topic": "DEI",
+        "topic": "diversity equity and inclusion initiatives",
         "cluster": "systemic_inequity",
-        "score": 0.24676886200904846
+        "score": 0.042313352227211
       },
       {
         "topic": "equity initiatives",
         "cluster": "systemic_inequity",
-        "score": 0.04522336274385452
+        "score": 0.045223407447338104
       },
       {
         "topic": "gender discrimination",
@@ -11629,7 +11879,7 @@
       {
         "topic": "war",
         "cluster": "politics",
-        "score": 0.17236067354679108
+        "score": 0.17236070334911346
       },
       {
         "topic": "armed dispute",
@@ -11897,9 +12147,9 @@
         "score": 0.17020681500434875
       },
       {
-        "topic": "gaza",
+        "topic": "gaza strip",
         "cluster": "regions_and_countries",
-        "score": 0.2232508361339569
+        "score": 0.26080411672592163
       },
       {
         "topic": "ukraine",
@@ -12007,14 +12257,14 @@
         "score": 0.19962015748023987
       },
       {
-        "topic": "college admissions",
+        "topic": "admissions process",
         "cluster": "admissions_access",
-        "score": -0.008454294875264168
+        "score": 0.0029870709404349327
       },
       {
-        "topic": "selective admissions",
+        "topic": "admissions selectivity",
         "cluster": "admissions_access",
-        "score": 0.057918891310691833
+        "score": 0.033305324614048004
       },
       {
         "topic": "standardised testing",
@@ -12022,24 +12272,24 @@
         "score": -0.007129695266485214
       },
       {
-        "topic": "SAT",
+        "topic": "scholastic aptitude test",
         "cluster": "admissions_access",
-        "score": 0.08891899138689041
+        "score": 0.06810083985328674
       },
       {
-        "topic": "GRE",
+        "topic": "graduate record examination",
         "cluster": "admissions_access",
-        "score": 0.14049497246742249
+        "score": 0.03183755278587341
       },
       {
-        "topic": "GMAT",
+        "topic": "graduate management admission test",
         "cluster": "admissions_access",
-        "score": 0.1870073676109314
+        "score": -0.05227991193532944
       },
       {
         "topic": "affirmative action",
         "cluster": "admissions_access",
-        "score": 0.037451718002557755
+        "score": 0.037451714277267456
       },
       {
         "topic": "widening participation",
@@ -12144,12 +12394,12 @@
       {
         "topic": "medical profession",
         "cluster": "health_professions",
-        "score": 0.12743234634399414
+        "score": 0.12743240594863892
       },
       {
         "topic": "nursing profession",
         "cluster": "health_professions",
-        "score": 0.018558509647846222
+        "score": 0.018558485433459282
       },
       {
         "topic": "health profession",
@@ -12164,7 +12414,7 @@
       {
         "topic": "training hospitals",
         "cluster": "health_professions",
-        "score": -0.03547715023159981
+        "score": -0.035477165132761
       },
       {
         "topic": "trust in science",
@@ -12175,11 +12425,6 @@
         "topic": "science communication",
         "cluster": "science_society",
         "score": 0.1725359410047531
-      },
-      {
-        "topic": "misinformation",
-        "cluster": "science_society",
-        "score": 0.35814228653907776
       },
       {
         "topic": "evidence-based decisions",
@@ -12214,17 +12459,17 @@
       {
         "topic": "anxiety",
         "cluster": "future_outlook",
-        "score": 0.02396729588508606
+        "score": 0.023967299610376358
       },
       {
         "topic": "future planning",
         "cluster": "future_outlook",
-        "score": 0.11524903774261475
+        "score": 0.11524904519319534
       },
       {
         "topic": "morale",
         "cluster": "future_outlook",
-        "score": 0.19390973448753357
+        "score": 0.19390977919101715
       }
     ]
   }
