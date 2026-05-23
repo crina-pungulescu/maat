@@ -67,7 +67,7 @@
   },
   {
     "cluster": "Academic Abuse",
-    "count": 70,
+    "count": 71,
     "evidence": {
       "article_id": "349a314246434fb5561c3a39f87c7e53",
       "headline": "Issues of Institutional Governance in Partnerships",
@@ -78,7 +78,7 @@
   },
   {
     "cluster": "Funding Flows",
-    "count": 60,
+    "count": 62,
     "evidence": {
       "article_id": "53c62ff4a7c24a70a4605579b2e8c253",
       "headline": "Funding awarded to Advance HE members in small, specialist, independent and college-based UK HE institutions",
@@ -89,7 +89,7 @@
   },
   {
     "cluster": "Admissions Access",
-    "count": 59,
+    "count": 60,
     "evidence": {
       "article_id": "ca946192b11a7f3a4803f22e70dff9ec",
       "headline": "How to Get the Most Out of Your College Experience",
@@ -199,7 +199,7 @@
   },
   {
     "cluster": "Systemic Inequity",
-    "count": 22,
+    "count": 23,
     "evidence": {
       "article_id": "3abedc355ac5e370117c9a4c4e2b7845",
       "headline": "The Power of Belonging: Enhancing Student Success Through Inclusive Teaching Strategies",
@@ -253,6 +253,17 @@
     }
   },
   {
+    "cluster": "Ethical Conflicts",
+    "count": 9,
+    "evidence": {
+      "article_id": "bfd27109fe37acb178debfff2abea39f",
+      "headline": "Fraudster trying to sell fake ancient statues to Sotheby’s foiled over bogus invoices",
+      "url": "https://www.theguardian.com/uk-news/2026/may/23/fraudster-trying-to-sell-fake-ancient-statues-to-sothebys-foiled-over-bogus-invoices",
+      "topic": "dishonesty",
+      "score": 0.4744
+    }
+  },
+  {
     "cluster": "Sustainability Climate",
     "count": 9,
     "evidence": {
@@ -261,17 +272,6 @@
       "url": "https://www.terminalfour.com/blog/posts/a-day-in-the-life-how-schools-and-students-are-showcasing-campus-life-online.html",
       "topic": "green campus",
       "score": 0.4641
-    }
-  },
-  {
-    "cluster": "Ethical Conflicts",
-    "count": 8,
-    "evidence": {
-      "article_id": "bfd27109fe37acb178debfff2abea39f",
-      "headline": "Fraudster trying to sell fake ancient statues to Sotheby’s foiled over bogus invoices",
-      "url": "https://www.theguardian.com/uk-news/2026/may/23/fraudster-trying-to-sell-fake-ancient-statues-to-sothebys-foiled-over-bogus-invoices",
-      "topic": "dishonesty",
-      "score": 0.4744
     }
   },
   {
