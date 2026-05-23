@@ -1,8 +1,8 @@
 [
   {
     "topic": "Higher Education Crisis",
-    "count": 487,
-    "score": 0.4621,
+    "count": 587,
+    "score": 0.4603,
     "topics": [
       "academic collapse",
       "academic model breakdown",
@@ -27,9 +27,10 @@
   },
   {
     "topic": "Teaching And Learning",
-    "count": 421,
-    "score": 0.4481,
+    "count": 484,
+    "score": 0.449,
     "topics": [
+      "STEM qualification",
       "bachelor qualification",
       "blended instruction",
       "classroom methods",
@@ -61,8 +62,8 @@
   },
   {
     "topic": "University Administration",
-    "count": 337,
-    "score": 0.4546,
+    "count": 394,
+    "score": 0.4537,
     "topics": [
       "board of regents",
       "board of trustees",
@@ -86,8 +87,8 @@
   },
   {
     "topic": "Student Experience",
-    "count": 332,
-    "score": 0.4537,
+    "count": 374,
+    "score": 0.4533,
     "topics": [
       "mentor-student relationship",
       "student engagement",
@@ -109,8 +110,8 @@
   },
   {
     "topic": "Education Cost",
-    "count": 87,
-    "score": 0.4982,
+    "count": 108,
+    "score": 0.4953,
     "topics": [
       "cost barriers",
       "debt",
@@ -131,13 +132,14 @@
   },
   {
     "topic": "Research Activities",
-    "count": 54,
-    "score": 0.4423,
+    "count": 71,
+    "score": 0.4344,
     "topics": [
       "empirical research",
       "high-impact research",
       "peer review",
       "publication pressure",
+      "publish or perish",
       "qualitative research",
       "research collaboration",
       "research productivity",
@@ -153,8 +155,8 @@
   },
   {
     "topic": "Academic Abuse",
-    "count": 51,
-    "score": 0.4333,
+    "count": 70,
+    "score": 0.4338,
     "topics": [
       "administrative coercion",
       "arbitrary disciplinary actions",
@@ -169,6 +171,7 @@
       "professional marginalisation",
       "reputation damage tactics",
       "scarcity-based exploitation",
+      "self-censorship",
       "silencing criticism",
       "suppressing dissent",
       "weaponised hierarchy"
@@ -183,8 +186,8 @@
   },
   {
     "topic": "Admissions Access",
-    "count": 50,
-    "score": 0.4407,
+    "count": 59,
+    "score": 0.4398,
     "topics": [
       "affirmative action",
       "college admissions",
@@ -202,8 +205,8 @@
   },
   {
     "topic": "Faculty Labour",
-    "count": 49,
-    "score": 0.4321,
+    "count": 57,
+    "score": 0.4335,
     "topics": [
       "faculty careers",
       "faculty contracts",
@@ -211,17 +214,17 @@
       "job insecurity"
     ],
     "evidence": {
-      "article_id": "65fdd7c5e36170facb83e94fff805daa",
-      "headline": "Degree in three: Why more colleges are speeding up graduation timelines",
-      "url": "https://www.pbs.org/newshour/show/degree-in-three-why-more-colleges-are-speeding-up-graduation-timelines",
-      "topic": "faculty careers",
-      "score": 0.5219
+      "article_id": "e5d330d9ccbc69a9ef061d12b201b1d3",
+      "headline": "States sue over Education Department’s professional student definition",
+      "url": "https://www.highereddive.com/news/states-sue-education-departments-professional-student-definition/820774/",
+      "topic": "faculty contracts",
+      "score": 0.5322
     }
   },
   {
     "topic": "Funding Flows",
-    "count": 45,
-    "score": 0.4689,
+    "count": 54,
+    "score": 0.4753,
     "topics": [
       "endowments",
       "grant funding",
@@ -239,8 +242,8 @@
   },
   {
     "topic": "Internationalisation",
-    "count": 41,
-    "score": 0.4649,
+    "count": 52,
+    "score": 0.4626,
     "topics": [
       "cross-border experience",
       "global experience",
@@ -260,9 +263,76 @@
     }
   },
   {
+    "topic": "Politics",
+    "count": 40,
+    "score": 0.4228,
+    "topics": [
+      "UN",
+      "alliances",
+      "authoritarianism",
+      "democracy",
+      "diplomacy",
+      "foreign affairs",
+      "geopolitics",
+      "illiberal democracy",
+      "legislation",
+      "nuclear strategy",
+      "political repression",
+      "populism",
+      "propaganda",
+      "regime",
+      "sanctions",
+      "sovereignty"
+    ],
+    "evidence": {
+      "article_id": "c9447da7f1d59927a0c622a77035397d",
+      "headline": "AI nei tribunali, chi risponde degli errori negli atti giudiziari",
+      "url": "https://www.agendadigitale.eu/documenti/giustizia-digitale/ai-nei-tribunali-chi-risponde-degli-errori-negli-atti-giudiziari/",
+      "topic": "authoritarianism",
+      "score": 0.4846
+    }
+  },
+  {
+    "topic": "Regions And Countries",
+    "count": 39,
+    "score": 0.4554,
+    "topics": [
+      "africa",
+      "argentina",
+      "asia",
+      "australia",
+      "canada",
+      "central asia",
+      "china",
+      "east asia",
+      "eastern europe",
+      "europe",
+      "european union",
+      "india",
+      "indonesia",
+      "latin america",
+      "north africa",
+      "south africa",
+      "south america",
+      "south asia",
+      "southeast asia",
+      "spain",
+      "sub-saharan africa",
+      "united kingdom",
+      "western europe"
+    ],
+    "evidence": {
+      "article_id": "9f7034ef2a94d471dafbbb09373afcc6",
+      "headline": "“Open campuses, joint degrees”: Canada envoy signals India push",
+      "url": "https://thepienews.com/open-campuses-joint-degrees-canada-envoy-signals-india-push/",
+      "topic": "canada",
+      "score": 0.58
+    }
+  },
+  {
     "topic": "Degradation Signals",
-    "count": 28,
-    "score": 0.4259,
+    "count": 35,
+    "score": 0.4271,
     "topics": [
       "credential inflation",
       "employability gap",
@@ -275,17 +345,17 @@
       "skills mismatch"
     ],
     "evidence": {
-      "article_id": "c9447da7f1d59927a0c622a77035397d",
-      "headline": "AI nei tribunali, chi risponde degli errori negli atti giudiziari",
-      "url": "https://www.agendadigitale.eu/documenti/giustizia-digitale/ai-nei-tribunali-chi-risponde-degli-errori-negli-atti-giudiziari/",
-      "topic": "incompetence",
-      "score": 0.4881
+      "article_id": "6267d15a8c99842e4354b770d9c01b7f",
+      "headline": "The Educated Underclass Without Borders",
+      "url": "https://www.highereducationinquirer.org/2026/01/the-educated-underclass-without-borders.html",
+      "topic": "over-enrollment",
+      "score": 0.4875
     }
   },
   {
     "topic": "Educational Technology",
-    "count": 25,
-    "score": 0.4497,
+    "count": 33,
+    "score": 0.4544,
     "topics": [
       "AI assisted process",
       "algorithmic assessment",
@@ -299,73 +369,37 @@
       "process automation"
     ],
     "evidence": {
-      "article_id": "d24d22ef06c9e9314a235eb9630353b0",
-      "headline": "Bringing the AI-Active Lesson to Life in Higher Education",
-      "url": "https://edtechmagazine.com/higher/article/2026/05/bringing-ai-active-lesson-life-higher-education",
+      "article_id": "8895ba01adbf043f3e3a09f86434f79f",
+      "headline": "Building an AI Center of Excellence for Higher Education",
+      "url": "https://edtechmagazine.com/higher/article/2026/05/building-ai-center-excellence-higher-education-perfcon",
       "topic": "artificial intelligence",
-      "score": 0.5234
+      "score": 0.5697
     }
   },
   {
-    "topic": "Regions And Countries",
-    "count": 24,
-    "score": 0.4584,
+    "topic": "Academic Freedom",
+    "count": 30,
+    "score": 0.4482,
     "topics": [
-      "asia",
-      "australia",
-      "central asia",
-      "china",
-      "east asia",
-      "eastern europe",
-      "europe",
-      "european union",
-      "india",
-      "indonesia",
-      "south africa",
-      "south america",
-      "south asia",
-      "southeast asia",
-      "united kingdom",
-      "western europe"
+      "censorship",
+      "freedom of expression",
+      "freedom of opinion",
+      "freedom of speech",
+      "intellectual autonomy",
+      "thought independence"
     ],
     "evidence": {
-      "article_id": "0fbd3030c68b7ba593e6422d6ea246d9",
-      "headline": "Australian budget puts research and skills in focus",
-      "url": "https://thepienews.com/australian-budget-puts-research-and-skills-in-focus/",
-      "topic": "australia",
-      "score": 0.5302
-    }
-  },
-  {
-    "topic": "Politics",
-    "count": 23,
-    "score": 0.426,
-    "topics": [
-      "UN",
-      "alliances",
-      "authoritarianism",
-      "diplomacy",
-      "foreign affairs",
-      "geopolitics",
-      "illiberal democracy",
-      "nuclear strategy",
-      "political repression",
-      "populism",
-      "propaganda",
-      "sovereignty"
-    ],
-    "evidence": {
-      "article_id": "88ddab346bdb04311ee4206970d6aed9",
-      "headline": "Bari Weiss, UATX, and the Corporate Rewriting of “Free Speech”",
-      "url": "https://www.highereducationinquirer.org/2025/12/bari-weiss-uatx-and-corporate-rewriting.html",
-      "topic": "political repression",
-      "score": 0.4804
+      "article_id": "3b7a6dee9552251fc0dc3903bfd8658b",
+      "headline": "Voces de las Américas por la libertad académica",
+      "url": "https://www.clacso.org/voces-de-las-americas-por-la-libertad-academica/",
+      "topic": "freedom of speech",
+      "score": 0.5857
     }
   },
   {
     "topic": "Accountability Gaps",
-    "count": 18,
-    "score": 0.4392,
+    "count": 28,
+    "score": 0.4311,
     "topics": [
       "abuse of office",
       "conflict of interest",
@@ -385,8 +419,8 @@
   },
   {
     "topic": "Science Society",
-    "count": 18,
-    "score": 0.4219,
+    "count": 27,
+    "score": 0.4389,
     "topics": [
       "evidence-based decisions",
       "misinformation",
@@ -396,19 +430,21 @@
       "trust in science"
     ],
     "evidence": {
-      "article_id": "ee1a4d6e8b55ee41c933006b9763cc6a",
-      "headline": "Transparent Lab Report Templates Affect Scientific Success",
-      "url": "https://www.scholarlyteacher.com/post/transparent-lab-report-templates-affect-scientific-success",
+      "article_id": "7c16522811c7b8ffb30b5b0c8c1c7f6a",
+      "headline": "The Rush to Trust Endangers Academic Freedom",
+      "url": "https://www.insidehighered.com/opinion/columns/debatable-ideas/2026/05/22/rush-trust-endangers-academic-freedom",
       "topic": "trust in science",
-      "score": 0.4937
+      "score": 0.5449
     }
   },
   {
     "topic": "Systemic Inequity",
-    "count": 16,
-    "score": 0.4442,
+    "count": 21,
+    "score": 0.4374,
     "topics": [
       "biased systems",
+      "bullying",
+      "equity initiatives",
       "gender discrimination",
       "harmful culture",
       "hate incidents",
@@ -427,8 +463,8 @@
   },
   {
     "topic": "Financial Constraints",
-    "count": 12,
-    "score": 0.4431,
+    "count": 16,
+    "score": 0.4387,
     "topics": [
       "austerity",
       "budget constraints",
@@ -438,54 +474,17 @@
       "resource constraints"
     ],
     "evidence": {
-      "article_id": "8da039d79cbe056c1151ab7c69fbc9e1",
-      "headline": "Money, Mission and Culture: Strategic Planning for Colleges Under Pressure",
-      "url": "https://edualliancegroup.blog/2026/05/11/money-mission-and-culture-strategic-planning-for-colleges-under-pressure/",
-      "topic": "budget constraints",
-      "score": 0.472
-    }
-  },
-  {
-    "topic": "Academic Freedom",
-    "count": 12,
-    "score": 0.454,
-    "topics": [
-      "censorship",
-      "freedom of expression",
-      "freedom of opinion",
-      "freedom of speech",
-      "intellectual autonomy"
-    ],
-    "evidence": {
-      "article_id": "011398b5fc99180f90f3cb46f01f6085",
-      "headline": "Revealing university identity: a methodological reflection",
-      "url": "https://srheblog.com/2026/05/19/revealing-university-identity-a-methodological-reflection/",
-      "topic": "intellectual autonomy",
-      "score": 0.502
-    }
-  },
-  {
-    "topic": "Future Outlook",
-    "count": 10,
-    "score": 0.4365,
-    "topics": [
-      "future planning",
-      "morale",
-      "optimism",
-      "pessimism"
-    ],
-    "evidence": {
-      "article_id": "e16c7311bd36a2b7446c388d556800c4",
-      "headline": "Preparing Our Higher Education Institutions for the Future - 5 Recommendations",
-      "url": "https://www.millennialprofessor.com/2023/12/preparing-our-higher-education.html",
-      "topic": "future planning",
-      "score": 0.4938
+      "article_id": "0fbd3030c68b7ba593e6422d6ea246d9",
+      "headline": "Australian budget puts research and skills in focus",
+      "url": "https://thepienews.com/australian-budget-puts-research-and-skills-in-focus/",
+      "topic": "austerity",
+      "score": 0.6481
     }
   },
   {
     "topic": "Academic Standards",
-    "count": 9,
-    "score": 0.4444,
+    "count": 13,
+    "score": 0.4367,
     "topics": [
       "accountability",
       "integrity",
@@ -501,9 +500,27 @@
     }
   },
   {
+    "topic": "Future Outlook",
+    "count": 10,
+    "score": 0.4365,
+    "topics": [
+      "future planning",
+      "morale",
+      "optimism",
+      "pessimism"
+    ],
+    "evidence": {
+      "article_id": "8da039d79cbe056c1151ab7c69fbc9e1",
+      "headline": "Money, Mission and Culture: Strategic Planning for Colleges Under Pressure",
+      "url": "https://edualliancegroup.blog/2026/05/11/money-mission-and-culture-strategic-planning-for-colleges-under-pressure/",
+      "topic": "future planning",
+      "score": 0.5363
+    }
+  },
+  {
     "topic": "Sustainability Climate",
-    "count": 8,
-    "score": 0.4395,
+    "count": 9,
+    "score": 0.4411,
     "topics": [
       "environmental sustainability",
       "green campus",
@@ -518,26 +535,27 @@
     }
   },
   {
-    "topic": "Campus Infrastructure",
-    "count": 5,
-    "score": 0.4211,
+    "topic": "Norm Violations",
+    "count": 8,
+    "score": 0.4262,
     "topics": [
-      "infrastructure",
-      "laboratories",
-      "safety"
+      "contempt of court",
+      "corruption",
+      "misconduct",
+      "regulatory violation"
     ],
     "evidence": {
-      "article_id": "62ae9f045e1a8fcbdeffc49ca408a935",
-      "headline": "heise-Angebot: iX-Workshop IT-Sicherheit: Pentests methodisch planen, anfordern und analysieren",
-      "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-Pentests-methodisch-planen-anfordern-und-analysieren-11288872.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "topic": "laboratories",
-      "score": 0.4733
+      "article_id": "e320b68cee26142f19957fc1847f7b13",
+      "headline": "Impugnazione via PEC a indirizzo sbagliato: cosa dice la Corte Costituzionale",
+      "url": "https://www.agendadigitale.eu/documenti/giustizia-digitale/impugnazione-via-pec-a-indirizzo-sbagliato-cosa-dice-la-corte-costituzionale/",
+      "topic": "regulatory violation",
+      "score": 0.4753
     }
   },
   {
     "topic": "Ethical Conflicts",
-    "count": 4,
-    "score": 0.4245,
+    "count": 6,
+    "score": 0.4244,
     "topics": [
       "ethical impropriety",
       "misrepresentation"
@@ -551,20 +569,20 @@
     }
   },
   {
-    "topic": "Norm Violations",
-    "count": 4,
-    "score": 0.4148,
+    "topic": "Campus Infrastructure",
+    "count": 6,
+    "score": 0.4181,
     "topics": [
-      "corruption",
-      "misconduct",
-      "regulatory violation"
+      "infrastructure",
+      "laboratories",
+      "safety"
     ],
     "evidence": {
-      "article_id": "cfcd964d06c77b8dd52ecd0e1eee5194",
-      "headline": "Think Before You Trust: Why College Practitioners Must Scrutinize Research Claims",
-      "url": "https://www.continuous-learning-institute.com/blog/think-before-you-trust-why-college-practitioners-must-scrutinize-research-claims",
-      "topic": "misconduct",
-      "score": 0.43
+      "article_id": "62ae9f045e1a8fcbdeffc49ca408a935",
+      "headline": "heise-Angebot: iX-Workshop IT-Sicherheit: Pentests methodisch planen, anfordern und analysieren",
+      "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-Pentests-methodisch-planen-anfordern-und-analysieren-11288872.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "topic": "laboratories",
+      "score": 0.4733
     }
   },
   {
