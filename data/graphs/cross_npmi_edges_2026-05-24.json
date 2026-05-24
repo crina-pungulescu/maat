@@ -1,5 +1,13 @@
 [
   {
+    "source": "contested scientific claims",
+    "target": "quantitative research",
+    "co_occurrence": 3,
+    "npmi": 0.9303,
+    "source_cluster": "science_society",
+    "target_cluster": "research_activities"
+  },
+  {
     "source": "bureaucratic gatekeeping",
     "target": "organisational structure",
     "co_occurrence": 4,
@@ -14,14 +22,6 @@
     "npmi": 0.8762,
     "source_cluster": "politics_in_academia",
     "target_cluster": "science_society"
-  },
-  {
-    "source": "contested scientific claimstrust in science",
-    "target": "quantitative research",
-    "co_occurrence": 3,
-    "npmi": 0.8321,
-    "source_cluster": "science_society",
-    "target_cluster": "research_activities"
   },
   {
     "source": "harmful culture",
@@ -118,6 +118,14 @@
     "npmi": 0.725,
     "source_cluster": "academic_freedom",
     "target_cluster": "academic_abuse"
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "high-impact research",
+    "co_occurrence": 3,
+    "npmi": 0.725,
+    "source_cluster": "science_society",
+    "target_cluster": "research_activities"
   },
   {
     "source": "college experience",
@@ -296,6 +304,22 @@
     "target_cluster": "university_administration"
   },
   {
+    "source": "contested scientific claims",
+    "target": "research productivity",
+    "co_occurrence": 4,
+    "npmi": 0.6389,
+    "source_cluster": "science_society",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "scholarly funding",
+    "co_occurrence": 4,
+    "npmi": 0.6389,
+    "source_cluster": "science_society",
+    "target_cluster": "education_funding"
+  },
+  {
     "source": "silencing criticism",
     "target": "theoretical research",
     "co_occurrence": 4,
@@ -320,14 +344,6 @@
     "target_cluster": "academic_degradation_signals"
   },
   {
-    "source": "contested scientific claimstrust in science",
-    "target": "empirical research",
-    "co_occurrence": 4,
-    "npmi": 0.6309,
-    "source_cluster": "science_society",
-    "target_cluster": "research_activities"
-  },
-  {
     "source": "political repression",
     "target": "suppressing dissent",
     "co_occurrence": 3,
@@ -350,14 +366,6 @@
     "npmi": 0.6268,
     "source_cluster": "university_accreditation",
     "target_cluster": "faculty_labour"
-  },
-  {
-    "source": "contested scientific claimstrust in science",
-    "target": "high-impact research",
-    "co_occurrence": 3,
-    "npmi": 0.6268,
-    "source_cluster": "science_society",
-    "target_cluster": "research_activities"
   },
   {
     "source": "accreditation body",
@@ -398,6 +406,14 @@
     "npmi": 0.6155,
     "source_cluster": "research_activities",
     "target_cluster": "systemic_inequity_in_higher_education"
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "empirical research",
+    "co_occurrence": 3,
+    "npmi": 0.6155,
+    "source_cluster": "science_society",
+    "target_cluster": "research_activities"
   },
   {
     "source": "legitimacy crisis",
@@ -768,22 +784,6 @@
     "target_cluster": "teaching_and_learning"
   },
   {
-    "source": "contested scientific claimstrust in science",
-    "target": "research productivity",
-    "co_occurrence": 4,
-    "npmi": 0.5333,
-    "source_cluster": "science_society",
-    "target_cluster": "research_activities"
-  },
-  {
-    "source": "contested scientific claimstrust in science",
-    "target": "scholarly funding",
-    "co_occurrence": 4,
-    "npmi": 0.5333,
-    "source_cluster": "science_society",
-    "target_cluster": "education_funding"
-  },
-  {
     "source": "credential inflation",
     "target": "tuition affordability",
     "co_occurrence": 4,
@@ -893,6 +893,22 @@
     "co_occurrence": 3,
     "npmi": 0.5247,
     "source_cluster": "higher_education_crisis",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "public scholarly funding",
+    "co_occurrence": 4,
+    "npmi": 0.5227,
+    "source_cluster": "science_society",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "research collaboration",
+    "co_occurrence": 4,
+    "npmi": 0.5227,
+    "source_cluster": "science_society",
     "target_cluster": "research_activities"
   },
   {
@@ -1012,14 +1028,6 @@
     "target": "public scholarly funding",
     "co_occurrence": 10,
     "npmi": 0.505,
-    "source_cluster": "science_society",
-    "target_cluster": "education_funding"
-  },
-  {
-    "source": "contested scientific claimstrust in science",
-    "target": "public scholarly funding",
-    "co_occurrence": 5,
-    "npmi": 0.5045,
     "source_cluster": "science_society",
     "target_cluster": "education_funding"
   },
@@ -2040,14 +2048,6 @@
     "target_cluster": "faculty_labour"
   },
   {
-    "source": "contested scientific claimstrust in science",
-    "target": "research collaboration",
-    "co_occurrence": 4,
-    "npmi": 0.4171,
-    "source_cluster": "science_society",
-    "target_cluster": "research_activities"
-  },
-  {
     "source": "automated grading",
     "target": "scholastic aptitude test",
     "co_occurrence": 4,
@@ -2638,14 +2638,6 @@
     "npmi": 0.3851,
     "source_cluster": "academic_abuse",
     "target_cluster": "university_administration"
-  },
-  {
-    "source": "contested scientific claimstrust in science",
-    "target": "scholarly endowments",
-    "co_occurrence": 3,
-    "npmi": 0.3848,
-    "source_cluster": "science_society",
-    "target_cluster": "education_funding"
   },
   {
     "source": "student engagement",
@@ -13222,14 +13214,6 @@
     "npmi": 0.1229,
     "source_cluster": "higher_education_crisis",
     "target_cluster": "university_administration"
-  },
-  {
-    "source": "contested scientific claimstrust in science",
-    "target": "decline of academia",
-    "co_occurrence": 3,
-    "npmi": 0.1229,
-    "source_cluster": "science_society",
-    "target_cluster": "higher_education_crisis"
   },
   {
     "source": "institutional partnerships",

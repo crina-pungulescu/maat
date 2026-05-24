@@ -7555,16 +7555,6 @@
     "weight": 5
   },
   {
-    "source": "contested scientific claimstrust in science",
-    "target": "politicisation of science",
-    "weight": 5
-  },
-  {
-    "source": "contested scientific claimstrust in science",
-    "target": "public scholarly funding",
-    "weight": 5
-  },
-  {
     "source": "opportunistic growth",
     "target": "research productivity",
     "weight": 5
@@ -9310,17 +9300,27 @@
     "weight": 4
   },
   {
-    "source": "contested scientific claimstrust in science",
+    "source": "contested scientific claims",
+    "target": "politicisation of science",
+    "weight": 4
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "public scholarly funding",
+    "weight": 4
+  },
+  {
+    "source": "contested scientific claims",
     "target": "research collaboration",
     "weight": 4
   },
   {
-    "source": "contested scientific claimstrust in science",
+    "source": "contested scientific claims",
     "target": "research productivity",
     "weight": 4
   },
   {
-    "source": "contested scientific claimstrust in science",
+    "source": "contested scientific claims",
     "target": "scholarly funding",
     "weight": 4
   },
@@ -10445,11 +10445,6 @@
     "weight": 4
   },
   {
-    "source": "contested scientific claimstrust in science",
-    "target": "public misinformation",
-    "weight": 4
-  },
-  {
     "source": "faculty hiring market",
     "target": "public scholarly funding",
     "weight": 4
@@ -11137,11 +11132,6 @@
   {
     "source": "politicisation of science",
     "target": "theoretical research",
-    "weight": 4
-  },
-  {
-    "source": "contested scientific claimstrust in science",
-    "target": "empirical research",
     "weight": 4
   },
   {
@@ -13095,16 +13085,6 @@
     "weight": 3
   },
   {
-    "source": "contested scientific claimstrust in science",
-    "target": "decline of academia",
-    "weight": 3
-  },
-  {
-    "source": "contested scientific claimstrust in science",
-    "target": "scholarly endowments",
-    "weight": 3
-  },
-  {
     "source": "decline of academia",
     "target": "online learning",
     "weight": 3
@@ -14835,12 +14815,17 @@
     "weight": 3
   },
   {
-    "source": "contested scientific claimstrust in science",
+    "source": "contested scientific claims",
+    "target": "empirical research",
+    "weight": 3
+  },
+  {
+    "source": "contested scientific claims",
     "target": "high-impact research",
     "weight": 3
   },
   {
-    "source": "contested scientific claimstrust in science",
+    "source": "contested scientific claims",
     "target": "quantitative research",
     "weight": 3
   },
@@ -15605,6 +15590,11 @@
     "weight": 2
   },
   {
+    "source": "public scholarly funding",
+    "target": "trust in science",
+    "weight": 2
+  },
+  {
     "source": "academic collapse",
     "target": "budget constraints",
     "weight": 2
@@ -15900,8 +15890,23 @@
     "weight": 2
   },
   {
+    "source": "adjunct faculty",
+    "target": "workplace bias",
+    "weight": 2
+  },
+  {
     "source": "faculty labour exploitation",
     "target": "gender discrimination",
+    "weight": 2
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "workplace bias",
+    "weight": 2
+  },
+  {
+    "source": "university policy",
+    "target": "workplace bias",
     "weight": 2
   },
   {
@@ -17646,11 +17651,6 @@
   },
   {
     "source": "censorship",
-    "target": "contested scientific claimstrust in science",
-    "weight": 2
-  },
-  {
-    "source": "censorship",
     "target": "decline of academia",
     "weight": 2
   },
@@ -17677,16 +17677,6 @@
   {
     "source": "censorship",
     "target": "scholarly endowments",
-    "weight": 2
-  },
-  {
-    "source": "contested scientific claimstrust in science",
-    "target": "faculty precarity",
-    "weight": 2
-  },
-  {
-    "source": "contested scientific claimstrust in science",
-    "target": "reputation damage tactics",
     "weight": 2
   },
   {
@@ -21670,42 +21660,57 @@
     "weight": 2
   },
   {
-    "source": "contested scientific claimstrust in science",
+    "source": "contested scientific claims",
+    "target": "decline of academia",
+    "weight": 2
+  },
+  {
+    "source": "contested scientific claims",
     "target": "international cohorts",
     "weight": 2
   },
   {
-    "source": "contested scientific claimstrust in science",
+    "source": "contested scientific claims",
     "target": "peer review",
     "weight": 2
   },
   {
-    "source": "contested scientific claimstrust in science",
+    "source": "contested scientific claims",
     "target": "propaganda",
     "weight": 2
   },
   {
-    "source": "contested scientific claimstrust in science",
+    "source": "contested scientific claims",
+    "target": "public misinformation",
+    "weight": 2
+  },
+  {
+    "source": "contested scientific claims",
     "target": "publication pressure",
     "weight": 2
   },
   {
-    "source": "contested scientific claimstrust in science",
+    "source": "contested scientific claims",
     "target": "publish or perish",
     "weight": 2
   },
   {
-    "source": "contested scientific claimstrust in science",
+    "source": "contested scientific claims",
+    "target": "scholarly endowments",
+    "weight": 2
+  },
+  {
+    "source": "contested scientific claims",
     "target": "scientific expertise",
     "weight": 2
   },
   {
-    "source": "contested scientific claimstrust in science",
+    "source": "contested scientific claims",
     "target": "silencing criticism",
     "weight": 2
   },
   {
-    "source": "contested scientific claimstrust in science",
+    "source": "contested scientific claims",
     "target": "theoretical research",
     "weight": 2
   },
@@ -22447,16 +22452,6 @@
   {
     "source": "admissions selectivity",
     "target": "programme accreditation",
-    "weight": 2
-  },
-  {
-    "source": "contested scientific claimstrust in science",
-    "target": "harmful culture",
-    "weight": 2
-  },
-  {
-    "source": "contested scientific claimstrust in science",
-    "target": "outdated education model",
     "weight": 2
   },
   {
@@ -23246,7 +23241,7 @@
   },
   {
     "source": "austerity",
-    "target": "contested scientific claimstrust in science",
+    "target": "contested scientific claims",
     "weight": 1
   },
   {
@@ -23260,13 +23255,23 @@
     "weight": 1
   },
   {
-    "source": "contested scientific claimstrust in science",
+    "source": "austerity",
+    "target": "trust in science",
+    "weight": 1
+  },
+  {
+    "source": "contested scientific claims",
     "target": "opportunistic growth",
     "weight": 1
   },
   {
-    "source": "contested scientific claimstrust in science",
+    "source": "contested scientific claims",
     "target": "science communication",
+    "weight": 1
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "trust in science",
     "weight": 1
   },
   {
@@ -23285,8 +23290,18 @@
     "weight": 1
   },
   {
+    "source": "opportunistic growth",
+    "target": "trust in science",
+    "weight": 1
+  },
+  {
     "source": "politicisation of science",
     "target": "science communication",
+    "weight": 1
+  },
+  {
+    "source": "politicisation of science",
+    "target": "trust in science",
     "weight": 1
   },
   {
@@ -23295,13 +23310,33 @@
     "weight": 1
   },
   {
+    "source": "research collaboration",
+    "target": "trust in science",
+    "weight": 1
+  },
+  {
     "source": "research productivity",
     "target": "science communication",
     "weight": 1
   },
   {
+    "source": "research productivity",
+    "target": "trust in science",
+    "weight": 1
+  },
+  {
     "source": "scholarly funding",
     "target": "science communication",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "trust in science",
+    "weight": 1
+  },
+  {
+    "source": "science communication",
+    "target": "trust in science",
     "weight": 1
   },
   {
@@ -23696,6 +23731,11 @@
   },
   {
     "source": "accessibility equity",
+    "target": "integrity",
+    "weight": 1
+  },
+  {
+    "source": "accessibility equity",
     "target": "international partnerships",
     "weight": 1
   },
@@ -23746,6 +23786,11 @@
   },
   {
     "source": "accreditation body",
+    "target": "integrity",
+    "weight": 1
+  },
+  {
+    "source": "accreditation body",
     "target": "international partnerships",
     "weight": 1
   },
@@ -23772,6 +23817,11 @@
   {
     "source": "accreditation compliance",
     "target": "edtech",
+    "weight": 1
+  },
+  {
+    "source": "accreditation compliance",
+    "target": "integrity",
     "weight": 1
   },
   {
@@ -23812,6 +23862,11 @@
   {
     "source": "accreditation process",
     "target": "edtech",
+    "weight": 1
+  },
+  {
+    "source": "accreditation process",
+    "target": "integrity",
     "weight": 1
   },
   {
@@ -23852,6 +23907,11 @@
   {
     "source": "accreditation review",
     "target": "edtech",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "integrity",
     "weight": 1
   },
   {
@@ -23882,6 +23942,11 @@
   {
     "source": "accreditation standards",
     "target": "edtech",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "integrity",
     "weight": 1
   },
   {
@@ -23912,6 +23977,11 @@
   {
     "source": "edtech",
     "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "edtech",
+    "target": "integrity",
     "weight": 1
   },
   {
@@ -23951,6 +24021,11 @@
   },
   {
     "source": "institutional accreditation",
+    "target": "integrity",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
     "target": "peer review",
     "weight": 1
   },
@@ -23966,6 +24041,51 @@
   },
   {
     "source": "institutional accreditation",
+    "target": "transparency",
+    "weight": 1
+  },
+  {
+    "source": "integrity",
+    "target": "international partnerships",
+    "weight": 1
+  },
+  {
+    "source": "integrity",
+    "target": "peer review",
+    "weight": 1
+  },
+  {
+    "source": "integrity",
+    "target": "programme accreditation",
+    "weight": 1
+  },
+  {
+    "source": "integrity",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "integrity",
+    "target": "quality assurance body",
+    "weight": 1
+  },
+  {
+    "source": "integrity",
+    "target": "quality assurance review",
+    "weight": 1
+  },
+  {
+    "source": "integrity",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "integrity",
+    "target": "rigorous standards",
+    "weight": 1
+  },
+  {
+    "source": "integrity",
     "target": "transparency",
     "weight": 1
   },
@@ -24102,6 +24222,11 @@
   {
     "source": "gender discrimination",
     "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "gender discrimination",
+    "target": "workplace bias",
     "weight": 1
   },
   {
@@ -26400,6 +26525,11 @@
     "weight": 1
   },
   {
+    "source": "fear-driven self-silencing",
+    "target": "trust in science",
+    "weight": 1
+  },
+  {
     "source": "freedom of expression",
     "target": "thought independence",
     "weight": 1
@@ -26407,6 +26537,11 @@
   {
     "source": "freedom of expression",
     "target": "transparency",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "trust in science",
     "weight": 1
   },
   {
@@ -26430,6 +26565,11 @@
     "weight": 1
   },
   {
+    "source": "freedom of opinion",
+    "target": "trust in science",
+    "weight": 1
+  },
+  {
     "source": "freedom of speech",
     "target": "thought independence",
     "weight": 1
@@ -26437,6 +26577,11 @@
   {
     "source": "freedom of speech",
     "target": "transparency",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "trust in science",
     "weight": 1
   },
   {
@@ -26445,11 +26590,21 @@
     "weight": 1
   },
   {
+    "source": "legitimacy crisis",
+    "target": "trust in science",
+    "weight": 1
+  },
+  {
     "source": "populism",
     "target": "transparency",
     "weight": 1
   },
   {
+    "source": "populism",
+    "target": "trust in science",
+    "weight": 1
+  },
+  {
     "source": "public scholarly funding",
     "target": "thought independence",
     "weight": 1
@@ -26467,11 +26622,26 @@
   {
     "source": "silencing criticism",
     "target": "transparency",
+    "weight": 1
+  },
+  {
+    "source": "silencing criticism",
+    "target": "trust in science",
     "weight": 1
   },
   {
     "source": "thought independence",
     "target": "transparency",
+    "weight": 1
+  },
+  {
+    "source": "thought independence",
+    "target": "trust in science",
+    "weight": 1
+  },
+  {
+    "source": "transparency",
+    "target": "trust in science",
     "weight": 1
   },
   {
@@ -27940,56 +28110,6 @@
     "weight": 1
   },
   {
-    "source": "contested scientific claimstrust in science",
-    "target": "educational instability",
-    "weight": 1
-  },
-  {
-    "source": "contested scientific claimstrust in science",
-    "target": "faculty careers",
-    "weight": 1
-  },
-  {
-    "source": "contested scientific claimstrust in science",
-    "target": "faculty hiring market",
-    "weight": 1
-  },
-  {
-    "source": "contested scientific claimstrust in science",
-    "target": "faculty job insecurity",
-    "weight": 1
-  },
-  {
-    "source": "contested scientific claimstrust in science",
-    "target": "faculty labour exploitation",
-    "weight": 1
-  },
-  {
-    "source": "contested scientific claimstrust in science",
-    "target": "higher education crisis",
-    "weight": 1
-  },
-  {
-    "source": "contested scientific claimstrust in science",
-    "target": "online learning",
-    "weight": 1
-  },
-  {
-    "source": "contested scientific claimstrust in science",
-    "target": "university administrators",
-    "weight": 1
-  },
-  {
-    "source": "contested scientific claimstrust in science",
-    "target": "university policy",
-    "weight": 1
-  },
-  {
-    "source": "contested scientific claimstrust in science",
-    "target": "university reform",
-    "weight": 1
-  },
-  {
     "source": "educational instability",
     "target": "public misinformation",
     "weight": 1
@@ -28137,6 +28257,21 @@
   {
     "source": "accessibility equity",
     "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "accessibility equity",
+    "target": "trust in science",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "trust in science",
+    "weight": 1
+  },
+  {
+    "source": "online learning",
+    "target": "trust in science",
     "weight": 1
   },
   {
@@ -36015,6 +36150,11 @@
     "weight": 1
   },
   {
+    "source": "academic model breakdown",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
     "source": "adjunct faculty",
     "target": "discrimination",
     "weight": 1
@@ -36050,8 +36190,18 @@
     "weight": 1
   },
   {
+    "source": "admissions selectivity",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
     "source": "college experience",
     "target": "discrimination",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "workplace bias",
     "weight": 1
   },
   {
@@ -36070,6 +36220,11 @@
     "weight": 1
   },
   {
+    "source": "course evaluation",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
     "source": "curricular design",
     "target": "discrimination",
     "weight": 1
@@ -36080,8 +36235,18 @@
     "weight": 1
   },
   {
+    "source": "curricular design",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
     "source": "decline of academia",
     "target": "discrimination",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "workplace bias",
     "weight": 1
   },
   {
@@ -36230,6 +36395,11 @@
     "weight": 1
   },
   {
+    "source": "discrimination",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
     "source": "diversity equity and inclusion initiatives",
     "target": "doctoral qualification",
     "weight": 1
@@ -36275,6 +36445,11 @@
     "weight": 1
   },
   {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
     "source": "doctoral qualification",
     "target": "inclusivity",
     "weight": 1
@@ -36290,13 +36465,33 @@
     "weight": 1
   },
   {
+    "source": "doctoral qualification",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
     "source": "education crisis",
     "target": "professional marginalisation",
     "weight": 1
   },
   {
+    "source": "education crisis",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
     "source": "educational instability",
     "target": "professional marginalisation",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "workplace bias",
     "weight": 1
   },
   {
@@ -36310,13 +36505,63 @@
     "weight": 1
   },
   {
+    "source": "faculty hiring market",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
     "source": "faculty workload",
     "target": "intellectual autonomy",
     "weight": 1
   },
   {
+    "source": "faculty workload",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "graduate management admission test",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
     "source": "inclusivity",
     "target": "professional marginalisation",
+    "weight": 1
+  },
+  {
+    "source": "inclusivity",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "instructional practice",
+    "target": "workplace bias",
     "weight": 1
   },
   {
@@ -36330,6 +36575,26 @@
     "weight": 1
   },
   {
+    "source": "intellectual autonomy",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "participatory instruction",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
     "source": "professional marginalisation",
     "target": "student satisfaction",
     "weight": 1
@@ -36337,6 +36602,56 @@
   {
     "source": "professional marginalisation",
     "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "professional marginalisation",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "scholarships",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "student satisfaction",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "student wellbeing",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "undergraduate pathway",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "university reform",
+    "target": "workplace bias",
     "weight": 1
   },
   {
@@ -36825,18 +37140,8 @@
     "weight": 1
   },
   {
-    "source": "STEM qualification",
-    "target": "workplace ubias",
-    "weight": 1
-  },
-  {
     "source": "adjunct faculty",
     "target": "business qualification",
-    "weight": 1
-  },
-  {
-    "source": "adjunct faculty",
-    "target": "workplace ubias",
     "weight": 1
   },
   {
@@ -36890,11 +37195,6 @@
     "weight": 1
   },
   {
-    "source": "admissions criteria",
-    "target": "workplace ubias",
-    "weight": 1
-  },
-  {
     "source": "bachelor qualification",
     "target": "edtech",
     "weight": 1
@@ -36942,11 +37242,6 @@
   {
     "source": "bachelor qualification",
     "target": "unpaid faculty labour",
-    "weight": 1
-  },
-  {
-    "source": "bachelor qualification",
-    "target": "workplace ubias",
     "weight": 1
   },
   {
@@ -37040,11 +37335,6 @@
     "weight": 1
   },
   {
-    "source": "business qualification",
-    "target": "workplace ubias",
-    "weight": 1
-  },
-  {
     "source": "career sabotage",
     "target": "degree pathway",
     "weight": 1
@@ -37067,11 +37357,6 @@
   {
     "source": "career sabotage",
     "target": "research collaboration",
-    "weight": 1
-  },
-  {
-    "source": "career sabotage",
-    "target": "workplace ubias",
     "weight": 1
   },
   {
@@ -37100,11 +37385,6 @@
     "weight": 1
   },
   {
-    "source": "degree pathway",
-    "target": "workplace ubias",
-    "weight": 1
-  },
-  {
     "source": "doctoral qualification",
     "target": "edtech",
     "weight": 1
@@ -37127,11 +37407,6 @@
   {
     "source": "doctoral qualification",
     "target": "unpaid faculty labour",
-    "weight": 1
-  },
-  {
-    "source": "doctoral qualification",
-    "target": "workplace ubias",
     "weight": 1
   },
   {
@@ -37190,11 +37465,6 @@
     "weight": 1
   },
   {
-    "source": "edtech",
-    "target": "workplace ubias",
-    "weight": 1
-  },
-  {
     "source": "employability gap",
     "target": "faculty workload",
     "weight": 1
@@ -37235,23 +37505,8 @@
     "weight": 1
   },
   {
-    "source": "employability gap",
-    "target": "workplace ubias",
-    "weight": 1
-  },
-  {
-    "source": "faculty careers",
-    "target": "workplace ubias",
-    "weight": 1
-  },
-  {
     "source": "faculty hiring market",
     "target": "unpaid faculty labour",
-    "weight": 1
-  },
-  {
-    "source": "faculty hiring market",
-    "target": "workplace ubias",
     "weight": 1
   },
   {
@@ -37262,16 +37517,6 @@
   {
     "source": "faculty labour exploitation",
     "target": "research collaboration",
-    "weight": 1
-  },
-  {
-    "source": "faculty labour exploitation",
-    "target": "workplace ubias",
-    "weight": 1
-  },
-  {
-    "source": "faculty precarity",
-    "target": "workplace ubias",
     "weight": 1
   },
   {
@@ -37310,23 +37555,8 @@
     "weight": 1
   },
   {
-    "source": "faculty unemployment",
-    "target": "workplace ubias",
-    "weight": 1
-  },
-  {
-    "source": "faculty workload",
-    "target": "workplace ubias",
-    "weight": 1
-  },
-  {
     "source": "graduate management admission test",
     "target": "unpaid faculty labour",
-    "weight": 1
-  },
-  {
-    "source": "graduate management admission test",
-    "target": "workplace ubias",
     "weight": 1
   },
   {
@@ -37345,18 +37575,8 @@
     "weight": 1
   },
   {
-    "source": "master qualification",
-    "target": "workplace ubias",
-    "weight": 1
-  },
-  {
     "source": "participatory instruction",
     "target": "unpaid faculty labour",
-    "weight": 1
-  },
-  {
-    "source": "participatory instruction",
-    "target": "workplace ubias",
     "weight": 1
   },
   {
@@ -37375,16 +37595,6 @@
     "weight": 1
   },
   {
-    "source": "performative commitment",
-    "target": "workplace ubias",
-    "weight": 1
-  },
-  {
-    "source": "postgraduate pathway",
-    "target": "workplace ubias",
-    "weight": 1
-  },
-  {
     "source": "professional marginalisation",
     "target": "research collaboration",
     "weight": 1
@@ -37400,43 +37610,13 @@
     "weight": 1
   },
   {
-    "source": "professional marginalisation",
-    "target": "workplace ubias",
-    "weight": 1
-  },
-  {
     "source": "research collaboration",
     "target": "unpaid faculty labour",
     "weight": 1
   },
   {
-    "source": "research collaboration",
-    "target": "workplace ubias",
-    "weight": 1
-  },
-  {
     "source": "research productivity",
     "target": "unpaid faculty labour",
-    "weight": 1
-  },
-  {
-    "source": "research productivity",
-    "target": "workplace ubias",
-    "weight": 1
-  },
-  {
-    "source": "scholastic aptitude test",
-    "target": "workplace ubias",
-    "weight": 1
-  },
-  {
-    "source": "undergraduate pathway",
-    "target": "workplace ubias",
-    "weight": 1
-  },
-  {
-    "source": "unpaid faculty labour",
-    "target": "workplace ubias",
     "weight": 1
   },
   {
@@ -40995,37 +41175,37 @@
     "weight": 1
   },
   {
-    "source": "contested scientific claimstrust in science",
+    "source": "contested scientific claims",
     "target": "eastern europe",
     "weight": 1
   },
   {
-    "source": "contested scientific claimstrust in science",
+    "source": "contested scientific claims",
     "target": "europe",
     "weight": 1
   },
   {
-    "source": "contested scientific claimstrust in science",
+    "source": "contested scientific claims",
     "target": "fabricated news",
     "weight": 1
   },
   {
-    "source": "contested scientific claimstrust in science",
+    "source": "contested scientific claims",
     "target": "italy",
     "weight": 1
   },
   {
-    "source": "contested scientific claimstrust in science",
+    "source": "contested scientific claims",
     "target": "laboratories",
     "weight": 1
   },
   {
-    "source": "contested scientific claimstrust in science",
+    "source": "contested scientific claims",
     "target": "media falsehoods",
     "weight": 1
   },
   {
-    "source": "contested scientific claimstrust in science",
+    "source": "contested scientific claims",
     "target": "russia",
     "weight": 1
   },
@@ -43311,7 +43491,7 @@
   },
   {
     "source": "academic collapse",
-    "target": "contested scientific claimstrust in science",
+    "target": "contested scientific claims",
     "weight": 1
   },
   {
@@ -43366,7 +43546,7 @@
   },
   {
     "source": "academic model breakdown",
-    "target": "contested scientific claimstrust in science",
+    "target": "contested scientific claims",
     "weight": 1
   },
   {
@@ -43397,6 +43577,11 @@
   {
     "source": "academic model breakdown",
     "target": "reputation damage tactics",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "contested scientific claims",
     "weight": 1
   },
   {
@@ -43515,32 +43700,52 @@
     "weight": 1
   },
   {
-    "source": "contested scientific claimstrust in science",
+    "source": "contested scientific claims",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "harmful culture",
+    "weight": 1
+  },
+  {
+    "source": "contested scientific claims",
     "target": "intellectual autonomy",
     "weight": 1
   },
   {
-    "source": "contested scientific claimstrust in science",
+    "source": "contested scientific claims",
     "target": "legitimacy crisis",
     "weight": 1
   },
   {
-    "source": "contested scientific claimstrust in science",
+    "source": "contested scientific claims",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "contested scientific claims",
     "target": "pedagogical innovation",
     "weight": 1
   },
   {
-    "source": "contested scientific claimstrust in science",
+    "source": "contested scientific claims",
     "target": "programme massification",
     "weight": 1
   },
   {
-    "source": "contested scientific claimstrust in science",
+    "source": "contested scientific claims",
+    "target": "reputation damage tactics",
+    "weight": 1
+  },
+  {
+    "source": "contested scientific claims",
     "target": "rigorous standards",
     "weight": 1
   },
   {
-    "source": "contested scientific claimstrust in science",
+    "source": "contested scientific claims",
     "target": "suppressing dissent",
     "weight": 1
   },
@@ -44041,26 +44246,11 @@
   },
   {
     "source": "authoritarianism",
-    "target": "contested scientific claimstrust in science",
-    "weight": 1
-  },
-  {
-    "source": "authoritarianism",
     "target": "emerging technology",
     "weight": 1
   },
   {
     "source": "authoritarianism",
-    "target": "health profession",
-    "weight": 1
-  },
-  {
-    "source": "contested scientific claimstrust in science",
-    "target": "emerging technology",
-    "weight": 1
-  },
-  {
-    "source": "contested scientific claimstrust in science",
     "target": "health profession",
     "weight": 1
   },

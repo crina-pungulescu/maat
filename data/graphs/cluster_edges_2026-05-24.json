@@ -1,5 +1,10 @@
 [
   {
+    "source": "research_activities",
+    "target": "science_society",
+    "weight": 20
+  },
+  {
     "source": "academic_abuse",
     "target": "university_administration",
     "weight": 26
@@ -8,11 +13,6 @@
     "source": "politics_in_academia",
     "target": "science_society",
     "weight": 8
-  },
-  {
-    "source": "research_activities",
-    "target": "science_society",
-    "weight": 20
   },
   {
     "source": "science_society",
@@ -135,6 +135,11 @@
     "weight": 82
   },
   {
+    "source": "education_funding",
+    "target": "science_society",
+    "weight": 9
+  },
+  {
     "source": "academic_abuse",
     "target": "research_activities",
     "weight": 4
@@ -152,7 +157,7 @@
   {
     "source": "higher_education_crisis",
     "target": "science_society",
-    "weight": 15
+    "weight": 14
   },
   {
     "source": "internationalisation_of_academia",
@@ -223,11 +228,6 @@
     "source": "faculty_labour",
     "target": "higher_education_crisis",
     "weight": 85
-  },
-  {
-    "source": "education_funding",
-    "target": "science_society",
-    "weight": 10
   },
   {
     "source": "academic_degradation_signals",

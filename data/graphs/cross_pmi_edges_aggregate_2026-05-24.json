@@ -1,5 +1,13 @@
 [
   {
+    "source": "contested scientific claims",
+    "target": "quantitative research",
+    "co_occurrence": 3,
+    "pmi": 5.5392,
+    "source_cluster": "science_society",
+    "target_cluster": "research_activities"
+  },
+  {
     "source": "propaganda",
     "target": "public misinformation",
     "co_occurrence": 3,
@@ -14,14 +22,6 @@
     "pmi": 4.9542,
     "source_cluster": "academic_abuse",
     "target_cluster": "university_administration"
-  },
-  {
-    "source": "contested scientific claimstrust in science",
-    "target": "quantitative research",
-    "co_occurrence": 3,
-    "pmi": 4.9542,
-    "source_cluster": "science_society",
-    "target_cluster": "research_activities"
   },
   {
     "source": "harmful culture",
@@ -102,6 +102,14 @@
     "pmi": 4.3168,
     "source_cluster": "academic_freedom",
     "target_cluster": "academic_abuse"
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "high-impact research",
+    "co_occurrence": 3,
+    "pmi": 4.3168,
+    "source_cluster": "science_society",
+    "target_cluster": "research_activities"
   },
   {
     "source": "harmful culture",
@@ -272,14 +280,6 @@
     "target_cluster": "research_activities"
   },
   {
-    "source": "contested scientific claimstrust in science",
-    "target": "high-impact research",
-    "co_occurrence": 3,
-    "pmi": 3.7318,
-    "source_cluster": "science_society",
-    "target_cluster": "research_activities"
-  },
-  {
     "source": "accreditation body",
     "target": "admissions criteria",
     "co_occurrence": 3,
@@ -328,6 +328,14 @@
     "target_cluster": "systemic_inequity_in_higher_education"
   },
   {
+    "source": "contested scientific claims",
+    "target": "empirical research",
+    "co_occurrence": 3,
+    "pmi": 3.6647,
+    "source_cluster": "science_society",
+    "target_cluster": "research_activities"
+  },
+  {
     "source": "geopolitics",
     "target": "international cohorts",
     "co_occurrence": 3,
@@ -342,6 +350,22 @@
     "pmi": 3.5619,
     "source_cluster": "politics_in_academia",
     "target_cluster": "accountability_gaps_in_academia"
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "research productivity",
+    "co_occurrence": 4,
+    "pmi": 3.5392,
+    "source_cluster": "science_society",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "scholarly funding",
+    "co_occurrence": 4,
+    "pmi": 3.5392,
+    "source_cluster": "science_society",
+    "target_cluster": "education_funding"
   },
   {
     "source": "faculty labour exploitation",
@@ -422,14 +446,6 @@
     "pmi": 3.5094,
     "source_cluster": "academic_degradation_signals",
     "target_cluster": "accountability_gaps_in_academia"
-  },
-  {
-    "source": "contested scientific claimstrust in science",
-    "target": "empirical research",
-    "co_occurrence": 4,
-    "pmi": 3.4948,
-    "source_cluster": "science_society",
-    "target_cluster": "research_activities"
   },
   {
     "source": "harmful culture",
@@ -776,22 +792,6 @@
     "target_cluster": "university_administration"
   },
   {
-    "source": "contested scientific claimstrust in science",
-    "target": "research productivity",
-    "co_occurrence": 4,
-    "pmi": 2.9542,
-    "source_cluster": "science_society",
-    "target_cluster": "research_activities"
-  },
-  {
-    "source": "contested scientific claimstrust in science",
-    "target": "scholarly funding",
-    "co_occurrence": 4,
-    "pmi": 2.9542,
-    "source_cluster": "science_society",
-    "target_cluster": "education_funding"
-  },
-  {
     "source": "budget constraints",
     "target": "tuition affordability",
     "co_occurrence": 5,
@@ -846,6 +846,22 @@
     "pmi": 2.9098,
     "source_cluster": "politics_in_academia",
     "target_cluster": "academic_abuse"
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "public scholarly funding",
+    "co_occurrence": 4,
+    "pmi": 2.8953,
+    "source_cluster": "science_society",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "research collaboration",
+    "co_occurrence": 4,
+    "pmi": 2.8953,
+    "source_cluster": "science_society",
+    "target_cluster": "research_activities"
   },
   {
     "source": "research collaboration",
@@ -1118,14 +1134,6 @@
     "pmi": 2.6443,
     "source_cluster": "science_society",
     "target_cluster": "academic_abuse"
-  },
-  {
-    "source": "contested scientific claimstrust in science",
-    "target": "public scholarly funding",
-    "co_occurrence": 5,
-    "pmi": 2.6323,
-    "source_cluster": "science_society",
-    "target_cluster": "education_funding"
   },
   {
     "source": "scholarly grant funding",
@@ -1640,14 +1648,6 @@
     "target_cluster": "university_administration"
   },
   {
-    "source": "contested scientific claimstrust in science",
-    "target": "research collaboration",
-    "co_occurrence": 4,
-    "pmi": 2.3103,
-    "source_cluster": "science_society",
-    "target_cluster": "research_activities"
-  },
-  {
     "source": "automated grading",
     "target": "scholastic aptitude test",
     "co_occurrence": 4,
@@ -1685,14 +1685,6 @@
     "co_occurrence": 4,
     "pmi": 2.3103,
     "source_cluster": "higher_education_by_region",
-    "target_cluster": "education_funding"
-  },
-  {
-    "source": "contested scientific claimstrust in science",
-    "target": "scholarly endowments",
-    "co_occurrence": 3,
-    "pmi": 2.2912,
-    "source_cluster": "science_society",
     "target_cluster": "education_funding"
   },
   {
@@ -11286,14 +11278,6 @@
     "pmi": 0.7318,
     "source_cluster": "higher_education_crisis",
     "target_cluster": "university_accreditation"
-  },
-  {
-    "source": "contested scientific claimstrust in science",
-    "target": "decline of academia",
-    "co_occurrence": 3,
-    "pmi": 0.7318,
-    "source_cluster": "science_society",
-    "target_cluster": "higher_education_crisis"
   },
   {
     "source": "institutional partnerships",

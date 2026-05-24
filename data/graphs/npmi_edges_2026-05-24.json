@@ -36,6 +36,12 @@
     "npmi": 0.9303
   },
   {
+    "source": "contested scientific claims",
+    "target": "quantitative research",
+    "co_occurrence": 3,
+    "npmi": 0.9303
+  },
+  {
     "source": "democracy",
     "target": "illiberal democracy",
     "co_occurrence": 6,
@@ -102,12 +108,6 @@
     "npmi": 0.8375
   },
   {
-    "source": "contested scientific claimstrust in science",
-    "target": "public misinformation",
-    "co_occurrence": 4,
-    "npmi": 0.8363
-  },
-  {
     "source": "bachelor qualification",
     "target": "doctoral qualification",
     "co_occurrence": 6,
@@ -128,12 +128,6 @@
   {
     "source": "eastern europe",
     "target": "europe",
-    "co_occurrence": 3,
-    "npmi": 0.8321
-  },
-  {
-    "source": "contested scientific claimstrust in science",
-    "target": "quantitative research",
     "co_occurrence": 3,
     "npmi": 0.8321
   },
@@ -314,6 +308,12 @@
   {
     "source": "lack of oversight",
     "target": "weak oversight",
+    "co_occurrence": 3,
+    "npmi": 0.725
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "high-impact research",
     "co_occurrence": 3,
     "npmi": 0.725
   },
@@ -654,6 +654,18 @@
     "npmi": 0.6392
   },
   {
+    "source": "contested scientific claims",
+    "target": "research productivity",
+    "co_occurrence": 4,
+    "npmi": 0.6389
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "scholarly funding",
+    "co_occurrence": 4,
+    "npmi": 0.6389
+  },
+  {
     "source": "silencing criticism",
     "target": "theoretical research",
     "co_occurrence": 4,
@@ -684,12 +696,6 @@
     "npmi": 0.6315
   },
   {
-    "source": "contested scientific claimstrust in science",
-    "target": "empirical research",
-    "co_occurrence": 4,
-    "npmi": 0.6309
-  },
-  {
     "source": "political repression",
     "target": "suppressing dissent",
     "co_occurrence": 3,
@@ -708,12 +714,6 @@
     "npmi": 0.6268
   },
   {
-    "source": "contested scientific claimstrust in science",
-    "target": "high-impact research",
-    "co_occurrence": 3,
-    "npmi": 0.6268
-  },
-  {
     "source": "accreditation body",
     "target": "admissions criteria",
     "co_occurrence": 3,
@@ -724,6 +724,12 @@
     "target": "admissions criteria",
     "co_occurrence": 3,
     "npmi": 0.6268
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "politicisation of science",
+    "co_occurrence": 4,
+    "npmi": 0.6231
   },
   {
     "source": "harmful culture",
@@ -756,6 +762,12 @@
     "npmi": 0.6155
   },
   {
+    "source": "contested scientific claims",
+    "target": "empirical research",
+    "co_occurrence": 3,
+    "npmi": 0.6155
+  },
+  {
     "source": "legitimacy crisis",
     "target": "politicisation of science",
     "co_occurrence": 6,
@@ -776,12 +788,6 @@
   {
     "source": "organisational structure",
     "target": "university bylaws",
-    "co_occurrence": 5,
-    "npmi": 0.6112
-  },
-  {
-    "source": "contested scientific claimstrust in science",
-    "target": "politicisation of science",
     "co_occurrence": 5,
     "npmi": 0.6112
   },
@@ -1368,18 +1374,6 @@
     "npmi": 0.5345
   },
   {
-    "source": "contested scientific claimstrust in science",
-    "target": "research productivity",
-    "co_occurrence": 4,
-    "npmi": 0.5333
-  },
-  {
-    "source": "contested scientific claimstrust in science",
-    "target": "scholarly funding",
-    "co_occurrence": 4,
-    "npmi": 0.5333
-  },
-  {
     "source": "credential inflation",
     "target": "tuition affordability",
     "co_occurrence": 4,
@@ -1474,6 +1468,18 @@
     "target": "faculty precarity",
     "co_occurrence": 30,
     "npmi": 0.5237
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "public scholarly funding",
+    "co_occurrence": 4,
+    "npmi": 0.5227
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "research collaboration",
+    "co_occurrence": 4,
+    "npmi": 0.5227
   },
   {
     "source": "qualitative research",
@@ -1588,12 +1594,6 @@
     "target": "public scholarly funding",
     "co_occurrence": 10,
     "npmi": 0.505
-  },
-  {
-    "source": "contested scientific claimstrust in science",
-    "target": "public scholarly funding",
-    "co_occurrence": 5,
-    "npmi": 0.5045
   },
   {
     "source": "scholarships",
@@ -2766,12 +2766,6 @@
     "npmi": 0.4171
   },
   {
-    "source": "contested scientific claimstrust in science",
-    "target": "research collaboration",
-    "co_occurrence": 4,
-    "npmi": 0.4171
-  },
-  {
     "source": "peer review",
     "target": "research collaboration",
     "co_occurrence": 4,
@@ -3442,12 +3436,6 @@
     "target": "institutional partnerships",
     "co_occurrence": 5,
     "npmi": 0.3851
-  },
-  {
-    "source": "contested scientific claimstrust in science",
-    "target": "scholarly endowments",
-    "co_occurrence": 3,
-    "npmi": 0.3848
   },
   {
     "source": "mentor-student relationship",
@@ -12182,12 +12170,6 @@
   {
     "source": "decline of academia",
     "target": "organisational structure",
-    "co_occurrence": 3,
-    "npmi": 0.1229
-  },
-  {
-    "source": "contested scientific claimstrust in science",
-    "target": "decline of academia",
     "co_occurrence": 3,
     "npmi": 0.1229
   },

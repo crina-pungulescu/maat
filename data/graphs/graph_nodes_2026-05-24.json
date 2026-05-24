@@ -2801,17 +2801,26 @@
     ]
   },
   {
-    "id": "contested scientific claimstrust in science",
-    "label": "Contested Scientific Claimstrust In Science",
-    "weight": 6,
-    "avg_score": 0.4486,
+    "id": "contested scientific claims",
+    "label": "Contested Scientific Claims",
+    "weight": 4,
+    "avg_score": 0.4506,
     "article_ids": [
-      "33d41f29c60f84753606dd591d9723db",
       "73027ca610d2d4322088b294dabdb97e",
       "86492267b037f64f74ec4e89efb23212",
       "8e65ab1740daa992fac0affcabcd47d6",
-      "941230e069f5c3731ec99e3f073bfa35",
       "ecaf9fed3fb93e40e56b8e2d75a2fcf4"
+    ]
+  },
+  {
+    "id": "trust in science",
+    "label": "Trust In Science",
+    "weight": 3,
+    "avg_score": 0.4748,
+    "article_ids": [
+      "73027ca610d2d4322088b294dabdb97e",
+      "7c0599565e0944a74deb63e8a7ff873f",
+      "7c16522811c7b8ffb30b5b0c8c1c7f6a"
     ]
   },
   {
@@ -3351,6 +3360,15 @@
     ]
   },
   {
+    "id": "integrity",
+    "label": "Integrity",
+    "weight": 1,
+    "avg_score": 0.4913,
+    "article_ids": [
+      "846bb738b1d5bb92b1e3cdc928625546"
+    ]
+  },
+  {
     "id": "transparency",
     "label": "Transparency",
     "weight": 3,
@@ -3396,6 +3414,16 @@
     "article_ids": [
       "3c67e225a103e381d7c66fcc8d921588",
       "6592fa01dd189d3ad8d1095c906f96eb"
+    ]
+  },
+  {
+    "id": "workplace bias",
+    "label": "Workplace Bias",
+    "weight": 2,
+    "avg_score": 0.4251,
+    "article_ids": [
+      "6592fa01dd189d3ad8d1095c906f96eb",
+      "9b76ca702841853bf998aef959f21e63"
     ]
   },
   {
@@ -4884,15 +4912,6 @@
     "article_ids": [
       "59676f91353b2f74c99fb7d26f700c23",
       "ac305d1347b02d0f3b020103050e4560"
-    ]
-  },
-  {
-    "id": "workplace ubias",
-    "label": "Workplace Ubias",
-    "weight": 1,
-    "avg_score": 0.4555,
-    "article_ids": [
-      "dcbac7dee4113046ea87ff7c09489adf"
     ]
   },
   {
