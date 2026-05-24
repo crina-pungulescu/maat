@@ -22,7 +22,10 @@ DetectorFactory.seed = 0
 model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
 
 from topic_engine import FLAT_MAAT_TOPICS
-concept_embeddings = model.encode(FLAT_MAAT_TOPICS, convert_to_tensor=True)
+
+MAAT_CATEGORY_LABELS = list(MAAT_TOPICS.keys())
+
+concept_embeddings = model.encode(MAAT_CATEGORY_LABELS, convert_to_tensor=True)
 
 model_name = "google/flan-t5-small"
 
