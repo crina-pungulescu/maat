@@ -1,5 +1,4 @@
 # maat
 
-<b>M</b>ultilingual <b>A</b>rchive for <b>A</b>cademic <b>T</b>opology | A computational observatory of global higher education discourse
+[<b>M</b>ultilingual <b>A</b>rchive for <b>A</b>cademic <b>T</b>opology](https://crina-pungulescu.github.io/maat/) | A computational observatory of global higher education discourse
 
-[MA'AT](https://crina-pungulescu.github.io/maat/)
