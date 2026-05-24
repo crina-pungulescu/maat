@@ -21,7 +21,7 @@ DetectorFactory.seed = 0
 # 🌍 Multilingual semantic model (lightweight, strong baseline)
 model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
 
-from topic_engine import FLAT_MAAT_TOPICS
+from topic_engine import MAAT_TOPICS
 
 MAAT_CATEGORY_LABELS = list(MAAT_TOPICS.keys())
 
