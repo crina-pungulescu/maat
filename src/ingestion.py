@@ -1,6 +1,7 @@
 # MAAT ingestion pipeline 
 # RSS ingestion + JSONL storage
 
+import requests
 import feedparser
 from datetime import datetime
 import json
@@ -527,7 +528,23 @@ def fetch_rss_articles(seen):
 
         try:
 
-            feed = feedparser.parse(url)
+            response = requests.get(
+
+            url,
+
+            timeout=30,
+
+            headers={
+
+                "User-Agent": "Mozilla/5.0"
+
+                }
+
+            )
+
+            response.raise_for_status()
+
+            feed = feedparser.parse(response.content)
 
         except Exception as e:
 
@@ -535,7 +552,7 @@ def fetch_rss_articles(seen):
 
             continue
 
-        for entry in feed.entries[:10]:
+        for entry in feed.entries[:20]:
 
             text = (entry.get("title", "") + " " + entry.get("summary", "")).strip()
 
