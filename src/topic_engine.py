@@ -140,7 +140,7 @@ MAAT_TOPICS = {
        "university reform"
     ],
 
-     "accreditation": [
+     "university_accreditation": [
         "accreditation process",
         "accreditation review",
         "accreditation body",
@@ -156,7 +156,7 @@ MAAT_TOPICS = {
         "validation process",
 ]
 
-    "funding_flows": [
+    "education_funding": [
         "scholarly funding",
         "public scholarly funding",
         "school budgets",
@@ -164,7 +164,7 @@ MAAT_TOPICS = {
         "scholarly endowments"
     ],
 
-    "financial_constraints": [
+    "financial_constraints_in_academia": [
         "austerity",
         "financial concerns",
         "budget cuts",
@@ -200,7 +200,7 @@ MAAT_TOPICS = {
         "responsibility"
     ],
 
-    "ethical_conflicts": [
+    "ethical_conflicts_in_academia": [
         "plagiarism",
         "deliberate misrepresentation",
         "factual misrepresentation",
@@ -213,7 +213,7 @@ MAAT_TOPICS = {
         "dishonesty"
     ],
 
-    "norm_violations": [
+    "norm_violations_in_academia": [
         "fraud",
         "embezzlement",
         "corruption",
@@ -231,7 +231,7 @@ MAAT_TOPICS = {
         "unfair contracts"
     ],
         
-    "degradation_signals": [
+    "academic_degradation_signals": [
         "grade inflation",
         "declining rigour",
         "credential inflation",
@@ -257,7 +257,7 @@ MAAT_TOPICS = {
         "credential depreciation"
     ],
 
-     "academic abuse": [
+     "academic_abuse": [
          "administrative coercion",
          "procedural abuse",
          "administrative retaliation",
@@ -286,7 +286,7 @@ MAAT_TOPICS = {
          "weaponised collegiality"
     ],
 
-     "accountability_gaps": [
+     "accountability_gaps_in_academia": [
          "nepotism",
          "cover-up",
          "conflict of interest",
@@ -303,7 +303,7 @@ MAAT_TOPICS = {
     ],
 
     
-    "systemic_inequity": [
+    "systemic_inequity_in_higher_education": [
         "discrimination",
         "title IX",
         "racism",
@@ -324,7 +324,7 @@ MAAT_TOPICS = {
         "corrosive culture"
     ],
 
-    "ranking_systems": [
+    "ranking_academic_systems": [
         "rankings",
         "benchmarking",
         "target metrics",
@@ -332,7 +332,7 @@ MAAT_TOPICS = {
         "performance indicators"
     ],
 
-    "politics": [
+    "politics_in_academia": [
         "geopolitics",
         "foreign affairs",
         "authoritarianism",
@@ -415,7 +415,7 @@ MAAT_TOPICS = {
         "egypt"
     ],
 
-    "internationalisation": [
+    "internationalisation_of_academia": [
         "international cohorts",
         "international exchange",
         "international mobility",
@@ -428,7 +428,7 @@ MAAT_TOPICS = {
         "brain drain"
     ],
 
-    "admissions_access": [
+    "admissions_access_in_higher_education": [
         "admissions criteria",
         "admissions selectivity",
         "standardised testing",
@@ -458,7 +458,7 @@ MAAT_TOPICS = {
         "thought independence"
     ],
 
-    "sustainability_climate": [
+    "sustainability_climate_in_academia": [
         "climate change",
         "sustainability",
         "green campus",
@@ -467,7 +467,7 @@ MAAT_TOPICS = {
         "fossil fuel",
     ],
 
-    "health_professions": [
+    "health_professions_education": [
         "medical profession",
         "nursing profession",
         "health profession",
