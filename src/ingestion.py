@@ -61,7 +61,6 @@ RSS_FEEDS = [
     "https://www.insidehighered.com/rss/views",
     "https://www.insidehighered.com/rss/quicktakes",
     "https://www.timeshighereducation.com/opinion/rss",
-    "https://www.science.org/rss/news_current.xml",
     "https://www.nature.com/subjects/higher-education.rss",
     "https://www.nsf.gov/news/newsrss.xml",
     "https://new.nsf.gov/rss/news_all.xml",
@@ -91,9 +90,6 @@ RSS_FEEDS = [
     "https://feeds.bbci.co.uk/news/world/rss.xml",
     "https://feeds.bbci.co.uk/news/business/rss.xml",
     "https://www.ft.com/?format=rss",
-    "https://www.economist.com/united-states/rss.xml",
-    "https://www.economist.com/international/rss.xml",
-    "https://www.wsj.com/xml/rss/3_7085.xml",
     "https://www.reuters.com/rssFeed",
     "https://apnews.com/hub/rss",
     "https://news.google.com/rss/search?q=students",
@@ -515,7 +511,7 @@ def is_valid_article(article: dict) -> bool:
         return False
 
     # 3. minimum content sanity
-    if len(article["full_text"]) < 1000:
+    if len(article["full_text"]) < 2500:
         return False
 
     # 4. link sanity
@@ -544,7 +540,7 @@ def fetch_rss_articles(seen):
 
             continue
 
-        for entry in feed.entries[:20]:
+        for entry in feed.entries[:10]:
 
             text = (entry.get("title", "") + " " + entry.get("summary", "")).strip()
 
