@@ -140,7 +140,6 @@ RSS_FEEDS = [
     "https://www.cbc.ca/cmlink/rss-topstories",
     "https://feeds.skynews.com/feeds/rss/home.xml",
     "https://www.aljazeera.com/xml/rss/all.xml",
-    "https://www.politico.eu/rss/",
     "https://theconversation.com/global/articles.atom",
     "https://www.worldpoliticsreview.com/feed",
     "https://www.foreignaffairs.com/rss.xml",
