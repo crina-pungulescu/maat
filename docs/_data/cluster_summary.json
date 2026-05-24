@@ -1,8 +1,8 @@
 [
   {
     "topic": "Higher Education Crisis",
-    "count": 606,
-    "score": 0.4602,
+    "count": 700,
+    "score": 0.4589,
     "topics": [
       "academic collapse",
       "academic model breakdown",
@@ -27,12 +27,13 @@
   },
   {
     "topic": "Teaching And Learning",
-    "count": 491,
-    "score": 0.4488,
+    "count": 662,
+    "score": 0.4432,
     "topics": [
       "STEM qualification",
       "bachelor qualification",
       "blended instruction",
+      "business qualification",
       "classroom methods",
       "competency outcomes",
       "course architecture",
@@ -44,6 +45,7 @@
       "instructional excellence",
       "instructional practice",
       "master qualification",
+      "online learning",
       "participatory instruction",
       "pedagogical innovation",
       "pedagogical methods",
@@ -61,12 +63,39 @@
     }
   },
   {
+    "topic": "Student Experience",
+    "count": 463,
+    "score": 0.4534,
+    "topics": [
+      "college experience",
+      "mentor-student relationship",
+      "student engagement",
+      "student experience",
+      "student life",
+      "student protest",
+      "student retention",
+      "student satisfaction",
+      "student voice",
+      "student wellbeing",
+      "supporting staff"
+    ],
+    "evidence": {
+      "article_id": "a9664e9229bd4682854d24428a281a8b",
+      "headline": "34 Effective Student Engagement Strategies to Boost Learning in College Classrooms",
+      "url": "https://tophat.com/blog/student-engagement-strategies/",
+      "topic": "student engagement",
+      "score": 0.7032
+    }
+  },
+  {
     "topic": "University Administration",
-    "count": 399,
-    "score": 0.4535,
+    "count": 436,
+    "score": 0.4519,
     "topics": [
       "board of regents",
       "board of trustees",
+      "institutional governance",
+      "institutional partnerships",
       "internal regulations",
       "organisational structure",
       "senior leadership",
@@ -86,38 +115,18 @@
     }
   },
   {
-    "topic": "Student Experience",
-    "count": 385,
-    "score": 0.4532,
-    "topics": [
-      "mentor-student relationship",
-      "student engagement",
-      "student life",
-      "student protest",
-      "student retention",
-      "student satisfaction",
-      "student voice",
-      "student wellbeing",
-      "supporting staff"
-    ],
-    "evidence": {
-      "article_id": "a9664e9229bd4682854d24428a281a8b",
-      "headline": "34 Effective Student Engagement Strategies to Boost Learning in College Classrooms",
-      "url": "https://tophat.com/blog/student-engagement-strategies/",
-      "topic": "student engagement",
-      "score": 0.7032
-    }
-  },
-  {
     "topic": "Education Cost",
-    "count": 111,
-    "score": 0.4897,
+    "count": 137,
+    "score": 0.4623,
     "topics": [
       "cost barriers",
       "debt",
+      "fee waivers and bursaries",
       "financial aid",
       "financial hardship",
       "loan",
+      "need-based financial assistance",
+      "need-based financial support",
       "scholarships",
       "tuition",
       "tuition affordability",
@@ -132,9 +141,59 @@
     }
   },
   {
+    "topic": "Faculty Labour",
+    "count": 91,
+    "score": 0.4316,
+    "topics": [
+      "adjunct faculty",
+      "faculty careers",
+      "faculty contracts",
+      "faculty hiring market",
+      "faculty job insecurity",
+      "faculty labour exploitation",
+      "faculty precarity",
+      "faculty redundancy",
+      "faculty unemployment",
+      "faculty workload",
+      "job insecurity",
+      "unpaid faculty labour"
+    ],
+    "evidence": {
+      "article_id": "d46e079175f0cb193a673f3c5f48082c",
+      "headline": "Metodologia pentru organizarea concursului de director și director adjunct în unitățile de învățământ preuniversitar, în consultare publică",
+      "url": "https://www.edu.ro/press_rel_32_2026",
+      "topic": "adjunct faculty",
+      "score": 0.5526
+    }
+  },
+  {
+    "topic": "Educational Technology",
+    "count": 91,
+    "score": 0.4524,
+    "topics": [
+      "AI assisted process",
+      "algorithmic assessment",
+      "artificial intelligence",
+      "automated grading",
+      "digital tools",
+      "edtech",
+      "emerging technology",
+      "generative AI",
+      "learning analytics",
+      "process automation"
+    ],
+    "evidence": {
+      "article_id": "7e719542cf5b9096ea8dced03c492f7c",
+      "headline": "Artificial Intelligence, Mass Surveillance, and the Quiet Reengineering of Higher Education",
+      "url": "https://www.highereducationinquirer.org/2026/01/artificial-intelligence-mass.html",
+      "topic": "artificial intelligence",
+      "score": 0.6237
+    }
+  },
+  {
     "topic": "Research Activities",
-    "count": 74,
-    "score": 0.4343,
+    "count": 88,
+    "score": 0.4353,
     "topics": [
       "empirical research",
       "high-impact research",
@@ -156,17 +215,17 @@
   },
   {
     "topic": "Academic Abuse",
-    "count": 71,
-    "score": 0.4321,
+    "count": 79,
+    "score": 0.4339,
     "topics": [
       "administrative coercion",
       "arbitrary disciplinary actions",
       "bureaucratic obstruction",
       "career sabotage",
       "disproportionate punishment",
-      "fear-driven self-silencing",
       "institutional abuse",
       "institutional gatekeeping",
+      "mobbing",
       "non-transparent processes",
       "procedural abuse",
       "procedural manipulation",
@@ -179,26 +238,22 @@
       "weaponised hierarchy"
     ],
     "evidence": {
-      "article_id": "349a314246434fb5561c3a39f87c7e53",
-      "headline": "Issues of Institutional Governance in Partnerships",
-      "url": "https://edualliancegroup.blog/2026/03/02/issues-of-institutional-governance-in-partnerships/",
-      "topic": "administrative coercion",
-      "score": 0.5805
+      "article_id": "0c2596d91e9e247c74031f7b7f5ef847",
+      "headline": "OPINION: To solve chronic absenteeism, let’s make school a place where students really want to be",
+      "url": "https://hechingerreport.org/opinion-to-solve-chronic-absenteeism-lets-make-school-a-place-where-students-really-want-to-be/",
+      "topic": "punitive exclusion exclusion",
+      "score": 0.4057
     }
   },
   {
     "topic": "Funding Flows",
-    "count": 62,
-    "score": 0.5095,
+    "count": 73,
+    "score": 0.4779,
     "topics": [
       "endowments",
       "grant funding",
       "public funding",
-      "public scholarly funding",
-      "scholarly endowments",
       "scholarly funding",
-      "scholarly funding streams",
-      "scholarly grant funding",
       "school budgets"
     ],
     "evidence": {
@@ -210,13 +265,66 @@
     }
   },
   {
+    "topic": "Internationalisation",
+    "count": 65,
+    "score": 0.4662,
+    "topics": [
+      "cross-border experience",
+      "global experience",
+      "international cohorts",
+      "international exchange",
+      "international mobility",
+      "international partnerships",
+      "study abroad",
+      "transnational mobility"
+    ],
+    "evidence": {
+      "article_id": "2a121952726335a68dc6ca6b9c241425",
+      "headline": "International Student Mobility Data Sources: A Primer",
+      "url": "https://wenr.wes.org/mobility-trends/student-mobility-data-sources-part-1/",
+      "topic": "international mobility",
+      "score": 0.6546
+    }
+  },
+  {
+    "topic": "Politics",
+    "count": 60,
+    "score": 0.4388,
+    "topics": [
+      "UN",
+      "alliances",
+      "authoritarianism",
+      "civil unrest",
+      "democracy",
+      "diplomacy",
+      "foreign affairs",
+      "geopolitics",
+      "illiberal democracy",
+      "legislation",
+      "nuclear strategy",
+      "political repression",
+      "populism",
+      "propaganda",
+      "regime",
+      "sanctions",
+      "sovereignty",
+      "uprising"
+    ],
+    "evidence": {
+      "article_id": "f553a09c8c56160075614044858a0e54",
+      "headline": "Book review: Why populists are winning and how to beat them by the Rt Hon Liam Byrne MP",
+      "url": "https://www.hepi.ac.uk/2026/05/20/book-review-why-populists-are-winning-and-how-to-beat-them-by-the-rt-hon-liam-byrne-mp/",
+      "topic": "populism",
+      "score": 0.7354
+    }
+  },
+  {
     "topic": "Admissions Access",
     "count": 60,
-    "score": 0.441,
+    "score": 0.4363,
     "topics": [
       "affirmative action",
       "college admissions",
-      "scholastic aptitude test",
       "selective admissions",
       "standardised testing",
       "widening participation"
@@ -230,81 +338,33 @@
     }
   },
   {
-    "topic": "Faculty Labour",
-    "count": 59,
-    "score": 0.4345,
+    "topic": "Degradation Signals",
+    "count": 50,
+    "score": 0.439,
     "topics": [
-      "adjunct faculty",
-      "faculty careers",
-      "faculty contracts",
-      "faculty precarity",
-      "faculty workload",
-      "job insecurity"
+      "credential inflation",
+      "employability gap",
+      "grade inflation",
+      "incompetence",
+      "opportunistic growth",
+      "over-enrollment",
+      "oversimplification",
+      "programme massification",
+      "rubric inflation",
+      "skills mismatch"
     ],
     "evidence": {
-      "article_id": "e5d330d9ccbc69a9ef061d12b201b1d3",
-      "headline": "States sue over Education Department’s professional student definition",
-      "url": "https://www.highereddive.com/news/states-sue-education-departments-professional-student-definition/820774/",
-      "topic": "faculty contracts",
-      "score": 0.5322
-    }
-  },
-  {
-    "topic": "Internationalisation",
-    "count": 52,
-    "score": 0.4626,
-    "topics": [
-      "cross-border experience",
-      "global experience",
-      "international cohorts",
-      "international exchange",
-      "international mobility",
-      "international partnerships",
-      "study abroad",
-      "transnational mobility"
-    ],
-    "evidence": {
-      "article_id": "228c126149739d36cd4f2fae4d5e5cce",
-      "headline": "India’s Moment: An Examination of Student Mobility from and to a Key Player",
-      "url": "https://wenr.wes.org/mobility-trends/indias-moment-an-examination-of-student-mobility-from-and-to-a-key-player/",
-      "topic": "international mobility",
-      "score": 0.6266
-    }
-  },
-  {
-    "topic": "Politics",
-    "count": 40,
-    "score": 0.4228,
-    "topics": [
-      "UN",
-      "alliances",
-      "authoritarianism",
-      "democracy",
-      "diplomacy",
-      "foreign affairs",
-      "geopolitics",
-      "illiberal democracy",
-      "legislation",
-      "nuclear strategy",
-      "political repression",
-      "populism",
-      "propaganda",
-      "regime",
-      "sanctions",
-      "sovereignty"
-    ],
-    "evidence": {
-      "article_id": "c9447da7f1d59927a0c622a77035397d",
-      "headline": "AI nei tribunali, chi risponde degli errori negli atti giudiziari",
-      "url": "https://www.agendadigitale.eu/documenti/giustizia-digitale/ai-nei-tribunali-chi-risponde-degli-errori-negli-atti-giudiziari/",
-      "topic": "authoritarianism",
-      "score": 0.4846
+      "article_id": "59676f91353b2f74c99fb7d26f700c23",
+      "headline": "Valoarea costului standard pentru coeficientul 1 aferent cheltuielilor materiale (formare continuă și cheltuieli cu bunuri și servicii), în creștere",
+      "url": "https://www.edu.ro/press_rel_31_2026",
+      "topic": "grade inflation",
+      "score": 0.525
     }
   },
   {
     "topic": "Regions And Countries",
-    "count": 39,
-    "score": 0.4554,
+    "count": 49,
+    "score": 0.4551,
     "topics": [
       "africa",
       "argentina",
@@ -317,6 +377,7 @@
       "eastern europe",
       "europe",
       "european union",
+      "germany",
       "india",
       "indonesia",
       "latin america",
@@ -339,56 +400,9 @@
     }
   },
   {
-    "topic": "Degradation Signals",
-    "count": 36,
-    "score": 0.4267,
-    "topics": [
-      "credential inflation",
-      "employability gap",
-      "grade inflation",
-      "incompetence",
-      "opportunistic growth",
-      "over-enrollment",
-      "oversimplification",
-      "programme massification",
-      "skills mismatch"
-    ],
-    "evidence": {
-      "article_id": "6267d15a8c99842e4354b770d9c01b7f",
-      "headline": "The Educated Underclass Without Borders",
-      "url": "https://www.highereducationinquirer.org/2026/01/the-educated-underclass-without-borders.html",
-      "topic": "over-enrollment",
-      "score": 0.4875
-    }
-  },
-  {
-    "topic": "Educational Technology",
-    "count": 33,
-    "score": 0.4544,
-    "topics": [
-      "AI assisted process",
-      "algorithmic assessment",
-      "artificial intelligence",
-      "automated grading",
-      "digital tools",
-      "edtech",
-      "emerging technology",
-      "generative AI",
-      "learning analytics",
-      "process automation"
-    ],
-    "evidence": {
-      "article_id": "8895ba01adbf043f3e3a09f86434f79f",
-      "headline": "Building an AI Center of Excellence for Higher Education",
-      "url": "https://edtechmagazine.com/higher/article/2026/05/building-ai-center-excellence-higher-education-perfcon",
-      "topic": "artificial intelligence",
-      "score": 0.5697
-    }
-  },
-  {
     "topic": "Academic Freedom",
-    "count": 33,
-    "score": 0.4484,
+    "count": 42,
+    "score": 0.4462,
     "topics": [
       "censorship",
       "freedom of expression",
@@ -406,55 +420,60 @@
     }
   },
   {
-    "topic": "Accountability Gaps",
-    "count": 29,
-    "score": 0.4411,
-    "topics": [
-      "abuse of office",
-      "conflict of interest",
-      "decision-making opacity",
-      "elite impunity",
-      "lack of oversight",
-      "self-regulation",
-      "unchecked authority",
-      "weak oversight"
-    ],
-    "evidence": {
-      "article_id": "73a19c3e2953f124c13cba41a1490d41",
-      "headline": "84% students show self-management skills, but parents put academics first: Study",
-      "url": "https://timesofindia.indiatimes.com/education/news/84-students-show-self-management-skills-but-parents-still-see-academics-first-what-a-school-experiment-reveals/articleshow/131272105.cms",
-      "topic": "self-regulation",
-      "score": 0.5107
-    }
-  },
-  {
     "topic": "Science Society",
-    "count": 27,
-    "score": 0.4389,
+    "count": 41,
+    "score": 0.439,
     "topics": [
+      "contested scientific claimstrust in science",
       "evidence-based decisions",
+      "false narratives",
       "misinformation",
       "politicisation of science",
+      "public misinformation",
       "science communication",
       "scientific expertise",
       "trust in science"
     ],
     "evidence": {
-      "article_id": "7c16522811c7b8ffb30b5b0c8c1c7f6a",
-      "headline": "The Rush to Trust Endangers Academic Freedom",
-      "url": "https://www.insidehighered.com/opinion/columns/debatable-ideas/2026/05/22/rush-trust-endangers-academic-freedom",
-      "topic": "trust in science",
-      "score": 0.5449
+      "article_id": "73027ca610d2d4322088b294dabdb97e",
+      "headline": "UK science must deliver on its promise of economic growth to resist growing political pressure",
+      "url": "https://wonkhe.com/blogs/uk-science-must-deliver/",
+      "topic": "politicisation of science",
+      "score": 0.6671
+    }
+  },
+  {
+    "topic": "University Accreditation",
+    "count": 37,
+    "score": 0.4542,
+    "topics": [
+      "accreditation body",
+      "accreditation compliance",
+      "accreditation process",
+      "accreditation review",
+      "accreditation standards",
+      "accreditation withdrawal",
+      "external review process",
+      "institutional accreditation",
+      "loss of accreditation",
+      "programme accreditation"
+    ],
+    "evidence": {
+      "article_id": "3a26fac178baf1dbe58ad44218c6c4ba",
+      "headline": "Noi programe școlare pentru învățământul liceal, aprobate",
+      "url": "https://www.edu.ro/press_rel_29_2026",
+      "topic": "programme accreditation",
+      "score": 0.5213
     }
   },
   {
     "topic": "Systemic Inequity",
-    "count": 23,
-    "score": 0.4369,
+    "count": 32,
+    "score": 0.4426,
     "topics": [
+      "accessibility equity",
       "biased systems",
       "bullying",
-      "diversity equity and inclusion initiatives",
       "equity initiatives",
       "gender discrimination",
       "harmful culture",
@@ -473,9 +492,31 @@
     }
   },
   {
+    "topic": "Accountability Gaps",
+    "count": 30,
+    "score": 0.4404,
+    "topics": [
+      "abuse of office",
+      "conflict of interest",
+      "decision-making opacity",
+      "elite impunity",
+      "lack of oversight",
+      "self-regulation",
+      "unchecked authority",
+      "weak oversight"
+    ],
+    "evidence": {
+      "article_id": "c9447da7f1d59927a0c622a77035397d",
+      "headline": "AI nei tribunali, chi risponde degli errori negli atti giudiziari",
+      "url": "https://www.agendadigitale.eu/documenti/giustizia-digitale/ai-nei-tribunali-chi-risponde-degli-errori-negli-atti-giudiziari/",
+      "topic": "elite impunity",
+      "score": 0.531
+    }
+  },
+  {
     "topic": "Financial Constraints",
-    "count": 17,
-    "score": 0.437,
+    "count": 27,
+    "score": 0.4388,
     "topics": [
       "austerity",
       "budget constraints",
@@ -493,13 +534,53 @@
     }
   },
   {
+    "topic": "Admissions Access In Higher Education",
+    "count": 21,
+    "score": 0.4488,
+    "topics": [
+      "admissions criteria",
+      "admissions selectivity",
+      "graduate management admission test",
+      "graduate record examination",
+      "scholastic aptitude test"
+    ],
+    "evidence": {
+      "article_id": "e0366f2e54c05a745c0ba6981e6fc3cf",
+      "headline": "University wins record freedom of speech fine challenge",
+      "url": "https://www.bbc.com/news/articles/cp8pnwyy0zjo?at_medium=RSS&at_campaign=rss",
+      "topic": "graduate record examination",
+      "score": 0.5144
+    }
+  },
+  {
+    "topic": "Sustainability Climate",
+    "count": 18,
+    "score": 0.47,
+    "topics": [
+      "carbon neutrality",
+      "climate change",
+      "environmental sustainability",
+      "green campus",
+      "sustainability"
+    ],
+    "evidence": {
+      "article_id": "37f71834690ecba2e383340f2d1d02c8",
+      "headline": "Marketing sustainability: How to turn planet-positive wins into enrolment growth",
+      "url": "https://www.terminalfour.com/blog/posts/marketing-sustainability-how-to-turn-planet-positive-wins-into-enrolment-growth.html",
+      "topic": "environmental sustainability",
+      "score": 0.6095
+    }
+  },
+  {
     "topic": "Academic Standards",
-    "count": 13,
-    "score": 0.4367,
+    "count": 16,
+    "score": 0.4304,
     "topics": [
       "accountability",
       "integrity",
       "responsibility",
+      "rigorous standards",
+      "standards of conduct",
       "transparency"
     ],
     "evidence": {
@@ -508,6 +589,24 @@
       "url": "https://www.insidehighered.com/opinion/career-advice/2026/05/20/authenticity-wrong-standard-faculty-hiring-opinion",
       "topic": "integrity",
       "score": 0.5023
+    }
+  },
+  {
+    "topic": "Future Outlook",
+    "count": 13,
+    "score": 0.4315,
+    "topics": [
+      "future planning",
+      "morale",
+      "optimism",
+      "pessimism"
+    ],
+    "evidence": {
+      "article_id": "8da039d79cbe056c1151ab7c69fbc9e1",
+      "headline": "Money, Mission and Culture: Strategic Planning for Colleges Under Pressure",
+      "url": "https://edualliancegroup.blog/2026/05/11/money-mission-and-culture-strategic-planning-for-colleges-under-pressure/",
+      "topic": "future planning",
+      "score": 0.5363
     }
   },
   {
@@ -531,31 +630,12 @@
     }
   },
   {
-    "topic": "Future Outlook",
-    "count": 10,
-    "score": 0.4365,
-    "topics": [
-      "future planning",
-      "morale",
-      "optimism",
-      "pessimism"
-    ],
-    "evidence": {
-      "article_id": "8da039d79cbe056c1151ab7c69fbc9e1",
-      "headline": "Money, Mission and Culture: Strategic Planning for Colleges Under Pressure",
-      "url": "https://edualliancegroup.blog/2026/05/11/money-mission-and-culture-strategic-planning-for-colleges-under-pressure/",
-      "topic": "future planning",
-      "score": 0.5363
-    }
-  },
-  {
     "topic": "Ethical Conflicts",
-    "count": 9,
-    "score": 0.4407,
+    "count": 8,
+    "score": 0.4333,
     "topics": [
       "dishonesty",
       "ethical impropriety",
-      "fraudulent misrepresentation",
       "misrepresentation",
       "plagiarism"
     ],
@@ -568,20 +648,20 @@
     }
   },
   {
-    "topic": "Sustainability Climate",
-    "count": 9,
-    "score": 0.4411,
+    "topic": "Education Funding",
+    "count": 8,
+    "score": 0.4636,
     "topics": [
-      "environmental sustainability",
-      "green campus",
-      "sustainability"
+      "public scholarly funding",
+      "scholarly endowments",
+      "scholarly grant funding"
     ],
     "evidence": {
-      "article_id": "7a717bcf963eb1854855128d7a3e0f4a",
-      "headline": "A Day in the Life: how schools and students are showcasing campus life online",
-      "url": "https://www.terminalfour.com/blog/posts/a-day-in-the-life-how-schools-and-students-are-showcasing-campus-life-online.html",
-      "topic": "green campus",
-      "score": 0.4641
+      "article_id": "4e02c5af4024fb1d5d1103d94355dcba",
+      "headline": "Pressure mounts for Education Department to release research funds",
+      "url": "https://www.highereddive.com/news/Pressure-mounts-for-Ed-Dept-to-release-research-funds/821037/",
+      "topic": "public scholarly funding",
+      "score": 0.6262
     }
   },
   {
@@ -602,18 +682,83 @@
     }
   },
   {
-    "topic": "Ranking Systems",
-    "count": 1,
-    "score": 0.4062,
+    "topic": "Academic Abuse",
+    "count": 3,
+    "score": 0.4185,
     "topics": [
-      "performance indicators"
+      "bureaucratic gatekeeping",
+      "fear-driven self-silencing",
+      "punitive exclusion exclusion"
     ],
     "evidence": {
-      "article_id": "1e84108d1f7f09e45b503b441d740c15",
-      "headline": "Students Rate the Experience; Peers Evaluate the Teaching: Rethinking the Evaluation of University Instruction",
-      "url": "https://www.facultyfocus.com/articles/faculty-development/students-rate-the-experience-peers-evaluate-the-teaching-rethinking-the-evaluation-of-university-instruction/",
-      "topic": "performance indicators",
-      "score": 0.4062
+      "article_id": "0c2596d91e9e247c74031f7b7f5ef847",
+      "headline": "OPINION: To solve chronic absenteeism, let’s make school a place where students really want to be",
+      "url": "https://hechingerreport.org/opinion-to-solve-chronic-absenteeism-lets-make-school-a-place-where-students-really-want-to-be/",
+      "topic": "punitive exclusion exclusion",
+      "score": 0.4057
+    }
+  },
+  {
+    "topic": "Health Professions",
+    "count": 3,
+    "score": 0.4079,
+    "topics": [
+      "health profession",
+      "medical profession"
+    ],
+    "evidence": {
+      "article_id": "33d41f29c60f84753606dd591d9723db",
+      "headline": "Fascicolo Sanitario Elettronico 2.0, il dato sanitario diventa infrastruttura",
+      "url": "https://www.agendadigitale.eu/sanita/fascicolo-sanitario-elettronico-2-0-il-dato-sanitario-diventa-infrastruttura/",
+      "topic": "health profession",
+      "score": 0.4177
+    }
+  },
+  {
+    "topic": "Ranking Systems",
+    "count": 2,
+    "score": 0.4102,
+    "topics": [
+      "performance indicators",
+      "rankings"
+    ],
+    "evidence": {
+      "article_id": "7acd3a3c1baa5b657760b1f850128e74",
+      "headline": "CHE Hochschulranking 2026/27: Studierende bewerten ihre Studienbedingungen sehr positiv",
+      "url": "https://www.che.de/2026/che-hochschulranking-2026-27-studierende-bewerten-ihre-studienbedingungen-sehr-positiv/",
+      "topic": "rankings",
+      "score": 0.4142
+    }
+  },
+  {
+    "topic": "Ethical Conflicts In Academia",
+    "count": 2,
+    "score": 0.4906,
+    "topics": [
+      "fraudulent misrepresentation",
+      "knowledge commodification"
+    ],
+    "evidence": {
+      "article_id": "21713615b4ee327387de79e56abbdb3e",
+      "headline": "Fueling a Love of Learning Through Discovery",
+      "url": "https://www.facultyfocus.com/articles/teaching-and-learning/fueling-a-love-of-learning-through-discovery/",
+      "topic": "knowledge commodification",
+      "score": 0.5107
+    }
+  },
+  {
+    "topic": "Systemic Inequity In Higher Education",
+    "count": 1,
+    "score": 0.4248,
+    "topics": [
+      "diversity equity and inclusion initiatives"
+    ],
+    "evidence": {
+      "article_id": "b9b7a368ea0cbe7e8902cd0c0a3c12b8",
+      "headline": "WEEKEND READING: Part One: Belonging is in the eye of the beholder – why we need to think differently about what it means to a diverse student population",
+      "url": "https://www.hepi.ac.uk/2026/05/23/weekend-reading-part-one-belonging-is-in-the-eye-of-the-beholder-why-we-need-to-think-differently-about-what-it-means-to-a-diverse-student-population/",
+      "topic": "diversity equity and inclusion initiatives",
+      "score": 0.4248
     }
   }
 ]
