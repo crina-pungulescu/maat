@@ -192,7 +192,7 @@ MAAT_TOPICS = {
         "rigorous standards",
         "reporting clarity",
         "accountable conduct",
-        "responsible conduct"
+        "responsible conduct",
         "integrity",
         "standards of conduct",
         "transparency",
@@ -316,7 +316,7 @@ MAAT_TOPICS = {
         "gender discrimination",
         "sexual harassment",
         "workplace harassment",
-        "workplace ubias",
+        "workplace bias",
         "inclusivity",
         "accessibility equity",
         "hate incidents",
@@ -469,7 +469,7 @@ MAAT_TOPICS = {
         "green campus",
         "environmental sustainability",
         "carbon neutrality",
-        "fossil fuel",
+        "fossil fuel"
     ],
 
     "health_professions_education": [
@@ -485,7 +485,7 @@ MAAT_TOPICS = {
         "media falsehoods",
         "false narratives",
         "fabricated news",
-        "contested scientific claims"
+        "contested scientific claims",
         "trust in science",
         "science communication",
         "evidence-based reasoning",
