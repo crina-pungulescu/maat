@@ -106,7 +106,7 @@ MAAT_TOPICS = {
         "unsustainable model",
         "legitimacy crisis",
         "outdated education model",
-        "systemic education failure",
+        "systemic education failure"
     ],
 
     "education_cost": [
@@ -120,7 +120,7 @@ MAAT_TOPICS = {
         "scholarships",
         "cost barriers",
         "cost of attendance support",
-        "financial hardship",
+        "financial hardship"
     ],
     
    "university_administration": [
@@ -153,8 +153,8 @@ MAAT_TOPICS = {
         "quality assurance review",
         "quality assurance body",
         "external review process",
-        "validation process",
-]
+        "validation process"
+],
 
     "education_funding": [
         "scholarly funding",
@@ -210,6 +210,9 @@ MAAT_TOPICS = {
         "data fabrication",
         "ethical impropriety",
         "data misuse",
+        "corporate interests",
+        "profitability incentives",
+        "knowledge commodification",
         "dishonesty"
     ],
 
@@ -324,13 +327,15 @@ MAAT_TOPICS = {
         "corrosive culture"
     ],
 
-    "ranking_academic_systems": [
+    "academic_ranking_systems": [
         "rankings",
         "benchmarking",
         "target metrics",
         "performance metrics",
         "performance indicators"
     ],
+
+  
 
     "politics_in_academia": [
         "geopolitics",
@@ -369,7 +374,7 @@ MAAT_TOPICS = {
         "propaganda"
     ],
 
-    "regions_and_countries": [
+    "higher_education_by_region": [
         "north america",
         "latin america",
         "south america",
@@ -488,7 +493,7 @@ MAAT_TOPICS = {
         "scientific expertise"    
     ],
     
-    "future_outlook": [
+    "academic_future_outlook": [
         "pessimism",
         "optimism",
         "uncertainty",
