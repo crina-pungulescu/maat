@@ -16,28 +16,16 @@
   },
   {
     "topic": "Student Experience",
-    "count": 11,
-    "score": 0.4552,
+    "count": 13,
+    "score": 0.4563,
     "topics": [
       "mentor-student relationship",
       "student engagement",
+      "student experience",
       "student life",
       "student satisfaction",
       "student voice",
       "student wellbeing"
-    ]
-  },
-  {
-    "topic": "Funding Flows",
-    "count": 8,
-    "score": 0.5393,
-    "topics": [
-      "public scholarly funding",
-      "scholarly endowments",
-      "scholarly funding",
-      "scholarly funding streams",
-      "scholarly grant funding",
-      "school budgets"
     ]
   },
   {
@@ -51,6 +39,18 @@
       "instructional practice",
       "participatory instruction",
       "pedagogical methods"
+    ]
+  },
+  {
+    "topic": "Education Funding",
+    "count": 7,
+    "score": 0.528,
+    "topics": [
+      "public scholarly funding",
+      "scholarly endowments",
+      "scholarly funding",
+      "scholarly grant funding",
+      "school budgets"
     ]
   },
   {
@@ -94,7 +94,7 @@
     ]
   },
   {
-    "topic": "Ethical Conflicts",
+    "topic": "Ethical Conflicts In Academia",
     "count": 3,
     "score": 0.4516,
     "topics": [
@@ -104,7 +104,7 @@
     ]
   },
   {
-    "topic": "Norm Violations",
+    "topic": "Norm Violations In Academia",
     "count": 3,
     "score": 0.4239,
     "topics": [
@@ -123,7 +123,7 @@
     ]
   },
   {
-    "topic": "Systemic Inequity",
+    "topic": "Systemic Inequity In Higher Education",
     "count": 2,
     "score": 0.4756,
     "topics": [
@@ -132,7 +132,16 @@
     ]
   },
   {
-    "topic": "Financial Constraints",
+    "topic": "University Accreditation",
+    "count": 2,
+    "score": 0.4945,
+    "topics": [
+      "accreditation withdrawal",
+      "loss of accreditation"
+    ]
+  },
+  {
+    "topic": "Financial Constraints In Academia",
     "count": 1,
     "score": 0.4055,
     "topics": [
@@ -140,7 +149,7 @@
     ]
   },
   {
-    "topic": "Degradation Signals",
+    "topic": "Academic Degradation Signals",
     "count": 1,
     "score": 0.4563,
     "topics": [
@@ -156,7 +165,7 @@
     ]
   },
   {
-    "topic": "Accountability Gaps",
+    "topic": "Accountability Gaps In Academia",
     "count": 1,
     "score": 0.5107,
     "topics": [
@@ -164,7 +173,7 @@
     ]
   },
   {
-    "topic": "Admissions Access",
+    "topic": "Admissions Access In Higher Education",
     "count": 1,
     "score": 0.4466,
     "topics": [

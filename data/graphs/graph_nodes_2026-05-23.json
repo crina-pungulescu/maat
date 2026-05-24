@@ -30,6 +30,16 @@
     ]
   },
   {
+    "id": "student experience",
+    "label": "Student Experience",
+    "weight": 2,
+    "avg_score": 0.4625,
+    "article_ids": [
+      "73a19c3e2953f124c13cba41a1490d41",
+      "b9b7a368ea0cbe7e8902cd0c0a3c12b8"
+    ]
+  },
+  {
     "id": "student satisfaction",
     "label": "Student Satisfaction",
     "weight": 1,
@@ -232,6 +242,24 @@
     ]
   },
   {
+    "id": "loss of accreditation",
+    "label": "Loss Of Accreditation",
+    "weight": 1,
+    "avg_score": 0.5163,
+    "article_ids": [
+      "b92e26a102e2bfa801d4a82e16a90449"
+    ]
+  },
+  {
+    "id": "accreditation withdrawal",
+    "label": "Accreditation Withdrawal",
+    "weight": 1,
+    "avg_score": 0.4727,
+    "article_ids": [
+      "b92e26a102e2bfa801d4a82e16a90449"
+    ]
+  },
+  {
     "id": "school budgets",
     "label": "School Budgets",
     "weight": 3,
@@ -302,15 +330,6 @@
     "label": "Scholarly Grant Funding",
     "weight": 1,
     "avg_score": 0.5618,
-    "article_ids": [
-      "4e02c5af4024fb1d5d1103d94355dcba"
-    ]
-  },
-  {
-    "id": "scholarly funding streams",
-    "label": "Scholarly Funding Streams",
-    "weight": 1,
-    "avg_score": 0.5957,
     "article_ids": [
       "4e02c5af4024fb1d5d1103d94355dcba"
     ]

@@ -14101,6 +14101,36 @@
   },
   {
     "source": "intellectual autonomy",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "student wellbeing",
+    "weight": 2
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "participatory instruction",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "student engagement",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "student experience",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "student experience",
     "target": "student wellbeing",
     "weight": 2
   },
@@ -30946,6 +30976,11 @@
   },
   {
     "source": "adjunct faculty",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
     "target": "student life",
     "weight": 1
   },
@@ -31036,6 +31071,11 @@
   },
   {
     "source": "diversity equity and inclusion initiatives",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
     "target": "student life",
     "weight": 1
   },
@@ -31121,6 +31161,11 @@
   },
   {
     "source": "faculty precarity",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
     "target": "student life",
     "weight": 1
   },
@@ -31171,6 +31216,11 @@
   },
   {
     "source": "inclusivity",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "inclusivity",
     "target": "thought independence",
     "weight": 1
   },
@@ -31211,6 +31261,11 @@
   },
   {
     "source": "peer review",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "peer review",
     "target": "thought independence",
     "weight": 1
   },
@@ -31231,6 +31286,11 @@
   },
   {
     "source": "qualitative research",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "qualitative research",
     "target": "thought independence",
     "weight": 1
   },
@@ -31241,12 +31301,52 @@
   },
   {
     "source": "research collaboration",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "research collaboration",
     "target": "thought independence",
     "weight": 1
   },
   {
     "source": "student engagement",
     "target": "thought independence",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "thought independence",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "university policy",
     "weight": 1
   },
   {
@@ -31290,6 +31390,61 @@
     "weight": 1
   },
   {
+    "source": "accreditation withdrawal",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "accreditation withdrawal",
+    "target": "educational decline",
+    "weight": 1
+  },
+  {
+    "source": "accreditation withdrawal",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "accreditation withdrawal",
+    "target": "loss of accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation withdrawal",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "accreditation withdrawal",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "loss of accreditation",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "loss of accreditation",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "loss of accreditation",
+    "weight": 1
+  },
+  {
+    "source": "loss of accreditation",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "loss of accreditation",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
     "source": "education crisis",
     "target": "public scholarly funding",
     "weight": 1
@@ -31297,11 +31452,6 @@
   {
     "source": "education crisis",
     "target": "scholarly endowments",
-    "weight": 1
-  },
-  {
-    "source": "education crisis",
-    "target": "scholarly funding streams",
     "weight": 1
   },
   {
@@ -31331,11 +31481,6 @@
   },
   {
     "source": "educational decline",
-    "target": "scholarly funding streams",
-    "weight": 1
-  },
-  {
-    "source": "educational decline",
     "target": "scholarly grant funding",
     "weight": 1
   },
@@ -31361,11 +31506,6 @@
   },
   {
     "source": "educational instability",
-    "target": "scholarly funding streams",
-    "weight": 1
-  },
-  {
-    "source": "educational instability",
     "target": "scholarly grant funding",
     "weight": 1
   },
@@ -31386,11 +31526,6 @@
   },
   {
     "source": "higher education crisis",
-    "target": "scholarly funding streams",
-    "weight": 1
-  },
-  {
-    "source": "higher education crisis",
     "target": "scholarly grant funding",
     "weight": 1
   },
@@ -31407,11 +31542,6 @@
   {
     "source": "insufficient resources",
     "target": "scholarly endowments",
-    "weight": 1
-  },
-  {
-    "source": "insufficient resources",
-    "target": "scholarly funding streams",
     "weight": 1
   },
   {
@@ -31437,11 +31567,6 @@
   {
     "source": "public scholarly funding",
     "target": "scholarly funding",
-    "weight": 1
-  },
-  {
-    "source": "public scholarly funding",
-    "target": "scholarly funding streams",
     "weight": 1
   },
   {
@@ -31486,11 +31611,6 @@
   },
   {
     "source": "scholarly endowments",
-    "target": "scholarly funding streams",
-    "weight": 1
-  },
-  {
-    "source": "scholarly endowments",
     "target": "scholarly grant funding",
     "weight": 1
   },
@@ -31526,52 +31646,12 @@
   },
   {
     "source": "scholarly funding",
-    "target": "scholarly funding streams",
-    "weight": 1
-  },
-  {
-    "source": "scholarly funding",
     "target": "scholarly grant funding",
     "weight": 1
   },
   {
     "source": "scholarly funding",
     "target": "tuition fee",
-    "weight": 1
-  },
-  {
-    "source": "scholarly funding streams",
-    "target": "scholarly grant funding",
-    "weight": 1
-  },
-  {
-    "source": "scholarly funding streams",
-    "target": "scholarships",
-    "weight": 1
-  },
-  {
-    "source": "scholarly funding streams",
-    "target": "school budgets",
-    "weight": 1
-  },
-  {
-    "source": "scholarly funding streams",
-    "target": "student voice",
-    "weight": 1
-  },
-  {
-    "source": "scholarly funding streams",
-    "target": "tuition affordability",
-    "weight": 1
-  },
-  {
-    "source": "scholarly funding streams",
-    "target": "tuition fee",
-    "weight": 1
-  },
-  {
-    "source": "scholarly funding streams",
-    "target": "university policy",
     "weight": 1
   },
   {
@@ -31720,6 +31800,11 @@
     "weight": 1
   },
   {
+    "source": "academic model breakdown",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
     "source": "classroom methods",
     "target": "fear-driven self-silencing",
     "weight": 1
@@ -31732,6 +31817,11 @@
   {
     "source": "classroom methods",
     "target": "self-regulation",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "student experience",
     "weight": 1
   },
   {
@@ -31757,6 +31847,11 @@
   {
     "source": "course evaluation",
     "target": "skills mismatch",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "student experience",
     "weight": 1
   },
   {
@@ -31816,6 +31911,11 @@
   },
   {
     "source": "fear-driven self-silencing",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "fear-driven self-silencing",
     "target": "student life",
     "weight": 1
   },
@@ -31840,6 +31940,11 @@
     "weight": 1
   },
   {
+    "source": "instructional excellence",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
     "source": "instructional practice",
     "target": "intellectual autonomy",
     "weight": 1
@@ -31857,6 +31962,11 @@
   {
     "source": "instructional practice",
     "target": "skills mismatch",
+    "weight": 1
+  },
+  {
+    "source": "instructional practice",
+    "target": "student experience",
     "weight": 1
   },
   {
@@ -31900,6 +32010,11 @@
     "weight": 1
   },
   {
+    "source": "outdated education model",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
     "source": "participatory instruction",
     "target": "scholastic aptitude test",
     "weight": 1
@@ -31930,6 +32045,11 @@
     "weight": 1
   },
   {
+    "source": "pedagogical methods",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
     "source": "scholastic aptitude test",
     "target": "self-regulation",
     "weight": 1
@@ -31946,6 +32066,11 @@
   },
   {
     "source": "scholastic aptitude test",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
     "target": "student life",
     "weight": 1
   },
@@ -31971,6 +32096,11 @@
   },
   {
     "source": "self-regulation",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "self-regulation",
     "target": "student life",
     "weight": 1
   },
@@ -31991,12 +32121,22 @@
   },
   {
     "source": "skills mismatch",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "skills mismatch",
     "target": "student life",
     "weight": 1
   },
   {
     "source": "skills mismatch",
     "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "systemic education failure",
     "weight": 1
   }
 ]

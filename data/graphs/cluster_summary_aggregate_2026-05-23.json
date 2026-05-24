@@ -66,11 +66,12 @@
   },
   {
     "topic": "Student Experience",
-    "count": 385,
-    "score": 0.4532,
+    "count": 387,
+    "score": 0.4542,
     "topics": [
       "mentor-student relationship",
       "student engagement",
+      "student experience",
       "student life",
       "student protest",
       "student retention",
@@ -114,15 +115,14 @@
   },
   {
     "topic": "Academic Abuse",
-    "count": 71,
-    "score": 0.4321,
+    "count": 70,
+    "score": 0.4338,
     "topics": [
       "administrative coercion",
       "arbitrary disciplinary actions",
       "bureaucratic obstruction",
       "career sabotage",
       "disproportionate punishment",
-      "fear-driven self-silencing",
       "institutional abuse",
       "institutional gatekeeping",
       "non-transparent processes",
@@ -138,35 +138,6 @@
     ]
   },
   {
-    "topic": "Funding Flows",
-    "count": 62,
-    "score": 0.5095,
-    "topics": [
-      "endowments",
-      "grant funding",
-      "public funding",
-      "public scholarly funding",
-      "scholarly endowments",
-      "scholarly funding",
-      "scholarly funding streams",
-      "scholarly grant funding",
-      "school budgets"
-    ]
-  },
-  {
-    "topic": "Admissions Access",
-    "count": 60,
-    "score": 0.441,
-    "topics": [
-      "affirmative action",
-      "college admissions",
-      "scholastic aptitude test",
-      "selective admissions",
-      "standardised testing",
-      "widening participation"
-    ]
-  },
-  {
     "topic": "Faculty Labour",
     "count": 59,
     "score": 0.4345,
@@ -177,6 +148,30 @@
       "faculty precarity",
       "faculty workload",
       "job insecurity"
+    ]
+  },
+  {
+    "topic": "Admissions Access",
+    "count": 59,
+    "score": 0.4398,
+    "topics": [
+      "affirmative action",
+      "college admissions",
+      "selective admissions",
+      "standardised testing",
+      "widening participation"
+    ]
+  },
+  {
+    "topic": "Funding Flows",
+    "count": 58,
+    "score": 0.4766,
+    "topics": [
+      "endowments",
+      "grant funding",
+      "public funding",
+      "scholarly funding",
+      "school budgets"
     ]
   },
   {
@@ -323,12 +318,11 @@
   },
   {
     "topic": "Systemic Inequity",
-    "count": 23,
-    "score": 0.4369,
+    "count": 22,
+    "score": 0.4381,
     "topics": [
       "biased systems",
       "bullying",
-      "diversity equity and inclusion initiatives",
       "equity initiatives",
       "gender discrimination",
       "harmful culture",
@@ -388,18 +382,6 @@
     ]
   },
   {
-    "topic": "Ethical Conflicts",
-    "count": 9,
-    "score": 0.4407,
-    "topics": [
-      "dishonesty",
-      "ethical impropriety",
-      "fraudulent misrepresentation",
-      "misrepresentation",
-      "plagiarism"
-    ]
-  },
-  {
     "topic": "Sustainability Climate",
     "count": 9,
     "score": 0.4411,
@@ -407,6 +389,17 @@
       "environmental sustainability",
       "green campus",
       "sustainability"
+    ]
+  },
+  {
+    "topic": "Ethical Conflicts",
+    "count": 8,
+    "score": 0.4333,
+    "topics": [
+      "dishonesty",
+      "ethical impropriety",
+      "misrepresentation",
+      "plagiarism"
     ]
   },
   {
@@ -420,11 +413,62 @@
     ]
   },
   {
+    "topic": "Education Funding",
+    "count": 3,
+    "score": 0.5355,
+    "topics": [
+      "public scholarly funding",
+      "scholarly endowments",
+      "scholarly grant funding"
+    ]
+  },
+  {
+    "topic": "University Accreditation",
+    "count": 2,
+    "score": 0.4945,
+    "topics": [
+      "accreditation withdrawal",
+      "loss of accreditation"
+    ]
+  },
+  {
     "topic": "Ranking Systems",
     "count": 1,
     "score": 0.4062,
     "topics": [
       "performance indicators"
+    ]
+  },
+  {
+    "topic": "Systemic Inequity In Higher Education",
+    "count": 1,
+    "score": 0.4248,
+    "topics": [
+      "diversity equity and inclusion initiatives"
+    ]
+  },
+  {
+    "topic": "Ethical Conflicts In Academia",
+    "count": 1,
+    "score": 0.4704,
+    "topics": [
+      "fraudulent misrepresentation"
+    ]
+  },
+  {
+    "topic": "Academic Abuse",
+    "count": 1,
+    "score": 0.4019,
+    "topics": [
+      "fear-driven self-silencing"
+    ]
+  },
+  {
+    "topic": "Admissions Access In Higher Education",
+    "count": 1,
+    "score": 0.4466,
+    "topics": [
+      "scholastic aptitude test"
     ]
   }
 ]
