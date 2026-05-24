@@ -2,6 +2,16 @@
 theme: jekyll-theme-cayman
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CHG8RK1BDW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-CHG8RK1BDW');
+</script>
+
 <h1 style="text-align: center;">
 
 MA'AT:<br>
