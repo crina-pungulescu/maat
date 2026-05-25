@@ -1,8 +1,8 @@
 [
   {
     "topic": "Higher Education Crisis",
-    "count": 570,
-    "score": 0.4622,
+    "count": 594,
+    "score": 0.462,
     "topics": [
       "academic collapse",
       "academic model breakdown",
@@ -27,8 +27,8 @@
   },
   {
     "topic": "Teaching And Learning",
-    "count": 531,
-    "score": 0.4497,
+    "count": 567,
+    "score": 0.4494,
     "topics": [
       "STEM qualification",
       "bachelor qualification",
@@ -64,8 +64,8 @@
   },
   {
     "topic": "Student Experience",
-    "count": 455,
-    "score": 0.4542,
+    "count": 476,
+    "score": 0.4537,
     "topics": [
       "college experience",
       "mentor-student relationship",
@@ -89,8 +89,8 @@
   },
   {
     "topic": "University Administration",
-    "count": 364,
-    "score": 0.4535,
+    "count": 377,
+    "score": 0.4534,
     "topics": [
       "board of regents",
       "board of trustees",
@@ -116,8 +116,8 @@
   },
   {
     "topic": "Faculty Labour",
-    "count": 285,
-    "score": 0.4378,
+    "count": 303,
+    "score": 0.4369,
     "topics": [
       "adjunct faculty",
       "faculty careers",
@@ -141,8 +141,8 @@
   },
   {
     "topic": "Education Funding",
-    "count": 98,
-    "score": 0.4512,
+    "count": 102,
+    "score": 0.4506,
     "topics": [
       "public scholarly funding",
       "scholarly endowments",
@@ -160,8 +160,8 @@
   },
   {
     "topic": "Research Activities",
-    "count": 93,
-    "score": 0.4526,
+    "count": 94,
+    "score": 0.4524,
     "topics": [
       "empirical research",
       "high-impact research",
@@ -183,9 +183,47 @@
     }
   },
   {
+    "topic": "Politics In Academia",
+    "count": 83,
+    "score": 0.4456,
+    "topics": [
+      "NATO",
+      "UN",
+      "alliances",
+      "armed dispute",
+      "authoritarianism",
+      "civil unrest",
+      "democracy",
+      "diplomacy",
+      "economic warfare",
+      "fascism",
+      "foreign affairs",
+      "geopolitics",
+      "illiberal democracy",
+      "legislation",
+      "nationalism",
+      "nuclear strategy",
+      "political interference",
+      "political repression",
+      "populism",
+      "propaganda",
+      "regime",
+      "sanctions",
+      "sovereignty",
+      "war"
+    ],
+    "evidence": {
+      "article_id": "f553a09c8c56160075614044858a0e54",
+      "headline": "Book review: Why populists are winning and how to beat them by the Rt Hon Liam Byrne MP",
+      "url": "https://www.hepi.ac.uk/2026/05/20/book-review-why-populists-are-winning-and-how-to-beat-them-by-the-rt-hon-liam-byrne-mp/",
+      "topic": "populism",
+      "score": 0.7354
+    }
+  },
+  {
     "topic": "Education Cost",
-    "count": 74,
-    "score": 0.4604,
+    "count": 79,
+    "score": 0.4601,
     "topics": [
       "cost barriers",
       "cost of attendance support",
@@ -208,8 +246,8 @@
   },
   {
     "topic": "University Accreditation",
-    "count": 68,
-    "score": 0.4587,
+    "count": 69,
+    "score": 0.4588,
     "topics": [
       "accreditation body",
       "accreditation compliance",
@@ -233,46 +271,9 @@
     }
   },
   {
-    "topic": "Politics In Academia",
-    "count": 67,
-    "score": 0.4439,
-    "topics": [
-      "NATO",
-      "UN",
-      "alliances",
-      "armed dispute",
-      "authoritarianism",
-      "civil unrest",
-      "democracy",
-      "diplomacy",
-      "economic warfare",
-      "fascism",
-      "foreign affairs",
-      "geopolitics",
-      "illiberal democracy",
-      "legislation",
-      "nuclear strategy",
-      "political interference",
-      "political repression",
-      "populism",
-      "propaganda",
-      "regime",
-      "sanctions",
-      "sovereignty",
-      "war"
-    ],
-    "evidence": {
-      "article_id": "f553a09c8c56160075614044858a0e54",
-      "headline": "Book review: Why populists are winning and how to beat them by the Rt Hon Liam Byrne MP",
-      "url": "https://www.hepi.ac.uk/2026/05/20/book-review-why-populists-are-winning-and-how-to-beat-them-by-the-rt-hon-liam-byrne-mp/",
-      "topic": "populism",
-      "score": 0.7354
-    }
-  },
-  {
     "topic": "Academic Abuse",
-    "count": 63,
-    "score": 0.4328,
+    "count": 66,
+    "score": 0.4327,
     "topics": [
       "administrative abuse",
       "administrative coercion",
@@ -302,9 +303,30 @@
     }
   },
   {
+    "topic": "Admissions Access In Higher Education",
+    "count": 62,
+    "score": 0.4421,
+    "topics": [
+      "admissions criteria",
+      "admissions selectivity",
+      "affirmative action",
+      "graduate management admission test",
+      "graduate record examination",
+      "scholastic aptitude test",
+      "widening participation"
+    ],
+    "evidence": {
+      "article_id": "e0366f2e54c05a745c0ba6981e6fc3cf",
+      "headline": "University wins record freedom of speech fine challenge",
+      "url": "https://www.bbc.com/news/articles/cp8pnwyy0zjo?at_medium=RSS&at_campaign=rss",
+      "topic": "graduate record examination",
+      "score": 0.5144
+    }
+  },
+  {
     "topic": "Academic Degradation Signals",
-    "count": 58,
-    "score": 0.439,
+    "count": 59,
+    "score": 0.4398,
     "topics": [
       "credential inflation",
       "deteriorating outcomes",
@@ -330,8 +352,8 @@
   },
   {
     "topic": "Educational Technology",
-    "count": 57,
-    "score": 0.4744,
+    "count": 58,
+    "score": 0.4731,
     "topics": [
       "AI assisted process",
       "artificial intelligence",
@@ -349,30 +371,9 @@
     }
   },
   {
-    "topic": "Admissions Access In Higher Education",
-    "count": 57,
-    "score": 0.4419,
-    "topics": [
-      "admissions criteria",
-      "admissions selectivity",
-      "affirmative action",
-      "graduate management admission test",
-      "graduate record examination",
-      "scholastic aptitude test",
-      "widening participation"
-    ],
-    "evidence": {
-      "article_id": "e0366f2e54c05a745c0ba6981e6fc3cf",
-      "headline": "University wins record freedom of speech fine challenge",
-      "url": "https://www.bbc.com/news/articles/cp8pnwyy0zjo?at_medium=RSS&at_campaign=rss",
-      "topic": "graduate record examination",
-      "score": 0.5144
-    }
-  },
-  {
     "topic": "Science Society",
-    "count": 45,
-    "score": 0.4436,
+    "count": 46,
+    "score": 0.4433,
     "topics": [
       "contested scientific claims",
       "fabricated news",
@@ -390,6 +391,27 @@
       "url": "https://wonkhe.com/blogs/uk-science-must-deliver/",
       "topic": "politicisation of science",
       "score": 0.6671
+    }
+  },
+  {
+    "topic": "Internationalisation Of Academia",
+    "count": 36,
+    "score": 0.4615,
+    "topics": [
+      "cross-border experience",
+      "global experience",
+      "international cohorts",
+      "international mobility",
+      "international partnerships",
+      "study abroad",
+      "transnational mobility"
+    ],
+    "evidence": {
+      "article_id": "e9f1644a6f5d3a79310f5f638ba82101",
+      "headline": "Deep Internationalization & Infrastructure",
+      "url": "https://globalhighered.wordpress.com/2018/01/02/deep-internationalization-infrastructure/",
+      "topic": "international partnerships",
+      "score": 0.5492
     }
   },
   {
@@ -418,28 +440,8 @@
     }
   },
   {
-    "topic": "Internationalisation Of Academia",
-    "count": 33,
-    "score": 0.4687,
-    "topics": [
-      "global experience",
-      "international cohorts",
-      "international mobility",
-      "international partnerships",
-      "study abroad",
-      "transnational mobility"
-    ],
-    "evidence": {
-      "article_id": "e9f1644a6f5d3a79310f5f638ba82101",
-      "headline": "Deep Internationalization & Infrastructure",
-      "url": "https://globalhighered.wordpress.com/2018/01/02/deep-internationalization-infrastructure/",
-      "topic": "international partnerships",
-      "score": 0.5492
-    }
-  },
-  {
     "topic": "Higher Education By Region",
-    "count": 31,
+    "count": 32,
     "score": 0.4575,
     "topics": [
       "asia",
@@ -492,31 +494,34 @@
   },
   {
     "topic": "Accountability Gaps In Academia",
-    "count": 23,
-    "score": 0.4205,
+    "count": 26,
+    "score": 0.4196,
     "topics": [
       "abuse of office",
       "conflict of interest",
       "decision-making opacity",
       "elite impunity",
       "lack of oversight",
+      "nepotism",
+      "unchecked authority",
       "weak oversight"
     ],
     "evidence": {
-      "article_id": "9f59a8d727d0f24569723d8294ea62c8",
-      "headline": "La scuola dei talenti: per i poveri soft skills, filiera e sane regole di vita militare",
-      "url": "https://www.roars.it/la-scuola-dei-talenti-per-i-poveri-soft-skills-filiera-e-sane-regole-di-vita-militare/",
+      "article_id": "130525cb1a94cfa4f4f765eee9caa692",
+      "headline": "ANVUR, la grande finzione: quindici anni di “indipendenza” al servizio dei partiti",
+      "url": "https://www.roars.it/anvur-la-grande-finzione-quindici-anni-di-indipendenza-al-servizio-dei-partiti/",
       "topic": "elite impunity",
-      "score": 0.4949
+      "score": 0.4952
     }
   },
   {
     "topic": "Financial Constraints In Academia",
-    "count": 17,
-    "score": 0.4529,
+    "count": 19,
+    "score": 0.4599,
     "topics": [
       "austerity",
       "budget constraints",
+      "budget cuts",
       "financial concerns"
     ],
     "evidence": {
@@ -551,6 +556,24 @@
     }
   },
   {
+    "topic": "Academic Future Outlook",
+    "count": 13,
+    "score": 0.4351,
+    "topics": [
+      "future planning",
+      "morale",
+      "optimism",
+      "pessimism"
+    ],
+    "evidence": {
+      "article_id": "8da039d79cbe056c1151ab7c69fbc9e1",
+      "headline": "Money, Mission and Culture: Strategic Planning for Colleges Under Pressure",
+      "url": "https://edualliancegroup.blog/2026/05/11/money-mission-and-culture-strategic-planning-for-colleges-under-pressure/",
+      "topic": "future planning",
+      "score": 0.5363
+    }
+  },
+  {
     "topic": "Sustainability Climate In Academia",
     "count": 12,
     "score": 0.4826,
@@ -567,24 +590,6 @@
       "url": "https://www.terminalfour.com/blog/posts/marketing-sustainability-how-to-turn-planet-positive-wins-into-enrolment-growth.html",
       "topic": "environmental sustainability",
       "score": 0.6095
-    }
-  },
-  {
-    "topic": "Academic Future Outlook",
-    "count": 12,
-    "score": 0.4352,
-    "topics": [
-      "future planning",
-      "morale",
-      "optimism",
-      "pessimism"
-    ],
-    "evidence": {
-      "article_id": "8da039d79cbe056c1151ab7c69fbc9e1",
-      "headline": "Money, Mission and Culture: Strategic Planning for Colleges Under Pressure",
-      "url": "https://edualliancegroup.blog/2026/05/11/money-mission-and-culture-strategic-planning-for-colleges-under-pressure/",
-      "topic": "future planning",
-      "score": 0.5363
     }
   },
   {
@@ -639,8 +644,8 @@
   },
   {
     "topic": "Norm Violations In Academia",
-    "count": 1,
-    "score": 0.4155,
+    "count": 2,
+    "score": 0.4096,
     "topics": [
       "corruption"
     ],
