@@ -507,7 +507,7 @@ def is_valid_article(article: dict) -> bool:
         return False
 
     # 3. minimum content sanity
-    if len(article["full_text"]) < 2500:
+    if len(article["full_text"]) < 1500:
         return False
 
     # 4. link sanity
@@ -532,7 +532,7 @@ def fetch_rss_articles(seen):
 
             url,
 
-            timeout=30,
+            timeout=10,
 
             headers={
 
@@ -552,7 +552,7 @@ def fetch_rss_articles(seen):
 
             continue
 
-        for entry in feed.entries[:20]:
+        for entry in feed.entries[:25]:
 
             text = (entry.get("title", "") + " " + entry.get("summary", "")).strip()
 
