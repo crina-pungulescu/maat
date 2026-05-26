@@ -1,8 +1,8 @@
 [
   {
     "topic": "Higher Education Crisis",
-    "count": 594,
-    "score": 0.462,
+    "count": 631,
+    "score": 0.463,
     "topics": [
       "academic collapse",
       "academic model breakdown",
@@ -18,17 +18,17 @@
       "unsustainable model"
     ],
     "evidence": {
-      "article_id": "e1a66086b09b76b1993b010562fa04f9",
-      "headline": "Beyond the College Meltdown: Moral Decay, Dehumanization, and the Failure of Courage (Dahn Shaulis and Glen McGhee)",
-      "url": "https://www.highereducationinquirer.org/2026/01/beyond-college-meltdown-moral-decay.html",
-      "topic": "academic collapse",
-      "score": 0.6996
+      "article_id": "4c2fc7f65a637ed73662ed28a8f34258",
+      "headline": "The Expanding Crisis in U.S. Higher Education: OPMs, Student Loan Servicers, Deregulation, Robocolleges, AI, and the Collapse of Accountability",
+      "url": "https://www.highereducationinquirer.org/2025/12/the-expanding-crisis-in-us-higher.html",
+      "topic": "higher education crisis",
+      "score": 0.813
     }
   },
   {
     "topic": "Teaching And Learning",
-    "count": 567,
-    "score": 0.4494,
+    "count": 598,
+    "score": 0.449,
     "topics": [
       "STEM qualification",
       "bachelor qualification",
@@ -64,8 +64,8 @@
   },
   {
     "topic": "Student Experience",
-    "count": 476,
-    "score": 0.4537,
+    "count": 512,
+    "score": 0.4526,
     "topics": [
       "college experience",
       "mentor-student relationship",
@@ -89,8 +89,8 @@
   },
   {
     "topic": "University Administration",
-    "count": 377,
-    "score": 0.4534,
+    "count": 421,
+    "score": 0.4547,
     "topics": [
       "board of regents",
       "board of trustees",
@@ -116,8 +116,8 @@
   },
   {
     "topic": "Faculty Labour",
-    "count": 303,
-    "score": 0.4369,
+    "count": 331,
+    "score": 0.4373,
     "topics": [
       "adjunct faculty",
       "faculty careers",
@@ -141,8 +141,8 @@
   },
   {
     "topic": "Education Funding",
-    "count": 102,
-    "score": 0.4506,
+    "count": 111,
+    "score": 0.4513,
     "topics": [
       "public scholarly funding",
       "scholarly endowments",
@@ -160,8 +160,8 @@
   },
   {
     "topic": "Research Activities",
-    "count": 94,
-    "score": 0.4524,
+    "count": 97,
+    "score": 0.4525,
     "topics": [
       "empirical research",
       "high-impact research",
@@ -183,9 +183,33 @@
     }
   },
   {
+    "topic": "Education Cost",
+    "count": 84,
+    "score": 0.4599,
+    "topics": [
+      "cost barriers",
+      "cost of attendance support",
+      "debt",
+      "fee waivers and bursaries",
+      "financial hardship",
+      "loan",
+      "need-based financial support",
+      "scholarships",
+      "tuition affordability",
+      "tuition fee"
+    ],
+    "evidence": {
+      "article_id": "b962e65167b36c4e8c4f841fcdb1fc15",
+      "headline": "'Huge relief' as students given loans 'in error' get repayment reprieve",
+      "url": "https://www.bbc.com/news/articles/c0e7jjwzn7eo?at_medium=RSS&at_campaign=rss",
+      "topic": "tuition affordability",
+      "score": 0.5584
+    }
+  },
+  {
     "topic": "Politics In Academia",
-    "count": 83,
-    "score": 0.4456,
+    "count": 84,
+    "score": 0.4454,
     "topics": [
       "NATO",
       "UN",
@@ -221,33 +245,9 @@
     }
   },
   {
-    "topic": "Education Cost",
-    "count": 79,
-    "score": 0.4601,
-    "topics": [
-      "cost barriers",
-      "cost of attendance support",
-      "debt",
-      "fee waivers and bursaries",
-      "financial hardship",
-      "loan",
-      "need-based financial support",
-      "scholarships",
-      "tuition affordability",
-      "tuition fee"
-    ],
-    "evidence": {
-      "article_id": "b962e65167b36c4e8c4f841fcdb1fc15",
-      "headline": "'Huge relief' as students given loans 'in error' get repayment reprieve",
-      "url": "https://www.bbc.com/news/articles/c0e7jjwzn7eo?at_medium=RSS&at_campaign=rss",
-      "topic": "tuition affordability",
-      "score": 0.5584
-    }
-  },
-  {
     "topic": "University Accreditation",
-    "count": 69,
-    "score": 0.4588,
+    "count": 75,
+    "score": 0.457,
     "topics": [
       "accreditation body",
       "accreditation compliance",
@@ -272,8 +272,8 @@
   },
   {
     "topic": "Academic Abuse",
-    "count": 66,
-    "score": 0.4327,
+    "count": 72,
+    "score": 0.4317,
     "topics": [
       "administrative abuse",
       "administrative coercion",
@@ -304,8 +304,8 @@
   },
   {
     "topic": "Admissions Access In Higher Education",
-    "count": 62,
-    "score": 0.4421,
+    "count": 63,
+    "score": 0.4417,
     "topics": [
       "admissions criteria",
       "admissions selectivity",
@@ -325,8 +325,8 @@
   },
   {
     "topic": "Academic Degradation Signals",
-    "count": 59,
-    "score": 0.4398,
+    "count": 62,
+    "score": 0.4414,
     "topics": [
       "credential inflation",
       "deteriorating outcomes",
@@ -352,8 +352,8 @@
   },
   {
     "topic": "Educational Technology",
-    "count": 58,
-    "score": 0.4731,
+    "count": 61,
+    "score": 0.4752,
     "topics": [
       "AI assisted process",
       "artificial intelligence",
@@ -372,8 +372,8 @@
   },
   {
     "topic": "Science Society",
-    "count": 46,
-    "score": 0.4433,
+    "count": 48,
+    "score": 0.4428,
     "topics": [
       "contested scientific claims",
       "fabricated news",
@@ -395,8 +395,8 @@
   },
   {
     "topic": "Internationalisation Of Academia",
-    "count": 36,
-    "score": 0.4615,
+    "count": 38,
+    "score": 0.4595,
     "topics": [
       "cross-border experience",
       "global experience",
@@ -416,8 +416,8 @@
   },
   {
     "topic": "Systemic Inequity In Higher Education",
-    "count": 35,
-    "score": 0.4642,
+    "count": 37,
+    "score": 0.4632,
     "topics": [
       "accessibility equity",
       "bullying",
@@ -437,6 +437,26 @@
       "url": "https://www.theguardian.com/education/2026/may/08/sexual-harassment-statistics-england-top-universities-analysis",
       "topic": "sexual harassment",
       "score": 0.6187
+    }
+  },
+  {
+    "topic": "Academic Freedom",
+    "count": 33,
+    "score": 0.4411,
+    "topics": [
+      "censorship",
+      "freedom of expression",
+      "freedom of opinion",
+      "freedom of speech",
+      "intellectual autonomy",
+      "thought independence"
+    ],
+    "evidence": {
+      "article_id": "ab677369858e9ea59788c717393284a5",
+      "headline": "AI and the rewriting of the psychological contract: a leadership challenge for HE",
+      "url": "https://www.advance-he.ac.uk/news-and-views/ai-and-rewriting-psychological-contract-leadership-challenge-he",
+      "topic": "intellectual autonomy",
+      "score": 0.5562
     }
   },
   {
@@ -470,26 +490,6 @@
       "url": "https://thepienews.com/open-campuses-joint-degrees-canada-envoy-signals-india-push/",
       "topic": "canada",
       "score": 0.58
-    }
-  },
-  {
-    "topic": "Academic Freedom",
-    "count": 31,
-    "score": 0.4409,
-    "topics": [
-      "censorship",
-      "freedom of expression",
-      "freedom of opinion",
-      "freedom of speech",
-      "intellectual autonomy",
-      "thought independence"
-    ],
-    "evidence": {
-      "article_id": "ab677369858e9ea59788c717393284a5",
-      "headline": "AI and the rewriting of the psychological contract: a leadership challenge for HE",
-      "url": "https://www.advance-he.ac.uk/news-and-views/ai-and-rewriting-psychological-contract-leadership-challenge-he",
-      "topic": "intellectual autonomy",
-      "score": 0.5562
     }
   },
   {
@@ -557,8 +557,8 @@
   },
   {
     "topic": "Academic Future Outlook",
-    "count": 13,
-    "score": 0.4351,
+    "count": 14,
+    "score": 0.4337,
     "topics": [
       "future planning",
       "morale",
@@ -575,8 +575,8 @@
   },
   {
     "topic": "Sustainability Climate In Academia",
-    "count": 12,
-    "score": 0.4826,
+    "count": 13,
+    "score": 0.483,
     "topics": [
       "carbon neutrality",
       "climate change",
@@ -590,6 +590,22 @@
       "url": "https://www.terminalfour.com/blog/posts/marketing-sustainability-how-to-turn-planet-positive-wins-into-enrolment-growth.html",
       "topic": "environmental sustainability",
       "score": 0.6095
+    }
+  },
+  {
+    "topic": "Campus Infrastructure",
+    "count": 5,
+    "score": 0.4217,
+    "topics": [
+      "infrastructure",
+      "laboratories"
+    ],
+    "evidence": {
+      "article_id": "291ec9cc64f4c2049c7f924076f4ea69",
+      "headline": "Leitlinien-Check 2026: Das HFD-Update zur strategischen KI-Integration an Hochschulen",
+      "url": "https://www.che.de/2026/leitlinien-check-2026-das-hfd-update-zur-strategischen-ki-integration-an-hochschulen/",
+      "topic": "laboratories",
+      "score": 0.4397
     }
   },
   {
@@ -608,22 +624,6 @@
       "url": "https://www.facultyfocus.com/articles/teaching-and-learning/fueling-a-love-of-learning-through-discovery/",
       "topic": "knowledge commodification",
       "score": 0.5107
-    }
-  },
-  {
-    "topic": "Campus Infrastructure",
-    "count": 4,
-    "score": 0.4183,
-    "topics": [
-      "infrastructure",
-      "laboratories"
-    ],
-    "evidence": {
-      "article_id": "291ec9cc64f4c2049c7f924076f4ea69",
-      "headline": "Leitlinien-Check 2026: Das HFD-Update zur strategischen KI-Integration an Hochschulen",
-      "url": "https://www.che.de/2026/leitlinien-check-2026-das-hfd-update-zur-strategischen-ki-integration-an-hochschulen/",
-      "topic": "laboratories",
-      "score": 0.4397
     }
   },
   {
