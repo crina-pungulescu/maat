@@ -71,6 +71,7 @@ RSS_FEEDS = [
     "https://nces.ed.gov/whatsnew/rss.xml",
     "https://www.grants.gov/rss/GG_NewOpps.xml",
     "https://www.oecd.org/education/rss.xml",
+    "https://www.highereddive.com/feeds/news/",
     "https://www.worldbank.org/en/topic/education/rss",
     "https://www.unesco.org/en/rss.xml",
     "https://www.eua.eu/news/rss.xml",
