@@ -144,7 +144,7 @@ RSS_FEEDS = [
     "https://news.google.com/rss/search?q=transparency+academia",
     "https://news.google.com/rss/search?q=university+oversight",
     "https://news.google.com/rss/search?q=study+abroad",
-    "https://news.google.com/rss/search?q=university+governance",
+    "https://news.google.com/rss/search?q=university+public+trust",
     "https://news.google.com/rss/search?q=academic+freedom",
     "https://news.google.com/rss/search?q=future+academia",
     "https://www.reuters.com/world/rss",
