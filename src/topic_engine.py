@@ -268,7 +268,7 @@ MAAT_TOPICS = {
          "retaliatory litigation",
          "suppressing dissent",
          "silencing criticism",
-         "risks attached to reporting abuse",
+         "abuse reporting risks",
          "fear-driven self-silencing",
          "wrongful termination",
          "professional marginalisation",
