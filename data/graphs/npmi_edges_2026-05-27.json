@@ -1,0 +1,590 @@
+[
+  {
+    "source": "mentor-student relationship",
+    "target": "participatory instruction",
+    "co_occurrence": 3,
+    "npmi": 1.0
+  },
+  {
+    "source": "AI assisted process",
+    "target": "artificial intelligence",
+    "co_occurrence": 4,
+    "npmi": 1.0
+  },
+  {
+    "source": "AI assisted process",
+    "target": "generative AI",
+    "co_occurrence": 4,
+    "npmi": 1.0
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "generative AI",
+    "co_occurrence": 4,
+    "npmi": 1.0
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "scholarly funding",
+    "co_occurrence": 4,
+    "npmi": 0.8755
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "npmi": 0.8617
+  },
+  {
+    "source": "participatory instruction",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "npmi": 0.8617
+  },
+  {
+    "source": "faculty careers",
+    "target": "faculty hiring market",
+    "co_occurrence": 3,
+    "npmi": 0.8617
+  },
+  {
+    "source": "AI assisted process",
+    "target": "edtech",
+    "co_occurrence": 3,
+    "npmi": 0.8617
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "edtech",
+    "co_occurrence": 3,
+    "npmi": 0.8617
+  },
+  {
+    "source": "edtech",
+    "target": "generative AI",
+    "co_occurrence": 3,
+    "npmi": 0.8617
+  },
+  {
+    "source": "instructional excellence",
+    "target": "instructional practice",
+    "co_occurrence": 3,
+    "npmi": 0.8617
+  },
+  {
+    "source": "curricular design",
+    "target": "instructional excellence",
+    "co_occurrence": 3,
+    "npmi": 0.8617
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "faculty precarity",
+    "co_occurrence": 3,
+    "npmi": 0.8617
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "faculty careers",
+    "co_occurrence": 4,
+    "npmi": 0.7737
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "faculty precarity",
+    "co_occurrence": 4,
+    "npmi": 0.7737
+  },
+  {
+    "source": "academic collapse",
+    "target": "decline of academia",
+    "co_occurrence": 3,
+    "npmi": 0.7543
+  },
+  {
+    "source": "academic collapse",
+    "target": "educational instability",
+    "co_occurrence": 3,
+    "npmi": 0.7543
+  },
+  {
+    "source": "decline of academia",
+    "target": "educational decline",
+    "co_occurrence": 3,
+    "npmi": 0.7543
+  },
+  {
+    "source": "education crisis",
+    "target": "educational decline",
+    "co_occurrence": 3,
+    "npmi": 0.7543
+  },
+  {
+    "source": "student experience",
+    "target": "student life",
+    "co_occurrence": 3,
+    "npmi": 0.7543
+  },
+  {
+    "source": "university administrators",
+    "target": "university leadership",
+    "co_occurrence": 3,
+    "npmi": 0.7543
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "npmi": 0.7543
+  },
+  {
+    "source": "education crisis",
+    "target": "educational instability",
+    "co_occurrence": 4,
+    "npmi": 0.7509
+  },
+  {
+    "source": "education crisis",
+    "target": "higher education crisis",
+    "co_occurrence": 4,
+    "npmi": 0.7509
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "systemic education failure",
+    "co_occurrence": 3,
+    "npmi": 0.7233
+  },
+  {
+    "source": "faculty careers",
+    "target": "faculty precarity",
+    "co_occurrence": 3,
+    "npmi": 0.7233
+  },
+  {
+    "source": "faculty precarity",
+    "target": "faculty redundancy",
+    "co_occurrence": 3,
+    "npmi": 0.7233
+  },
+  {
+    "source": "instructional excellence",
+    "target": "pedagogical innovation",
+    "co_occurrence": 4,
+    "npmi": 0.6877
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "university leadership",
+    "co_occurrence": 3,
+    "npmi": 0.6667
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "faculty hiring market",
+    "co_occurrence": 3,
+    "npmi": 0.6667
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "faculty job insecurity",
+    "co_occurrence": 3,
+    "npmi": 0.6667
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "university administrators",
+    "co_occurrence": 4,
+    "npmi": 0.6492
+  },
+  {
+    "source": "education crisis",
+    "target": "school budgets",
+    "co_occurrence": 3,
+    "npmi": 0.616
+  },
+  {
+    "source": "educational instability",
+    "target": "scholarly funding",
+    "co_occurrence": 3,
+    "npmi": 0.616
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "npmi": 0.616
+  },
+  {
+    "source": "higher education crisis",
+    "target": "school budgets",
+    "co_occurrence": 3,
+    "npmi": 0.616
+  },
+  {
+    "source": "faculty careers",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "npmi": 0.616
+  },
+  {
+    "source": "faculty careers",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "npmi": 0.616
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "public scholarly funding",
+    "co_occurrence": 3,
+    "npmi": 0.616
+  },
+  {
+    "source": "decline of academia",
+    "target": "faculty precarity",
+    "co_occurrence": 3,
+    "npmi": 0.616
+  },
+  {
+    "source": "decline of academia",
+    "target": "faculty redundancy",
+    "co_occurrence": 3,
+    "npmi": 0.616
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "npmi": 0.6131
+  },
+  {
+    "source": "instructional practice",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "npmi": 0.5925
+  },
+  {
+    "source": "curricular design",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "npmi": 0.5925
+  },
+  {
+    "source": "scholarly funding",
+    "target": "tuition affordability",
+    "co_occurrence": 3,
+    "npmi": 0.5283
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "faculty redundancy",
+    "co_occurrence": 3,
+    "npmi": 0.5283
+  },
+  {
+    "source": "decline of academia",
+    "target": "education crisis",
+    "co_occurrence": 3,
+    "npmi": 0.5087
+  },
+  {
+    "source": "decline of academia",
+    "target": "educational instability",
+    "co_occurrence": 3,
+    "npmi": 0.5087
+  },
+  {
+    "source": "decline of academia",
+    "target": "public scholarly funding",
+    "co_occurrence": 3,
+    "npmi": 0.5087
+  },
+  {
+    "source": "educational instability",
+    "target": "higher education crisis",
+    "co_occurrence": 3,
+    "npmi": 0.5087
+  },
+  {
+    "source": "educational instability",
+    "target": "public scholarly funding",
+    "co_occurrence": 3,
+    "npmi": 0.5087
+  },
+  {
+    "source": "education crisis",
+    "target": "outdated education model",
+    "co_occurrence": 5,
+    "npmi": 0.4974
+  },
+  {
+    "source": "educational instability",
+    "target": "outdated education model",
+    "co_occurrence": 5,
+    "npmi": 0.4974
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "npmi": 0.4886
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "systemic education failure",
+    "co_occurrence": 3,
+    "npmi": 0.4542
+  },
+  {
+    "source": "AI assisted process",
+    "target": "outdated education model",
+    "co_occurrence": 4,
+    "npmi": 0.4354
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "outdated education model",
+    "co_occurrence": 4,
+    "npmi": 0.4354
+  },
+  {
+    "source": "generative AI",
+    "target": "outdated education model",
+    "co_occurrence": 4,
+    "npmi": 0.4354
+  },
+  {
+    "source": "instructional excellence",
+    "target": "outdated education model",
+    "co_occurrence": 4,
+    "npmi": 0.4354
+  },
+  {
+    "source": "outdated education model",
+    "target": "systemic education failure",
+    "co_occurrence": 4,
+    "npmi": 0.4354
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "tuition affordability",
+    "co_occurrence": 3,
+    "npmi": 0.421
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "npmi": 0.421
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "decline of academia",
+    "co_occurrence": 3,
+    "npmi": 0.421
+  },
+  {
+    "source": "scholarly funding",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.39
+  },
+  {
+    "source": "school budgets",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.39
+  },
+  {
+    "source": "faculty careers",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.39
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.39
+  },
+  {
+    "source": "academic collapse",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.3752
+  },
+  {
+    "source": "educational decline",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.3752
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.3752
+  },
+  {
+    "source": "edtech",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.3752
+  },
+  {
+    "source": "instructional practice",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.3752
+  },
+  {
+    "source": "curricular design",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.3752
+  },
+  {
+    "source": "empirical research",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.3752
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "npmi": 0.3469
+  },
+  {
+    "source": "decline of academia",
+    "target": "outdated education model",
+    "co_occurrence": 4,
+    "npmi": 0.3109
+  },
+  {
+    "source": "higher education crisis",
+    "target": "outdated education model",
+    "co_occurrence": 4,
+    "npmi": 0.3109
+  },
+  {
+    "source": "outdated education model",
+    "target": "pedagogical innovation",
+    "co_occurrence": 5,
+    "npmi": 0.2829
+  },
+  {
+    "source": "decline of academia",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.2827
+  },
+  {
+    "source": "education crisis",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.2827
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.2827
+  },
+  {
+    "source": "student experience",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.2827
+  },
+  {
+    "source": "university administrators",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.2827
+  },
+  {
+    "source": "outdated education model",
+    "target": "scholarly funding",
+    "co_occurrence": 3,
+    "npmi": 0.2368
+  },
+  {
+    "source": "outdated education model",
+    "target": "school budgets",
+    "co_occurrence": 3,
+    "npmi": 0.2368
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.2368
+  },
+  {
+    "source": "faculty precarity",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.2368
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.2368
+  },
+  {
+    "source": "tuition affordability",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.195
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.195
+  },
+  {
+    "source": "university policy",
+    "target": "university reform",
+    "co_occurrence": 5,
+    "npmi": 0.1423
+  },
+  {
+    "source": "outdated education model",
+    "target": "public scholarly funding",
+    "co_occurrence": 3,
+    "npmi": 0.1295
+  },
+  {
+    "source": "outdated education model",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "npmi": 0.1295
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": 0.0877
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.0418
+  },
+  {
+    "source": "tuition affordability",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": 0.0
+  },
+  {
+    "source": "outdated education model",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": -0.0965
+  }
+]

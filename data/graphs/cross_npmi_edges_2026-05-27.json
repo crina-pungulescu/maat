@@ -1,0 +1,442 @@
+[
+  {
+    "source": "mentor-student relationship",
+    "target": "participatory instruction",
+    "co_occurrence": 3,
+    "npmi": 1.0,
+    "source_cluster": "student_experience",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "participatory instruction",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "npmi": 0.8617,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "npmi": 0.7543,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "systemic education failure",
+    "co_occurrence": 3,
+    "npmi": 0.7233,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "university leadership",
+    "co_occurrence": 3,
+    "npmi": 0.6667,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "university administrators",
+    "co_occurrence": 4,
+    "npmi": 0.6492,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "education crisis",
+    "target": "school budgets",
+    "co_occurrence": 3,
+    "npmi": 0.616,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "educational instability",
+    "target": "scholarly funding",
+    "co_occurrence": 3,
+    "npmi": 0.616,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "npmi": 0.616,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "school budgets",
+    "co_occurrence": 3,
+    "npmi": 0.616,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "faculty careers",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "npmi": 0.616,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "faculty careers",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "npmi": 0.616,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "public scholarly funding",
+    "co_occurrence": 3,
+    "npmi": 0.616,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "decline of academia",
+    "target": "faculty precarity",
+    "co_occurrence": 3,
+    "npmi": 0.616,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "faculty_labour"
+  },
+  {
+    "source": "decline of academia",
+    "target": "faculty redundancy",
+    "co_occurrence": 3,
+    "npmi": 0.616,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "faculty_labour"
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "npmi": 0.6131,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "scholarly funding",
+    "target": "tuition affordability",
+    "co_occurrence": 3,
+    "npmi": 0.5283,
+    "source_cluster": "education_funding",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "decline of academia",
+    "target": "public scholarly funding",
+    "co_occurrence": 3,
+    "npmi": 0.5087,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "educational instability",
+    "target": "public scholarly funding",
+    "co_occurrence": 3,
+    "npmi": 0.5087,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "npmi": 0.4886,
+    "source_cluster": "education_funding",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "systemic education failure",
+    "co_occurrence": 3,
+    "npmi": 0.4542,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "AI assisted process",
+    "target": "outdated education model",
+    "co_occurrence": 4,
+    "npmi": 0.4354,
+    "source_cluster": "educational_technology",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "outdated education model",
+    "co_occurrence": 4,
+    "npmi": 0.4354,
+    "source_cluster": "educational_technology",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "generative AI",
+    "target": "outdated education model",
+    "co_occurrence": 4,
+    "npmi": 0.4354,
+    "source_cluster": "educational_technology",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "instructional excellence",
+    "target": "outdated education model",
+    "co_occurrence": 4,
+    "npmi": 0.4354,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "tuition affordability",
+    "co_occurrence": 3,
+    "npmi": 0.421,
+    "source_cluster": "education_funding",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "npmi": 0.421,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "decline of academia",
+    "co_occurrence": 3,
+    "npmi": 0.421,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "scholarly funding",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.39,
+    "source_cluster": "education_funding",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "school budgets",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.39,
+    "source_cluster": "education_funding",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "faculty careers",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.39,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.39,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "edtech",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.3752,
+    "source_cluster": "educational_technology",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "instructional practice",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.3752,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "curricular design",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.3752,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "empirical research",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.3752,
+    "source_cluster": "research_activities",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "npmi": 0.3469,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "outdated education model",
+    "target": "pedagogical innovation",
+    "co_occurrence": 5,
+    "npmi": 0.2829,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "decline of academia",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.2827,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "education crisis",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.2827,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.2827,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "student experience",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.2827,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "outdated education model",
+    "target": "scholarly funding",
+    "co_occurrence": 3,
+    "npmi": 0.2368,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "outdated education model",
+    "target": "school budgets",
+    "co_occurrence": 3,
+    "npmi": 0.2368,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.2368,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "faculty precarity",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.2368,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.2368,
+    "source_cluster": "academic_freedom",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "tuition affordability",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.195,
+    "source_cluster": "education_cost",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.195,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "outdated education model",
+    "target": "public scholarly funding",
+    "co_occurrence": 3,
+    "npmi": 0.1295,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "outdated education model",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "npmi": 0.1295,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": 0.0877,
+    "source_cluster": "education_funding",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.0418,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "tuition affordability",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": 0.0,
+    "source_cluster": "education_cost",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "outdated education model",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": -0.0965,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  }
+]
