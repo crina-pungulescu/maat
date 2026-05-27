@@ -1,8 +1,8 @@
 [
   {
     "topic": "Higher Education Crisis",
-    "count": 631,
-    "score": 0.463,
+    "count": 678,
+    "score": 0.4626,
     "topics": [
       "academic collapse",
       "academic model breakdown",
@@ -27,8 +27,8 @@
   },
   {
     "topic": "Teaching And Learning",
-    "count": 598,
-    "score": 0.449,
+    "count": 640,
+    "score": 0.4507,
     "topics": [
       "STEM qualification",
       "bachelor qualification",
@@ -64,8 +64,8 @@
   },
   {
     "topic": "Student Experience",
-    "count": 512,
-    "score": 0.4526,
+    "count": 532,
+    "score": 0.4521,
     "topics": [
       "college experience",
       "mentor-student relationship",
@@ -89,8 +89,8 @@
   },
   {
     "topic": "University Administration",
-    "count": 421,
-    "score": 0.4547,
+    "count": 453,
+    "score": 0.4544,
     "topics": [
       "board of regents",
       "board of trustees",
@@ -116,8 +116,8 @@
   },
   {
     "topic": "Faculty Labour",
-    "count": 331,
-    "score": 0.4373,
+    "count": 361,
+    "score": 0.4371,
     "topics": [
       "adjunct faculty",
       "faculty careers",
@@ -141,8 +141,8 @@
   },
   {
     "topic": "Education Funding",
-    "count": 111,
-    "score": 0.4513,
+    "count": 128,
+    "score": 0.4553,
     "topics": [
       "public scholarly funding",
       "scholarly endowments",
@@ -160,8 +160,8 @@
   },
   {
     "topic": "Research Activities",
-    "count": 97,
-    "score": 0.4525,
+    "count": 107,
+    "score": 0.4564,
     "topics": [
       "empirical research",
       "high-impact research",
@@ -175,17 +175,17 @@
       "theoretical research"
     ],
     "evidence": {
-      "article_id": "86492267b037f64f74ec4e89efb23212",
-      "headline": "Doping accademico e fabbriche di revisioni pilotate",
-      "url": "https://www.roars.it/doping-accademico-e-fabbriche-di-revisioni-pilotate/",
-      "topic": "empirical research",
-      "score": 0.5638
+      "article_id": "5aed384b87ec905d30430faeff2fd745",
+      "headline": "Opacità, automazione ed erosione della fiducia nell’editoria accademica",
+      "url": "https://www.roars.it/opacita-automazione-ed-erosione-della-fiducia-nelleditoria-accademica/",
+      "topic": "publication pressure",
+      "score": 0.6266
     }
   },
   {
     "topic": "Education Cost",
-    "count": 84,
-    "score": 0.4599,
+    "count": 103,
+    "score": 0.4551,
     "topics": [
       "cost barriers",
       "cost of attendance support",
@@ -193,6 +193,7 @@
       "fee waivers and bursaries",
       "financial hardship",
       "loan",
+      "need-based financial assistance",
       "need-based financial support",
       "scholarships",
       "tuition affordability",
@@ -208,8 +209,8 @@
   },
   {
     "topic": "Politics In Academia",
-    "count": 84,
-    "score": 0.4454,
+    "count": 89,
+    "score": 0.4445,
     "topics": [
       "NATO",
       "UN",
@@ -245,9 +246,62 @@
     }
   },
   {
+    "topic": "Academic Abuse",
+    "count": 82,
+    "score": 0.4352,
+    "topics": [
+      "administrative abuse",
+      "administrative coercion",
+      "bureaucratic gatekeeping",
+      "bureaucratic obstruction",
+      "career sabotage",
+      "disproportionate punishment",
+      "fear-driven self-silencing",
+      "procedural abuse",
+      "procedural manipulation",
+      "professional marginalisation",
+      "punitive exclusion exclusion",
+      "reputation damage tactics",
+      "risks attached to reporting abuse",
+      "scarcity-based exploitation",
+      "silencing criticism",
+      "suppressing dissent",
+      "weaponised collegiality",
+      "weaponised hierarchy"
+    ],
+    "evidence": {
+      "article_id": "1040bc42973bb546f213620581ebf53d",
+      "headline": "World’s largest study of child sexual abuse perpetrators reveals why they abuse",
+      "url": "https://theconversation.com/worlds-largest-study-of-child-sexual-abuse-perpetrators-reveals-why-they-abuse-275930",
+      "topic": "risks attached to reporting abuse",
+      "score": 0.5463
+    }
+  },
+  {
+    "topic": "Educational Technology",
+    "count": 78,
+    "score": 0.4637,
+    "topics": [
+      "AI assisted process",
+      "algorithmic assessment",
+      "artificial intelligence",
+      "automated grading",
+      "edtech",
+      "emerging technology",
+      "generative AI"
+    ],
+    "evidence": {
+      "article_id": "7e719542cf5b9096ea8dced03c492f7c",
+      "headline": "Artificial Intelligence, Mass Surveillance, and the Quiet Reengineering of Higher Education",
+      "url": "https://www.highereducationinquirer.org/2026/01/artificial-intelligence-mass.html",
+      "topic": "artificial intelligence",
+      "score": 0.6237
+    }
+  },
+  {
     "topic": "University Accreditation",
-    "count": 75,
-    "score": 0.457,
+    "count": 76,
+    "score": 0.4569,
     "topics": [
       "accreditation body",
       "accreditation compliance",
@@ -271,62 +325,9 @@
     }
   },
   {
-    "topic": "Academic Abuse",
-    "count": 72,
-    "score": 0.4317,
-    "topics": [
-      "administrative abuse",
-      "administrative coercion",
-      "bureaucratic gatekeeping",
-      "bureaucratic obstruction",
-      "career sabotage",
-      "disproportionate punishment",
-      "fear-driven self-silencing",
-      "procedural abuse",
-      "procedural manipulation",
-      "professional marginalisation",
-      "punitive exclusion exclusion",
-      "reputation damage tactics",
-      "risks attached to reporting abuse",
-      "scarcity-based exploitation",
-      "silencing criticism",
-      "suppressing dissent",
-      "weaponised collegiality",
-      "weaponised hierarchy"
-    ],
-    "evidence": {
-      "article_id": "d46e079175f0cb193a673f3c5f48082c",
-      "headline": "Metodologia pentru organizarea concursului de director și director adjunct în unitățile de învățământ preuniversitar, în consultare publică",
-      "url": "https://www.edu.ro/press_rel_32_2026",
-      "topic": "administrative coercion",
-      "score": 0.521
-    }
-  },
-  {
-    "topic": "Admissions Access In Higher Education",
-    "count": 63,
-    "score": 0.4417,
-    "topics": [
-      "admissions criteria",
-      "admissions selectivity",
-      "affirmative action",
-      "graduate management admission test",
-      "graduate record examination",
-      "scholastic aptitude test",
-      "widening participation"
-    ],
-    "evidence": {
-      "article_id": "e0366f2e54c05a745c0ba6981e6fc3cf",
-      "headline": "University wins record freedom of speech fine challenge",
-      "url": "https://www.bbc.com/news/articles/cp8pnwyy0zjo?at_medium=RSS&at_campaign=rss",
-      "topic": "graduate record examination",
-      "score": 0.5144
-    }
-  },
-  {
     "topic": "Academic Degradation Signals",
-    "count": 62,
-    "score": 0.4414,
+    "count": 69,
+    "score": 0.4412,
     "topics": [
       "credential inflation",
       "deteriorating outcomes",
@@ -351,29 +352,30 @@
     }
   },
   {
-    "topic": "Educational Technology",
-    "count": 61,
-    "score": 0.4752,
+    "topic": "Admissions Access In Higher Education",
+    "count": 65,
+    "score": 0.4419,
     "topics": [
-      "AI assisted process",
-      "artificial intelligence",
-      "automated grading",
-      "edtech",
-      "emerging technology",
-      "generative AI"
+      "admissions criteria",
+      "admissions selectivity",
+      "affirmative action",
+      "graduate management admission test",
+      "graduate record examination",
+      "scholastic aptitude test",
+      "widening participation"
     ],
     "evidence": {
-      "article_id": "7e719542cf5b9096ea8dced03c492f7c",
-      "headline": "Artificial Intelligence, Mass Surveillance, and the Quiet Reengineering of Higher Education",
-      "url": "https://www.highereducationinquirer.org/2026/01/artificial-intelligence-mass.html",
-      "topic": "artificial intelligence",
-      "score": 0.6237
+      "article_id": "e0366f2e54c05a745c0ba6981e6fc3cf",
+      "headline": "University wins record freedom of speech fine challenge",
+      "url": "https://www.bbc.com/news/articles/cp8pnwyy0zjo?at_medium=RSS&at_campaign=rss",
+      "topic": "graduate record examination",
+      "score": 0.5144
     }
   },
   {
     "topic": "Science Society",
-    "count": 48,
-    "score": 0.4428,
+    "count": 53,
+    "score": 0.4449,
     "topics": [
       "contested scientific claims",
       "fabricated news",
@@ -394,9 +396,54 @@
     }
   },
   {
+    "topic": "Systemic Inequity In Higher Education",
+    "count": 43,
+    "score": 0.4593,
+    "topics": [
+      "accessibility equity",
+      "bullying",
+      "discrimination",
+      "diversity equity and inclusion initiatives",
+      "gender discrimination",
+      "harmful culture",
+      "hostile culture",
+      "inclusivity",
+      "sexual harassment",
+      "workplace bias",
+      "workplace harassment"
+    ],
+    "evidence": {
+      "article_id": "0d92af03395822218b90186f84e8f9a0",
+      "headline": "The new sex-based harassment law could help universities – or make things worse",
+      "url": "https://wonkhe.com/blogs/the-new-sex-based-harassment-law-could-help-universities-or-make-things-worse/",
+      "topic": "sexual harassment",
+      "score": 0.6343
+    }
+  },
+  {
+    "topic": "Academic Freedom",
+    "count": 42,
+    "score": 0.4383,
+    "topics": [
+      "censorship",
+      "freedom of expression",
+      "freedom of opinion",
+      "freedom of speech",
+      "intellectual autonomy",
+      "thought independence"
+    ],
+    "evidence": {
+      "article_id": "ab677369858e9ea59788c717393284a5",
+      "headline": "AI and the rewriting of the psychological contract: a leadership challenge for HE",
+      "url": "https://www.advance-he.ac.uk/news-and-views/ai-and-rewriting-psychological-contract-leadership-challenge-he",
+      "topic": "intellectual autonomy",
+      "score": 0.5562
+    }
+  },
+  {
     "topic": "Internationalisation Of Academia",
-    "count": 38,
-    "score": 0.4595,
+    "count": 40,
+    "score": 0.4587,
     "topics": [
       "cross-border experience",
       "global experience",
@@ -412,51 +459,6 @@
       "url": "https://globalhighered.wordpress.com/2018/01/02/deep-internationalization-infrastructure/",
       "topic": "international partnerships",
       "score": 0.5492
-    }
-  },
-  {
-    "topic": "Systemic Inequity In Higher Education",
-    "count": 37,
-    "score": 0.4632,
-    "topics": [
-      "accessibility equity",
-      "bullying",
-      "discrimination",
-      "diversity equity and inclusion initiatives",
-      "gender discrimination",
-      "harmful culture",
-      "hostile culture",
-      "inclusivity",
-      "sexual harassment",
-      "workplace bias",
-      "workplace harassment"
-    ],
-    "evidence": {
-      "article_id": "3c67e225a103e381d7c66fcc8d921588",
-      "headline": "Sexual harassment more than twice as prevalent at England’s top universities, analysis finds",
-      "url": "https://www.theguardian.com/education/2026/may/08/sexual-harassment-statistics-england-top-universities-analysis",
-      "topic": "sexual harassment",
-      "score": 0.6187
-    }
-  },
-  {
-    "topic": "Academic Freedom",
-    "count": 33,
-    "score": 0.4411,
-    "topics": [
-      "censorship",
-      "freedom of expression",
-      "freedom of opinion",
-      "freedom of speech",
-      "intellectual autonomy",
-      "thought independence"
-    ],
-    "evidence": {
-      "article_id": "ab677369858e9ea59788c717393284a5",
-      "headline": "AI and the rewriting of the psychological contract: a leadership challenge for HE",
-      "url": "https://www.advance-he.ac.uk/news-and-views/ai-and-rewriting-psychological-contract-leadership-challenge-he",
-      "topic": "intellectual autonomy",
-      "score": 0.5562
     }
   },
   {
@@ -494,8 +496,8 @@
   },
   {
     "topic": "Accountability Gaps In Academia",
-    "count": 26,
-    "score": 0.4196,
+    "count": 31,
+    "score": 0.4223,
     "topics": [
       "abuse of office",
       "conflict of interest",
@@ -516,8 +518,8 @@
   },
   {
     "topic": "Financial Constraints In Academia",
-    "count": 19,
-    "score": 0.4599,
+    "count": 22,
+    "score": 0.4511,
     "topics": [
       "austerity",
       "budget constraints",
@@ -593,30 +595,16 @@
     }
   },
   {
-    "topic": "Campus Infrastructure",
-    "count": 5,
-    "score": 0.4217,
-    "topics": [
-      "infrastructure",
-      "laboratories"
-    ],
-    "evidence": {
-      "article_id": "291ec9cc64f4c2049c7f924076f4ea69",
-      "headline": "Leitlinien-Check 2026: Das HFD-Update zur strategischen KI-Integration an Hochschulen",
-      "url": "https://www.che.de/2026/leitlinien-check-2026-das-hfd-update-zur-strategischen-ki-integration-an-hochschulen/",
-      "topic": "laboratories",
-      "score": 0.4397
-    }
-  },
-  {
     "topic": "Ethical Conflicts In Academia",
-    "count": 4,
-    "score": 0.4385,
+    "count": 7,
+    "score": 0.4311,
     "topics": [
       "corporate interests",
       "deliberate misrepresentation",
       "ethical impropriety",
-      "knowledge commodification"
+      "factual misrepresentation",
+      "knowledge commodification",
+      "plagiarism"
     ],
     "evidence": {
       "article_id": "21713615b4ee327387de79e56abbdb3e",
@@ -624,6 +612,55 @@
       "url": "https://www.facultyfocus.com/articles/teaching-and-learning/fueling-a-love-of-learning-through-discovery/",
       "topic": "knowledge commodification",
       "score": 0.5107
+    }
+  },
+  {
+    "topic": "Campus Infrastructure",
+    "count": 6,
+    "score": 0.4276,
+    "topics": [
+      "infrastructure",
+      "laboratories"
+    ],
+    "evidence": {
+      "article_id": "7ab56d6cad3a0685785d57c0c9c2fb66",
+      "headline": "Higher Education Network Infrastructure in the Age of AI",
+      "url": "https://edtechmagazine.com/higher/article/2026/05/higher-education-network-infrastructure-age-ai",
+      "topic": "infrastructure",
+      "score": 0.4503
+    }
+  },
+  {
+    "topic": "Norm Violations In Academia",
+    "count": 3,
+    "score": 0.4103,
+    "topics": [
+      "corruption",
+      "misconduct"
+    ],
+    "evidence": {
+      "article_id": "faa8e21dbc42a97f6a38b9a449279f4b",
+      "headline": "A Syllabus of Resistance",
+      "url": "https://www.highereducationinquirer.org/2026/01/a-syllabus-of-resistance.html",
+      "topic": "corruption",
+      "score": 0.4155
+    }
+  },
+  {
+    "topic": "Health Professions Education",
+    "count": 3,
+    "score": 0.4472,
+    "topics": [
+      "health profession",
+      "nursing profession",
+      "training hospitals"
+    ],
+    "evidence": {
+      "article_id": "51c2b38a9b263a72ff69248bd6601106",
+      "headline": "How schools are using AI and VR to train the next generation of nurses",
+      "url": "https://www.pbs.org/newshour/show/how-schools-are-using-ai-and-vr-to-train-the-next-generation-of-nurses",
+      "topic": "nursing profession",
+      "score": 0.4987
     }
   },
   {
@@ -640,36 +677,6 @@
       "url": "https://www.che.de/2026/che-hochschulranking-2026-27-studierende-bewerten-ihre-studienbedingungen-sehr-positiv/",
       "topic": "rankings",
       "score": 0.4142
-    }
-  },
-  {
-    "topic": "Norm Violations In Academia",
-    "count": 2,
-    "score": 0.4096,
-    "topics": [
-      "corruption"
-    ],
-    "evidence": {
-      "article_id": "faa8e21dbc42a97f6a38b9a449279f4b",
-      "headline": "A Syllabus of Resistance",
-      "url": "https://www.highereducationinquirer.org/2026/01/a-syllabus-of-resistance.html",
-      "topic": "corruption",
-      "score": 0.4155
-    }
-  },
-  {
-    "topic": "Health Professions Education",
-    "count": 1,
-    "score": 0.4177,
-    "topics": [
-      "health profession"
-    ],
-    "evidence": {
-      "article_id": "33d41f29c60f84753606dd591d9723db",
-      "headline": "Fascicolo Sanitario Elettronico 2.0, il dato sanitario diventa infrastruttura",
-      "url": "https://www.agendadigitale.eu/sanita/fascicolo-sanitario-elettronico-2-0-il-dato-sanitario-diventa-infrastruttura/",
-      "topic": "health profession",
-      "score": 0.4177
     }
   }
 ]
