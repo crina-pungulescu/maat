@@ -26,6 +26,14 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - run: |
+          mkdir -p data/raw
+          mkdir -p data/topics
+          mkdir -p data/graphs
+          mkdir -p data/clusters
+          mkdir -p docs/assets
+          mkdir -p docs/_data
+
       - run: python src/ingestion.py
 
       - run: echo "MAAT RUN COMPLETE $(date)" > data/last_run.txt
@@ -33,7 +41,9 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: maat-data
-          path: data/
+          path: |
+            data/
+            docs/
 
   topics:
     needs: scrape
@@ -51,14 +61,19 @@ jobs:
       - uses: actions/download-artifact@v4
         with:
           name: maat-data
-          path: data/
+          path: .
+
+      - run: |
+          mkdir -p data/topics
 
       - run: python -u src/topic_engine.py
 
       - uses: actions/upload-artifact@v4
         with:
           name: maat-data
-          path: data/
+          path: |
+            data/
+            docs/
 
   graph:
     needs: topics
@@ -76,7 +91,11 @@ jobs:
       - uses: actions/download-artifact@v4
         with:
           name: maat-data
-          path: data/
+          path: .
+
+      - run: |
+          mkdir -p data/graphs
+          mkdir -p docs/assets
 
       - run: python -u src/graph_engine.py
 
@@ -85,7 +104,7 @@ jobs:
           name: maat-data
           path: |
             data/
-            docs/assets/
+            docs/
 
   cluster:
     needs: graph
@@ -102,6 +121,9 @@ jobs:
         with:
           name: maat-data
           path: .
+
+      - run: |
+          mkdir -p data/clusters
 
       - run: python src/cluster_evidence_engine.py
 
@@ -132,6 +154,9 @@ jobs:
         with:
           name: maat-data
           path: .
+
+      - run: |
+          mkdir -p docs/_data
 
       - run: python -u src/visualisation_engine.py
 
