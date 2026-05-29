@@ -1,8 +1,8 @@
 [
   {
     "topic": "Higher Education Crisis",
-    "count": 723,
-    "score": 0.4611,
+    "count": 746,
+    "score": 0.4603,
     "topics": [
       "academic collapse",
       "academic model breakdown",
@@ -27,7 +27,7 @@
   },
   {
     "topic": "Teaching And Learning",
-    "count": 674,
+    "count": 692,
     "score": 0.4497,
     "topics": [
       "STEM qualification",
@@ -64,7 +64,7 @@
   },
   {
     "topic": "Student Experience",
-    "count": 565,
+    "count": 583,
     "score": 0.4522,
     "topics": [
       "college experience",
@@ -89,8 +89,8 @@
   },
   {
     "topic": "University Administration",
-    "count": 477,
-    "score": 0.4537,
+    "count": 488,
+    "score": 0.4533,
     "topics": [
       "board of regents",
       "board of trustees",
@@ -116,8 +116,8 @@
   },
   {
     "topic": "Faculty Labour",
-    "count": 375,
-    "score": 0.4372,
+    "count": 379,
+    "score": 0.437,
     "topics": [
       "adjunct faculty",
       "faculty careers",
@@ -141,8 +141,8 @@
   },
   {
     "topic": "Education Funding",
-    "count": 130,
-    "score": 0.455,
+    "count": 134,
+    "score": 0.4543,
     "topics": [
       "public scholarly funding",
       "scholarly endowments",
@@ -160,8 +160,8 @@
   },
   {
     "topic": "Research Activities",
-    "count": 112,
-    "score": 0.4563,
+    "count": 117,
+    "score": 0.4561,
     "topics": [
       "empirical research",
       "high-impact research",
@@ -184,8 +184,8 @@
   },
   {
     "topic": "Education Cost",
-    "count": 105,
-    "score": 0.4544,
+    "count": 107,
+    "score": 0.4543,
     "topics": [
       "cost barriers",
       "cost of attendance support",
@@ -209,8 +209,8 @@
   },
   {
     "topic": "Politics In Academia",
-    "count": 91,
-    "score": 0.4441,
+    "count": 102,
+    "score": 0.4419,
     "topics": [
       "NATO",
       "UN",
@@ -235,6 +235,7 @@
       "regime",
       "sanctions",
       "sovereignty",
+      "uprising",
       "war"
     ],
     "evidence": {
@@ -246,30 +247,9 @@
     }
   },
   {
-    "topic": "Educational Technology",
-    "count": 84,
-    "score": 0.4648,
-    "topics": [
-      "AI assisted process",
-      "algorithmic assessment",
-      "artificial intelligence",
-      "automated grading",
-      "edtech",
-      "emerging technology",
-      "generative AI"
-    ],
-    "evidence": {
-      "article_id": "7e719542cf5b9096ea8dced03c492f7c",
-      "headline": "Artificial Intelligence, Mass Surveillance, and the Quiet Reengineering of Higher Education",
-      "url": "https://www.highereducationinquirer.org/2026/01/artificial-intelligence-mass.html",
-      "topic": "artificial intelligence",
-      "score": 0.6237
-    }
-  },
-  {
     "topic": "Academic Abuse",
-    "count": 83,
-    "score": 0.4352,
+    "count": 88,
+    "score": 0.4346,
     "topics": [
       "administrative abuse",
       "administrative coercion",
@@ -299,6 +279,28 @@
     }
   },
   {
+    "topic": "Educational Technology",
+    "count": 85,
+    "score": 0.459,
+    "topics": [
+      "AI assisted process",
+      "algorithmic assessment",
+      "artificial intelligence",
+      "automated grading",
+      "digital tools",
+      "edtech",
+      "emerging technology",
+      "generative AI"
+    ],
+    "evidence": {
+      "article_id": "7e719542cf5b9096ea8dced03c492f7c",
+      "headline": "Artificial Intelligence, Mass Surveillance, and the Quiet Reengineering of Higher Education",
+      "url": "https://www.highereducationinquirer.org/2026/01/artificial-intelligence-mass.html",
+      "topic": "artificial intelligence",
+      "score": 0.6237
+    }
+  },
+  {
     "topic": "University Accreditation",
     "count": 80,
     "score": 0.4556,
@@ -325,30 +327,9 @@
     }
   },
   {
-    "topic": "Admissions Access In Higher Education",
-    "count": 71,
-    "score": 0.4413,
-    "topics": [
-      "admissions criteria",
-      "admissions selectivity",
-      "affirmative action",
-      "graduate management admission test",
-      "graduate record examination",
-      "scholastic aptitude test",
-      "widening participation"
-    ],
-    "evidence": {
-      "article_id": "ee41b32d0b207e776498c0f93f0d2d64",
-      "headline": "Hacking claims, mismatched answer-sheets: Controversies rock school exam in India",
-      "url": "https://www.bbc.com/news/articles/cy42e8eljpno?at_medium=RSS&at_campaign=rss",
-      "topic": "scholastic aptitude test",
-      "score": 0.5225
-    }
-  },
-  {
     "topic": "Academic Degradation Signals",
-    "count": 70,
-    "score": 0.4409,
+    "count": 71,
+    "score": 0.4411,
     "topics": [
       "credential inflation",
       "deteriorating outcomes",
@@ -373,9 +354,30 @@
     }
   },
   {
+    "topic": "Admissions Access In Higher Education",
+    "count": 71,
+    "score": 0.4413,
+    "topics": [
+      "admissions criteria",
+      "admissions selectivity",
+      "affirmative action",
+      "graduate management admission test",
+      "graduate record examination",
+      "scholastic aptitude test",
+      "widening participation"
+    ],
+    "evidence": {
+      "article_id": "ee41b32d0b207e776498c0f93f0d2d64",
+      "headline": "Hacking claims, mismatched answer-sheets: Controversies rock school exam in India",
+      "url": "https://www.bbc.com/news/articles/cy42e8eljpno?at_medium=RSS&at_campaign=rss",
+      "topic": "scholastic aptitude test",
+      "score": 0.5225
+    }
+  },
+  {
     "topic": "Science Society",
-    "count": 54,
-    "score": 0.4454,
+    "count": 58,
+    "score": 0.4439,
     "topics": [
       "contested scientific claims",
       "fabricated news",
@@ -396,29 +398,8 @@
     }
   },
   {
-    "topic": "Internationalisation Of Academia",
-    "count": 44,
-    "score": 0.4572,
-    "topics": [
-      "cross-border experience",
-      "global experience",
-      "international cohorts",
-      "international mobility",
-      "international partnerships",
-      "study abroad",
-      "transnational mobility"
-    ],
-    "evidence": {
-      "article_id": "e9f1644a6f5d3a79310f5f638ba82101",
-      "headline": "Deep Internationalization & Infrastructure",
-      "url": "https://globalhighered.wordpress.com/2018/01/02/deep-internationalization-infrastructure/",
-      "topic": "international partnerships",
-      "score": 0.5492
-    }
-  },
-  {
     "topic": "Academic Freedom",
-    "count": 44,
+    "count": 49,
     "score": 0.4403,
     "topics": [
       "censorship",
@@ -437,9 +418,30 @@
     }
   },
   {
+    "topic": "Internationalisation Of Academia",
+    "count": 48,
+    "score": 0.4582,
+    "topics": [
+      "cross-border experience",
+      "global experience",
+      "international cohorts",
+      "international mobility",
+      "international partnerships",
+      "study abroad",
+      "transnational mobility"
+    ],
+    "evidence": {
+      "article_id": "e9f1644a6f5d3a79310f5f638ba82101",
+      "headline": "Deep Internationalization & Infrastructure",
+      "url": "https://globalhighered.wordpress.com/2018/01/02/deep-internationalization-infrastructure/",
+      "topic": "international partnerships",
+      "score": 0.5492
+    }
+  },
+  {
     "topic": "Systemic Inequity In Higher Education",
-    "count": 43,
-    "score": 0.4593,
+    "count": 44,
+    "score": 0.4591,
     "topics": [
       "accessibility equity",
       "bullying",
@@ -463,11 +465,13 @@
   },
   {
     "topic": "Higher Education By Region",
-    "count": 32,
-    "score": 0.4575,
+    "count": 37,
+    "score": 0.4569,
     "topics": [
+      "argentina",
       "asia",
       "australia",
+      "brazil",
       "canada",
       "central asia",
       "china",
@@ -479,6 +483,7 @@
       "india",
       "indonesia",
       "italy",
+      "latin america",
       "russia",
       "south africa",
       "south america",
@@ -518,8 +523,8 @@
   },
   {
     "topic": "Financial Constraints In Academia",
-    "count": 22,
-    "score": 0.4511,
+    "count": 23,
+    "score": 0.4505,
     "topics": [
       "austerity",
       "budget constraints",
@@ -536,8 +541,8 @@
   },
   {
     "topic": "Academic Standards",
-    "count": 17,
-    "score": 0.4358,
+    "count": 18,
+    "score": 0.4355,
     "topics": [
       "accountability",
       "accountable conduct",
@@ -558,6 +563,25 @@
     }
   },
   {
+    "topic": "Sustainability Climate In Academia",
+    "count": 17,
+    "score": 0.4832,
+    "topics": [
+      "carbon neutrality",
+      "climate change",
+      "environmental sustainability",
+      "green campus",
+      "sustainability"
+    ],
+    "evidence": {
+      "article_id": "37f71834690ecba2e383340f2d1d02c8",
+      "headline": "Marketing sustainability: How to turn planet-positive wins into enrolment growth",
+      "url": "https://www.terminalfour.com/blog/posts/marketing-sustainability-how-to-turn-planet-positive-wins-into-enrolment-growth.html",
+      "topic": "environmental sustainability",
+      "score": 0.6095
+    }
+  },
+  {
     "topic": "Academic Future Outlook",
     "count": 15,
     "score": 0.4342,
@@ -573,25 +597,6 @@
       "url": "https://edualliancegroup.blog/2026/05/11/money-mission-and-culture-strategic-planning-for-colleges-under-pressure/",
       "topic": "future planning",
       "score": 0.5363
-    }
-  },
-  {
-    "topic": "Sustainability Climate In Academia",
-    "count": 14,
-    "score": 0.4832,
-    "topics": [
-      "carbon neutrality",
-      "climate change",
-      "environmental sustainability",
-      "green campus",
-      "sustainability"
-    ],
-    "evidence": {
-      "article_id": "37f71834690ecba2e383340f2d1d02c8",
-      "headline": "Marketing sustainability: How to turn planet-positive wins into enrolment growth",
-      "url": "https://www.terminalfour.com/blog/posts/marketing-sustainability-how-to-turn-planet-positive-wins-into-enrolment-growth.html",
-      "topic": "environmental sustainability",
-      "score": 0.6095
     }
   },
   {
@@ -616,8 +621,8 @@
   },
   {
     "topic": "Campus Infrastructure",
-    "count": 6,
-    "score": 0.4276,
+    "count": 7,
+    "score": 0.4256,
     "topics": [
       "infrastructure",
       "laboratories"
