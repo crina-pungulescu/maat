@@ -1,0 +1,151 @@
+name: MAAT Daily Pipeline
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 1 * * *'
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+
+      - run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - run: python src/ingestion.py
+
+      - run: echo "MAAT RUN COMPLETE $(date)" > data/last_run.txt
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: maat-data
+          path: data/
+
+  topics:
+    needs: scrape
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+
+      - run: pip install -r requirements.txt
+
+      - uses: actions/download-artifact@v4
+        with:
+          name: maat-data
+          path: data/
+
+      - run: python -u src/topic_engine.py
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: maat-data
+          path: data/
+
+  graph:
+    needs: topics
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+
+      - run: pip install -r requirements.txt
+
+      - uses: actions/download-artifact@v4
+        with:
+          name: maat-data
+          path: data/
+
+      - run: python -u src/graph_engine.py
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: maat-data
+          path: |
+            data/
+            docs/assets/
+
+  cluster:
+    needs: graph
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+
+      - uses: actions/download-artifact@v4
+        with:
+          name: maat-data
+          path: .
+
+      - run: python src/cluster_evidence_engine.py
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: maat-data
+          path: |
+            data/
+            docs/
+
+  visualise:
+    needs: cluster
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+
+      - uses: actions/download-artifact@v4
+        with:
+          name: maat-data
+          path: .
+
+      - run: python -u src/visualisation_engine.py
+
+      - run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add data/
+          git add docs/
+
+          git diff --cached --quiet && echo "No changes" && exit 0
+
+          git commit -m "MAAT daily pipeline update"
+
+          git pull --rebase origin main || echo "nothing to rebase"
+
+          git push
