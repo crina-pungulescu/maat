@@ -1,0 +1,352 @@
+[
+  {
+    "source": "brazil",
+    "target": "latin america",
+    "weight": 1
+  },
+  {
+    "source": "brazil",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "brazil",
+    "target": "uprising",
+    "weight": 1
+  },
+  {
+    "source": "latin america",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "latin america",
+    "target": "uprising",
+    "weight": 1
+  },
+  {
+    "source": "political interference",
+    "target": "uprising",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "automated grading",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "educational decline",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "incompetence",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "standardised testing",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "validation process",
+    "weight": 1
+  },
+  {
+    "source": "automated grading",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "automated grading",
+    "target": "educational decline",
+    "weight": 1
+  },
+  {
+    "source": "automated grading",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "automated grading",
+    "target": "incompetence",
+    "weight": 1
+  },
+  {
+    "source": "automated grading",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "automated grading",
+    "target": "standardised testing",
+    "weight": 1
+  },
+  {
+    "source": "automated grading",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "automated grading",
+    "target": "validation process",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "educational decline",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "incompetence",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "standardised testing",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "validation process",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "incompetence",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "standardised testing",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "validation process",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "incompetence",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "standardised testing",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "validation process",
+    "weight": 1
+  },
+  {
+    "source": "incompetence",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "incompetence",
+    "target": "standardised testing",
+    "weight": 1
+  },
+  {
+    "source": "incompetence",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "incompetence",
+    "target": "validation process",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "standardised testing",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "validation process",
+    "weight": 1
+  },
+  {
+    "source": "standardised testing",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "standardised testing",
+    "target": "validation process",
+    "weight": 1
+  },
+  {
+    "source": "systemic education failure",
+    "target": "validation process",
+    "weight": 1
+  },
+  {
+    "source": "political interference",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "political interference",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "political repression",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "edtech",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "employability gap",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "edtech",
+    "target": "employability gap",
+    "weight": 1
+  },
+  {
+    "source": "edtech",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "employability gap",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "disproportionate punishment",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "empirical research",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "health profession",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "whistleblowing risks",
+    "weight": 1
+  },
+  {
+    "source": "disproportionate punishment",
+    "target": "empirical research",
+    "weight": 1
+  },
+  {
+    "source": "disproportionate punishment",
+    "target": "health profession",
+    "weight": 1
+  },
+  {
+    "source": "disproportionate punishment",
+    "target": "whistleblowing risks",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "health profession",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "whistleblowing risks",
+    "weight": 1
+  },
+  {
+    "source": "health profession",
+    "target": "whistleblowing risks",
+    "weight": 1
+  }
+]
