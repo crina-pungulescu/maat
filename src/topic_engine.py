@@ -427,7 +427,6 @@ MAAT_TOPICS = {
         "visa restrictions",
         "global experience",
         "cross-border experience",
-        "international partnerships",
         "transnational mobility",
         "brain drain"
     ],
