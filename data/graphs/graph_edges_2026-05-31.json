@@ -1,0 +1,107 @@
+[
+  {
+    "source": "student engagement",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "harmful culture",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "media falsehoods",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "propaganda",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "harmful culture",
+    "target": "media falsehoods",
+    "weight": 1
+  },
+  {
+    "source": "harmful culture",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "harmful culture",
+    "target": "propaganda",
+    "weight": 1
+  },
+  {
+    "source": "harmful culture",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "media falsehoods",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "media falsehoods",
+    "target": "propaganda",
+    "weight": 1
+  },
+  {
+    "source": "media falsehoods",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "propaganda",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "propaganda",
+    "target": "public misinformation",
+    "weight": 1
+  }
+]
