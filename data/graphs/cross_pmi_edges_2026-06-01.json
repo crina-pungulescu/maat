@@ -1,0 +1,1394 @@
+[
+  {
+    "source": "faculty careers",
+    "target": "student satisfaction",
+    "co_occurrence": 3,
+    "pmi": 2.2224,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "decline of academia",
+    "co_occurrence": 3,
+    "pmi": 1.8074,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "decline of academia",
+    "target": "faculty precarity",
+    "co_occurrence": 3,
+    "pmi": 1.8074,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "faculty_labour"
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "pmi": 1.8074,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "university leadership",
+    "co_occurrence": 3,
+    "pmi": 1.8074,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "scholarly funding",
+    "target": "scholarships",
+    "co_occurrence": 3,
+    "pmi": 1.8074,
+    "source_cluster": "education_funding",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "scholarships",
+    "target": "student retention",
+    "co_occurrence": 3,
+    "pmi": 1.8074,
+    "source_cluster": "education_cost",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "student wellbeing",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "pmi": 1.8074,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "student wellbeing",
+    "target": "university leadership",
+    "co_occurrence": 3,
+    "pmi": 1.8074,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "academic collapse",
+    "target": "adjunct faculty",
+    "co_occurrence": 3,
+    "pmi": 1.4854,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "faculty_labour"
+  },
+  {
+    "source": "academic collapse",
+    "target": "faculty precarity",
+    "co_occurrence": 3,
+    "pmi": 1.4854,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "faculty_labour"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "adjunct faculty",
+    "co_occurrence": 3,
+    "pmi": 1.4854,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "faculty_labour"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "faculty careers",
+    "co_occurrence": 3,
+    "pmi": 1.4854,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "faculty_labour"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "faculty precarity",
+    "co_occurrence": 3,
+    "pmi": 1.4854,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "faculty_labour"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "scholarly funding",
+    "co_occurrence": 3,
+    "pmi": 1.4854,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student satisfaction",
+    "co_occurrence": 3,
+    "pmi": 1.4854,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "college experience",
+    "co_occurrence": 3,
+    "pmi": 1.4854,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "college experience",
+    "target": "faculty careers",
+    "co_occurrence": 3,
+    "pmi": 1.4854,
+    "source_cluster": "student_experience",
+    "target_cluster": "faculty_labour"
+  },
+  {
+    "source": "college experience",
+    "target": "faculty precarity",
+    "co_occurrence": 3,
+    "pmi": 1.4854,
+    "source_cluster": "student_experience",
+    "target_cluster": "faculty_labour"
+  },
+  {
+    "source": "college experience",
+    "target": "scholarly funding",
+    "co_occurrence": 3,
+    "pmi": 1.4854,
+    "source_cluster": "student_experience",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "college experience",
+    "target": "scholarships",
+    "co_occurrence": 4,
+    "pmi": 1.4854,
+    "source_cluster": "student_experience",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "scholarly funding",
+    "target": "tuition affordability",
+    "co_occurrence": 3,
+    "pmi": 1.4854,
+    "source_cluster": "education_funding",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "student retention",
+    "target": "tuition affordability",
+    "co_occurrence": 3,
+    "pmi": 1.4854,
+    "source_cluster": "student_experience",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "college experience",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 1.4854,
+    "source_cluster": "student_experience",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "decline of academia",
+    "target": "faculty redundancy",
+    "co_occurrence": 3,
+    "pmi": 1.3923,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "faculty_labour"
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "pmi": 1.3923,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "pmi": 1.2224,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "pmi": 1.2224,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "faculty careers",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "pmi": 1.2224,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "faculty careers",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "pmi": 1.2224,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "faculty precarity",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "pmi": 1.2224,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "faculty precarity",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "pmi": 1.2224,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "student experience",
+    "co_occurrence": 4,
+    "pmi": 1.2224,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "scholarly funding",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "pmi": 1.2224,
+    "source_cluster": "education_funding",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "scholarly funding",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "pmi": 1.2224,
+    "source_cluster": "education_funding",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "scholarships",
+    "target": "student engagement",
+    "co_occurrence": 4,
+    "pmi": 1.2224,
+    "source_cluster": "education_cost",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "scholarships",
+    "target": "student experience",
+    "co_occurrence": 4,
+    "pmi": 1.2224,
+    "source_cluster": "education_cost",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "student experience",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "pmi": 1.2224,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "student experience",
+    "target": "university leadership",
+    "co_occurrence": 3,
+    "pmi": 1.2224,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "student engagement",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 1.2224,
+    "source_cluster": "student_experience",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "student experience",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 1.2224,
+    "source_cluster": "student_experience",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "college experience",
+    "co_occurrence": 4,
+    "pmi": 1.1635,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "college experience",
+    "target": "tuition affordability",
+    "co_occurrence": 4,
+    "pmi": 1.1635,
+    "source_cluster": "student_experience",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "academic collapse",
+    "target": "faculty redundancy",
+    "co_occurrence": 3,
+    "pmi": 1.0704,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "faculty_labour"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "faculty redundancy",
+    "co_occurrence": 3,
+    "pmi": 1.0704,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "faculty_labour"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "scholarships",
+    "co_occurrence": 3,
+    "pmi": 1.0704,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "college experience",
+    "target": "decline of academia",
+    "co_occurrence": 3,
+    "pmi": 1.0704,
+    "source_cluster": "student_experience",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "college experience",
+    "target": "faculty redundancy",
+    "co_occurrence": 3,
+    "pmi": 1.0704,
+    "source_cluster": "student_experience",
+    "target_cluster": "faculty_labour"
+  },
+  {
+    "source": "study abroad",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.0,
+    "source_cluster": "internationalisation_of_academia",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "student life",
+    "co_occurrence": 3,
+    "pmi": 1.0,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.0,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "college experience",
+    "target": "university policy",
+    "co_occurrence": 5,
+    "pmi": 1.0,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "faculty careers",
+    "target": "student life",
+    "co_occurrence": 3,
+    "pmi": 1.0,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "faculty careers",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.0,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "faculty precarity",
+    "target": "student life",
+    "co_occurrence": 3,
+    "pmi": 1.0,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "faculty precarity",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.0,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "student life",
+    "co_occurrence": 4,
+    "pmi": 1.0,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "scholarly funding",
+    "target": "student life",
+    "co_occurrence": 3,
+    "pmi": 1.0,
+    "source_cluster": "education_funding",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "scholarly funding",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.0,
+    "source_cluster": "education_funding",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "scholarships",
+    "target": "student life",
+    "co_occurrence": 4,
+    "pmi": 1.0,
+    "source_cluster": "education_cost",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "scholarships",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "pmi": 1.0,
+    "source_cluster": "education_cost",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "student engagement",
+    "target": "university policy",
+    "co_occurrence": 6,
+    "pmi": 1.0,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "student life",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "pmi": 1.0,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "student life",
+    "target": "university leadership",
+    "co_occurrence": 3,
+    "pmi": 1.0,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "student retention",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.0,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "student satisfaction",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.0,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "student life",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 1.0,
+    "source_cluster": "student_experience",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "undergraduate pathway",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.0,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student engagement",
+    "co_occurrence": 4,
+    "pmi": 0.9005,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student experience",
+    "co_occurrence": 4,
+    "pmi": 0.9005,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "student engagement",
+    "target": "tuition affordability",
+    "co_occurrence": 4,
+    "pmi": 0.9005,
+    "source_cluster": "student_experience",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "student experience",
+    "target": "tuition affordability",
+    "co_occurrence": 4,
+    "pmi": 0.9005,
+    "source_cluster": "student_experience",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "educational instability",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "pmi": 0.8074,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "outdated education model",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "pmi": 0.8074,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "educational instability",
+    "co_occurrence": 3,
+    "pmi": 0.8074,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "pmi": 0.8074,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "decline of academia",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "pmi": 0.8074,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "decline of academia",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "pmi": 0.8074,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "educational instability",
+    "target": "faculty precarity",
+    "co_occurrence": 3,
+    "pmi": 0.8074,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "faculty_labour"
+  },
+  {
+    "source": "educational instability",
+    "target": "student retention",
+    "co_occurrence": 3,
+    "pmi": 0.8074,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "faculty precarity",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "pmi": 0.8074,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "pmi": 0.8074,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "outdated education model",
+    "target": "student retention",
+    "co_occurrence": 3,
+    "pmi": 0.8074,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "student life",
+    "target": "university policy",
+    "co_occurrence": 6,
+    "pmi": 0.7776,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "academic collapse",
+    "target": "college experience",
+    "co_occurrence": 3,
+    "pmi": 0.7485,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "tuition affordability",
+    "co_occurrence": 3,
+    "pmi": 0.7485,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "student experience",
+    "target": "university policy",
+    "co_occurrence": 5,
+    "pmi": 0.737,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student life",
+    "co_occurrence": 4,
+    "pmi": 0.6781,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "pmi": 0.6781,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "student life",
+    "target": "tuition affordability",
+    "co_occurrence": 4,
+    "pmi": 0.6781,
+    "source_cluster": "student_experience",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "tuition affordability",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "pmi": 0.6781,
+    "source_cluster": "education_cost",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "education crisis",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "pmi": 0.6374,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "education crisis",
+    "target": "study abroad",
+    "co_occurrence": 3,
+    "pmi": 0.6374,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "internationalisation_of_academia"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "study abroad",
+    "co_occurrence": 3,
+    "pmi": 0.6374,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "internationalisation_of_academia"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university policy",
+    "co_occurrence": 7,
+    "pmi": 0.6374,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "education crisis",
+    "co_occurrence": 3,
+    "pmi": 0.6374,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "higher education crisis",
+    "co_occurrence": 3,
+    "pmi": 0.6374,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "college experience",
+    "target": "higher education crisis",
+    "co_occurrence": 5,
+    "pmi": 0.6374,
+    "source_cluster": "student_experience",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "education crisis",
+    "target": "faculty precarity",
+    "co_occurrence": 3,
+    "pmi": 0.6374,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "faculty_labour"
+  },
+  {
+    "source": "education crisis",
+    "target": "student retention",
+    "co_occurrence": 3,
+    "pmi": 0.6374,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "faculty careers",
+    "target": "higher education crisis",
+    "co_occurrence": 3,
+    "pmi": 0.6374,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "faculty precarity",
+    "target": "higher education crisis",
+    "co_occurrence": 3,
+    "pmi": 0.6374,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "scholarly funding",
+    "co_occurrence": 3,
+    "pmi": 0.6374,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "scholarships",
+    "co_occurrence": 4,
+    "pmi": 0.6374,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student engagement",
+    "co_occurrence": 6,
+    "pmi": 0.6374,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student retention",
+    "co_occurrence": 3,
+    "pmi": 0.6374,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student satisfaction",
+    "co_occurrence": 3,
+    "pmi": 0.6374,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 0.6374,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "student wellbeing",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 0.585,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "decline of academia",
+    "target": "student life",
+    "co_occurrence": 3,
+    "pmi": 0.585,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "decline of academia",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 0.585,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 0.585,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "academic collapse",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "pmi": 0.4854,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "academic collapse",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "pmi": 0.4854,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 0.4854,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "college experience",
+    "target": "educational instability",
+    "co_occurrence": 4,
+    "pmi": 0.4854,
+    "source_cluster": "student_experience",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "college experience",
+    "target": "outdated education model",
+    "co_occurrence": 4,
+    "pmi": 0.4854,
+    "source_cluster": "student_experience",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "college experience",
+    "target": "university reform",
+    "co_occurrence": 5,
+    "pmi": 0.4854,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "faculty careers",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 0.4854,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "faculty precarity",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 0.4854,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "scholarly funding",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 0.4854,
+    "source_cluster": "education_funding",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "scholarships",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "pmi": 0.4854,
+    "source_cluster": "education_cost",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "student retention",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 0.4854,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "student satisfaction",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 0.4854,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "undergraduate pathway",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 0.4854,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "education crisis",
+    "target": "university policy",
+    "co_occurrence": 6,
+    "pmi": 0.415,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student life",
+    "co_occurrence": 6,
+    "pmi": 0.415,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "educational instability",
+    "target": "scholastic aptitude test",
+    "co_occurrence": 3,
+    "pmi": 0.3923,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "admissions_access_in_higher_education"
+  },
+  {
+    "source": "educational instability",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "pmi": 0.3923,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "outdated education model",
+    "target": "scholastic aptitude test",
+    "co_occurrence": 3,
+    "pmi": 0.3923,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "admissions_access_in_higher_education"
+  },
+  {
+    "source": "outdated education model",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "pmi": 0.3923,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "educational instability",
+    "target": "faculty redundancy",
+    "co_occurrence": 3,
+    "pmi": 0.3923,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "faculty_labour"
+  },
+  {
+    "source": "educational instability",
+    "target": "scholarships",
+    "co_occurrence": 3,
+    "pmi": 0.3923,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "pmi": 0.3923,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "outdated education model",
+    "target": "scholarships",
+    "co_occurrence": 3,
+    "pmi": 0.3923,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "education crisis",
+    "target": "student engagement",
+    "co_occurrence": 5,
+    "pmi": 0.3744,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student experience",
+    "co_occurrence": 5,
+    "pmi": 0.3744,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "educational instability",
+    "target": "university policy",
+    "co_occurrence": 5,
+    "pmi": 0.3219,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "outdated education model",
+    "target": "university policy",
+    "co_occurrence": 5,
+    "pmi": 0.3219,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "college experience",
+    "target": "education crisis",
+    "co_occurrence": 4,
+    "pmi": 0.3155,
+    "source_cluster": "student_experience",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "tuition affordability",
+    "co_occurrence": 4,
+    "pmi": 0.3155,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "systemic education failure",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 0.263,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "academic collapse",
+    "target": "student life",
+    "co_occurrence": 3,
+    "pmi": 0.263,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "academic collapse",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 0.263,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "education crisis",
+    "target": "scholastic aptitude test",
+    "co_occurrence": 3,
+    "pmi": 0.2224,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "admissions_access_in_higher_education"
+  },
+  {
+    "source": "education crisis",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "pmi": 0.2224,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "scholastic aptitude test",
+    "co_occurrence": 3,
+    "pmi": 0.2224,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "admissions_access_in_higher_education"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "pmi": 0.2224,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "education crisis",
+    "target": "faculty redundancy",
+    "co_occurrence": 3,
+    "pmi": 0.2224,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "faculty_labour"
+  },
+  {
+    "source": "education crisis",
+    "target": "scholarships",
+    "co_occurrence": 3,
+    "pmi": 0.2224,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "educational instability",
+    "target": "student engagement",
+    "co_occurrence": 4,
+    "pmi": 0.2224,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "educational instability",
+    "target": "student experience",
+    "co_occurrence": 4,
+    "pmi": 0.2224,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "higher education crisis",
+    "co_occurrence": 3,
+    "pmi": 0.2224,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "outdated education model",
+    "target": "student engagement",
+    "co_occurrence": 4,
+    "pmi": 0.2224,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "outdated education model",
+    "target": "student experience",
+    "co_occurrence": 4,
+    "pmi": 0.2224,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "student engagement",
+    "target": "university reform",
+    "co_occurrence": 5,
+    "pmi": 0.2224,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "student experience",
+    "target": "university reform",
+    "co_occurrence": 5,
+    "pmi": 0.2224,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "pmi": 0.1635,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "tuition affordability",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "pmi": 0.1635,
+    "source_cluster": "education_cost",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "education crisis",
+    "target": "student life",
+    "co_occurrence": 5,
+    "pmi": 0.152,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "decline of academia",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 0.0704,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "educational instability",
+    "target": "tuition affordability",
+    "co_occurrence": 3,
+    "pmi": 0.0704,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 0.0704,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "outdated education model",
+    "target": "tuition affordability",
+    "co_occurrence": 3,
+    "pmi": 0.0704,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "education crisis",
+    "target": "student experience",
+    "co_occurrence": 4,
+    "pmi": 0.0525,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "educational instability",
+    "target": "student life",
+    "co_occurrence": 4,
+    "pmi": 0.0,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "outdated education model",
+    "target": "student life",
+    "co_occurrence": 4,
+    "pmi": 0.0,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "student life",
+    "target": "university reform",
+    "co_occurrence": 5,
+    "pmi": 0.0,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "education crisis",
+    "target": "tuition affordability",
+    "co_occurrence": 3,
+    "pmi": -0.0995,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "academic collapse",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": -0.2515,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university reform",
+    "co_occurrence": 5,
+    "pmi": -0.3626,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "educational instability",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "pmi": -0.5146,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "outdated education model",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "pmi": -0.5146,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "education crisis",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "pmi": -0.6845,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  }
+]
