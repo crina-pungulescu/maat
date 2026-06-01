@@ -1,8 +1,8 @@
 [
   {
     "topic": "Higher Education Crisis",
-    "count": 56,
-    "score": 0.4588,
+    "count": 60,
+    "score": 0.46,
     "topics": [
       "academic collapse",
       "academic model breakdown",
@@ -17,8 +17,8 @@
   },
   {
     "topic": "Student Experience",
-    "count": 36,
-    "score": 0.4499,
+    "count": 38,
+    "score": 0.4482,
     "topics": [
       "college experience",
       "student engagement",
@@ -32,8 +32,8 @@
   },
   {
     "topic": "University Administration",
-    "count": 28,
-    "score": 0.4596,
+    "count": 34,
+    "score": 0.462,
     "topics": [
       "institutional governance",
       "institutional partnerships",
@@ -46,9 +46,27 @@
     ]
   },
   {
+    "topic": "Faculty Labour",
+    "count": 33,
+    "score": 0.4868,
+    "topics": [
+      "adjunct faculty",
+      "faculty careers",
+      "faculty contracts",
+      "faculty hiring market",
+      "faculty job insecurity",
+      "faculty labour exploitation",
+      "faculty precarity",
+      "faculty redundancy",
+      "faculty unemployment",
+      "faculty workload",
+      "unpaid faculty labour"
+    ]
+  },
+  {
     "topic": "Teaching And Learning",
-    "count": 26,
-    "score": 0.4492,
+    "count": 30,
+    "score": 0.4494,
     "topics": [
       "bachelor qualification",
       "classroom methods",
@@ -69,24 +87,6 @@
     ]
   },
   {
-    "topic": "Faculty Labour",
-    "count": 23,
-    "score": 0.5279,
-    "topics": [
-      "adjunct faculty",
-      "faculty careers",
-      "faculty contracts",
-      "faculty hiring market",
-      "faculty job insecurity",
-      "faculty labour exploitation",
-      "faculty precarity",
-      "faculty redundancy",
-      "faculty unemployment",
-      "faculty workload",
-      "unpaid faculty labour"
-    ]
-  },
-  {
     "topic": "Education Cost",
     "count": 11,
     "score": 0.4587,
@@ -94,6 +94,18 @@
       "scholarships",
       "tuition affordability",
       "tuition fee"
+    ]
+  },
+  {
+    "topic": "Admissions Access In Higher Education",
+    "count": 10,
+    "score": 0.4263,
+    "topics": [
+      "admissions criteria",
+      "admissions selectivity",
+      "graduate management admission test",
+      "scholastic aptitude test",
+      "standardised testing"
     ]
   },
   {
@@ -110,15 +122,18 @@
     ]
   },
   {
-    "topic": "Admissions Access In Higher Education",
+    "topic": "Systemic Inequity In Higher Education",
     "count": 9,
-    "score": 0.4259,
+    "score": 0.4607,
     "topics": [
-      "admissions criteria",
-      "admissions selectivity",
-      "graduate management admission test",
-      "scholastic aptitude test",
-      "standardised testing"
+      "discrimination",
+      "gender discrimination",
+      "harmful culture",
+      "inclusivity",
+      "racism",
+      "sexual harassment",
+      "workplace bias",
+      "workplace harassment"
     ]
   },
   {
@@ -147,15 +162,13 @@
     ]
   },
   {
-    "topic": "Systemic Inequity In Higher Education",
+    "topic": "University Accreditation",
     "count": 6,
-    "score": 0.4464,
+    "score": 0.4309,
     "topics": [
-      "discrimination",
-      "harmful culture",
-      "inclusivity",
-      "racism",
-      "workplace bias"
+      "accreditation review",
+      "institutional accreditation",
+      "programme accreditation"
     ]
   },
   {
@@ -180,16 +193,6 @@
       "qualitative research",
       "research collaboration",
       "research productivity"
-    ]
-  },
-  {
-    "topic": "University Accreditation",
-    "count": 4,
-    "score": 0.4303,
-    "topics": [
-      "accreditation review",
-      "institutional accreditation",
-      "programme accreditation"
     ]
   },
   {

@@ -7,7 +7,7 @@
   {
     "source": "education crisis",
     "target": "outdated education model",
-    "weight": 81
+    "weight": 82
   },
   {
     "source": "student experience",
@@ -17,12 +17,12 @@
   {
     "source": "university policy",
     "target": "university reform",
-    "weight": 77
+    "weight": 78
   },
   {
     "source": "education crisis",
     "target": "higher education crisis",
-    "weight": 74
+    "weight": 75
   },
   {
     "source": "education crisis",
@@ -37,7 +37,7 @@
   {
     "source": "higher education crisis",
     "target": "university policy",
-    "weight": 69
+    "weight": 70
   },
   {
     "source": "educational instability",
@@ -47,12 +47,12 @@
   {
     "source": "higher education crisis",
     "target": "outdated education model",
-    "weight": 66
+    "weight": 67
   },
   {
     "source": "higher education crisis",
     "target": "university reform",
-    "weight": 66
+    "weight": 67
   },
   {
     "source": "educational instability",
@@ -62,6 +62,11 @@
   {
     "source": "outdated education model",
     "target": "pedagogical innovation",
+    "weight": 61
+  },
+  {
+    "source": "education crisis",
+    "target": "university policy",
     "weight": 60
   },
   {
@@ -71,22 +76,27 @@
   },
   {
     "source": "education crisis",
-    "target": "university policy",
-    "weight": 59
-  },
-  {
-    "source": "education crisis",
     "target": "university reform",
-    "weight": 58
+    "weight": 59
   },
   {
     "source": "student experience",
     "target": "university policy",
-    "weight": 57
+    "weight": 58
   },
   {
     "source": "decline of academia",
     "target": "outdated education model",
+    "weight": 57
+  },
+  {
+    "source": "outdated education model",
+    "target": "university policy",
+    "weight": 56
+  },
+  {
+    "source": "outdated education model",
+    "target": "university reform",
     "weight": 56
   },
   {
@@ -95,23 +105,23 @@
     "weight": 56
   },
   {
+    "source": "decline of academia",
+    "target": "education crisis",
+    "weight": 55
+  },
+  {
     "source": "outdated education model",
     "target": "systemic education failure",
     "weight": 55
   },
   {
-    "source": "outdated education model",
-    "target": "university policy",
-    "weight": 55
+    "source": "curricular design",
+    "target": "student experience",
+    "weight": 54
   },
   {
-    "source": "outdated education model",
-    "target": "university reform",
-    "weight": 55
-  },
-  {
-    "source": "decline of academia",
-    "target": "education crisis",
+    "source": "higher education crisis",
+    "target": "student experience",
     "weight": 54
   },
   {
@@ -120,17 +130,22 @@
     "weight": 54
   },
   {
+    "source": "university administrators",
+    "target": "university policy",
+    "weight": 54
+  },
+  {
     "source": "educational instability",
     "target": "university reform",
     "weight": 54
   },
   {
-    "source": "curricular design",
-    "target": "student experience",
+    "source": "decline of academia",
+    "target": "higher education crisis",
     "weight": 53
   },
   {
-    "source": "higher education crisis",
+    "source": "outdated education model",
     "target": "student experience",
     "weight": 53
   },
@@ -140,18 +155,18 @@
     "weight": 53
   },
   {
-    "source": "university administrators",
-    "target": "university policy",
-    "weight": 53
-  },
-  {
     "source": "education crisis",
     "target": "educational decline",
     "weight": 53
   },
   {
-    "source": "decline of academia",
-    "target": "higher education crisis",
+    "source": "faculty precarity",
+    "target": "university policy",
+    "weight": 53
+  },
+  {
+    "source": "education crisis",
+    "target": "student experience",
     "weight": 52
   },
   {
@@ -160,7 +175,12 @@
     "weight": 52
   },
   {
-    "source": "outdated education model",
+    "source": "instructional excellence",
+    "target": "pedagogical innovation",
+    "weight": 52
+  },
+  {
+    "source": "pedagogical innovation",
     "target": "student experience",
     "weight": 52
   },
@@ -170,43 +190,48 @@
     "weight": 52
   },
   {
-    "source": "faculty precarity",
-    "target": "university policy",
-    "weight": 52
-  },
-  {
-    "source": "education crisis",
-    "target": "student experience",
-    "weight": 51
-  },
-  {
-    "source": "instructional excellence",
-    "target": "pedagogical innovation",
-    "weight": 51
-  },
-  {
-    "source": "pedagogical innovation",
-    "target": "student experience",
-    "weight": 51
-  },
-  {
     "source": "adjunct faculty",
     "target": "student experience",
-    "weight": 50
+    "weight": 51
   },
   {
     "source": "college experience",
     "target": "student experience",
-    "weight": 50
+    "weight": 51
   },
   {
     "source": "decline of academia",
     "target": "university reform",
-    "weight": 50
+    "weight": 51
   },
   {
     "source": "education crisis",
     "target": "pedagogical innovation",
+    "weight": 51
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "university administrators",
+    "weight": 50
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "university policy",
+    "weight": 50
+  },
+  {
+    "source": "decline of academia",
+    "target": "university policy",
+    "weight": 50
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student experience",
+    "weight": 50
+  },
+  {
+    "source": "student experience",
+    "target": "university reform",
     "weight": 50
   },
   {
@@ -220,21 +245,6 @@
     "weight": 49
   },
   {
-    "source": "adjunct faculty",
-    "target": "university administrators",
-    "weight": 49
-  },
-  {
-    "source": "adjunct faculty",
-    "target": "university policy",
-    "weight": 49
-  },
-  {
-    "source": "decline of academia",
-    "target": "university policy",
-    "weight": 49
-  },
-  {
     "source": "education crisis",
     "target": "student life",
     "weight": 49
@@ -245,17 +255,7 @@
     "weight": 49
   },
   {
-    "source": "instructional excellence",
-    "target": "student experience",
-    "weight": 49
-  },
-  {
     "source": "student engagement",
-    "target": "university reform",
-    "weight": 49
-  },
-  {
-    "source": "student experience",
     "target": "university reform",
     "weight": 49
   },
@@ -290,8 +290,23 @@
     "weight": 48
   },
   {
+    "source": "university administrators",
+    "target": "university reform",
+    "weight": 48
+  },
+  {
     "source": "academic collapse",
     "target": "educational instability",
+    "weight": 48
+  },
+  {
+    "source": "faculty precarity",
+    "target": "higher education crisis",
+    "weight": 48
+  },
+  {
+    "source": "faculty precarity",
+    "target": "university reform",
     "weight": 48
   },
   {
@@ -305,8 +320,13 @@
     "weight": 47
   },
   {
+    "source": "student experience",
+    "target": "university administrators",
+    "weight": 47
+  },
+  {
     "source": "university administrators",
-    "target": "university reform",
+    "target": "university leadership",
     "weight": 47
   },
   {
@@ -315,13 +335,18 @@
     "weight": 47
   },
   {
-    "source": "faculty precarity",
-    "target": "higher education crisis",
+    "source": "decline of academia",
+    "target": "faculty precarity",
+    "weight": 47
+  },
+  {
+    "source": "education crisis",
+    "target": "faculty precarity",
     "weight": 47
   },
   {
     "source": "faculty precarity",
-    "target": "university reform",
+    "target": "outdated education model",
     "weight": 47
   },
   {
@@ -345,18 +370,8 @@
     "weight": 46
   },
   {
-    "source": "student experience",
-    "target": "university administrators",
-    "weight": 46
-  },
-  {
     "source": "student life",
     "target": "undergraduate pathway",
-    "weight": 46
-  },
-  {
-    "source": "university administrators",
-    "target": "university leadership",
     "weight": 46
   },
   {
@@ -365,23 +380,18 @@
     "weight": 46
   },
   {
-    "source": "decline of academia",
+    "source": "adjunct faculty",
     "target": "faculty precarity",
-    "weight": 46
-  },
-  {
-    "source": "education crisis",
-    "target": "faculty precarity",
-    "weight": 46
-  },
-  {
-    "source": "faculty precarity",
-    "target": "outdated education model",
     "weight": 46
   },
   {
     "source": "education crisis",
     "target": "student engagement",
+    "weight": 45
+  },
+  {
+    "source": "instructional excellence",
+    "target": "outdated education model",
     "weight": 45
   },
   {
@@ -395,18 +405,18 @@
     "weight": 45
   },
   {
-    "source": "adjunct faculty",
-    "target": "faculty precarity",
-    "weight": 45
-  },
-  {
     "source": "educational instability",
     "target": "faculty precarity",
     "weight": 45
   },
   {
-    "source": "instructional excellence",
-    "target": "outdated education model",
+    "source": "faculty precarity",
+    "target": "student experience",
+    "weight": 45
+  },
+  {
+    "source": "curricular design",
+    "target": "pedagogical innovation",
     "weight": 44
   },
   {
@@ -420,18 +430,28 @@
     "weight": 44
   },
   {
-    "source": "faculty precarity",
-    "target": "student experience",
-    "weight": 44
+    "source": "adjunct faculty",
+    "target": "pedagogical innovation",
+    "weight": 43
   },
   {
     "source": "curricular design",
-    "target": "pedagogical innovation",
+    "target": "instructional excellence",
     "weight": 43
   },
   {
     "source": "decline of academia",
     "target": "systemic education failure",
+    "weight": 43
+  },
+  {
+    "source": "higher education crisis",
+    "target": "pedagogical innovation",
+    "weight": 43
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "university policy",
     "weight": 43
   },
   {
@@ -466,22 +486,12 @@
   },
   {
     "source": "adjunct faculty",
-    "target": "pedagogical innovation",
+    "target": "faculty careers",
     "weight": 42
   },
   {
-    "source": "curricular design",
-    "target": "instructional excellence",
-    "weight": 42
-  },
-  {
-    "source": "higher education crisis",
-    "target": "pedagogical innovation",
-    "weight": 42
-  },
-  {
-    "source": "pedagogical innovation",
-    "target": "university policy",
+    "source": "adjunct faculty",
+    "target": "university reform",
     "weight": 42
   },
   {
@@ -510,18 +520,13 @@
     "weight": 42
   },
   {
-    "source": "adjunct faculty",
-    "target": "faculty careers",
-    "weight": 41
-  },
-  {
-    "source": "adjunct faculty",
-    "target": "university reform",
-    "weight": 41
-  },
-  {
     "source": "curricular design",
     "target": "student life",
+    "weight": 41
+  },
+  {
+    "source": "faculty careers",
+    "target": "university policy",
     "weight": 41
   },
   {
@@ -540,13 +545,28 @@
     "weight": 41
   },
   {
-    "source": "faculty careers",
+    "source": "faculty precarity",
+    "target": "university administrators",
+    "weight": 41
+  },
+  {
+    "source": "college experience",
     "target": "university policy",
+    "weight": 40
+  },
+  {
+    "source": "decline of academia",
+    "target": "student experience",
     "weight": 40
   },
   {
     "source": "pedagogical innovation",
     "target": "systemic education failure",
+    "weight": 40
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "university reform",
     "weight": 40
   },
   {
@@ -580,8 +600,13 @@
     "weight": 40
   },
   {
-    "source": "faculty precarity",
-    "target": "university administrators",
+    "source": "faculty redundancy",
+    "target": "university policy",
+    "weight": 40
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "university reform",
     "weight": 40
   },
   {
@@ -595,18 +620,13 @@
     "weight": 39
   },
   {
-    "source": "college experience",
-    "target": "university policy",
-    "weight": 39
-  },
-  {
     "source": "decline of academia",
-    "target": "student experience",
+    "target": "pedagogical innovation",
     "weight": 39
   },
   {
-    "source": "pedagogical innovation",
-    "target": "university reform",
+    "source": "faculty careers",
+    "target": "student experience",
     "weight": 39
   },
   {
@@ -615,23 +635,38 @@
     "weight": 39
   },
   {
+    "source": "university leadership",
+    "target": "university policy",
+    "weight": 39
+  },
+  {
     "source": "academic model breakdown",
     "target": "decline of academia",
     "weight": 39
   },
   {
-    "source": "faculty redundancy",
-    "target": "university policy",
+    "source": "faculty careers",
+    "target": "faculty precarity",
     "weight": 39
   },
   {
-    "source": "faculty redundancy",
+    "source": "faculty precarity",
+    "target": "faculty redundancy",
+    "weight": 39
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "instructional excellence",
+    "weight": 38
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "outdated education model",
+    "weight": 38
+  },
+  {
+    "source": "college experience",
     "target": "university reform",
-    "weight": 39
-  },
-  {
-    "source": "decline of academia",
-    "target": "pedagogical innovation",
     "weight": 38
   },
   {
@@ -640,8 +675,13 @@
     "weight": 38
   },
   {
-    "source": "faculty careers",
-    "target": "student experience",
+    "source": "education crisis",
+    "target": "instructional excellence",
+    "weight": 38
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university administrators",
     "weight": 38
   },
   {
@@ -651,22 +691,17 @@
   },
   {
     "source": "university leadership",
-    "target": "university policy",
+    "target": "university reform",
+    "weight": 38
+  },
+  {
+    "source": "decline of academia",
+    "target": "faculty redundancy",
     "weight": 38
   },
   {
     "source": "educational instability",
     "target": "student engagement",
-    "weight": 38
-  },
-  {
-    "source": "faculty careers",
-    "target": "faculty precarity",
-    "weight": 38
-  },
-  {
-    "source": "faculty precarity",
-    "target": "faculty redundancy",
     "weight": 38
   },
   {
@@ -676,32 +711,22 @@
   },
   {
     "source": "adjunct faculty",
-    "target": "instructional excellence",
+    "target": "curricular design",
     "weight": 37
   },
   {
     "source": "adjunct faculty",
-    "target": "outdated education model",
+    "target": "decline of academia",
     "weight": 37
   },
   {
     "source": "college experience",
-    "target": "university reform",
-    "weight": 37
-  },
-  {
-    "source": "education crisis",
-    "target": "instructional excellence",
+    "target": "higher education crisis",
     "weight": 37
   },
   {
     "source": "faculty careers",
     "target": "student life",
-    "weight": 37
-  },
-  {
-    "source": "higher education crisis",
-    "target": "university administrators",
     "weight": 37
   },
   {
@@ -715,22 +740,17 @@
     "weight": 37
   },
   {
-    "source": "university leadership",
-    "target": "university reform",
-    "weight": 37
-  },
-  {
     "source": "academic collapse",
     "target": "university reform",
     "weight": 37
   },
   {
-    "source": "decline of academia",
-    "target": "faculty redundancy",
+    "source": "educational instability",
+    "target": "pedagogical innovation",
     "weight": 37
   },
   {
-    "source": "educational instability",
+    "source": "faculty precarity",
     "target": "pedagogical innovation",
     "weight": 37
   },
@@ -741,17 +761,17 @@
   },
   {
     "source": "adjunct faculty",
-    "target": "curricular design",
+    "target": "higher education crisis",
     "weight": 36
   },
   {
     "source": "adjunct faculty",
-    "target": "decline of academia",
+    "target": "university leadership",
     "weight": 36
   },
   {
-    "source": "college experience",
-    "target": "higher education crisis",
+    "source": "curricular design",
+    "target": "outdated education model",
     "weight": 36
   },
   {
@@ -760,13 +780,28 @@
     "weight": 36
   },
   {
+    "source": "faculty careers",
+    "target": "university administrators",
+    "weight": 36
+  },
+  {
     "source": "pedagogical innovation",
     "target": "postgraduate pathway",
     "weight": 36
   },
   {
+    "source": "pedagogical innovation",
+    "target": "university administrators",
+    "weight": 36
+  },
+  {
     "source": "postgraduate pathway",
     "target": "university policy",
+    "weight": 36
+  },
+  {
+    "source": "student experience",
+    "target": "university leadership",
     "weight": 36
   },
   {
@@ -785,8 +820,23 @@
     "weight": 36
   },
   {
-    "source": "faculty precarity",
-    "target": "pedagogical innovation",
+    "source": "education crisis",
+    "target": "faculty redundancy",
+    "weight": 36
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "faculty precarity",
+    "weight": 36
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "higher education crisis",
+    "weight": 36
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "outdated education model",
     "weight": 36
   },
   {
@@ -800,23 +850,13 @@
     "weight": 35
   },
   {
-    "source": "adjunct faculty",
-    "target": "higher education crisis",
-    "weight": 35
-  },
-  {
-    "source": "adjunct faculty",
-    "target": "university leadership",
-    "weight": 35
-  },
-  {
-    "source": "curricular design",
-    "target": "outdated education model",
+    "source": "decline of academia",
+    "target": "university administrators",
     "weight": 35
   },
   {
     "source": "faculty careers",
-    "target": "university administrators",
+    "target": "university reform",
     "weight": 35
   },
   {
@@ -830,13 +870,8 @@
     "weight": 35
   },
   {
-    "source": "pedagogical innovation",
+    "source": "outdated education model",
     "target": "university administrators",
-    "weight": 35
-  },
-  {
-    "source": "student experience",
-    "target": "university leadership",
     "weight": 35
   },
   {
@@ -855,26 +890,6 @@
     "weight": 35
   },
   {
-    "source": "education crisis",
-    "target": "faculty redundancy",
-    "weight": 35
-  },
-  {
-    "source": "faculty job insecurity",
-    "target": "faculty precarity",
-    "weight": 35
-  },
-  {
-    "source": "faculty redundancy",
-    "target": "higher education crisis",
-    "weight": 35
-  },
-  {
-    "source": "faculty redundancy",
-    "target": "outdated education model",
-    "weight": 35
-  },
-  {
     "source": "academic collapse",
     "target": "systemic education failure",
     "weight": 35
@@ -890,13 +905,18 @@
     "weight": 34
   },
   {
-    "source": "decline of academia",
-    "target": "university administrators",
+    "source": "curricular design",
+    "target": "education crisis",
     "weight": 34
   },
   {
     "source": "faculty careers",
-    "target": "university reform",
+    "target": "higher education crisis",
+    "weight": 34
+  },
+  {
+    "source": "faculty careers",
+    "target": "pedagogical innovation",
     "weight": 34
   },
   {
@@ -912,11 +932,6 @@
   {
     "source": "instructional excellence",
     "target": "postgraduate pathway",
-    "weight": 34
-  },
-  {
-    "source": "outdated education model",
-    "target": "university administrators",
     "weight": 34
   },
   {
@@ -965,6 +980,11 @@
     "weight": 34
   },
   {
+    "source": "faculty job insecurity",
+    "target": "higher education crisis",
+    "weight": 34
+  },
+  {
     "source": "classroom methods",
     "target": "instructional practice",
     "weight": 33
@@ -975,23 +995,18 @@
     "weight": 33
   },
   {
-    "source": "curricular design",
+    "source": "adjunct faculty",
     "target": "education crisis",
+    "weight": 33
+  },
+  {
+    "source": "curricular design",
+    "target": "university policy",
     "weight": 33
   },
   {
     "source": "decline of academia",
     "target": "student engagement",
-    "weight": 33
-  },
-  {
-    "source": "faculty careers",
-    "target": "higher education crisis",
-    "weight": 33
-  },
-  {
-    "source": "faculty careers",
-    "target": "pedagogical innovation",
     "weight": 33
   },
   {
@@ -1002,6 +1017,11 @@
   {
     "source": "instructional excellence",
     "target": "systemic education failure",
+    "weight": 33
+  },
+  {
+    "source": "instructional excellence",
+    "target": "university policy",
     "weight": 33
   },
   {
@@ -1025,8 +1045,8 @@
     "weight": 33
   },
   {
-    "source": "faculty job insecurity",
-    "target": "higher education crisis",
+    "source": "adjunct faculty",
+    "target": "faculty redundancy",
     "weight": 33
   },
   {
@@ -1046,7 +1066,7 @@
   },
   {
     "source": "adjunct faculty",
-    "target": "education crisis",
+    "target": "college experience",
     "weight": 32
   },
   {
@@ -1060,13 +1080,13 @@
     "weight": 32
   },
   {
-    "source": "curricular design",
-    "target": "university policy",
+    "source": "education crisis",
+    "target": "university administrators",
     "weight": 32
   },
   {
-    "source": "instructional excellence",
-    "target": "university policy",
+    "source": "faculty careers",
+    "target": "outdated education model",
     "weight": 32
   },
   {
@@ -1080,18 +1100,23 @@
     "weight": 32
   },
   {
-    "source": "adjunct faculty",
-    "target": "faculty redundancy",
-    "weight": 32
-  },
-  {
     "source": "educational decline",
     "target": "faculty precarity",
     "weight": 32
   },
   {
+    "source": "faculty job insecurity",
+    "target": "university policy",
+    "weight": 32
+  },
+  {
     "source": "faculty precarity",
     "target": "postgraduate pathway",
+    "weight": 32
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "student experience",
     "weight": 32
   },
   {
@@ -1105,8 +1130,13 @@
     "weight": 31
   },
   {
-    "source": "adjunct faculty",
-    "target": "college experience",
+    "source": "college experience",
+    "target": "curricular design",
+    "weight": 31
+  },
+  {
+    "source": "decline of academia",
+    "target": "faculty careers",
     "weight": 31
   },
   {
@@ -1115,18 +1145,18 @@
     "weight": 31
   },
   {
-    "source": "education crisis",
-    "target": "university administrators",
-    "weight": 31
-  },
-  {
-    "source": "faculty careers",
-    "target": "outdated education model",
+    "source": "higher education crisis",
+    "target": "instructional excellence",
     "weight": 31
   },
   {
     "source": "higher education crisis",
     "target": "undergraduate pathway",
+    "weight": 31
+  },
+  {
+    "source": "instructional excellence",
+    "target": "university administrators",
     "weight": 31
   },
   {
@@ -1170,23 +1200,33 @@
     "weight": 31
   },
   {
+    "source": "decline of academia",
+    "target": "faculty job insecurity",
+    "weight": 31
+  },
+  {
     "source": "educational instability",
     "target": "faculty job insecurity",
     "weight": 31
   },
   {
     "source": "faculty job insecurity",
-    "target": "university policy",
+    "target": "university reform",
     "weight": 31
   },
   {
-    "source": "faculty redundancy",
-    "target": "student experience",
+    "source": "faculty precarity",
+    "target": "university leadership",
     "weight": 31
   },
   {
     "source": "student experience",
     "target": "student satisfaction",
+    "weight": 31
+  },
+  {
+    "source": "faculty precarity",
+    "target": "instructional excellence",
     "weight": 31
   },
   {
@@ -1196,7 +1236,7 @@
   },
   {
     "source": "college experience",
-    "target": "curricular design",
+    "target": "education crisis",
     "weight": 30
   },
   {
@@ -1205,18 +1245,18 @@
     "weight": 30
   },
   {
-    "source": "decline of academia",
-    "target": "faculty careers",
+    "source": "curricular design",
+    "target": "university reform",
     "weight": 30
   },
   {
-    "source": "higher education crisis",
+    "source": "faculty careers",
     "target": "instructional excellence",
     "weight": 30
   },
   {
-    "source": "instructional excellence",
-    "target": "university administrators",
+    "source": "faculty careers",
+    "target": "university leadership",
     "weight": 30
   },
   {
@@ -1235,8 +1275,8 @@
     "weight": 30
   },
   {
-    "source": "decline of academia",
-    "target": "faculty job insecurity",
+    "source": "curricular design",
+    "target": "faculty precarity",
     "weight": 30
   },
   {
@@ -1245,13 +1285,13 @@
     "weight": 30
   },
   {
-    "source": "faculty job insecurity",
-    "target": "university reform",
+    "source": "faculty redundancy",
+    "target": "pedagogical innovation",
     "weight": 30
   },
   {
-    "source": "faculty precarity",
-    "target": "university leadership",
+    "source": "faculty redundancy",
+    "target": "university administrators",
     "weight": 30
   },
   {
@@ -1265,23 +1305,38 @@
     "weight": 30
   },
   {
-    "source": "faculty precarity",
-    "target": "instructional excellence",
-    "weight": 30
-  },
-  {
     "source": "adjunct faculty",
     "target": "systemic education failure",
     "weight": 29
   },
   {
     "source": "college experience",
-    "target": "education crisis",
+    "target": "faculty careers",
+    "weight": 29
+  },
+  {
+    "source": "college experience",
+    "target": "instructional excellence",
+    "weight": 29
+  },
+  {
+    "source": "college experience",
+    "target": "outdated education model",
+    "weight": 29
+  },
+  {
+    "source": "college experience",
+    "target": "pedagogical innovation",
     "weight": 29
   },
   {
     "source": "curricular design",
-    "target": "university reform",
+    "target": "higher education crisis",
+    "weight": 29
+  },
+  {
+    "source": "education crisis",
+    "target": "faculty careers",
     "weight": 29
   },
   {
@@ -1290,13 +1345,13 @@
     "weight": 29
   },
   {
-    "source": "faculty careers",
-    "target": "instructional excellence",
+    "source": "higher education crisis",
+    "target": "university leadership",
     "weight": 29
   },
   {
-    "source": "faculty careers",
-    "target": "university leadership",
+    "source": "instructional excellence",
+    "target": "university reform",
     "weight": 29
   },
   {
@@ -1315,18 +1370,13 @@
     "weight": 29
   },
   {
-    "source": "curricular design",
+    "source": "college experience",
     "target": "faculty precarity",
     "weight": 29
   },
   {
-    "source": "faculty redundancy",
-    "target": "pedagogical innovation",
-    "weight": 29
-  },
-  {
-    "source": "faculty redundancy",
-    "target": "university administrators",
+    "source": "education crisis",
+    "target": "faculty job insecurity",
     "weight": 29
   },
   {
@@ -1336,47 +1386,32 @@
   },
   {
     "source": "college experience",
-    "target": "faculty careers",
+    "target": "decline of academia",
     "weight": 28
   },
   {
     "source": "college experience",
-    "target": "instructional excellence",
-    "weight": 28
-  },
-  {
-    "source": "college experience",
-    "target": "outdated education model",
-    "weight": 28
-  },
-  {
-    "source": "college experience",
-    "target": "pedagogical innovation",
+    "target": "university administrators",
     "weight": 28
   },
   {
     "source": "curricular design",
-    "target": "higher education crisis",
+    "target": "faculty careers",
+    "weight": 28
+  },
+  {
+    "source": "curricular design",
+    "target": "university administrators",
+    "weight": 28
+  },
+  {
+    "source": "decline of academia",
+    "target": "instructional excellence",
     "weight": 28
   },
   {
     "source": "decline of academia",
     "target": "postgraduate pathway",
-    "weight": 28
-  },
-  {
-    "source": "education crisis",
-    "target": "faculty careers",
-    "weight": 28
-  },
-  {
-    "source": "higher education crisis",
-    "target": "university leadership",
-    "weight": 28
-  },
-  {
-    "source": "instructional excellence",
-    "target": "university reform",
     "weight": 28
   },
   {
@@ -1395,13 +1430,8 @@
     "weight": 28
   },
   {
-    "source": "college experience",
-    "target": "faculty precarity",
-    "weight": 28
-  },
-  {
-    "source": "education crisis",
-    "target": "faculty job insecurity",
+    "source": "course evaluation",
+    "target": "student experience",
     "weight": 28
   },
   {
@@ -1436,32 +1466,12 @@
   },
   {
     "source": "college experience",
-    "target": "decline of academia",
-    "weight": 27
-  },
-  {
-    "source": "college experience",
     "target": "scholarships",
     "weight": 27
   },
   {
-    "source": "college experience",
-    "target": "university administrators",
-    "weight": 27
-  },
-  {
-    "source": "curricular design",
-    "target": "faculty careers",
-    "weight": 27
-  },
-  {
-    "source": "curricular design",
-    "target": "university administrators",
-    "weight": 27
-  },
-  {
     "source": "decline of academia",
-    "target": "instructional excellence",
+    "target": "university leadership",
     "weight": 27
   },
   {
@@ -1492,11 +1502,6 @@
   {
     "source": "postgraduate pathway",
     "target": "university leadership",
-    "weight": 27
-  },
-  {
-    "source": "course evaluation",
-    "target": "student experience",
     "weight": 27
   },
   {
@@ -1515,6 +1520,16 @@
     "weight": 27
   },
   {
+    "source": "faculty careers",
+    "target": "faculty redundancy",
+    "weight": 27
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "outdated education model",
+    "weight": 27
+  },
+  {
     "source": "faculty job insecurity",
     "target": "student life",
     "weight": 27
@@ -1535,11 +1550,6 @@
     "weight": 26
   },
   {
-    "source": "decline of academia",
-    "target": "university leadership",
-    "weight": 26
-  },
-  {
     "source": "education crisis",
     "target": "undergraduate pathway",
     "weight": 26
@@ -1552,6 +1562,11 @@
   {
     "source": "outdated education model",
     "target": "undergraduate pathway",
+    "weight": 26
+  },
+  {
+    "source": "outdated education model",
+    "target": "university leadership",
     "weight": 26
   },
   {
@@ -1595,13 +1610,13 @@
     "weight": 26
   },
   {
-    "source": "faculty careers",
-    "target": "faculty redundancy",
+    "source": "faculty job insecurity",
+    "target": "student experience",
     "weight": 26
   },
   {
-    "source": "faculty job insecurity",
-    "target": "outdated education model",
+    "source": "faculty redundancy",
+    "target": "university leadership",
     "weight": 26
   },
   {
@@ -1630,13 +1645,13 @@
     "weight": 25
   },
   {
-    "source": "instructional excellence",
-    "target": "undergraduate pathway",
+    "source": "education crisis",
+    "target": "university leadership",
     "weight": 25
   },
   {
-    "source": "outdated education model",
-    "target": "university leadership",
+    "source": "instructional excellence",
+    "target": "undergraduate pathway",
     "weight": 25
   },
   {
@@ -1670,23 +1685,18 @@
     "weight": 25
   },
   {
+    "source": "curricular design",
+    "target": "faculty redundancy",
+    "weight": 25
+  },
+  {
     "source": "educational decline",
     "target": "student engagement",
     "weight": 25
   },
   {
-    "source": "faculty job insecurity",
-    "target": "student experience",
-    "weight": 25
-  },
-  {
     "source": "faculty precarity",
     "target": "undergraduate pathway",
-    "weight": 25
-  },
-  {
-    "source": "faculty redundancy",
-    "target": "university leadership",
     "weight": 25
   },
   {
@@ -1715,13 +1725,18 @@
     "weight": 24
   },
   {
-    "source": "education crisis",
+    "source": "college experience",
     "target": "university leadership",
     "weight": 24
   },
   {
     "source": "faculty careers",
     "target": "systemic education failure",
+    "weight": 24
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "university leadership",
     "weight": 24
   },
   {
@@ -1742,6 +1757,11 @@
   {
     "source": "tuition affordability",
     "target": "university policy",
+    "weight": 24
+  },
+  {
+    "source": "course evaluation",
+    "target": "outdated education model",
     "weight": 24
   },
   {
@@ -1770,11 +1790,6 @@
     "weight": 24
   },
   {
-    "source": "curricular design",
-    "target": "faculty redundancy",
-    "weight": 24
-  },
-  {
     "source": "educational instability",
     "target": "faculty careers",
     "weight": 24
@@ -1785,6 +1800,16 @@
     "weight": 24
   },
   {
+    "source": "faculty careers",
+    "target": "faculty job insecurity",
+    "weight": 24
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "university administrators",
+    "weight": 24
+  },
+  {
     "source": "faculty redundancy",
     "target": "postgraduate pathway",
     "weight": 24
@@ -1792,6 +1817,11 @@
   {
     "source": "faculty job insecurity",
     "target": "systemic education failure",
+    "weight": 24
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "instructional excellence",
     "weight": 24
   },
   {
@@ -1815,13 +1845,18 @@
     "weight": 23
   },
   {
-    "source": "college experience",
-    "target": "university leadership",
+    "source": "curricular design",
+    "target": "decline of academia",
     "weight": 23
   },
   {
     "source": "curricular design",
     "target": "mentor-student relationship",
+    "weight": 23
+  },
+  {
+    "source": "curricular design",
+    "target": "university leadership",
     "weight": 23
   },
   {
@@ -1847,11 +1882,6 @@
   {
     "source": "pedagogical innovation",
     "target": "pedagogical methods",
-    "weight": 23
-  },
-  {
-    "source": "pedagogical innovation",
-    "target": "university leadership",
     "weight": 23
   },
   {
@@ -1896,7 +1926,7 @@
   },
   {
     "source": "course evaluation",
-    "target": "outdated education model",
+    "target": "instructional excellence",
     "weight": 23
   },
   {
@@ -1910,33 +1940,28 @@
     "weight": 23
   },
   {
-    "source": "faculty careers",
+    "source": "adjunct faculty",
     "target": "faculty job insecurity",
     "weight": 23
   },
   {
     "source": "faculty job insecurity",
-    "target": "university administrators",
+    "target": "faculty redundancy",
     "weight": 23
   },
   {
-    "source": "faculty redundancy",
-    "target": "instructional excellence",
+    "source": "university administrators",
+    "target": "university bylaws",
     "weight": 23
   },
   {
-    "source": "curricular design",
-    "target": "decline of academia",
-    "weight": 22
+    "source": "university bylaws",
+    "target": "university leadership",
+    "weight": 23
   },
   {
     "source": "curricular design",
     "target": "systemic education failure",
-    "weight": 22
-  },
-  {
-    "source": "curricular design",
-    "target": "university leadership",
     "weight": 22
   },
   {
@@ -1976,12 +2001,17 @@
   },
   {
     "source": "course evaluation",
-    "target": "instructional excellence",
+    "target": "education crisis",
     "weight": 22
   },
   {
     "source": "course evaluation",
     "target": "student life",
+    "weight": 22
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "university policy",
     "weight": 22
   },
   {
@@ -2000,18 +2030,8 @@
     "weight": 22
   },
   {
-    "source": "adjunct faculty",
-    "target": "faculty job insecurity",
-    "weight": 22
-  },
-  {
     "source": "educational instability",
     "target": "university leadership",
-    "weight": 22
-  },
-  {
-    "source": "faculty job insecurity",
-    "target": "faculty redundancy",
     "weight": 22
   },
   {
@@ -2020,13 +2040,8 @@
     "weight": 22
   },
   {
-    "source": "university administrators",
-    "target": "university bylaws",
-    "weight": 22
-  },
-  {
     "source": "university bylaws",
-    "target": "university leadership",
+    "target": "university policy",
     "weight": 22
   },
   {
@@ -2047,6 +2062,11 @@
   {
     "source": "adjunct faculty",
     "target": "mentor-student relationship",
+    "weight": 21
+  },
+  {
+    "source": "instructional excellence",
+    "target": "university leadership",
     "weight": 21
   },
   {
@@ -2081,12 +2101,12 @@
   },
   {
     "source": "course evaluation",
-    "target": "education crisis",
+    "target": "curricular design",
     "weight": 21
   },
   {
-    "source": "institutional accreditation",
-    "target": "university policy",
+    "source": "college experience",
+    "target": "faculty redundancy",
     "weight": 21
   },
   {
@@ -2100,12 +2120,12 @@
     "weight": 21
   },
   {
-    "source": "student satisfaction",
-    "target": "university policy",
+    "source": "faculty job insecurity",
+    "target": "university leadership",
     "weight": 21
   },
   {
-    "source": "university bylaws",
+    "source": "student satisfaction",
     "target": "university policy",
     "weight": 21
   },
@@ -2135,6 +2155,11 @@
     "weight": 21
   },
   {
+    "source": "institutional accreditation",
+    "target": "university administrators",
+    "weight": 21
+  },
+  {
     "source": "participatory instruction",
     "target": "student voice",
     "weight": 20
@@ -2152,11 +2177,6 @@
   {
     "source": "instructional excellence",
     "target": "pedagogical methods",
-    "weight": 20
-  },
-  {
-    "source": "instructional excellence",
-    "target": "university leadership",
     "weight": 20
   },
   {
@@ -2206,7 +2226,22 @@
   },
   {
     "source": "course evaluation",
-    "target": "curricular design",
+    "target": "higher education crisis",
+    "weight": 20
+  },
+  {
+    "source": "course evaluation",
+    "target": "pedagogical innovation",
+    "weight": 20
+  },
+  {
+    "source": "course evaluation",
+    "target": "university policy",
+    "weight": 20
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "instructional excellence",
     "weight": 20
   },
   {
@@ -2220,8 +2255,8 @@
     "weight": 20
   },
   {
-    "source": "college experience",
-    "target": "faculty redundancy",
+    "source": "adjunct faculty",
+    "target": "university bylaws",
     "weight": 20
   },
   {
@@ -2235,8 +2270,8 @@
     "weight": 20
   },
   {
-    "source": "faculty job insecurity",
-    "target": "university leadership",
+    "source": "university bylaws",
+    "target": "university reform",
     "weight": 20
   },
   {
@@ -2257,11 +2292,6 @@
   {
     "source": "scholarly endowments",
     "target": "university reform",
-    "weight": 20
-  },
-  {
-    "source": "institutional accreditation",
-    "target": "university administrators",
     "weight": 20
   },
   {
@@ -2295,23 +2325,23 @@
     "weight": 19
   },
   {
-    "source": "course evaluation",
-    "target": "higher education crisis",
-    "weight": 19
-  },
-  {
-    "source": "course evaluation",
-    "target": "pedagogical innovation",
-    "weight": 19
-  },
-  {
-    "source": "course evaluation",
-    "target": "university policy",
+    "source": "adjunct faculty",
+    "target": "institutional accreditation",
     "weight": 19
   },
   {
     "source": "institutional accreditation",
-    "target": "instructional excellence",
+    "target": "pedagogical innovation",
+    "weight": 19
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "student experience",
+    "weight": 19
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "university reform",
     "weight": 19
   },
   {
@@ -2330,13 +2360,13 @@
     "weight": 19
   },
   {
-    "source": "adjunct faculty",
-    "target": "university bylaws",
+    "source": "educational decline",
+    "target": "postgraduate pathway",
     "weight": 19
   },
   {
-    "source": "educational decline",
-    "target": "postgraduate pathway",
+    "source": "faculty job insecurity",
+    "target": "pedagogical innovation",
     "weight": 19
   },
   {
@@ -2350,8 +2380,8 @@
     "weight": 19
   },
   {
-    "source": "university bylaws",
-    "target": "university reform",
+    "source": "faculty careers",
+    "target": "faculty hiring market",
     "weight": 19
   },
   {
@@ -2415,6 +2445,11 @@
     "weight": 18
   },
   {
+    "source": "faculty labour exploitation",
+    "target": "university policy",
+    "weight": 18
+  },
+  {
     "source": "decline of academia",
     "target": "public scholarly funding",
     "weight": 18
@@ -2436,7 +2471,7 @@
   },
   {
     "source": "adjunct faculty",
-    "target": "institutional accreditation",
+    "target": "course evaluation",
     "weight": 18
   },
   {
@@ -2445,18 +2480,8 @@
     "weight": 18
   },
   {
-    "source": "institutional accreditation",
-    "target": "pedagogical innovation",
-    "weight": 18
-  },
-  {
-    "source": "institutional accreditation",
-    "target": "student experience",
-    "weight": 18
-  },
-  {
-    "source": "institutional accreditation",
-    "target": "university reform",
+    "source": "higher education crisis",
+    "target": "institutional accreditation",
     "weight": 18
   },
   {
@@ -2491,11 +2516,6 @@
   },
   {
     "source": "faculty job insecurity",
-    "target": "pedagogical innovation",
-    "weight": 18
-  },
-  {
-    "source": "faculty job insecurity",
     "target": "undergraduate pathway",
     "weight": 18
   },
@@ -2507,6 +2527,16 @@
   {
     "source": "faculty precarity",
     "target": "student voice",
+    "weight": 18
+  },
+  {
+    "source": "faculty precarity",
+    "target": "university bylaws",
+    "weight": 18
+  },
+  {
+    "source": "student experience",
+    "target": "university bylaws",
     "weight": 18
   },
   {
@@ -2530,11 +2560,6 @@
     "weight": 18
   },
   {
-    "source": "faculty careers",
-    "target": "faculty hiring market",
-    "weight": 18
-  },
-  {
     "source": "institutional partnerships",
     "target": "pedagogical innovation",
     "weight": 18
@@ -2552,6 +2577,11 @@
   {
     "source": "classroom methods",
     "target": "systemic education failure",
+    "weight": 18
+  },
+  {
+    "source": "course evaluation",
+    "target": "faculty precarity",
     "weight": 18
   },
   {
@@ -2610,11 +2640,6 @@
     "weight": 17
   },
   {
-    "source": "faculty labour exploitation",
-    "target": "university policy",
-    "weight": 17
-  },
-  {
     "source": "academic collapse",
     "target": "tuition affordability",
     "weight": 17
@@ -2640,11 +2665,6 @@
     "weight": 17
   },
   {
-    "source": "adjunct faculty",
-    "target": "course evaluation",
-    "weight": 17
-  },
-  {
     "source": "course architecture",
     "target": "outdated education model",
     "weight": 17
@@ -2655,8 +2675,13 @@
     "weight": 17
   },
   {
-    "source": "higher education crisis",
-    "target": "institutional accreditation",
+    "source": "course evaluation",
+    "target": "university reform",
+    "weight": 17
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "outdated education model",
     "weight": 17
   },
   {
@@ -2686,7 +2711,17 @@
   },
   {
     "source": "adjunct faculty",
+    "target": "faculty workload",
+    "weight": 17
+  },
+  {
+    "source": "adjunct faculty",
     "target": "public scholarly funding",
+    "weight": 17
+  },
+  {
+    "source": "college experience",
+    "target": "faculty job insecurity",
     "weight": 17
   },
   {
@@ -2695,18 +2730,13 @@
     "weight": 17
   },
   {
-    "source": "faculty precarity",
-    "target": "university bylaws",
+    "source": "faculty careers",
+    "target": "faculty workload",
     "weight": 17
   },
   {
     "source": "faculty redundancy",
     "target": "undergraduate pathway",
-    "weight": 17
-  },
-  {
-    "source": "student experience",
-    "target": "university bylaws",
     "weight": 17
   },
   {
@@ -2730,6 +2760,11 @@
     "weight": 17
   },
   {
+    "source": "faculty hiring market",
+    "target": "faculty precarity",
+    "weight": 17
+  },
+  {
     "source": "institutional governance",
     "target": "university reform",
     "weight": 17
@@ -2745,11 +2780,6 @@
     "weight": 17
   },
   {
-    "source": "course evaluation",
-    "target": "faculty precarity",
-    "weight": 17
-  },
-  {
     "source": "pedagogical innovation",
     "target": "scholastic aptitude test",
     "weight": 17
@@ -2762,6 +2792,11 @@
   {
     "source": "adjunct faculty",
     "target": "scholarly endowments",
+    "weight": 17
+  },
+  {
+    "source": "faculty precarity",
+    "target": "institutional accreditation",
     "weight": 17
   },
   {
@@ -2800,6 +2835,11 @@
     "weight": 16
   },
   {
+    "source": "faculty labour exploitation",
+    "target": "university reform",
+    "weight": 16
+  },
+  {
     "source": "academic model breakdown",
     "target": "school budgets",
     "weight": 16
@@ -2825,28 +2865,18 @@
     "weight": 16
   },
   {
-    "source": "course evaluation",
-    "target": "university reform",
+    "source": "education crisis",
+    "target": "institutional accreditation",
     "weight": 16
   },
   {
-    "source": "institutional accreditation",
-    "target": "outdated education model",
+    "source": "faculty careers",
+    "target": "institutional accreditation",
     "weight": 16
   },
   {
     "source": "academic collapse",
     "target": "undergraduate pathway",
-    "weight": 16
-  },
-  {
-    "source": "adjunct faculty",
-    "target": "faculty workload",
-    "weight": 16
-  },
-  {
-    "source": "college experience",
-    "target": "faculty job insecurity",
     "weight": 16
   },
   {
@@ -2856,7 +2886,17 @@
   },
   {
     "source": "faculty careers",
-    "target": "faculty workload",
+    "target": "faculty labour exploitation",
+    "weight": 16
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "faculty precarity",
+    "weight": 16
+  },
+  {
+    "source": "faculty workload",
+    "target": "student experience",
     "weight": 16
   },
   {
@@ -2900,13 +2940,18 @@
     "weight": 16
   },
   {
-    "source": "faculty hiring market",
-    "target": "faculty precarity",
+    "source": "adjunct faculty",
+    "target": "faculty hiring market",
     "weight": 16
   },
   {
     "source": "faculty hiring market",
     "target": "postgraduate pathway",
+    "weight": 16
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "university policy",
     "weight": 16
   },
   {
@@ -2976,11 +3021,6 @@
   },
   {
     "source": "faculty precarity",
-    "target": "institutional accreditation",
-    "weight": 16
-  },
-  {
-    "source": "faculty precarity",
     "target": "scholarly endowments",
     "weight": 16
   },
@@ -3015,13 +3055,18 @@
     "weight": 15
   },
   {
-    "source": "faculty labour exploitation",
-    "target": "university reform",
+    "source": "decline of academia",
+    "target": "faculty labour exploitation",
     "weight": 15
   },
   {
     "source": "decline of academia",
     "target": "tuition affordability",
+    "weight": 15
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "higher education crisis",
     "weight": 15
   },
   {
@@ -3035,18 +3080,18 @@
     "weight": 15
   },
   {
+    "source": "college experience",
+    "target": "course evaluation",
+    "weight": 15
+  },
+  {
     "source": "course architecture",
     "target": "education crisis",
     "weight": 15
   },
   {
-    "source": "education crisis",
-    "target": "institutional accreditation",
-    "weight": 15
-  },
-  {
-    "source": "faculty careers",
-    "target": "institutional accreditation",
+    "source": "course evaluation",
+    "target": "faculty careers",
     "weight": 15
   },
   {
@@ -3080,13 +3125,18 @@
     "weight": 15
   },
   {
-    "source": "faculty careers",
-    "target": "faculty labour exploitation",
+    "source": "curricular design",
+    "target": "faculty job insecurity",
     "weight": 15
   },
   {
-    "source": "faculty labour exploitation",
-    "target": "faculty precarity",
+    "source": "faculty careers",
+    "target": "university bylaws",
+    "weight": 15
+  },
+  {
+    "source": "faculty precarity",
+    "target": "faculty workload",
     "weight": 15
   },
   {
@@ -3102,11 +3152,6 @@
   {
     "source": "faculty workload",
     "target": "student engagement",
-    "weight": 15
-  },
-  {
-    "source": "faculty workload",
-    "target": "student experience",
     "weight": 15
   },
   {
@@ -3145,18 +3190,13 @@
     "weight": 15
   },
   {
-    "source": "adjunct faculty",
-    "target": "faculty hiring market",
-    "weight": 15
-  },
-  {
     "source": "decline of academia",
     "target": "institutional partnerships",
     "weight": 15
   },
   {
     "source": "faculty hiring market",
-    "target": "university policy",
+    "target": "university administrators",
     "weight": 15
   },
   {
@@ -3192,6 +3232,11 @@
   {
     "source": "instructional excellence",
     "target": "student satisfaction",
+    "weight": 15
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "student experience",
     "weight": 15
   },
   {
@@ -3230,6 +3275,11 @@
     "weight": 15
   },
   {
+    "source": "faculty redundancy",
+    "target": "institutional accreditation",
+    "weight": 15
+  },
+  {
     "source": "decline of academia",
     "target": "scholarly endowments",
     "weight": 15
@@ -3285,18 +3335,13 @@
     "weight": 14
   },
   {
-    "source": "decline of academia",
-    "target": "faculty labour exploitation",
-    "weight": 14
-  },
-  {
     "source": "educational instability",
     "target": "scholarly funding",
     "weight": 14
   },
   {
     "source": "faculty labour exploitation",
-    "target": "higher education crisis",
+    "target": "student experience",
     "weight": 14
   },
   {
@@ -3335,23 +3380,18 @@
     "weight": 14
   },
   {
-    "source": "college experience",
-    "target": "course evaluation",
-    "weight": 14
-  },
-  {
     "source": "course architecture",
     "target": "student experience",
     "weight": 14
   },
   {
     "source": "course evaluation",
-    "target": "faculty careers",
+    "target": "scholarships",
     "weight": 14
   },
   {
-    "source": "course evaluation",
-    "target": "scholarships",
+    "source": "curricular design",
+    "target": "institutional accreditation",
     "weight": 14
   },
   {
@@ -3375,8 +3415,13 @@
     "weight": 14
   },
   {
+    "source": "adjunct faculty",
+    "target": "faculty labour exploitation",
+    "weight": 14
+  },
+  {
     "source": "curricular design",
-    "target": "faculty job insecurity",
+    "target": "faculty workload",
     "weight": 14
   },
   {
@@ -3387,6 +3432,11 @@
   {
     "source": "decline of academia",
     "target": "politicisation of science",
+    "weight": 14
+  },
+  {
+    "source": "decline of academia",
+    "target": "university bylaws",
     "weight": 14
   },
   {
@@ -3405,13 +3455,13 @@
     "weight": 14
   },
   {
-    "source": "faculty careers",
-    "target": "university bylaws",
+    "source": "faculty job insecurity",
+    "target": "faculty labour exploitation",
     "weight": 14
   },
   {
-    "source": "faculty precarity",
-    "target": "faculty workload",
+    "source": "faculty labour exploitation",
+    "target": "university administrators",
     "weight": 14
   },
   {
@@ -3422,6 +3472,16 @@
   {
     "source": "faculty redundancy",
     "target": "public scholarly funding",
+    "weight": 14
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "university bylaws",
+    "weight": 14
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university bylaws",
     "weight": 14
   },
   {
@@ -3451,12 +3511,22 @@
   },
   {
     "source": "faculty hiring market",
+    "target": "higher education crisis",
+    "weight": 14
+  },
+  {
+    "source": "faculty hiring market",
     "target": "student life",
     "weight": 14
   },
   {
     "source": "faculty hiring market",
-    "target": "university administrators",
+    "target": "university reform",
+    "weight": 14
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "instructional excellence",
     "weight": 14
   },
   {
@@ -3487,11 +3557,6 @@
   {
     "source": "faculty precarity",
     "target": "student retention",
-    "weight": 14
-  },
-  {
-    "source": "faculty hiring market",
-    "target": "student experience",
     "weight": 14
   },
   {
@@ -3535,8 +3600,8 @@
     "weight": 14
   },
   {
-    "source": "faculty redundancy",
-    "target": "institutional accreditation",
+    "source": "course evaluation",
+    "target": "faculty redundancy",
     "weight": 14
   },
   {
@@ -3620,8 +3685,8 @@
     "weight": 13
   },
   {
-    "source": "faculty labour exploitation",
-    "target": "student experience",
+    "source": "education crisis",
+    "target": "faculty labour exploitation",
     "weight": 13
   },
   {
@@ -3651,6 +3716,11 @@
   },
   {
     "source": "college experience",
+    "target": "institutional accreditation",
+    "weight": 13
+  },
+  {
+    "source": "college experience",
     "target": "participatory instruction",
     "weight": 13
   },
@@ -3667,11 +3737,6 @@
   {
     "source": "course evaluation",
     "target": "undergraduate pathway",
-    "weight": 13
-  },
-  {
-    "source": "curricular design",
-    "target": "institutional accreditation",
     "weight": 13
   },
   {
@@ -3695,22 +3760,12 @@
     "weight": 13
   },
   {
-    "source": "adjunct faculty",
-    "target": "faculty labour exploitation",
-    "weight": 13
-  },
-  {
     "source": "college experience",
     "target": "student protest",
     "weight": 13
   },
   {
-    "source": "curricular design",
-    "target": "faculty workload",
-    "weight": 13
-  },
-  {
-    "source": "decline of academia",
+    "source": "education crisis",
     "target": "university bylaws",
     "weight": 13
   },
@@ -3731,7 +3786,7 @@
   },
   {
     "source": "faculty job insecurity",
-    "target": "faculty labour exploitation",
+    "target": "university bylaws",
     "weight": 13
   },
   {
@@ -3740,13 +3795,8 @@
     "weight": 13
   },
   {
-    "source": "faculty labour exploitation",
-    "target": "university administrators",
-    "weight": 13
-  },
-  {
-    "source": "faculty redundancy",
-    "target": "university bylaws",
+    "source": "faculty workload",
+    "target": "pedagogical innovation",
     "weight": 13
   },
   {
@@ -3755,8 +3805,13 @@
     "weight": 13
   },
   {
-    "source": "higher education crisis",
-    "target": "university bylaws",
+    "source": "faculty workload",
+    "target": "university administrators",
+    "weight": 13
+  },
+  {
+    "source": "faculty workload",
+    "target": "university leadership",
     "weight": 13
   },
   {
@@ -3765,8 +3820,18 @@
     "weight": 13
   },
   {
+    "source": "outdated education model",
+    "target": "university bylaws",
+    "weight": 13
+  },
+  {
     "source": "pedagogical innovation",
     "target": "public scholarly funding",
+    "weight": 13
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "university bylaws",
     "weight": 13
   },
   {
@@ -3831,21 +3896,21 @@
   },
   {
     "source": "decline of academia",
+    "target": "faculty hiring market",
+    "weight": 13
+  },
+  {
+    "source": "decline of academia",
     "target": "institutional governance",
     "weight": 13
   },
   {
     "source": "faculty hiring market",
-    "target": "higher education crisis",
+    "target": "faculty redundancy",
     "weight": 13
   },
   {
     "source": "faculty hiring market",
-    "target": "university reform",
-    "weight": 13
-  },
-  {
-    "source": "faculty job insecurity",
     "target": "instructional excellence",
     "weight": 13
   },
@@ -3857,6 +3922,11 @@
   {
     "source": "institutional partnerships",
     "target": "instructional excellence",
+    "weight": 13
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "pedagogical innovation",
     "weight": 13
   },
   {
@@ -3910,6 +3980,16 @@
     "weight": 13
   },
   {
+    "source": "curricular design",
+    "target": "faculty hiring market",
+    "weight": 13
+  },
+  {
+    "source": "faculty workload",
+    "target": "instructional excellence",
+    "weight": 13
+  },
+  {
     "source": "artificial intelligence",
     "target": "edtech",
     "weight": 13
@@ -3935,8 +4015,13 @@
     "weight": 13
   },
   {
-    "source": "course evaluation",
-    "target": "faculty redundancy",
+    "source": "decline of academia",
+    "target": "institutional accreditation",
+    "weight": 13
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "university leadership",
     "weight": 13
   },
   {
@@ -4026,11 +4111,6 @@
   },
   {
     "source": "education crisis",
-    "target": "faculty labour exploitation",
-    "weight": 12
-  },
-  {
-    "source": "education crisis",
     "target": "scholarly funding",
     "weight": 12
   },
@@ -4072,11 +4152,6 @@
   {
     "source": "classroom methods",
     "target": "postgraduate pathway",
-    "weight": 12
-  },
-  {
-    "source": "college experience",
-    "target": "institutional accreditation",
     "weight": 12
   },
   {
@@ -4135,13 +4210,13 @@
     "weight": 12
   },
   {
-    "source": "decline of academia",
-    "target": "student satisfaction",
+    "source": "college experience",
+    "target": "faculty workload",
     "weight": 12
   },
   {
-    "source": "education crisis",
-    "target": "university bylaws",
+    "source": "decline of academia",
+    "target": "student satisfaction",
     "weight": 12
   },
   {
@@ -4160,8 +4235,8 @@
     "weight": 12
   },
   {
-    "source": "faculty job insecurity",
-    "target": "university bylaws",
+    "source": "faculty labour exploitation",
+    "target": "university leadership",
     "weight": 12
   },
   {
@@ -4181,37 +4256,17 @@
   },
   {
     "source": "faculty workload",
-    "target": "pedagogical innovation",
-    "weight": 12
-  },
-  {
-    "source": "faculty workload",
     "target": "undergraduate pathway",
     "weight": 12
   },
   {
     "source": "faculty workload",
-    "target": "university administrators",
-    "weight": 12
-  },
-  {
-    "source": "faculty workload",
-    "target": "university leadership",
+    "target": "university policy",
     "weight": 12
   },
   {
     "source": "outdated education model",
     "target": "politicisation of science",
-    "weight": 12
-  },
-  {
-    "source": "outdated education model",
-    "target": "university bylaws",
-    "weight": 12
-  },
-  {
-    "source": "pedagogical innovation",
-    "target": "university bylaws",
     "weight": 12
   },
   {
@@ -4260,7 +4315,7 @@
     "weight": 12
   },
   {
-    "source": "decline of academia",
+    "source": "education crisis",
     "target": "faculty hiring market",
     "weight": 12
   },
@@ -4271,12 +4326,22 @@
   },
   {
     "source": "faculty hiring market",
-    "target": "faculty redundancy",
+    "target": "faculty job insecurity",
     "weight": 12
   },
   {
     "source": "faculty hiring market",
-    "target": "instructional excellence",
+    "target": "faculty labour exploitation",
+    "weight": 12
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "outdated education model",
+    "weight": 12
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "university leadership",
     "weight": 12
   },
   {
@@ -4301,7 +4366,7 @@
   },
   {
     "source": "faculty hiring market",
-    "target": "pedagogical innovation",
+    "target": "faculty workload",
     "weight": 12
   },
   {
@@ -4356,7 +4421,17 @@
   },
   {
     "source": "admissions selectivity",
+    "target": "curricular design",
+    "weight": 12
+  },
+  {
+    "source": "admissions selectivity",
     "target": "student engagement",
+    "weight": 12
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "student experience",
     "weight": 12
   },
   {
@@ -4380,18 +4455,8 @@
     "weight": 12
   },
   {
-    "source": "curricular design",
-    "target": "faculty hiring market",
-    "weight": 12
-  },
-  {
     "source": "faculty precarity",
     "target": "scholastic aptitude test",
-    "weight": 12
-  },
-  {
-    "source": "faculty workload",
-    "target": "instructional excellence",
     "weight": 12
   },
   {
@@ -4425,13 +4490,13 @@
     "weight": 12
   },
   {
-    "source": "decline of academia",
-    "target": "institutional accreditation",
+    "source": "course evaluation",
+    "target": "decline of academia",
     "weight": 12
   },
   {
-    "source": "institutional accreditation",
-    "target": "university leadership",
+    "source": "faculty careers",
+    "target": "faculty unemployment",
     "weight": 12
   },
   {
@@ -4477,6 +4542,11 @@
   {
     "source": "student wellbeing",
     "target": "systemic education failure",
+    "weight": 11
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "outdated education model",
     "weight": 11
   },
   {
@@ -4551,6 +4621,11 @@
   },
   {
     "source": "college experience",
+    "target": "university bylaws",
+    "weight": 11
+  },
+  {
+    "source": "decline of academia",
     "target": "faculty workload",
     "weight": 11
   },
@@ -4561,12 +4636,17 @@
   },
   {
     "source": "faculty labour exploitation",
-    "target": "university leadership",
+    "target": "faculty redundancy",
     "weight": 11
   },
   {
     "source": "faculty precarity",
     "target": "student protest",
+    "weight": 11
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "faculty workload",
     "weight": 11
   },
   {
@@ -4581,7 +4661,7 @@
   },
   {
     "source": "faculty workload",
-    "target": "university policy",
+    "target": "university reform",
     "weight": 11
   },
   {
@@ -4640,31 +4720,6 @@
     "weight": 11
   },
   {
-    "source": "education crisis",
-    "target": "faculty hiring market",
-    "weight": 11
-  },
-  {
-    "source": "faculty hiring market",
-    "target": "faculty job insecurity",
-    "weight": 11
-  },
-  {
-    "source": "faculty hiring market",
-    "target": "faculty labour exploitation",
-    "weight": 11
-  },
-  {
-    "source": "faculty hiring market",
-    "target": "outdated education model",
-    "weight": 11
-  },
-  {
-    "source": "faculty hiring market",
-    "target": "university leadership",
-    "weight": 11
-  },
-  {
     "source": "faculty precarity",
     "target": "institutional governance",
     "weight": 11
@@ -4672,11 +4727,6 @@
   {
     "source": "institutional partnerships",
     "target": "systemic education failure",
-    "weight": 11
-  },
-  {
-    "source": "faculty hiring market",
-    "target": "faculty workload",
     "weight": 11
   },
   {
@@ -4746,12 +4796,7 @@
   },
   {
     "source": "admissions selectivity",
-    "target": "curricular design",
-    "weight": 11
-  },
-  {
-    "source": "admissions selectivity",
-    "target": "student experience",
+    "target": "university policy",
     "weight": 11
   },
   {
@@ -4835,13 +4880,13 @@
     "weight": 11
   },
   {
-    "source": "participatory instruction",
-    "target": "systemic education failure",
+    "source": "course evaluation",
+    "target": "university administrators",
     "weight": 11
   },
   {
-    "source": "course evaluation",
-    "target": "decline of academia",
+    "source": "participatory instruction",
+    "target": "systemic education failure",
     "weight": 11
   },
   {
@@ -4855,8 +4900,13 @@
     "weight": 11
   },
   {
-    "source": "faculty careers",
+    "source": "faculty precarity",
     "target": "faculty unemployment",
+    "weight": 11
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "university policy",
     "weight": 11
   },
   {
@@ -4947,11 +4997,6 @@
   {
     "source": "educational instability",
     "target": "scholarly grant funding",
-    "weight": 10
-  },
-  {
-    "source": "faculty labour exploitation",
-    "target": "outdated education model",
     "weight": 10
   },
   {
@@ -5051,17 +5096,17 @@
   },
   {
     "source": "college experience",
-    "target": "scholarly funding",
+    "target": "faculty labour exploitation",
     "weight": 10
   },
   {
     "source": "college experience",
-    "target": "university bylaws",
+    "target": "scholarly funding",
     "weight": 10
   },
   {
-    "source": "decline of academia",
-    "target": "faculty workload",
+    "source": "curricular design",
+    "target": "faculty labour exploitation",
     "weight": 10
   },
   {
@@ -5090,18 +5135,18 @@
     "weight": 10
   },
   {
-    "source": "faculty labour exploitation",
-    "target": "faculty redundancy",
-    "weight": 10
-  },
-  {
-    "source": "faculty redundancy",
+    "source": "faculty job insecurity",
     "target": "faculty workload",
     "weight": 10
   },
   {
-    "source": "faculty workload",
-    "target": "university reform",
+    "source": "faculty labour exploitation",
+    "target": "pedagogical innovation",
+    "weight": 10
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "university bylaws",
     "weight": 10
   },
   {
@@ -5276,12 +5321,17 @@
   },
   {
     "source": "admissions selectivity",
-    "target": "student life",
+    "target": "education crisis",
     "weight": 10
   },
   {
     "source": "admissions selectivity",
-    "target": "university policy",
+    "target": "higher education crisis",
+    "weight": 10
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "student life",
     "weight": 10
   },
   {
@@ -5400,8 +5450,8 @@
     "weight": 10
   },
   {
-    "source": "course evaluation",
-    "target": "university administrators",
+    "source": "college experience",
+    "target": "faculty hiring market",
     "weight": 10
   },
   {
@@ -5440,8 +5490,13 @@
     "weight": 10
   },
   {
-    "source": "faculty precarity",
+    "source": "faculty redundancy",
     "target": "faculty unemployment",
+    "weight": 10
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "higher education crisis",
     "weight": 10
   },
   {
@@ -5451,7 +5506,12 @@
   },
   {
     "source": "faculty unemployment",
-    "target": "university policy",
+    "target": "student experience",
+    "weight": 10
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "university reform",
     "weight": 10
   },
   {
@@ -5575,6 +5635,11 @@
     "weight": 9
   },
   {
+    "source": "course evaluation",
+    "target": "institutional accreditation",
+    "weight": 9
+  },
+  {
     "source": "institutional accreditation",
     "target": "undergraduate pathway",
     "weight": 9
@@ -5605,13 +5670,8 @@
     "weight": 9
   },
   {
-    "source": "college experience",
-    "target": "faculty labour exploitation",
-    "weight": 9
-  },
-  {
     "source": "curricular design",
-    "target": "faculty labour exploitation",
+    "target": "university bylaws",
     "weight": 9
   },
   {
@@ -5651,11 +5711,6 @@
   },
   {
     "source": "faculty job insecurity",
-    "target": "faculty workload",
-    "weight": 9
-  },
-  {
-    "source": "faculty job insecurity",
     "target": "public scholarly funding",
     "weight": 9
   },
@@ -5671,11 +5726,6 @@
   },
   {
     "source": "faculty labour exploitation",
-    "target": "pedagogical innovation",
-    "weight": 9
-  },
-  {
-    "source": "faculty labour exploitation",
     "target": "student engagement",
     "weight": 9
   },
@@ -5685,13 +5735,13 @@
     "weight": 9
   },
   {
-    "source": "faculty labour exploitation",
-    "target": "university bylaws",
+    "source": "faculty redundancy",
+    "target": "politicisation of science",
     "weight": 9
   },
   {
-    "source": "faculty redundancy",
-    "target": "politicisation of science",
+    "source": "faculty workload",
+    "target": "higher education crisis",
     "weight": 9
   },
   {
@@ -5835,18 +5885,28 @@
     "weight": 9
   },
   {
+    "source": "adjunct faculty",
+    "target": "admissions selectivity",
+    "weight": 9
+  },
+  {
     "source": "admissions criteria",
     "target": "student engagement",
     "weight": 9
   },
   {
     "source": "admissions selectivity",
-    "target": "education crisis",
+    "target": "faculty precarity",
     "weight": 9
   },
   {
     "source": "admissions selectivity",
-    "target": "higher education crisis",
+    "target": "outdated education model",
+    "weight": 9
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "pedagogical innovation",
     "weight": 9
   },
   {
@@ -5897,6 +5957,11 @@
   {
     "source": "competency outcomes",
     "target": "student experience",
+    "weight": 9
+  },
+  {
+    "source": "course evaluation",
+    "target": "faculty job insecurity",
     "weight": 9
   },
   {
@@ -6005,11 +6070,6 @@
     "weight": 9
   },
   {
-    "source": "college experience",
-    "target": "faculty hiring market",
-    "weight": 9
-  },
-  {
     "source": "institutional accreditation",
     "target": "scholarly endowments",
     "weight": 9
@@ -6030,6 +6090,21 @@
     "weight": 9
   },
   {
+    "source": "college experience",
+    "target": "faculty unemployment",
+    "weight": 9
+  },
+  {
+    "source": "decline of academia",
+    "target": "faculty unemployment",
+    "weight": 9
+  },
+  {
+    "source": "education crisis",
+    "target": "faculty unemployment",
+    "weight": 9
+  },
+  {
     "source": "faculty job insecurity",
     "target": "over-enrollment",
     "weight": 9
@@ -6037,11 +6112,6 @@
   {
     "source": "faculty precarity",
     "target": "over-enrollment",
-    "weight": 9
-  },
-  {
-    "source": "faculty redundancy",
-    "target": "faculty unemployment",
     "weight": 9
   },
   {
@@ -6056,12 +6126,7 @@
   },
   {
     "source": "faculty unemployment",
-    "target": "higher education crisis",
-    "weight": 9
-  },
-  {
-    "source": "faculty unemployment",
-    "target": "student experience",
+    "target": "outdated education model",
     "weight": 9
   },
   {
@@ -6072,11 +6137,6 @@
   {
     "source": "faculty unemployment",
     "target": "undergraduate pathway",
-    "weight": 9
-  },
-  {
-    "source": "faculty unemployment",
-    "target": "university reform",
     "weight": 9
   },
   {
@@ -6210,11 +6270,6 @@
     "weight": 8
   },
   {
-    "source": "course evaluation",
-    "target": "institutional accreditation",
-    "weight": 8
-  },
-  {
     "source": "curricular design",
     "target": "online learning",
     "weight": 8
@@ -6265,13 +6320,13 @@
     "weight": 8
   },
   {
-    "source": "curricular design",
-    "target": "university bylaws",
+    "source": "education crisis",
+    "target": "faculty contracts",
     "weight": 8
   },
   {
     "source": "education crisis",
-    "target": "faculty contracts",
+    "target": "faculty workload",
     "weight": 8
   },
   {
@@ -6320,8 +6375,8 @@
     "weight": 8
   },
   {
-    "source": "faculty workload",
-    "target": "higher education crisis",
+    "source": "faculty labour exploitation",
+    "target": "faculty workload",
     "weight": 8
   },
   {
@@ -6382,6 +6437,11 @@
   {
     "source": "educational instability",
     "target": "institutional governance",
+    "weight": 8
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "instructional excellence",
     "weight": 8
   },
   {
@@ -6480,11 +6540,6 @@
     "weight": 8
   },
   {
-    "source": "adjunct faculty",
-    "target": "admissions selectivity",
-    "weight": 8
-  },
-  {
     "source": "admissions criteria",
     "target": "curricular design",
     "weight": 8
@@ -6506,17 +6561,12 @@
   },
   {
     "source": "admissions selectivity",
-    "target": "faculty precarity",
+    "target": "course evaluation",
     "weight": 8
   },
   {
     "source": "admissions selectivity",
-    "target": "outdated education model",
-    "weight": 8
-  },
-  {
-    "source": "admissions selectivity",
-    "target": "pedagogical innovation",
+    "target": "instructional excellence",
     "weight": 8
   },
   {
@@ -6587,11 +6637,6 @@
   {
     "source": "competency outcomes",
     "target": "student satisfaction",
-    "weight": 8
-  },
-  {
-    "source": "course evaluation",
-    "target": "faculty job insecurity",
     "weight": 8
   },
   {
@@ -6751,7 +6796,27 @@
   },
   {
     "source": "accreditation review",
+    "target": "institutional accreditation",
+    "weight": 8
+  },
+  {
+    "source": "accreditation review",
+    "target": "instructional excellence",
+    "weight": 8
+  },
+  {
+    "source": "accreditation review",
+    "target": "outdated education model",
+    "weight": 8
+  },
+  {
+    "source": "accreditation review",
     "target": "programme accreditation",
+    "weight": 8
+  },
+  {
+    "source": "accreditation review",
+    "target": "student experience",
     "weight": 8
   },
   {
@@ -6790,6 +6855,11 @@
     "weight": 8
   },
   {
+    "source": "faculty hiring market",
+    "target": "institutional accreditation",
+    "weight": 8
+  },
+  {
     "source": "institutional accreditation",
     "target": "institutional governance",
     "weight": 8
@@ -6805,8 +6875,13 @@
     "weight": 8
   },
   {
-    "source": "college experience",
+    "source": "adjunct faculty",
     "target": "faculty unemployment",
+    "weight": 8
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "university reform",
     "weight": 8
   },
   {
@@ -6815,18 +6890,8 @@
     "weight": 8
   },
   {
-    "source": "decline of academia",
+    "source": "faculty job insecurity",
     "target": "faculty unemployment",
-    "weight": 8
-  },
-  {
-    "source": "education crisis",
-    "target": "faculty unemployment",
-    "weight": 8
-  },
-  {
-    "source": "faculty unemployment",
-    "target": "outdated education model",
     "weight": 8
   },
   {
@@ -6862,6 +6927,16 @@
   {
     "source": "bureaucratic obstruction",
     "target": "systemic education failure",
+    "weight": 8
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "faculty unemployment",
+    "weight": 8
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "faculty unemployment",
     "weight": 8
   },
   {
@@ -7070,11 +7145,6 @@
     "weight": 7
   },
   {
-    "source": "education crisis",
-    "target": "faculty workload",
-    "weight": 7
-  },
-  {
     "source": "educational decline",
     "target": "student protest",
     "weight": 7
@@ -7120,13 +7190,18 @@
     "weight": 7
   },
   {
-    "source": "faculty labour exploitation",
-    "target": "faculty workload",
+    "source": "faculty redundancy",
+    "target": "student protest",
     "weight": 7
   },
   {
-    "source": "faculty redundancy",
-    "target": "student protest",
+    "source": "faculty workload",
+    "target": "outdated education model",
+    "weight": 7
+  },
+  {
+    "source": "faculty workload",
+    "target": "university bylaws",
     "weight": 7
   },
   {
@@ -7235,8 +7310,8 @@
     "weight": 7
   },
   {
-    "source": "faculty labour exploitation",
-    "target": "instructional excellence",
+    "source": "faculty hiring market",
+    "target": "university bylaws",
     "weight": 7
   },
   {
@@ -7252,6 +7327,11 @@
   {
     "source": "institutional governance",
     "target": "systemic education failure",
+    "weight": 7
+  },
+  {
+    "source": "instructional excellence",
+    "target": "university bylaws",
     "weight": 7
   },
   {
@@ -7426,12 +7506,12 @@
   },
   {
     "source": "admissions selectivity",
-    "target": "course evaluation",
+    "target": "college experience",
     "weight": 7
   },
   {
     "source": "admissions selectivity",
-    "target": "instructional excellence",
+    "target": "faculty careers",
     "weight": 7
   },
   {
@@ -7517,6 +7597,11 @@
   {
     "source": "competency outcomes",
     "target": "undergraduate pathway",
+    "weight": 7
+  },
+  {
+    "source": "course evaluation",
+    "target": "faculty workload",
     "weight": 7
   },
   {
@@ -7656,22 +7741,22 @@
   },
   {
     "source": "accreditation review",
-    "target": "institutional accreditation",
+    "target": "adjunct faculty",
     "weight": 7
   },
   {
     "source": "accreditation review",
-    "target": "instructional excellence",
+    "target": "course evaluation",
     "weight": 7
   },
   {
     "source": "accreditation review",
-    "target": "outdated education model",
+    "target": "pedagogical innovation",
     "weight": 7
   },
   {
     "source": "accreditation review",
-    "target": "student experience",
+    "target": "university administrators",
     "weight": 7
   },
   {
@@ -7700,13 +7785,23 @@
     "weight": 7
   },
   {
-    "source": "faculty hiring market",
+    "source": "course evaluation",
+    "target": "university leadership",
+    "weight": 7
+  },
+  {
+    "source": "faculty job insecurity",
     "target": "institutional accreditation",
     "weight": 7
   },
   {
     "source": "faculty labour exploitation",
     "target": "graduate management admission test",
+    "weight": 7
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "university bylaws",
     "weight": 7
   },
   {
@@ -7735,13 +7830,13 @@
     "weight": 7
   },
   {
-    "source": "adjunct faculty",
-    "target": "faculty unemployment",
+    "source": "admissions selectivity",
+    "target": "faculty redundancy",
     "weight": 7
   },
   {
-    "source": "admissions selectivity",
-    "target": "university reform",
+    "source": "curricular design",
+    "target": "faculty unemployment",
     "weight": 7
   },
   {
@@ -7760,8 +7855,8 @@
     "weight": 7
   },
   {
-    "source": "faculty job insecurity",
-    "target": "faculty unemployment",
+    "source": "faculty unemployment",
+    "target": "pedagogical innovation",
     "weight": 7
   },
   {
@@ -7820,18 +7915,13 @@
     "weight": 7
   },
   {
-    "source": "faculty labour exploitation",
-    "target": "faculty unemployment",
+    "source": "faculty unemployment",
+    "target": "university administrators",
     "weight": 7
   },
   {
     "source": "academic model breakdown",
     "target": "institutional accreditation",
-    "weight": 7
-  },
-  {
-    "source": "faculty hiring market",
-    "target": "faculty unemployment",
     "weight": 7
   },
   {
@@ -7846,6 +7936,21 @@
   },
   {
     "source": "admissions criteria",
+    "target": "university reform",
+    "weight": 7
+  },
+  {
+    "source": "accreditation review",
+    "target": "education crisis",
+    "weight": 7
+  },
+  {
+    "source": "accreditation review",
+    "target": "university policy",
+    "weight": 7
+  },
+  {
+    "source": "accreditation review",
     "target": "university reform",
     "weight": 7
   },
@@ -8085,16 +8190,6 @@
     "weight": 6
   },
   {
-    "source": "faculty workload",
-    "target": "outdated education model",
-    "weight": 6
-  },
-  {
-    "source": "faculty workload",
-    "target": "university bylaws",
-    "weight": 6
-  },
-  {
     "source": "pedagogical innovation",
     "target": "student protest",
     "weight": 6
@@ -8227,6 +8322,16 @@
   {
     "source": "educational decline",
     "target": "mentor-student relationship",
+    "weight": 6
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "unpaid faculty labour",
+    "weight": 6
+  },
+  {
+    "source": "faculty precarity",
+    "target": "unpaid faculty labour",
     "weight": 6
   },
   {
@@ -8370,11 +8475,6 @@
     "weight": 6
   },
   {
-    "source": "faculty hiring market",
-    "target": "university bylaws",
-    "weight": 6
-  },
-  {
     "source": "faculty job insecurity",
     "target": "institutional governance",
     "weight": 6
@@ -8402,11 +8502,6 @@
   {
     "source": "institutional partnerships",
     "target": "senior leadership",
-    "weight": 6
-  },
-  {
-    "source": "instructional excellence",
-    "target": "university bylaws",
     "weight": 6
   },
   {
@@ -8596,16 +8691,6 @@
   },
   {
     "source": "admissions selectivity",
-    "target": "college experience",
-    "weight": 6
-  },
-  {
-    "source": "admissions selectivity",
-    "target": "faculty careers",
-    "weight": 6
-  },
-  {
-    "source": "admissions selectivity",
     "target": "instructional practice",
     "weight": 6
   },
@@ -8691,7 +8776,7 @@
   },
   {
     "source": "course evaluation",
-    "target": "faculty workload",
+    "target": "faculty hiring market",
     "weight": 6
   },
   {
@@ -8916,27 +9001,12 @@
   },
   {
     "source": "accreditation review",
-    "target": "adjunct faculty",
-    "weight": 6
-  },
-  {
-    "source": "accreditation review",
-    "target": "course evaluation",
-    "weight": 6
-  },
-  {
-    "source": "accreditation review",
-    "target": "pedagogical innovation",
+    "target": "faculty precarity",
     "weight": 6
   },
   {
     "source": "accreditation review",
     "target": "student engagement",
-    "weight": 6
-  },
-  {
-    "source": "accreditation review",
-    "target": "university administrators",
     "weight": 6
   },
   {
@@ -8980,11 +9050,6 @@
     "weight": 6
   },
   {
-    "source": "course evaluation",
-    "target": "university leadership",
-    "weight": 6
-  },
-  {
     "source": "decline of academia",
     "target": "graduate management admission test",
     "weight": 6
@@ -9000,11 +9065,6 @@
     "weight": 6
   },
   {
-    "source": "faculty job insecurity",
-    "target": "institutional accreditation",
-    "weight": 6
-  },
-  {
     "source": "graduate management admission test",
     "target": "university administrators",
     "weight": 6
@@ -9015,18 +9075,13 @@
     "weight": 6
   },
   {
-    "source": "institutional accreditation",
-    "target": "university bylaws",
-    "weight": 6
-  },
-  {
     "source": "institutional governance",
     "target": "student experience",
     "weight": 6
   },
   {
     "source": "admissions selectivity",
-    "target": "faculty redundancy",
+    "target": "decline of academia",
     "weight": 6
   },
   {
@@ -9035,18 +9090,8 @@
     "weight": 6
   },
   {
-    "source": "curricular design",
-    "target": "faculty unemployment",
-    "weight": 6
-  },
-  {
     "source": "faculty job insecurity",
     "target": "student retention",
-    "weight": 6
-  },
-  {
-    "source": "faculty unemployment",
-    "target": "pedagogical innovation",
     "weight": 6
   },
   {
@@ -9091,7 +9136,12 @@
   },
   {
     "source": "faculty unemployment",
-    "target": "university administrators",
+    "target": "university leadership",
+    "weight": 6
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "instructional excellence",
     "weight": 6
   },
   {
@@ -9155,6 +9205,11 @@
     "weight": 6
   },
   {
+    "source": "admissions selectivity",
+    "target": "university administrators",
+    "weight": 6
+  },
+  {
     "source": "accreditation body",
     "target": "accreditation process",
     "weight": 6
@@ -9176,17 +9231,17 @@
   },
   {
     "source": "accreditation review",
-    "target": "education crisis",
+    "target": "curricular design",
     "weight": 6
   },
   {
     "source": "accreditation review",
-    "target": "university policy",
+    "target": "faculty redundancy",
     "weight": 6
   },
   {
     "source": "accreditation review",
-    "target": "university reform",
+    "target": "higher education crisis",
     "weight": 6
   },
   {
@@ -9605,12 +9660,47 @@
     "weight": 5
   },
   {
-    "source": "faculty labour exploitation",
+    "source": "adjunct faculty",
     "target": "unpaid faculty labour",
     "weight": 5
   },
   {
-    "source": "faculty precarity",
+    "source": "decline of academia",
+    "target": "unpaid faculty labour",
+    "weight": 5
+  },
+  {
+    "source": "education crisis",
+    "target": "unpaid faculty labour",
+    "weight": 5
+  },
+  {
+    "source": "faculty careers",
+    "target": "unpaid faculty labour",
+    "weight": 5
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "unpaid faculty labour",
+    "weight": 5
+  },
+  {
+    "source": "faculty workload",
+    "target": "unpaid faculty labour",
+    "weight": 5
+  },
+  {
+    "source": "higher education crisis",
+    "target": "unpaid faculty labour",
+    "weight": 5
+  },
+  {
+    "source": "university policy",
+    "target": "unpaid faculty labour",
+    "weight": 5
+  },
+  {
+    "source": "university reform",
     "target": "unpaid faculty labour",
     "weight": 5
   },
@@ -10120,11 +10210,6 @@
     "weight": 5
   },
   {
-    "source": "course evaluation",
-    "target": "faculty hiring market",
-    "weight": 5
-  },
-  {
     "source": "curricular design",
     "target": "research productivity",
     "weight": 5
@@ -10511,7 +10596,7 @@
   },
   {
     "source": "accreditation review",
-    "target": "faculty precarity",
+    "target": "faculty careers",
     "weight": 5
   },
   {
@@ -10645,6 +10730,16 @@
     "weight": 5
   },
   {
+    "source": "faculty labour exploitation",
+    "target": "institutional accreditation",
+    "weight": 5
+  },
+  {
+    "source": "faculty workload",
+    "target": "institutional accreditation",
+    "weight": 5
+  },
+  {
     "source": "institutional governance",
     "target": "programme accreditation",
     "weight": 5
@@ -10742,11 +10837,6 @@
   {
     "source": "adjunct faculty",
     "target": "over-enrollment",
-    "weight": 5
-  },
-  {
-    "source": "admissions selectivity",
-    "target": "decline of academia",
     "weight": 5
   },
   {
@@ -10856,7 +10946,7 @@
   },
   {
     "source": "faculty unemployment",
-    "target": "university leadership",
+    "target": "unpaid faculty labour",
     "weight": 5
   },
   {
@@ -10881,7 +10971,7 @@
   },
   {
     "source": "faculty unemployment",
-    "target": "instructional excellence",
+    "target": "institutional accreditation",
     "weight": 5
   },
   {
@@ -10991,7 +11081,7 @@
   },
   {
     "source": "admissions selectivity",
-    "target": "university administrators",
+    "target": "university leadership",
     "weight": 5
   },
   {
@@ -11042,21 +11132,6 @@
   {
     "source": "accreditation process",
     "target": "accreditation review",
-    "weight": 5
-  },
-  {
-    "source": "accreditation review",
-    "target": "curricular design",
-    "weight": 5
-  },
-  {
-    "source": "accreditation review",
-    "target": "faculty redundancy",
-    "weight": 5
-  },
-  {
-    "source": "accreditation review",
-    "target": "higher education crisis",
     "weight": 5
   },
   {
@@ -11132,6 +11207,11 @@
   {
     "source": "intellectual autonomy",
     "target": "research productivity",
+    "weight": 5
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "faculty workload",
     "weight": 5
   },
   {
@@ -11620,17 +11700,12 @@
     "weight": 4
   },
   {
-    "source": "adjunct faculty",
+    "source": "college experience",
     "target": "unpaid faculty labour",
     "weight": 4
   },
   {
-    "source": "decline of academia",
-    "target": "unpaid faculty labour",
-    "weight": 4
-  },
-  {
-    "source": "education crisis",
+    "source": "curricular design",
     "target": "unpaid faculty labour",
     "weight": 4
   },
@@ -11645,16 +11720,6 @@
     "weight": 4
   },
   {
-    "source": "faculty careers",
-    "target": "unpaid faculty labour",
-    "weight": 4
-  },
-  {
-    "source": "faculty job insecurity",
-    "target": "unpaid faculty labour",
-    "weight": 4
-  },
-  {
     "source": "faculty labour exploitation",
     "target": "instructional practice",
     "weight": 4
@@ -11665,22 +11730,22 @@
     "weight": 4
   },
   {
-    "source": "faculty workload",
+    "source": "outdated education model",
     "target": "unpaid faculty labour",
     "weight": 4
   },
   {
-    "source": "higher education crisis",
+    "source": "student experience",
     "target": "unpaid faculty labour",
     "weight": 4
   },
   {
-    "source": "university policy",
+    "source": "university administrators",
     "target": "unpaid faculty labour",
     "weight": 4
   },
   {
-    "source": "university reform",
+    "source": "university leadership",
     "target": "unpaid faculty labour",
     "weight": 4
   },
@@ -12012,6 +12077,11 @@
   {
     "source": "faculty job insecurity",
     "target": "scholarly grant funding",
+    "weight": 4
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "unpaid faculty labour",
     "weight": 4
   },
   {
@@ -12611,11 +12681,6 @@
   },
   {
     "source": "accreditation review",
-    "target": "faculty careers",
-    "weight": 4
-  },
-  {
-    "source": "accreditation review",
     "target": "instructional practice",
     "weight": 4
   },
@@ -12760,6 +12825,16 @@
     "weight": 4
   },
   {
+    "source": "course evaluation",
+    "target": "faculty labour exploitation",
+    "weight": 4
+  },
+  {
+    "source": "course evaluation",
+    "target": "university bylaws",
+    "weight": 4
+  },
+  {
     "source": "doctoral qualification",
     "target": "faculty redundancy",
     "weight": 4
@@ -12790,11 +12865,6 @@
     "weight": 4
   },
   {
-    "source": "faculty labour exploitation",
-    "target": "institutional accreditation",
-    "weight": 4
-  },
-  {
     "source": "faculty precarity",
     "target": "professional marginalisation",
     "weight": 4
@@ -12802,11 +12872,6 @@
   {
     "source": "faculty redundancy",
     "target": "pedagogical methods",
-    "weight": 4
-  },
-  {
-    "source": "faculty workload",
-    "target": "institutional accreditation",
     "weight": 4
   },
   {
@@ -12942,6 +13007,11 @@
   {
     "source": "admissions selectivity",
     "target": "educational decline",
+    "weight": 4
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "faculty job insecurity",
     "weight": 4
   },
   {
@@ -13175,11 +13245,6 @@
     "weight": 4
   },
   {
-    "source": "faculty unemployment",
-    "target": "unpaid faculty labour",
-    "weight": 4
-  },
-  {
     "source": "outdated education model",
     "target": "suppressing dissent",
     "weight": 4
@@ -13231,11 +13296,6 @@
   },
   {
     "source": "academic collapse",
-    "target": "institutional accreditation",
-    "weight": 4
-  },
-  {
-    "source": "faculty unemployment",
     "target": "institutional accreditation",
     "weight": 4
   },
@@ -13432,11 +13492,6 @@
   {
     "source": "admissions selectivity",
     "target": "student voice",
-    "weight": 4
-  },
-  {
-    "source": "admissions selectivity",
-    "target": "university leadership",
     "weight": 4
   },
   {
@@ -13745,6 +13800,16 @@
     "weight": 4
   },
   {
+    "source": "admissions selectivity",
+    "target": "faculty hiring market",
+    "weight": 4
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "faculty workload",
+    "weight": 4
+  },
+  {
     "source": "academic collapse",
     "target": "intellectual autonomy",
     "weight": 4
@@ -13760,13 +13825,13 @@
     "weight": 4
   },
   {
-    "source": "faculty labour exploitation",
-    "target": "research productivity",
+    "source": "faculty hiring market",
+    "target": "unpaid faculty labour",
     "weight": 4
   },
   {
-    "source": "faculty unemployment",
-    "target": "faculty workload",
+    "source": "faculty labour exploitation",
+    "target": "research productivity",
     "weight": 4
   },
   {
@@ -14565,32 +14630,17 @@
     "weight": 3
   },
   {
-    "source": "college experience",
-    "target": "unpaid faculty labour",
-    "weight": 3
-  },
-  {
-    "source": "curricular design",
-    "target": "unpaid faculty labour",
-    "weight": 3
-  },
-  {
     "source": "instructional practice",
     "target": "university bylaws",
     "weight": 3
   },
   {
-    "source": "outdated education model",
+    "source": "pedagogical innovation",
     "target": "unpaid faculty labour",
     "weight": 3
   },
   {
     "source": "student engagement",
-    "target": "unpaid faculty labour",
-    "weight": 3
-  },
-  {
-    "source": "student experience",
     "target": "unpaid faculty labour",
     "weight": 3
   },
@@ -14605,12 +14655,7 @@
     "weight": 3
   },
   {
-    "source": "university administrators",
-    "target": "unpaid faculty labour",
-    "weight": 3
-  },
-  {
-    "source": "university leadership",
+    "source": "university bylaws",
     "target": "unpaid faculty labour",
     "weight": 3
   },
@@ -14982,11 +15027,6 @@
   {
     "source": "budget constraints",
     "target": "faculty precarity",
-    "weight": 3
-  },
-  {
-    "source": "faculty redundancy",
-    "target": "unpaid faculty labour",
     "weight": 3
   },
   {
@@ -15921,11 +15961,6 @@
   },
   {
     "source": "course evaluation",
-    "target": "faculty labour exploitation",
-    "weight": 3
-  },
-  {
-    "source": "course evaluation",
     "target": "institutional governance",
     "weight": 3
   },
@@ -15937,11 +15972,6 @@
   {
     "source": "course evaluation",
     "target": "senior leadership",
-    "weight": 3
-  },
-  {
-    "source": "course evaluation",
-    "target": "university bylaws",
     "weight": 3
   },
   {
@@ -16341,7 +16371,7 @@
   },
   {
     "source": "admissions selectivity",
-    "target": "faculty job insecurity",
+    "target": "faculty unemployment",
     "weight": 3
   },
   {
@@ -16535,6 +16565,11 @@
     "weight": 3
   },
   {
+    "source": "course evaluation",
+    "target": "faculty unemployment",
+    "weight": 3
+  },
+  {
     "source": "elite impunity",
     "target": "faculty unemployment",
     "weight": 3
@@ -16557,6 +16592,11 @@
   {
     "source": "faculty unemployment",
     "target": "student protest",
+    "weight": 3
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "university bylaws",
     "weight": 3
   },
   {
@@ -17171,7 +17211,22 @@
   },
   {
     "source": "accreditation review",
+    "target": "college experience",
+    "weight": 3
+  },
+  {
+    "source": "accreditation review",
+    "target": "decline of academia",
+    "weight": 3
+  },
+  {
+    "source": "accreditation review",
     "target": "faculty contracts",
+    "weight": 3
+  },
+  {
+    "source": "accreditation review",
+    "target": "faculty hiring market",
     "weight": 3
   },
   {
@@ -17560,16 +17615,6 @@
     "weight": 3
   },
   {
-    "source": "admissions selectivity",
-    "target": "faculty hiring market",
-    "weight": 3
-  },
-  {
-    "source": "admissions selectivity",
-    "target": "faculty workload",
-    "weight": 3
-  },
-  {
     "source": "academic collapse",
     "target": "skills mismatch",
     "weight": 3
@@ -17741,11 +17786,6 @@
   },
   {
     "source": "employability gap",
-    "target": "unpaid faculty labour",
-    "weight": 3
-  },
-  {
-    "source": "faculty hiring market",
     "target": "unpaid faculty labour",
     "weight": 3
   },
@@ -18220,6 +18260,16 @@
     "weight": 3
   },
   {
+    "source": "admissions selectivity",
+    "target": "institutional accreditation",
+    "weight": 3
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "university bylaws",
+    "weight": 3
+  },
+  {
     "source": "organisational structure",
     "target": "public scholarly funding",
     "weight": 3
@@ -18405,6 +18455,16 @@
     "weight": 2
   },
   {
+    "source": "gender discrimination",
+    "target": "sexual harassment",
+    "weight": 2
+  },
+  {
+    "source": "gender discrimination",
+    "target": "workplace harassment",
+    "weight": 2
+  },
+  {
     "source": "misconduct",
     "target": "university policy",
     "weight": 2
@@ -18412,6 +18472,11 @@
   {
     "source": "misconduct",
     "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "sexual harassment",
+    "target": "workplace harassment",
     "weight": 2
   },
   {
@@ -18850,17 +18915,7 @@
     "weight": 2
   },
   {
-    "source": "pedagogical innovation",
-    "target": "unpaid faculty labour",
-    "weight": 2
-  },
-  {
     "source": "student voice",
-    "target": "unpaid faculty labour",
-    "weight": 2
-  },
-  {
-    "source": "university bylaws",
     "target": "unpaid faculty labour",
     "weight": 2
   },
@@ -20816,11 +20871,6 @@
   },
   {
     "source": "admissions selectivity",
-    "target": "faculty unemployment",
-    "weight": 2
-  },
-  {
-    "source": "admissions selectivity",
     "target": "tuition affordability",
     "weight": 2
   },
@@ -21406,7 +21456,7 @@
   },
   {
     "source": "course evaluation",
-    "target": "faculty unemployment",
+    "target": "unpaid faculty labour",
     "weight": 2
   },
   {
@@ -21482,11 +21532,6 @@
   {
     "source": "faculty unemployment",
     "target": "student wellbeing",
-    "weight": 2
-  },
-  {
-    "source": "faculty unemployment",
-    "target": "university bylaws",
     "weight": 2
   },
   {
@@ -22736,21 +22781,6 @@
   },
   {
     "source": "accreditation review",
-    "target": "college experience",
-    "weight": 2
-  },
-  {
-    "source": "accreditation review",
-    "target": "decline of academia",
-    "weight": 2
-  },
-  {
-    "source": "accreditation review",
-    "target": "faculty hiring market",
-    "weight": 2
-  },
-  {
-    "source": "accreditation review",
     "target": "institutional governance",
     "weight": 2
   },
@@ -23907,6 +23937,11 @@
   {
     "source": "adjunct faculty",
     "target": "workplace bias",
+    "weight": 2
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "faculty labour exploitation",
     "weight": 2
   },
   {
@@ -25956,11 +25991,6 @@
   },
   {
     "source": "admissions selectivity",
-    "target": "institutional accreditation",
-    "weight": 2
-  },
-  {
-    "source": "admissions selectivity",
     "target": "institutional governance",
     "weight": 2
   },
@@ -25987,11 +26017,6 @@
   {
     "source": "admissions selectivity",
     "target": "scholarly funding",
-    "weight": 2
-  },
-  {
-    "source": "admissions selectivity",
-    "target": "university bylaws",
     "weight": 2
   },
   {
@@ -26236,7 +26261,27 @@
   },
   {
     "source": "accreditation review",
+    "target": "admissions selectivity",
+    "weight": 2
+  },
+  {
+    "source": "accreditation review",
     "target": "course architecture",
+    "weight": 2
+  },
+  {
+    "source": "accreditation review",
+    "target": "faculty workload",
+    "weight": 2
+  },
+  {
+    "source": "accreditation review",
+    "target": "university bylaws",
+    "weight": 2
+  },
+  {
+    "source": "accreditation review",
+    "target": "university leadership",
     "weight": 2
   },
   {
@@ -26312,6 +26357,11 @@
   {
     "source": "harmful culture",
     "target": "public misinformation",
+    "weight": 2
+  },
+  {
+    "source": "instructional excellence",
+    "target": "unpaid faculty labour",
     "weight": 2
   },
   {
@@ -26566,22 +26616,12 @@
   },
   {
     "source": "gender discrimination",
-    "target": "sexual harassment",
-    "weight": 1
-  },
-  {
-    "source": "gender discrimination",
     "target": "university policy",
     "weight": 1
   },
   {
     "source": "gender discrimination",
     "target": "university reform",
-    "weight": 1
-  },
-  {
-    "source": "gender discrimination",
-    "target": "workplace harassment",
     "weight": 1
   },
   {
@@ -26602,11 +26642,6 @@
   {
     "source": "sexual harassment",
     "target": "university reform",
-    "weight": 1
-  },
-  {
-    "source": "sexual harassment",
-    "target": "workplace harassment",
     "weight": 1
   },
   {
@@ -30982,11 +31017,6 @@
   {
     "source": "course evaluation",
     "target": "suppressing dissent",
-    "weight": 1
-  },
-  {
-    "source": "course evaluation",
-    "target": "unpaid faculty labour",
     "weight": 1
   },
   {
@@ -37667,11 +37697,6 @@
   {
     "source": "admissions selectivity",
     "target": "doctoral qualification",
-    "weight": 1
-  },
-  {
-    "source": "admissions selectivity",
-    "target": "faculty labour exploitation",
     "weight": 1
   },
   {
@@ -48531,11 +48556,6 @@
   },
   {
     "source": "accreditation review",
-    "target": "admissions selectivity",
-    "weight": 1
-  },
-  {
-    "source": "accreditation review",
     "target": "board of trustees",
     "weight": 1
   },
@@ -48552,11 +48572,6 @@
   {
     "source": "accreditation review",
     "target": "external review process",
-    "weight": 1
-  },
-  {
-    "source": "accreditation review",
-    "target": "faculty workload",
     "weight": 1
   },
   {
@@ -48587,16 +48602,6 @@
   {
     "source": "accreditation review",
     "target": "standards of conduct",
-    "weight": 1
-  },
-  {
-    "source": "accreditation review",
-    "target": "university bylaws",
-    "weight": 1
-  },
-  {
-    "source": "accreditation review",
-    "target": "university leadership",
     "weight": 1
   },
   {
@@ -50645,11 +50650,6 @@
     "weight": 1
   },
   {
-    "source": "instructional excellence",
-    "target": "unpaid faculty labour",
-    "weight": 1
-  },
-  {
     "source": "outdated education model",
     "target": "workplace bias",
     "weight": 1
@@ -51487,6 +51487,36 @@
   {
     "source": "punitive exclusion exclusion",
     "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "faculty labour exploitation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "faculty unemployment",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "unpaid faculty labour",
     "weight": 1
   }
 ]

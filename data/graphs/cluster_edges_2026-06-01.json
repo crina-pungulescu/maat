@@ -1,33 +1,38 @@
 [
   {
     "source": "faculty_labour",
-    "target": "student_experience",
-    "weight": 18
+    "target": "higher_education_crisis",
+    "weight": 27
   },
   {
-    "source": "education_cost",
-    "target": "student_experience",
-    "weight": 10
-  },
-  {
-    "source": "student_experience",
+    "source": "faculty_labour",
     "target": "university_administration",
     "weight": 19
   },
   {
     "source": "faculty_labour",
-    "target": "higher_education_crisis",
-    "weight": 23
-  },
-  {
-    "source": "faculty_labour",
-    "target": "university_administration",
-    "weight": 10
+    "target": "student_experience",
+    "weight": 20
   },
   {
     "source": "education_cost",
     "target": "education_funding",
     "weight": 2
+  },
+  {
+    "source": "education_cost",
+    "target": "student_experience",
+    "weight": 10
+  },
+  {
+    "source": "faculty_labour",
+    "target": "teaching_and_learning",
+    "weight": 3
+  },
+  {
+    "source": "student_experience",
+    "target": "university_administration",
+    "weight": 22
   },
   {
     "source": "education_funding",
@@ -40,6 +45,16 @@
     "weight": 38
   },
   {
+    "source": "higher_education_crisis",
+    "target": "teaching_and_learning",
+    "weight": 12
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "university_administration",
+    "weight": 23
+  },
+  {
     "source": "education_funding",
     "target": "student_experience",
     "weight": 4
@@ -47,22 +62,22 @@
   {
     "source": "student_experience",
     "target": "teaching_and_learning",
-    "weight": 4
-  },
-  {
-    "source": "higher_education_crisis",
-    "target": "university_administration",
-    "weight": 15
-  },
-  {
-    "source": "education_cost",
-    "target": "university_administration",
-    "weight": 4
+    "weight": 6
   },
   {
     "source": "education_cost",
     "target": "higher_education_crisis",
     "weight": 10
+  },
+  {
+    "source": "education_cost",
+    "target": "university_administration",
+    "weight": 4
+  },
+  {
+    "source": "teaching_and_learning",
+    "target": "university_administration",
+    "weight": 6
   },
   {
     "source": "internationalisation_of_academia",
@@ -73,16 +88,6 @@
     "source": "education_funding",
     "target": "university_administration",
     "weight": 2
-  },
-  {
-    "source": "teaching_and_learning",
-    "target": "university_administration",
-    "weight": 2
-  },
-  {
-    "source": "higher_education_crisis",
-    "target": "teaching_and_learning",
-    "weight": 4
   },
   {
     "source": "higher_education_crisis",

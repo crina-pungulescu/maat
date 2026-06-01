@@ -1,7 +1,7 @@
 [
   {
     "cluster": "Higher Education Crisis",
-    "count": 668,
+    "count": 672,
     "evidence": {
       "article_id": "4c2fc7f65a637ed73662ed28a8f34258",
       "headline": "The Expanding Crisis in U.S. Higher Education: OPMs, Student Loan Servicers, Deregulation, Robocolleges, AI, and the Collapse of Accountability",
@@ -12,7 +12,7 @@
   },
   {
     "cluster": "Teaching And Learning",
-    "count": 640,
+    "count": 644,
     "evidence": {
       "article_id": "77fb7648b46de42beae78c56c1f1ec43",
       "headline": "Preparation, Planning, Procedures, and Practices: The Four Ps of Online Teaching",
@@ -23,7 +23,7 @@
   },
   {
     "cluster": "Student Experience",
-    "count": 548,
+    "count": 550,
     "evidence": {
       "article_id": "a9664e9229bd4682854d24428a281a8b",
       "headline": "34 Effective Student Engagement Strategies to Boost Learning in College Classrooms",
@@ -34,7 +34,7 @@
   },
   {
     "cluster": "University Administration",
-    "count": 478,
+    "count": 484,
     "evidence": {
       "article_id": "349a314246434fb5561c3a39f87c7e53",
       "headline": "Issues of Institutional Governance in Partnerships",
@@ -45,7 +45,7 @@
   },
   {
     "cluster": "Faculty Labour",
-    "count": 350,
+    "count": 360,
     "evidence": {
       "article_id": "f0933480c53349d30e2c70cfea7b21fb",
       "headline": "When Productivity Goes Too Far: How Faculty Can Find Balance",
@@ -100,7 +100,7 @@
   },
   {
     "cluster": "University Accreditation",
-    "count": 83,
+    "count": 85,
     "evidence": {
       "article_id": "98d49f6e7de9910287b8e64d99fa4206",
       "headline": "Thoughts About Accreditation and Small Colleges",
@@ -122,7 +122,7 @@
   },
   {
     "cluster": "Admissions Access In Higher Education",
-    "count": 71,
+    "count": 72,
     "evidence": {
       "article_id": "ee41b32d0b207e776498c0f93f0d2d64",
       "headline": "Hacking claims, mismatched answer-sheets: Controversies rock school exam in India",
@@ -187,6 +187,17 @@
     }
   },
   {
+    "cluster": "Systemic Inequity In Higher Education",
+    "count": 41,
+    "evidence": {
+      "article_id": "0d92af03395822218b90186f84e8f9a0",
+      "headline": "The new sex-based harassment law could help universities – or make things worse",
+      "url": "https://wonkhe.com/blogs/the-new-sex-based-harassment-law-could-help-universities-or-make-things-worse/",
+      "topic": "sexual harassment",
+      "score": 0.6343
+    }
+  },
+  {
     "cluster": "Academic Freedom",
     "count": 38,
     "evidence": {
@@ -195,17 +206,6 @@
       "url": "https://theconversation.com/chilling-effects-of-trumps-war-on-free-speech-extend-far-beyond-campus-walls-and-thats-the-point-283113",
       "topic": "freedom of speech",
       "score": 0.5703
-    }
-  },
-  {
-    "cluster": "Systemic Inequity In Higher Education",
-    "count": 38,
-    "evidence": {
-      "article_id": "0d92af03395822218b90186f84e8f9a0",
-      "headline": "The new sex-based harassment law could help universities – or make things worse",
-      "url": "https://wonkhe.com/blogs/the-new-sex-based-harassment-law-could-help-universities-or-make-things-worse/",
-      "topic": "sexual harassment",
-      "score": 0.6343
     }
   },
   {
