@@ -133,7 +133,6 @@ MAAT_TOPICS = {
        "university administrators",
        "organisational structure",
        "university policy",
-       "university reform",
        "internal regulations",
        "institutional governance",
        "institutional partnerships",
@@ -293,7 +292,7 @@ MAAT_TOPICS = {
          "cover-up",
          "conflict of interest",
          "weak oversight",
-         "power asymetry",
+         "power asymmetry",
          "power consolidation",
          "elite impunity",
          "lack of oversight",
@@ -510,7 +509,18 @@ def flatten_topics(topic_dict):
     
 CLUSTER_NAMES = list(MAAT_TOPICS.keys())
 FLAT_MAAT_TOPICS = flatten_topics(MAAT_TOPICS)
-topic_embeddings = model.encode(FLAT_MAAT_TOPICS, convert_to_tensor=True)
+
+CLUSTER_TOPIC_TEXTS = [
+    f"{cluster.replace('_', ' ')}: {topic}"
+    for cluster, topics in MAAT_TOPICS.items()
+    for topic in topics
+]
+
+topic_embeddings = model.encode(
+    CLUSTER_TOPIC_TEXTS,
+    convert_to_tensor=True
+)
+
 
 def build_topic_to_cluster_map(MAAT_TOPICS):
     mapping = {}
