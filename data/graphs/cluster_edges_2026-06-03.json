@@ -1,0 +1,107 @@
+[
+  {
+    "source": "academic_abuse",
+    "target": "academic_freedom",
+    "weight": 1
+  },
+  {
+    "source": "educational_technology",
+    "target": "teaching_and_learning",
+    "weight": 1
+  },
+  {
+    "source": "education_cost",
+    "target": "education_funding",
+    "weight": 1
+  },
+  {
+    "source": "faculty_labour",
+    "target": "university_administration",
+    "weight": 24
+  },
+  {
+    "source": "student_experience",
+    "target": "teaching_and_learning",
+    "weight": 18
+  },
+  {
+    "source": "faculty_labour",
+    "target": "student_experience",
+    "weight": 25
+  },
+  {
+    "source": "faculty_labour",
+    "target": "teaching_and_learning",
+    "weight": 15
+  },
+  {
+    "source": "education_funding",
+    "target": "research_activities",
+    "weight": 1
+  },
+  {
+    "source": "teaching_and_learning",
+    "target": "university_administration",
+    "weight": 6
+  },
+  {
+    "source": "faculty_labour",
+    "target": "higher_education_crisis",
+    "weight": 27
+  },
+  {
+    "source": "student_experience",
+    "target": "university_administration",
+    "weight": 17
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "teaching_and_learning",
+    "weight": 19
+  },
+  {
+    "source": "academic_abuse",
+    "target": "university_administration",
+    "weight": 2
+  },
+  {
+    "source": "admissions_access_in_higher_education",
+    "target": "teaching_and_learning",
+    "weight": 1
+  },
+  {
+    "source": "admissions_access_in_higher_education",
+    "target": "higher_education_crisis",
+    "weight": 4
+  },
+  {
+    "source": "educational_technology",
+    "target": "higher_education_crisis",
+    "weight": 1
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "student_experience",
+    "weight": 31
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "university_administration",
+    "weight": 22
+  },
+  {
+    "source": "academic_freedom",
+    "target": "university_administration",
+    "weight": 2
+  },
+  {
+    "source": "academic_freedom",
+    "target": "higher_education_crisis",
+    "weight": 1
+  },
+  {
+    "source": "admissions_access_in_higher_education",
+    "target": "student_experience",
+    "weight": 2
+  }
+]
