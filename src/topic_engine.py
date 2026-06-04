@@ -841,7 +841,7 @@ def run():
 
     model,
 
-    FLAT_MAAT_TOPICS
+    CLUSTER_TOPIC_TEXTS
 
     )
 
