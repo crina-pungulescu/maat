@@ -592,7 +592,7 @@ def fetch_rss_articles(seen):
 
             seen_titles.add(title_norm)
 
-            if not full_text or len(full_text) < 1000:
+            if not full_text or len(full_text) < 1500:
                 continue
 
             is_rel, max_score = compute_relevance(text)
