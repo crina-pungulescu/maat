@@ -1,0 +1,252 @@
+[
+  {
+    "source": "academic_abuse",
+    "target": "academic_future_outlook",
+    "weight": 1
+  },
+  {
+    "source": "education_cost",
+    "target": "education_funding",
+    "weight": 13
+  },
+  {
+    "source": "academic_future_outlook",
+    "target": "higher_education_crisis",
+    "weight": 4
+  },
+  {
+    "source": "academic_abuse",
+    "target": "higher_education_crisis",
+    "weight": 5
+  },
+  {
+    "source": "academic_abuse",
+    "target": "ethical_conflicts_in_academia",
+    "weight": 1
+  },
+  {
+    "source": "ethical_conflicts_in_academia",
+    "target": "higher_education_crisis",
+    "weight": 10
+  },
+  {
+    "source": "faculty_labour",
+    "target": "teaching_and_learning",
+    "weight": 77
+  },
+  {
+    "source": "admissions_access_in_higher_education",
+    "target": "university_accreditation",
+    "weight": 1
+  },
+  {
+    "source": "admissions_access_in_higher_education",
+    "target": "teaching_and_learning",
+    "weight": 34
+  },
+  {
+    "source": "faculty_labour",
+    "target": "university_administration",
+    "weight": 55
+  },
+  {
+    "source": "student_experience",
+    "target": "teaching_and_learning",
+    "weight": 96
+  },
+  {
+    "source": "ethical_conflicts_in_academia",
+    "target": "research_activities",
+    "weight": 1
+  },
+  {
+    "source": "research_activities",
+    "target": "teaching_and_learning",
+    "weight": 18
+  },
+  {
+    "source": "student_experience",
+    "target": "university_administration",
+    "weight": 32
+  },
+  {
+    "source": "education_cost",
+    "target": "faculty_labour",
+    "weight": 18
+  },
+  {
+    "source": "education_funding",
+    "target": "faculty_labour",
+    "weight": 34
+  },
+  {
+    "source": "academic_abuse",
+    "target": "student_experience",
+    "weight": 2
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "systemic_inequity_in_higher_education",
+    "weight": 3
+  },
+  {
+    "source": "admissions_access_in_higher_education",
+    "target": "student_experience",
+    "weight": 23
+  },
+  {
+    "source": "academic_degradation_signals",
+    "target": "admissions_access_in_higher_education",
+    "weight": 4
+  },
+  {
+    "source": "research_activities",
+    "target": "student_experience",
+    "weight": 12
+  },
+  {
+    "source": "faculty_labour",
+    "target": "research_activities",
+    "weight": 20
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "university_administration",
+    "weight": 39
+  },
+  {
+    "source": "academic_degradation_signals",
+    "target": "higher_education_crisis",
+    "weight": 12
+  },
+  {
+    "source": "ethical_conflicts_in_academia",
+    "target": "faculty_labour",
+    "weight": 2
+  },
+  {
+    "source": "faculty_labour",
+    "target": "student_experience",
+    "weight": 72
+  },
+  {
+    "source": "admissions_access_in_higher_education",
+    "target": "research_activities",
+    "weight": 5
+  },
+  {
+    "source": "education_funding",
+    "target": "student_experience",
+    "weight": 26
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "teaching_and_learning",
+    "weight": 85
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "research_activities",
+    "weight": 16
+  },
+  {
+    "source": "education_cost",
+    "target": "teaching_and_learning",
+    "weight": 11
+  },
+  {
+    "source": "education_funding",
+    "target": "teaching_and_learning",
+    "weight": 10
+  },
+  {
+    "source": "admissions_access_in_higher_education",
+    "target": "higher_education_crisis",
+    "weight": 40
+  },
+  {
+    "source": "admissions_access_in_higher_education",
+    "target": "faculty_labour",
+    "weight": 15
+  },
+  {
+    "source": "education_cost",
+    "target": "student_experience",
+    "weight": 16
+  },
+  {
+    "source": "faculty_labour",
+    "target": "higher_education_crisis",
+    "weight": 72
+  },
+  {
+    "source": "education_funding",
+    "target": "research_activities",
+    "weight": 2
+  },
+  {
+    "source": "teaching_and_learning",
+    "target": "university_administration",
+    "weight": 27
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "student_experience",
+    "weight": 60
+  },
+  {
+    "source": "education_cost",
+    "target": "university_administration",
+    "weight": 9
+  },
+  {
+    "source": "education_cost",
+    "target": "higher_education_crisis",
+    "weight": 23
+  },
+  {
+    "source": "research_activities",
+    "target": "university_administration",
+    "weight": 8
+  },
+  {
+    "source": "education_funding",
+    "target": "higher_education_crisis",
+    "weight": 29
+  },
+  {
+    "source": "admissions_access_in_higher_education",
+    "target": "education_funding",
+    "weight": 2
+  },
+  {
+    "source": "admissions_access_in_higher_education",
+    "target": "education_cost",
+    "weight": 6
+  },
+  {
+    "source": "ethical_conflicts_in_academia",
+    "target": "university_administration",
+    "weight": 1
+  },
+  {
+    "source": "education_funding",
+    "target": "university_administration",
+    "weight": 12
+  },
+  {
+    "source": "education_cost",
+    "target": "research_activities",
+    "weight": 2
+  },
+  {
+    "source": "academic_degradation_signals",
+    "target": "student_experience",
+    "weight": 1
+  },
+  {
+    "source": "admissions_access_in_higher_education",
+    "target": "university_administration",
+    "weight": 8
+  }
+]
