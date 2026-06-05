@@ -1350,6 +1350,11 @@
     "weight": 38
   },
   {
+    "source": "public scholarly funding",
+    "target": "scholarly funding",
+    "weight": 38
+  },
+  {
     "source": "faculty careers",
     "target": "faculty redundancy",
     "weight": 38
@@ -1397,11 +1402,6 @@
   {
     "source": "academic collapse",
     "target": "student experience",
-    "weight": 37
-  },
-  {
-    "source": "public scholarly funding",
-    "target": "scholarly funding",
     "weight": 37
   },
   {
@@ -4070,6 +4070,11 @@
     "weight": 17
   },
   {
+    "source": "politicisation of science",
+    "target": "public scholarly funding",
+    "weight": 17
+  },
+  {
     "source": "student engagement",
     "target": "university bylaws",
     "weight": 17
@@ -4097,6 +4102,11 @@
   {
     "source": "faculty hiring market",
     "target": "pedagogical innovation",
+    "weight": 17
+  },
+  {
+    "source": "empirical research",
+    "target": "research productivity",
     "weight": 17
   },
   {
@@ -4167,6 +4177,11 @@
   {
     "source": "faculty redundancy",
     "target": "scholarly endowments",
+    "weight": 17
+  },
+  {
+    "source": "research collaboration",
+    "target": "research productivity",
     "weight": 17
   },
   {
@@ -4350,11 +4365,6 @@
     "weight": 16
   },
   {
-    "source": "politicisation of science",
-    "target": "public scholarly funding",
-    "weight": 16
-  },
-  {
     "source": "public scholarly funding",
     "target": "student engagement",
     "weight": 16
@@ -4377,11 +4387,6 @@
   {
     "source": "higher education crisis",
     "target": "institutional partnerships",
-    "weight": 16
-  },
-  {
-    "source": "empirical research",
-    "target": "research productivity",
     "weight": 16
   },
   {
@@ -4517,11 +4522,6 @@
   {
     "source": "student retention",
     "target": "university leadership",
-    "weight": 16
-  },
-  {
-    "source": "research collaboration",
-    "target": "research productivity",
     "weight": 16
   },
   {
@@ -4865,6 +4865,11 @@
     "weight": 15
   },
   {
+    "source": "research collaboration",
+    "target": "scholarly funding",
+    "weight": 15
+  },
+  {
     "source": "scholarly endowments",
     "target": "student life",
     "weight": 15
@@ -4927,6 +4932,11 @@
   {
     "source": "faculty labour exploitation",
     "target": "faculty unemployment",
+    "weight": 15
+  },
+  {
+    "source": "empirical research",
+    "target": "politicisation of science",
     "weight": 15
   },
   {
@@ -5290,8 +5300,8 @@
     "weight": 14
   },
   {
-    "source": "research collaboration",
-    "target": "scholarly funding",
+    "source": "public scholarly funding",
+    "target": "research collaboration",
     "weight": 14
   },
   {
@@ -5372,11 +5382,6 @@
   {
     "source": "educational instability",
     "target": "institutional accreditation",
-    "weight": 14
-  },
-  {
-    "source": "empirical research",
-    "target": "politicisation of science",
     "weight": 14
   },
   {
@@ -5640,6 +5645,11 @@
     "weight": 13
   },
   {
+    "source": "empirical research",
+    "target": "public scholarly funding",
+    "weight": 13
+  },
+  {
     "source": "instructional practice",
     "target": "student satisfaction",
     "weight": 13
@@ -5782,11 +5792,6 @@
   {
     "source": "institutional partnerships",
     "target": "public scholarly funding",
-    "weight": 13
-  },
-  {
-    "source": "public scholarly funding",
-    "target": "research collaboration",
     "weight": 13
   },
   {
@@ -5986,6 +5991,11 @@
   },
   {
     "source": "politicisation of science",
+    "target": "scholarly funding",
+    "weight": 12
+  },
+  {
+    "source": "politicisation of science",
     "target": "university policy",
     "weight": 12
   },
@@ -6062,11 +6072,6 @@
   {
     "source": "master qualification",
     "target": "postgraduate pathway",
-    "weight": 12
-  },
-  {
-    "source": "empirical research",
-    "target": "public scholarly funding",
     "weight": 12
   },
   {
@@ -6280,6 +6285,11 @@
     "weight": 12
   },
   {
+    "source": "empirical research",
+    "target": "research collaboration",
+    "weight": 12
+  },
+  {
     "source": "faculty labour exploitation",
     "target": "graduate management admission test",
     "weight": 12
@@ -6475,11 +6485,6 @@
     "weight": 11
   },
   {
-    "source": "politicisation of science",
-    "target": "scholarly funding",
-    "weight": 11
-  },
-  {
     "source": "postgraduate pathway",
     "target": "public scholarly funding",
     "weight": 11
@@ -6547,6 +6552,11 @@
   {
     "source": "institutional partnerships",
     "target": "university bylaws",
+    "weight": 11
+  },
+  {
+    "source": "empirical research",
+    "target": "scholarly funding",
     "weight": 11
   },
   {
@@ -6755,13 +6765,18 @@
     "weight": 11
   },
   {
-    "source": "intellectual autonomy",
-    "target": "systemic education failure",
+    "source": "high-impact research",
+    "target": "research collaboration",
     "weight": 11
   },
   {
-    "source": "empirical research",
-    "target": "research collaboration",
+    "source": "research collaboration",
+    "target": "theoretical research",
+    "weight": 11
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "systemic education failure",
     "weight": 11
   },
   {
@@ -6897,6 +6912,11 @@
   {
     "source": "decline of academia",
     "target": "empirical research",
+    "weight": 11
+  },
+  {
+    "source": "politicisation of science",
+    "target": "research collaboration",
     "weight": 11
   },
   {
@@ -7165,7 +7185,7 @@
     "weight": 10
   },
   {
-    "source": "empirical research",
+    "source": "research productivity",
     "target": "scholarly funding",
     "weight": 10
   },
@@ -7312,6 +7332,11 @@
   {
     "source": "degree pathway",
     "target": "pedagogical innovation",
+    "weight": 10
+  },
+  {
+    "source": "political repression",
+    "target": "suppressing dissent",
     "weight": 10
   },
   {
@@ -7475,11 +7500,6 @@
     "weight": 10
   },
   {
-    "source": "high-impact research",
-    "target": "research collaboration",
-    "weight": 10
-  },
-  {
     "source": "programme accreditation",
     "target": "university administrators",
     "weight": 10
@@ -7487,11 +7507,6 @@
   {
     "source": "research collaboration",
     "target": "scientific expertise",
-    "weight": 10
-  },
-  {
-    "source": "research collaboration",
-    "target": "theoretical research",
     "weight": 10
   },
   {
@@ -7690,12 +7705,12 @@
     "weight": 10
   },
   {
-    "source": "politicisation of science",
-    "target": "research collaboration",
+    "source": "faculty unemployment",
+    "target": "research productivity",
     "weight": 10
   },
   {
-    "source": "faculty unemployment",
+    "source": "politicisation of science",
     "target": "research productivity",
     "weight": 10
   },
@@ -7965,13 +7980,13 @@
     "weight": 9
   },
   {
-    "source": "research productivity",
-    "target": "scholarly endowments",
+    "source": "public scholarly funding",
+    "target": "research productivity",
     "weight": 9
   },
   {
     "source": "research productivity",
-    "target": "scholarly funding",
+    "target": "scholarly endowments",
     "weight": 9
   },
   {
@@ -8042,11 +8057,6 @@
   {
     "source": "curricular design",
     "target": "degree pathway",
-    "weight": 9
-  },
-  {
-    "source": "political repression",
-    "target": "suppressing dissent",
     "weight": 9
   },
   {
@@ -8182,6 +8192,16 @@
   {
     "source": "generative AI",
     "target": "instructional excellence",
+    "weight": 9
+  },
+  {
+    "source": "high-impact research",
+    "target": "research productivity",
+    "weight": 9
+  },
+  {
+    "source": "research productivity",
+    "target": "theoretical research",
     "weight": 9
   },
   {
@@ -8437,11 +8457,6 @@
   {
     "source": "educational instability",
     "target": "intellectual autonomy",
-    "weight": 9
-  },
-  {
-    "source": "politicisation of science",
-    "target": "research productivity",
     "weight": 9
   },
   {
@@ -8830,11 +8845,6 @@
     "weight": 8
   },
   {
-    "source": "public scholarly funding",
-    "target": "research productivity",
-    "weight": 8
-  },
-  {
     "source": "inclusivity",
     "target": "student experience",
     "weight": 8
@@ -9090,11 +9100,6 @@
     "weight": 8
   },
   {
-    "source": "high-impact research",
-    "target": "research productivity",
-    "weight": 8
-  },
-  {
     "source": "outdated education model",
     "target": "theoretical research",
     "weight": 8
@@ -9102,11 +9107,6 @@
   {
     "source": "programme accreditation",
     "target": "research collaboration",
-    "weight": 8
-  },
-  {
-    "source": "research productivity",
-    "target": "theoretical research",
     "weight": 8
   },
   {
@@ -9355,6 +9355,16 @@
     "weight": 8
   },
   {
+    "source": "high-impact research",
+    "target": "public scholarly funding",
+    "weight": 8
+  },
+  {
+    "source": "empirical research",
+    "target": "high-impact research",
+    "weight": 8
+  },
+  {
     "source": "empirical research",
     "target": "higher education crisis",
     "weight": 8
@@ -9367,6 +9377,11 @@
   {
     "source": "authoritarianism",
     "target": "illiberal democracy",
+    "weight": 8
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "legitimacy crisis",
     "weight": 8
   },
   {
@@ -9392,6 +9407,11 @@
   {
     "source": "research productivity",
     "target": "unpaid faculty labour",
+    "weight": 8
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "suppressing dissent",
     "weight": 8
   },
   {
@@ -10615,13 +10635,18 @@
     "weight": 7
   },
   {
-    "source": "high-impact research",
-    "target": "public scholarly funding",
+    "source": "competency outcomes",
+    "target": "educational decline",
     "weight": 7
   },
   {
-    "source": "competency outcomes",
-    "target": "educational decline",
+    "source": "contested scientific claims",
+    "target": "empirical research",
+    "weight": 7
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "politicisation of science",
     "weight": 7
   },
   {
@@ -10630,8 +10655,13 @@
     "weight": 7
   },
   {
-    "source": "empirical research",
-    "target": "high-impact research",
+    "source": "high-impact research",
+    "target": "politicisation of science",
+    "weight": 7
+  },
+  {
+    "source": "high-impact research",
+    "target": "scholarly funding",
     "weight": 7
   },
   {
@@ -10640,13 +10670,13 @@
     "weight": 7
   },
   {
-    "source": "higher education crisis",
-    "target": "intellectual autonomy",
+    "source": "democracy",
+    "target": "illiberal democracy",
     "weight": 7
   },
   {
-    "source": "illiberal democracy",
-    "target": "legitimacy crisis",
+    "source": "higher education crisis",
+    "target": "intellectual autonomy",
     "weight": 7
   },
   {
@@ -10655,18 +10685,23 @@
     "weight": 7
   },
   {
+    "source": "empirical research",
+    "target": "theoretical research",
+    "weight": 7
+  },
+  {
     "source": "degree pathway",
     "target": "unpaid faculty labour",
     "weight": 7
   },
   {
-    "source": "academic collapse",
-    "target": "empirical research",
+    "source": "illiberal democracy",
+    "target": "political repression",
     "weight": 7
   },
   {
-    "source": "legitimacy crisis",
-    "target": "suppressing dissent",
+    "source": "academic collapse",
+    "target": "empirical research",
     "weight": 7
   },
   {
@@ -12166,22 +12201,12 @@
   },
   {
     "source": "contested scientific claims",
-    "target": "empirical research",
+    "target": "high-impact research",
     "weight": 6
   },
   {
     "source": "contested scientific claims",
-    "target": "politicisation of science",
-    "weight": 6
-  },
-  {
-    "source": "high-impact research",
-    "target": "politicisation of science",
-    "weight": 6
-  },
-  {
-    "source": "high-impact research",
-    "target": "scholarly funding",
+    "target": "research collaboration",
     "weight": 6
   },
   {
@@ -12210,6 +12235,11 @@
     "weight": 6
   },
   {
+    "source": "international cohorts",
+    "target": "research collaboration",
+    "weight": 6
+  },
+  {
     "source": "intellectual autonomy",
     "target": "qualitative research",
     "weight": 6
@@ -12222,11 +12252,6 @@
   {
     "source": "bureaucratic obstruction",
     "target": "intellectual autonomy",
-    "weight": 6
-  },
-  {
-    "source": "democracy",
-    "target": "illiberal democracy",
     "weight": 6
   },
   {
@@ -12262,11 +12287,6 @@
   {
     "source": "instructional practice",
     "target": "school budgets",
-    "weight": 6
-  },
-  {
-    "source": "empirical research",
-    "target": "theoretical research",
     "weight": 6
   },
   {
@@ -12306,7 +12326,7 @@
   },
   {
     "source": "illiberal democracy",
-    "target": "political repression",
+    "target": "suppressing dissent",
     "weight": 6
   },
   {
@@ -12345,8 +12365,18 @@
     "weight": 6
   },
   {
+    "source": "international cohorts",
+    "target": "politicisation of science",
+    "weight": 6
+  },
+  {
     "source": "politicisation of science",
     "target": "weak oversight",
+    "weight": 6
+  },
+  {
+    "source": "politicisation of science",
+    "target": "theoretical research",
     "weight": 6
   },
   {
@@ -13285,6 +13315,11 @@
     "weight": 5
   },
   {
+    "source": "high-impact research",
+    "target": "theoretical research",
+    "weight": 5
+  },
+  {
     "source": "instructional excellence",
     "target": "theoretical research",
     "weight": 5
@@ -14086,12 +14121,12 @@
   },
   {
     "source": "contested scientific claims",
-    "target": "high-impact research",
+    "target": "public scholarly funding",
     "weight": 5
   },
   {
     "source": "contested scientific claims",
-    "target": "research collaboration",
+    "target": "scholarly funding",
     "weight": 5
   },
   {
@@ -14155,11 +14190,6 @@
     "weight": 5
   },
   {
-    "source": "international cohorts",
-    "target": "research collaboration",
-    "weight": 5
-  },
-  {
     "source": "eastern europe",
     "target": "europe",
     "weight": 5
@@ -14207,6 +14237,11 @@
   {
     "source": "decline of academia",
     "target": "illiberal democracy",
+    "weight": 5
+  },
+  {
+    "source": "democracy",
+    "target": "legitimacy crisis",
     "weight": 5
   },
   {
@@ -14340,8 +14375,8 @@
     "weight": 5
   },
   {
-    "source": "illiberal democracy",
-    "target": "suppressing dissent",
+    "source": "democracy",
+    "target": "political repression",
     "weight": 5
   },
   {
@@ -14415,6 +14450,11 @@
     "weight": 5
   },
   {
+    "source": "legitimacy crisis",
+    "target": "political repression",
+    "weight": 5
+  },
+  {
     "source": "political repression",
     "target": "populism",
     "weight": 5
@@ -14426,12 +14466,17 @@
   },
   {
     "source": "empirical research",
+    "target": "international cohorts",
+    "weight": 5
+  },
+  {
+    "source": "empirical research",
     "target": "whistleblowing risks",
     "weight": 5
   },
   {
     "source": "international cohorts",
-    "target": "politicisation of science",
+    "target": "research productivity",
     "weight": 5
   },
   {
@@ -14465,8 +14510,48 @@
     "weight": 5
   },
   {
+    "source": "international cohorts",
+    "target": "public scholarly funding",
+    "weight": 5
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "research productivity",
+    "weight": 5
+  },
+  {
+    "source": "empirical research",
+    "target": "quantitative research",
+    "weight": 5
+  },
+  {
+    "source": "high-impact research",
+    "target": "quantitative research",
+    "weight": 5
+  },
+  {
     "source": "politicisation of science",
-    "target": "theoretical research",
+    "target": "quantitative research",
+    "weight": 5
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "quantitative research",
+    "weight": 5
+  },
+  {
+    "source": "quantitative research",
+    "target": "research collaboration",
+    "weight": 5
+  },
+  {
+    "source": "quantitative research",
+    "target": "research productivity",
+    "weight": 5
+  },
+  {
+    "source": "quantitative research",
+    "target": "scholarly funding",
     "weight": 5
   },
   {
@@ -15850,11 +15935,6 @@
     "weight": 4
   },
   {
-    "source": "high-impact research",
-    "target": "theoretical research",
-    "weight": 4
-  },
-  {
     "source": "online learning",
     "target": "university administrators",
     "weight": 4
@@ -16796,6 +16876,11 @@
   },
   {
     "source": "lack of oversight",
+    "target": "legitimacy crisis",
+    "weight": 4
+  },
+  {
+    "source": "lack of oversight",
     "target": "university leadership",
     "weight": 4
   },
@@ -16836,12 +16921,7 @@
   },
   {
     "source": "contested scientific claims",
-    "target": "public scholarly funding",
-    "weight": 4
-  },
-  {
-    "source": "contested scientific claims",
-    "target": "scholarly funding",
+    "target": "trust in science",
     "weight": 4
   },
   {
@@ -16850,8 +16930,28 @@
     "weight": 4
   },
   {
+    "source": "empirical research",
+    "target": "trust in science",
+    "weight": 4
+  },
+  {
+    "source": "high-impact research",
+    "target": "trust in science",
+    "weight": 4
+  },
+  {
     "source": "institutional accreditation",
     "target": "politicisation of science",
+    "weight": 4
+  },
+  {
+    "source": "politicisation of science",
+    "target": "trust in science",
+    "weight": 4
+  },
+  {
+    "source": "research collaboration",
+    "target": "trust in science",
     "weight": 4
   },
   {
@@ -16977,11 +17077,6 @@
   {
     "source": "democracy",
     "target": "higher education crisis",
-    "weight": 4
-  },
-  {
-    "source": "democracy",
-    "target": "legitimacy crisis",
     "weight": 4
   },
   {
@@ -17116,7 +17211,7 @@
   },
   {
     "source": "democracy",
-    "target": "political repression",
+    "target": "suppressing dissent",
     "weight": 4
   },
   {
@@ -17162,6 +17257,11 @@
   {
     "source": "intellectual autonomy",
     "target": "suppressing dissent",
+    "weight": 4
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "public misinformation",
     "weight": 4
   },
   {
@@ -17231,12 +17331,22 @@
   },
   {
     "source": "geopolitics",
-    "target": "populism",
+    "target": "illiberal democracy",
     "weight": 4
   },
   {
-    "source": "legitimacy crisis",
+    "source": "geopolitics",
+    "target": "legitimacy crisis",
+    "weight": 4
+  },
+  {
+    "source": "geopolitics",
     "target": "political repression",
+    "weight": 4
+  },
+  {
+    "source": "geopolitics",
+    "target": "populism",
     "weight": 4
   },
   {
@@ -17296,11 +17406,6 @@
   },
   {
     "source": "empirical research",
-    "target": "international cohorts",
-    "weight": 4
-  },
-  {
-    "source": "empirical research",
     "target": "opportunistic growth",
     "weight": 4
   },
@@ -17340,11 +17445,6 @@
     "weight": 4
   },
   {
-    "source": "international cohorts",
-    "target": "research productivity",
-    "weight": 4
-  },
-  {
     "source": "legitimacy crisis",
     "target": "weak oversight",
     "weight": 4
@@ -17380,48 +17480,28 @@
     "weight": 4
   },
   {
-    "source": "international cohorts",
-    "target": "public scholarly funding",
+    "source": "public scholarly funding",
+    "target": "theoretical research",
     "weight": 4
   },
   {
     "source": "contested scientific claims",
-    "target": "research productivity",
-    "weight": 4
-  },
-  {
-    "source": "empirical research",
     "target": "quantitative research",
     "weight": 4
   },
   {
-    "source": "high-impact research",
-    "target": "quantitative research",
+    "source": "contested scientific claims",
+    "target": "theoretical research",
     "weight": 4
   },
   {
-    "source": "politicisation of science",
-    "target": "quantitative research",
-    "weight": 4
-  },
-  {
-    "source": "public scholarly funding",
-    "target": "quantitative research",
-    "weight": 4
-  },
-  {
-    "source": "quantitative research",
-    "target": "research collaboration",
-    "weight": 4
-  },
-  {
-    "source": "quantitative research",
-    "target": "research productivity",
-    "weight": 4
-  },
-  {
-    "source": "quantitative research",
+    "source": "international cohorts",
     "target": "scholarly funding",
+    "weight": 4
+  },
+  {
+    "source": "scholarly funding",
+    "target": "theoretical research",
     "weight": 4
   },
   {
@@ -17482,6 +17562,11 @@
   {
     "source": "systemic education failure",
     "target": "thought independence",
+    "weight": 4
+  },
+  {
+    "source": "lack of oversight",
+    "target": "suppressing dissent",
     "weight": 4
   },
   {
@@ -20491,11 +20576,6 @@
   },
   {
     "source": "lack of oversight",
-    "target": "legitimacy crisis",
-    "weight": 3
-  },
-  {
-    "source": "lack of oversight",
     "target": "university bylaws",
     "weight": 3
   },
@@ -20560,28 +20640,13 @@
     "weight": 3
   },
   {
-    "source": "contested scientific claims",
-    "target": "trust in science",
-    "weight": 3
-  },
-  {
     "source": "empirical research",
     "target": "procedural abuse",
     "weight": 3
   },
   {
-    "source": "empirical research",
-    "target": "trust in science",
-    "weight": 3
-  },
-  {
     "source": "faculty job insecurity",
     "target": "qualitative research",
-    "weight": 3
-  },
-  {
-    "source": "high-impact research",
-    "target": "trust in science",
     "weight": 3
   },
   {
@@ -20595,7 +20660,7 @@
     "weight": 3
   },
   {
-    "source": "politicisation of science",
+    "source": "public scholarly funding",
     "target": "trust in science",
     "weight": 3
   },
@@ -20605,7 +20670,7 @@
     "weight": 3
   },
   {
-    "source": "research collaboration",
+    "source": "scholarly funding",
     "target": "trust in science",
     "weight": 3
   },
@@ -21225,11 +21290,6 @@
     "weight": 3
   },
   {
-    "source": "democracy",
-    "target": "suppressing dissent",
-    "weight": 3
-  },
-  {
     "source": "illiberal democracy",
     "target": "regime",
     "weight": 3
@@ -21390,11 +21450,6 @@
     "weight": 3
   },
   {
-    "source": "legitimacy crisis",
-    "target": "public misinformation",
-    "weight": 3
-  },
-  {
     "source": "media falsehoods",
     "target": "outdated education model",
     "weight": 3
@@ -21427,6 +21482,11 @@
   {
     "source": "public misinformation",
     "target": "research productivity",
+    "weight": 3
+  },
+  {
+    "source": "public misinformation",
+    "target": "suppressing dissent",
     "weight": 3
   },
   {
@@ -21471,6 +21531,11 @@
   },
   {
     "source": "democracy",
+    "target": "geopolitics",
+    "weight": 3
+  },
+  {
+    "source": "democracy",
     "target": "politicisation of science",
     "weight": 3
   },
@@ -21491,22 +21556,22 @@
   },
   {
     "source": "geopolitics",
-    "target": "illiberal democracy",
-    "weight": 3
-  },
-  {
-    "source": "geopolitics",
-    "target": "legitimacy crisis",
-    "weight": 3
-  },
-  {
-    "source": "geopolitics",
-    "target": "political repression",
+    "target": "suppressing dissent",
     "weight": 3
   },
   {
     "source": "italy",
     "target": "politicisation of science",
+    "weight": 3
+  },
+  {
+    "source": "political interference",
+    "target": "political repression",
+    "weight": 3
+  },
+  {
+    "source": "political interference",
+    "target": "suppressing dissent",
     "weight": 3
   },
   {
@@ -21850,7 +21915,7 @@
     "weight": 3
   },
   {
-    "source": "public scholarly funding",
+    "source": "international cohorts",
     "target": "theoretical research",
     "weight": 3
   },
@@ -21870,23 +21935,18 @@
     "weight": 3
   },
   {
-    "source": "contested scientific claims",
-    "target": "quantitative research",
+    "source": "high-impact research",
+    "target": "international cohorts",
     "weight": 3
   },
   {
-    "source": "contested scientific claims",
-    "target": "theoretical research",
+    "source": "international cohorts",
+    "target": "quantitative research",
     "weight": 3
   },
   {
     "source": "international cohorts",
     "target": "scholarly endowments",
-    "weight": 3
-  },
-  {
-    "source": "international cohorts",
-    "target": "scholarly funding",
     "weight": 3
   },
   {
@@ -21905,13 +21965,13 @@
     "weight": 3
   },
   {
-    "source": "scholarly funding",
-    "target": "scientific expertise",
+    "source": "quantitative research",
+    "target": "theoretical research",
     "weight": 3
   },
   {
     "source": "scholarly funding",
-    "target": "theoretical research",
+    "target": "scientific expertise",
     "weight": 3
   },
   {
@@ -21977,6 +22037,11 @@
   {
     "source": "austerity",
     "target": "grade inflation",
+    "weight": 3
+  },
+  {
+    "source": "austerity",
+    "target": "legitimacy crisis",
     "weight": 3
   },
   {
@@ -22082,11 +22147,6 @@
   {
     "source": "adjunct faculty",
     "target": "lack of oversight",
-    "weight": 3
-  },
-  {
-    "source": "lack of oversight",
-    "target": "suppressing dissent",
     "weight": 3
   },
   {
@@ -22272,6 +22332,16 @@
   {
     "source": "research productivity",
     "target": "scholarly grant funding",
+    "weight": 3
+  },
+  {
+    "source": "research productivity",
+    "target": "trust in science",
+    "weight": 3
+  },
+  {
+    "source": "theoretical research",
+    "target": "trust in science",
     "weight": 3
   },
   {
@@ -26895,11 +26965,6 @@
     "weight": 2
   },
   {
-    "source": "public scholarly funding",
-    "target": "trust in science",
-    "weight": 2
-  },
-  {
     "source": "qualitative research",
     "target": "scholarly endowments",
     "weight": 2
@@ -26916,11 +26981,6 @@
   },
   {
     "source": "scholarly endowments",
-    "target": "trust in science",
-    "weight": 2
-  },
-  {
-    "source": "scholarly funding",
     "target": "trust in science",
     "weight": 2
   },
@@ -28340,11 +28400,6 @@
     "weight": 2
   },
   {
-    "source": "public misinformation",
-    "target": "suppressing dissent",
-    "weight": 2
-  },
-  {
     "source": "public scholarly funding",
     "target": "publish or perish",
     "weight": 2
@@ -28441,7 +28496,7 @@
   },
   {
     "source": "democracy",
-    "target": "geopolitics",
+    "target": "political interference",
     "weight": 2
   },
   {
@@ -28476,12 +28531,17 @@
   },
   {
     "source": "geopolitics",
-    "target": "regime",
+    "target": "political interference",
     "weight": 2
   },
   {
     "source": "geopolitics",
-    "target": "suppressing dissent",
+    "target": "regime",
+    "weight": 2
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "political interference",
     "weight": 2
   },
   {
@@ -28511,6 +28571,11 @@
   },
   {
     "source": "legitimacy crisis",
+    "target": "political interference",
+    "weight": 2
+  },
+  {
+    "source": "legitimacy crisis",
     "target": "regime",
     "weight": 2
   },
@@ -28531,17 +28596,7 @@
   },
   {
     "source": "political interference",
-    "target": "political repression",
-    "weight": 2
-  },
-  {
-    "source": "political interference",
     "target": "politicisation of science",
-    "weight": 2
-  },
-  {
-    "source": "political interference",
-    "target": "suppressing dissent",
     "weight": 2
   },
   {
@@ -29236,6 +29291,11 @@
   },
   {
     "source": "austerity",
+    "target": "lack of oversight",
+    "weight": 2
+  },
+  {
+    "source": "austerity",
     "target": "politicisation of science",
     "weight": 2
   },
@@ -29430,11 +29490,6 @@
     "weight": 2
   },
   {
-    "source": "international cohorts",
-    "target": "theoretical research",
-    "weight": 2
-  },
-  {
     "source": "international partnerships",
     "target": "politicisation of science",
     "weight": 2
@@ -29566,6 +29621,11 @@
   },
   {
     "source": "contested scientific claims",
+    "target": "international cohorts",
+    "weight": 2
+  },
+  {
+    "source": "contested scientific claims",
     "target": "peer review",
     "weight": 2
   },
@@ -29641,11 +29701,6 @@
   },
   {
     "source": "high-impact research",
-    "target": "international cohorts",
-    "weight": 2
-  },
-  {
-    "source": "high-impact research",
     "target": "peer review",
     "weight": 2
   },
@@ -29657,11 +29712,6 @@
   {
     "source": "international cohorts",
     "target": "laboratories",
-    "weight": 2
-  },
-  {
-    "source": "international cohorts",
-    "target": "quantitative research",
     "weight": 2
   },
   {
@@ -29762,11 +29812,6 @@
   {
     "source": "public scholarly funding",
     "target": "russia",
-    "weight": 2
-  },
-  {
-    "source": "quantitative research",
-    "target": "theoretical research",
     "weight": 2
   },
   {
@@ -30091,7 +30136,12 @@
   },
   {
     "source": "austerity",
-    "target": "legitimacy crisis",
+    "target": "democracy",
+    "weight": 2
+  },
+  {
+    "source": "austerity",
+    "target": "illiberal democracy",
     "weight": 2
   },
   {
@@ -31330,6 +31380,11 @@
     "weight": 2
   },
   {
+    "source": "illiberal democracy",
+    "target": "public misinformation",
+    "weight": 2
+  },
+  {
     "source": "intellectual autonomy",
     "target": "knowledge commodification",
     "weight": 2
@@ -31380,17 +31435,12 @@
     "weight": 2
   },
   {
-    "source": "research productivity",
+    "source": "quantitative research",
     "target": "trust in science",
     "weight": 2
   },
   {
     "source": "scientific expertise",
-    "target": "trust in science",
-    "weight": 2
-  },
-  {
-    "source": "theoretical research",
     "target": "trust in science",
     "weight": 2
   },
@@ -31675,6 +31725,11 @@
     "weight": 2
   },
   {
+    "source": "illiberal democracy",
+    "target": "lack of oversight",
+    "weight": 2
+  },
+  {
     "source": "incompetence",
     "target": "morale",
     "weight": 2
@@ -31687,6 +31742,11 @@
   {
     "source": "intellectual autonomy",
     "target": "morale",
+    "weight": 2
+  },
+  {
+    "source": "lack of oversight",
+    "target": "political repression",
     "weight": 2
   },
   {
@@ -31771,6 +31831,16 @@
   },
   {
     "source": "decision-making opacity",
+    "target": "research productivity",
+    "weight": 2
+  },
+  {
+    "source": "accountability gaps",
+    "target": "empirical research",
+    "weight": 2
+  },
+  {
+    "source": "accountability gaps",
     "target": "research productivity",
     "weight": 2
   },
@@ -43591,11 +43661,6 @@
   },
   {
     "source": "democracy",
-    "target": "political interference",
-    "weight": 1
-  },
-  {
-    "source": "democracy",
     "target": "unchecked authority",
     "weight": 1
   },
@@ -43696,11 +43761,6 @@
   },
   {
     "source": "geopolitics",
-    "target": "political interference",
-    "weight": 1
-  },
-  {
-    "source": "geopolitics",
     "target": "sovereignty",
     "weight": 1
   },
@@ -43722,11 +43782,6 @@
   {
     "source": "illiberal democracy",
     "target": "nepotism",
-    "weight": 1
-  },
-  {
-    "source": "illiberal democracy",
-    "target": "political interference",
     "weight": 1
   },
   {
@@ -43822,11 +43877,6 @@
   {
     "source": "legitimacy crisis",
     "target": "nepotism",
-    "weight": 1
-  },
-  {
-    "source": "legitimacy crisis",
-    "target": "political interference",
     "weight": 1
   },
   {
@@ -44827,11 +44877,6 @@
   {
     "source": "austerity",
     "target": "institutional partnerships",
-    "weight": 1
-  },
-  {
-    "source": "austerity",
-    "target": "lack of oversight",
     "weight": 1
   },
   {
@@ -46497,11 +46542,6 @@
   {
     "source": "contested scientific claims",
     "target": "fabricated news",
-    "weight": 1
-  },
-  {
-    "source": "contested scientific claims",
-    "target": "international cohorts",
     "weight": 1
   },
   {
@@ -48911,17 +48951,7 @@
   },
   {
     "source": "austerity",
-    "target": "democracy",
-    "weight": 1
-  },
-  {
-    "source": "austerity",
     "target": "deteriorating outcomes",
-    "weight": 1
-  },
-  {
-    "source": "austerity",
-    "target": "illiberal democracy",
     "weight": 1
   },
   {
@@ -53051,11 +53081,6 @@
   },
   {
     "source": "illiberal democracy",
-    "target": "public misinformation",
-    "weight": 1
-  },
-  {
-    "source": "illiberal democracy",
     "target": "publication pressure",
     "weight": 1
   },
@@ -53792,11 +53817,6 @@
   {
     "source": "quantitative research",
     "target": "scholarships",
-    "weight": 1
-  },
-  {
-    "source": "quantitative research",
-    "target": "trust in science",
     "weight": 1
   },
   {
@@ -56616,11 +56636,6 @@
   },
   {
     "source": "illiberal democracy",
-    "target": "lack of oversight",
-    "weight": 1
-  },
-  {
-    "source": "illiberal democracy",
     "target": "morale",
     "weight": 1
   },
@@ -56782,11 +56797,6 @@
   {
     "source": "lack of oversight",
     "target": "pedagogical methods",
-    "weight": 1
-  },
-  {
-    "source": "lack of oversight",
-    "target": "political repression",
     "weight": 1
   },
   {
@@ -57526,11 +57536,6 @@
   },
   {
     "source": "accountability gaps",
-    "target": "empirical research",
-    "weight": 1
-  },
-  {
-    "source": "accountability gaps",
     "target": "ethical impropriety",
     "weight": 1
   },
@@ -57622,11 +57627,6 @@
   {
     "source": "accountability gaps",
     "target": "qualitative research",
-    "weight": 1
-  },
-  {
-    "source": "accountability gaps",
-    "target": "research productivity",
     "weight": 1
   },
   {
@@ -58702,6 +58702,141 @@
   {
     "source": "qualitative research",
     "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "austerity",
+    "target": "geopolitics",
+    "weight": 1
+  },
+  {
+    "source": "austerity",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "austerity",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "austerity",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "austerity",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "democracy",
+    "target": "lack of oversight",
+    "weight": 1
+  },
+  {
+    "source": "democracy",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "geopolitics",
+    "target": "lack of oversight",
+    "weight": 1
+  },
+  {
+    "source": "geopolitics",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "lack of oversight",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "lack of oversight",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "political interference",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "political repression",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "digital tools",
+    "target": "health profession",
+    "weight": 1
+  },
+  {
+    "source": "digital tools",
+    "target": "medical profession",
+    "weight": 1
+  },
+  {
+    "source": "health profession",
+    "target": "medical profession",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "contested scientific claims",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "high-impact research",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "international cohorts",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "quantitative research",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "theoretical research",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "trust in science",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "trust in science",
     "weight": 1
   }
 ]

@@ -711,13 +711,14 @@
   {
     "id": "public misinformation",
     "label": "Public Misinformation",
-    "weight": 9,
-    "avg_score": 0.4626,
+    "weight": 10,
+    "avg_score": 0.46,
     "article_ids": [
       "14484b69978b92581bf271b7dea23bae",
       "1d9c48e1bdc75c3e19762839dabaed93",
       "2a5d2fcfda31b154cce40bed2dcf634b",
       "2e2af12f68efa47616062abf5c42d66f",
+      "59b6a8e04cec6e93b49a9eda0cee5b53",
       "5aed384b87ec905d30430faeff2fd745",
       "663b9eb74a9454c4c9c3554b505ea5ad",
       "8e65ab1740daa992fac0affcabcd47d6",
@@ -3402,8 +3403,8 @@
   {
     "id": "scholarly funding",
     "label": "Scholarly Funding",
-    "weight": 46,
-    "avg_score": 0.4554,
+    "weight": 47,
+    "avg_score": 0.4549,
     "article_ids": [
       "029e4dc98f555abfebbd0abafc2c83c9",
       "059ae435c504ef13f26c92186962f10e",
@@ -3443,6 +3444,7 @@
       "accda76fcfd213b863329c61e71c160c",
       "b09c44a54d2e2ca479aaf7c17506b8b3",
       "b3b12fdbaa7b520d1119d26d18b9e1d0",
+      "c9c8e5a7d05e628e0f9032f8f061b3b6",
       "cce60daefd4ed5d3a911dbd4d86766bc",
       "ce6ca23965e79318566be226340cd407",
       "cfcd964d06c77b8dd52ecd0e1eee5194",
@@ -3456,8 +3458,8 @@
   {
     "id": "public scholarly funding",
     "label": "Public Scholarly Funding",
-    "weight": 54,
-    "avg_score": 0.4585,
+    "weight": 55,
+    "avg_score": 0.4584,
     "article_ids": [
       "029e4dc98f555abfebbd0abafc2c83c9",
       "04296ef005fd861382dd795e1768e30a",
@@ -3502,6 +3504,7 @@
       "aaee850528fdf2a6971668ba9591bca5",
       "b3b12fdbaa7b520d1119d26d18b9e1d0",
       "c5a245bc8361bf934347b3d8f989a023",
+      "c9c8e5a7d05e628e0f9032f8f061b3b6",
       "cce60daefd4ed5d3a911dbd4d86766bc",
       "ce6ca23965e79318566be226340cd407",
       "cfcd964d06c77b8dd52ecd0e1eee5194",
@@ -3600,8 +3603,8 @@
   {
     "id": "austerity",
     "label": "Austerity",
-    "weight": 11,
-    "avg_score": 0.4238,
+    "weight": 12,
+    "avg_score": 0.4223,
     "article_ids": [
       "04f8d8e20861ef06c6ba20428b98824b",
       "08cda6adb54e206ad42db0153928fca9",
@@ -3610,6 +3613,7 @@
       "26d7d361ffb28363dcc54a3362d92b11",
       "51472bed24e640d6430c32a8a3d09c41",
       "59676f91353b2f74c99fb7d26f700c23",
+      "59b6a8e04cec6e93b49a9eda0cee5b53",
       "80eef45f5cef9d5a825bb8d0b978c90d",
       "8f53a73b7260110859c8e49a1cb5857b",
       "b3fc2657ce5551899288e3a4ba432251",
@@ -4272,8 +4276,8 @@
   {
     "id": "politicisation of science",
     "label": "Politicisation Of Science",
-    "weight": 28,
-    "avg_score": 0.44,
+    "weight": 29,
+    "avg_score": 0.4428,
     "article_ids": [
       "04296ef005fd861382dd795e1768e30a",
       "078d69272cafe9c0253dae95cddc5c02",
@@ -4300,6 +4304,7 @@
       "a7623342a3431f0d281ca3d010d1b9c1",
       "b3b12fdbaa7b520d1119d26d18b9e1d0",
       "c5a245bc8361bf934347b3d8f989a023",
+      "c9c8e5a7d05e628e0f9032f8f061b3b6",
       "cfcd964d06c77b8dd52ecd0e1eee5194",
       "e51c543e2574dd6c7e2b63eae5226e3d",
       "ecaf9fed3fb93e40e56b8e2d75a2fcf4"
@@ -4433,8 +4438,8 @@
   {
     "id": "international cohorts",
     "label": "International Cohorts",
-    "weight": 13,
-    "avg_score": 0.4471,
+    "weight": 14,
+    "avg_score": 0.4474,
     "article_ids": [
       "04920af3e4013c5a38f53e90f2b73825",
       "26d7d361ffb28363dcc54a3362d92b11",
@@ -4446,6 +4451,7 @@
       "9f59a8d727d0f24569723d8294ea62c8",
       "a1edc83e99b706c030cea33e59411758",
       "a3b6bad832136fd03de97dbee7c5701d",
+      "c9c8e5a7d05e628e0f9032f8f061b3b6",
       "e9f1644a6f5d3a79310f5f638ba82101",
       "f1d32a73f0893895379f9bec56491a88",
       "f7b725129c7ebb9517911f4f680132e6"
@@ -4885,8 +4891,8 @@
   {
     "id": "research productivity",
     "label": "Research Productivity",
-    "weight": 37,
-    "avg_score": 0.4372,
+    "weight": 38,
+    "avg_score": 0.4371,
     "article_ids": [
       "08cda6adb54e206ad42db0153928fca9",
       "121c4b4d2b68b5bbfd72a1cd88b72897",
@@ -4920,6 +4926,7 @@
       "b340a5ebad69ecc5e2044993cd4a98f9",
       "b95b6816c9dd5699f7d3cbc5a287781c",
       "b95f10f891d2f54c7f709daefd31c6ed",
+      "c9c8e5a7d05e628e0f9032f8f061b3b6",
       "dcbac7dee4113046ea87ff7c09489adf",
       "ecaf9fed3fb93e40e56b8e2d75a2fcf4",
       "f0933480c53349d30e2c70cfea7b21fb",
@@ -4946,8 +4953,8 @@
   {
     "id": "empirical research",
     "label": "Empirical Research",
-    "weight": 27,
-    "avg_score": 0.4455,
+    "weight": 28,
+    "avg_score": 0.4473,
     "article_ids": [
       "011398b5fc99180f90f3cb46f01f6085",
       "14484b69978b92581bf271b7dea23bae",
@@ -4973,6 +4980,7 @@
       "aaee850528fdf2a6971668ba9591bca5",
       "c4781165fde64b2aa677286e03706672",
       "c5a245bc8361bf934347b3d8f989a023",
+      "c9c8e5a7d05e628e0f9032f8f061b3b6",
       "cfcd964d06c77b8dd52ecd0e1eee5194",
       "e51c543e2574dd6c7e2b63eae5226e3d",
       "ecaf9fed3fb93e40e56b8e2d75a2fcf4"
@@ -5028,8 +5036,8 @@
   {
     "id": "high-impact research",
     "label": "High Impact Research",
-    "weight": 14,
-    "avg_score": 0.4518,
+    "weight": 15,
+    "avg_score": 0.4495,
     "article_ids": [
       "0b5530b2b42a02e5ae04f6b2e7d3a145",
       "147711988db2b2d092e0facd5221adf2",
@@ -5043,6 +5051,7 @@
       "9cdf7429405c1a8b819b33586c188987",
       "b857d3f75c87c23b3e268a04a96c6884",
       "b95f10f891d2f54c7f709daefd31c6ed",
+      "c9c8e5a7d05e628e0f9032f8f061b3b6",
       "cfcd964d06c77b8dd52ecd0e1eee5194",
       "ecaf9fed3fb93e40e56b8e2d75a2fcf4"
     ]
@@ -5050,8 +5059,8 @@
   {
     "id": "research collaboration",
     "label": "Research Collaboration",
-    "weight": 39,
-    "avg_score": 0.4389,
+    "weight": 40,
+    "avg_score": 0.4392,
     "article_ids": [
       "029e4dc98f555abfebbd0abafc2c83c9",
       "147711988db2b2d092e0facd5221adf2",
@@ -5083,6 +5092,7 @@
       "b6a0ef130a68ed2dad61213ae60df43d",
       "b95f10f891d2f54c7f709daefd31c6ed",
       "b9b7a368ea0cbe7e8902cd0c0a3c12b8",
+      "c9c8e5a7d05e628e0f9032f8f061b3b6",
       "ca36bfd74a4b0f8a2b38764275432578",
       "cfcd964d06c77b8dd52ecd0e1eee5194",
       "d46e079175f0cb193a673f3c5f48082c",
@@ -5196,8 +5206,8 @@
   {
     "id": "suppressing dissent",
     "label": "Suppressing Dissent",
-    "weight": 17,
-    "avg_score": 0.4367,
+    "weight": 18,
+    "avg_score": 0.4348,
     "article_ids": [
       "078d69272cafe9c0253dae95cddc5c02",
       "11eeefe6337fd06753373b732e5051c5",
@@ -5207,6 +5217,7 @@
       "3e2aec15154a4e9a16c4eeeea29216eb",
       "3ed5f9ab923a6f7bc85dc309320d28ab",
       "429300a6fdad81c42cfeb66c2a6b57c4",
+      "59b6a8e04cec6e93b49a9eda0cee5b53",
       "5aed384b87ec905d30430faeff2fd745",
       "5dd43ab77f0b10198e4bfd88cbf20109",
       "8bfaa0fc2e6f05346125d0145f1732a3",
@@ -5552,8 +5563,8 @@
   {
     "id": "political repression",
     "label": "Political Repression",
-    "weight": 11,
-    "avg_score": 0.4439,
+    "weight": 12,
+    "avg_score": 0.4436,
     "article_ids": [
       "04296ef005fd861382dd795e1768e30a",
       "11eeefe6337fd06753373b732e5051c5",
@@ -5561,6 +5572,7 @@
       "359cd52e78e27c322f5527497968f8b7",
       "3e2aec15154a4e9a16c4eeeea29216eb",
       "3ed5f9ab923a6f7bc85dc309320d28ab",
+      "59b6a8e04cec6e93b49a9eda0cee5b53",
       "5dd43ab77f0b10198e4bfd88cbf20109",
       "8bfaa0fc2e6f05346125d0145f1732a3",
       "be706ea76c856662101ed6aeb5107331",
@@ -5860,8 +5872,8 @@
   {
     "id": "theoretical research",
     "label": "Theoretical Research",
-    "weight": 12,
-    "avg_score": 0.4402,
+    "weight": 13,
+    "avg_score": 0.4384,
     "article_ids": [
       "291ec9cc64f4c2049c7f924076f4ea69",
       "2e2d113d9e18d22f672b74ca307b19d5",
@@ -5873,6 +5885,7 @@
       "a95a98a343e9e4cc0822ab8b857753f6",
       "b340a5ebad69ecc5e2044993cd4a98f9",
       "b95f10f891d2f54c7f709daefd31c6ed",
+      "c9c8e5a7d05e628e0f9032f8f061b3b6",
       "ca36bfd74a4b0f8a2b38764275432578",
       "dfdb53e2693f65600e7e670772db1ec0"
     ]
@@ -6156,12 +6169,13 @@
   {
     "id": "trust in science",
     "label": "Trust In Science",
-    "weight": 4,
-    "avg_score": 0.4255,
+    "weight": 5,
+    "avg_score": 0.4225,
     "article_ids": [
       "2e2d113d9e18d22f672b74ca307b19d5",
       "53c28573410f8f00d032db6481c58f6b",
       "7c0599565e0944a74deb63e8a7ff873f",
+      "c9c8e5a7d05e628e0f9032f8f061b3b6",
       "cfcd964d06c77b8dd52ecd0e1eee5194"
     ]
   },
@@ -6253,12 +6267,13 @@
   {
     "id": "geopolitics",
     "label": "Geopolitics",
-    "weight": 7,
-    "avg_score": 0.4446,
+    "weight": 8,
+    "avg_score": 0.4419,
     "article_ids": [
       "04296ef005fd861382dd795e1768e30a",
       "130525cb1a94cfa4f4f765eee9caa692",
       "52d68808edf24a99c318c6878caf5eb3",
+      "59b6a8e04cec6e93b49a9eda0cee5b53",
       "815d4acfabe0b1d834b68a2bcbfc1c66",
       "8bfaa0fc2e6f05346125d0145f1732a3",
       "925b4bc472118cbdb1f2679c0bb794c8",
@@ -6429,13 +6444,14 @@
   {
     "id": "lack of oversight",
     "label": "Lack Of Oversight",
-    "weight": 7,
-    "avg_score": 0.4149,
+    "weight": 8,
+    "avg_score": 0.4145,
     "article_ids": [
       "078d69272cafe9c0253dae95cddc5c02",
       "349a314246434fb5561c3a39f87c7e53",
       "369fd1d10b4474e339a3eb357a4a63ed",
       "51472bed24e640d6430c32a8a3d09c41",
+      "59b6a8e04cec6e93b49a9eda0cee5b53",
       "5dd43ab77f0b10198e4bfd88cbf20109",
       "7e84540504b835cbb662b84eb965d92f",
       "ce6ca23965e79318566be226340cd407"
@@ -6454,8 +6470,8 @@
   {
     "id": "legitimacy crisis",
     "label": "Legitimacy Crisis",
-    "weight": 15,
-    "avg_score": 0.4474,
+    "weight": 16,
+    "avg_score": 0.4498,
     "article_ids": [
       "130525cb1a94cfa4f4f765eee9caa692",
       "1d9c48e1bdc75c3e19762839dabaed93",
@@ -6463,6 +6479,7 @@
       "31b8b01212bcdd56b8cfa68b5d2e4b0e",
       "349a314246434fb5561c3a39f87c7e53",
       "3ed5f9ab923a6f7bc85dc309320d28ab",
+      "59b6a8e04cec6e93b49a9eda0cee5b53",
       "5aed384b87ec905d30430faeff2fd745",
       "5dd43ab77f0b10198e4bfd88cbf20109",
       "663b9eb74a9454c4c9c3554b505ea5ad",
@@ -6645,12 +6662,13 @@
   {
     "id": "contested scientific claims",
     "label": "Contested Scientific Claims",
-    "weight": 6,
-    "avg_score": 0.4333,
+    "weight": 7,
+    "avg_score": 0.4443,
     "article_ids": [
       "2e2d113d9e18d22f672b74ca307b19d5",
       "53c28573410f8f00d032db6481c58f6b",
       "8e65ab1740daa992fac0affcabcd47d6",
+      "c9c8e5a7d05e628e0f9032f8f061b3b6",
       "cfcd964d06c77b8dd52ecd0e1eee5194",
       "e51c543e2574dd6c7e2b63eae5226e3d",
       "ecaf9fed3fb93e40e56b8e2d75a2fcf4"
@@ -6776,25 +6794,27 @@
   {
     "id": "digital tools",
     "label": "Digital Tools",
-    "weight": 4,
-    "avg_score": 0.4129,
+    "weight": 5,
+    "avg_score": 0.4159,
     "article_ids": [
       "31b8b01212bcdd56b8cfa68b5d2e4b0e",
       "6a3a5dd81a22f500a685d12d9c1f66d3",
       "8e587522d67165168ed574fb43a9b96a",
+      "b90820da928d08086f9ee8da22b4587d",
       "f7ec81f81f408dae95d64c2a9fcda4db"
     ]
   },
   {
     "id": "democracy",
     "label": "Democracy",
-    "weight": 6,
-    "avg_score": 0.4389,
+    "weight": 7,
+    "avg_score": 0.4437,
     "article_ids": [
       "04296ef005fd861382dd795e1768e30a",
       "130525cb1a94cfa4f4f765eee9caa692",
       "31b8b01212bcdd56b8cfa68b5d2e4b0e",
       "3ed5f9ab923a6f7bc85dc309320d28ab",
+      "59b6a8e04cec6e93b49a9eda0cee5b53",
       "8f53a73b7260110859c8e49a1cb5857b",
       "d789cfe6fff8d27f6ff7f95435c0b576"
     ]
@@ -6802,13 +6822,14 @@
   {
     "id": "illiberal democracy",
     "label": "Illiberal Democracy",
-    "weight": 9,
-    "avg_score": 0.4494,
+    "weight": 10,
+    "avg_score": 0.4513,
     "article_ids": [
       "04296ef005fd861382dd795e1768e30a",
       "130525cb1a94cfa4f4f765eee9caa692",
       "31b8b01212bcdd56b8cfa68b5d2e4b0e",
       "3ed5f9ab923a6f7bc85dc309320d28ab",
+      "59b6a8e04cec6e93b49a9eda0cee5b53",
       "5dd43ab77f0b10198e4bfd88cbf20109",
       "663b9eb74a9454c4c9c3554b505ea5ad",
       "8bfaa0fc2e6f05346125d0145f1732a3",
@@ -7052,13 +7073,14 @@
   {
     "id": "political interference",
     "label": "Political Interference",
-    "weight": 6,
-    "avg_score": 0.4349,
+    "weight": 7,
+    "avg_score": 0.4452,
     "article_ids": [
       "11eeefe6337fd06753373b732e5051c5",
       "130525cb1a94cfa4f4f765eee9caa692",
       "2cb5ca4b48bef5f06b444b59d48afe62",
       "53e0e7e2bd23557504b5ac5d0bb58d3a",
+      "59b6a8e04cec6e93b49a9eda0cee5b53",
       "7b9c460ca7926bc171ecb0b7d6833165",
       "81b2fb822bd0f7fffcc9a7dc555a5be3"
     ]
@@ -7156,12 +7178,13 @@
   {
     "id": "quantitative research",
     "label": "Quantitative Research",
-    "weight": 4,
-    "avg_score": 0.4266,
+    "weight": 5,
+    "avg_score": 0.4233,
     "article_ids": [
       "2e2d113d9e18d22f672b74ca307b19d5",
       "8e65ab1740daa992fac0affcabcd47d6",
       "925b4bc472118cbdb1f2679c0bb794c8",
+      "c9c8e5a7d05e628e0f9032f8f061b3b6",
       "ecaf9fed3fb93e40e56b8e2d75a2fcf4"
     ]
   },
@@ -7218,10 +7241,11 @@
   {
     "id": "health profession",
     "label": "Health Profession",
-    "weight": 2,
-    "avg_score": 0.422,
+    "weight": 3,
+    "avg_score": 0.4598,
     "article_ids": [
       "76788d1e97f14340547fe1f7500a278e",
+      "b90820da928d08086f9ee8da22b4587d",
       "c4781165fde64b2aa677286e03706672"
     ]
   },
@@ -7453,10 +7477,20 @@
   {
     "id": "accountability gaps",
     "label": "Accountability Gaps",
-    "weight": 1,
-    "avg_score": 0.4052,
+    "weight": 2,
+    "avg_score": 0.4137,
     "article_ids": [
-      "1d9c48e1bdc75c3e19762839dabaed93"
+      "1d9c48e1bdc75c3e19762839dabaed93",
+      "c9c8e5a7d05e628e0f9032f8f061b3b6"
+    ]
+  },
+  {
+    "id": "medical profession",
+    "label": "Medical Profession",
+    "weight": 1,
+    "avg_score": 0.4967,
+    "article_ids": [
+      "b90820da928d08086f9ee8da22b4587d"
     ]
   }
 ]

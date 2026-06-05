@@ -1,8 +1,8 @@
 [
   {
     "topic": "Higher Education Crisis",
-    "count": 176,
-    "score": 0.448,
+    "count": 177,
+    "score": 0.4489,
     "topics": [
       "academic collapse",
       "academic model breakdown",
@@ -94,6 +94,18 @@
     ]
   },
   {
+    "topic": "Education Funding",
+    "count": 44,
+    "score": 0.4631,
+    "topics": [
+      "public scholarly funding",
+      "scholarly endowments",
+      "scholarly funding",
+      "scholarly grant funding",
+      "school budgets"
+    ]
+  },
+  {
     "topic": "Admissions Access In Higher Education",
     "count": 42,
     "score": 0.4476,
@@ -107,15 +119,19 @@
     ]
   },
   {
-    "topic": "Education Funding",
-    "count": 42,
-    "score": 0.464,
+    "topic": "Research Activities",
+    "count": 36,
+    "score": 0.433,
     "topics": [
-      "public scholarly funding",
-      "scholarly endowments",
-      "scholarly funding",
-      "scholarly grant funding",
-      "school budgets"
+      "citation count",
+      "empirical research",
+      "high-impact research",
+      "peer review",
+      "qualitative research",
+      "quantitative research",
+      "research collaboration",
+      "research productivity",
+      "theoretical research"
     ]
   },
   {
@@ -132,24 +148,9 @@
     ]
   },
   {
-    "topic": "Research Activities",
-    "count": 30,
-    "score": 0.4374,
-    "topics": [
-      "citation count",
-      "empirical research",
-      "high-impact research",
-      "peer review",
-      "qualitative research",
-      "research collaboration",
-      "research productivity",
-      "theoretical research"
-    ]
-  },
-  {
     "topic": "Academic Abuse",
-    "count": 30,
-    "score": 0.4293,
+    "count": 31,
+    "score": 0.4288,
     "topics": [
       "administrative abuse",
       "administrative coercion",
@@ -173,8 +174,8 @@
   },
   {
     "topic": "Ethical Conflicts In Academia",
-    "count": 21,
-    "score": 0.4382,
+    "count": 23,
+    "score": 0.4387,
     "topics": [
       "accountability gaps",
       "decision-making opacity",
@@ -206,6 +207,35 @@
     ]
   },
   {
+    "topic": "Science Society",
+    "count": 14,
+    "score": 0.4513,
+    "topics": [
+      "contested scientific claims",
+      "politicisation of science",
+      "public misinformation",
+      "science communication",
+      "scientific expertise",
+      "trust in science"
+    ]
+  },
+  {
+    "topic": "Politics In Academia",
+    "count": 13,
+    "score": 0.4605,
+    "topics": [
+      "authoritarianism",
+      "democracy",
+      "geopolitics",
+      "illiberal democracy",
+      "nuclear strategy",
+      "political interference",
+      "political repression",
+      "populism",
+      "propaganda"
+    ]
+  },
+  {
     "topic": "Systemic Inequity In Higher Education",
     "count": 10,
     "score": 0.4365,
@@ -215,19 +245,6 @@
       "hostile culture",
       "inclusivity",
       "racism"
-    ]
-  },
-  {
-    "topic": "Science Society",
-    "count": 10,
-    "score": 0.4465,
-    "topics": [
-      "contested scientific claims",
-      "politicisation of science",
-      "public misinformation",
-      "science communication",
-      "scientific expertise",
-      "trust in science"
     ]
   },
   {
@@ -252,20 +269,6 @@
     ]
   },
   {
-    "topic": "Politics In Academia",
-    "count": 8,
-    "score": 0.4595,
-    "topics": [
-      "authoritarianism",
-      "illiberal democracy",
-      "nuclear strategy",
-      "political interference",
-      "political repression",
-      "populism",
-      "propaganda"
-    ]
-  },
-  {
     "topic": "University Accreditation",
     "count": 8,
     "score": 0.4128,
@@ -274,6 +277,18 @@
       "accreditation review",
       "accreditation standards",
       "institutional accreditation"
+    ]
+  },
+  {
+    "topic": "Educational Technology",
+    "count": 6,
+    "score": 0.464,
+    "topics": [
+      "AI assisted process",
+      "analytics",
+      "automated grading",
+      "digital tools",
+      "emerging technology"
     ]
   },
   {
@@ -300,17 +315,6 @@
     ]
   },
   {
-    "topic": "Educational Technology",
-    "count": 5,
-    "score": 0.4731,
-    "topics": [
-      "AI assisted process",
-      "analytics",
-      "automated grading",
-      "emerging technology"
-    ]
-  },
-  {
     "topic": "Academic Ranking Systems",
     "count": 4,
     "score": 0.427,
@@ -321,11 +325,20 @@
   },
   {
     "topic": "Internationalisation Of Academia",
-    "count": 2,
-    "score": 0.4547,
+    "count": 3,
+    "score": 0.445,
     "topics": [
       "international cohorts",
       "study abroad"
+    ]
+  },
+  {
+    "topic": "Financial Constraints In Academia",
+    "count": 2,
+    "score": 0.4215,
+    "topics": [
+      "austerity",
+      "budget constraints"
     ]
   },
   {
@@ -338,11 +351,12 @@
     ]
   },
   {
-    "topic": "Financial Constraints In Academia",
-    "count": 1,
-    "score": 0.4371,
+    "topic": "Health Professions Education",
+    "count": 2,
+    "score": 0.5161,
     "topics": [
-      "budget constraints"
+      "health profession",
+      "medical profession"
     ]
   },
   {
