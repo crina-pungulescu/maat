@@ -1,0 +1,32 @@
+[
+  {
+    "source": "education_funding",
+    "target": "teaching_and_learning",
+    "weight": 2
+  },
+  {
+    "source": "higher_education_by_region",
+    "target": "research_activities",
+    "weight": 1
+  },
+  {
+    "source": "faculty_labour",
+    "target": "teaching_and_learning",
+    "weight": 1
+  },
+  {
+    "source": "education_funding",
+    "target": "faculty_labour",
+    "weight": 2
+  },
+  {
+    "source": "faculty_labour",
+    "target": "research_activities",
+    "weight": 1
+  },
+  {
+    "source": "faculty_labour",
+    "target": "higher_education_by_region",
+    "weight": 1
+  }
+]

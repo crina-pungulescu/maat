@@ -1,0 +1,56 @@
+[
+  {
+    "source": "postgraduate pathway",
+    "target": "scholarly endowments",
+    "co_occurrence": 3,
+    "pmi": 1.0
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "scholarly funding",
+    "co_occurrence": 3,
+    "pmi": 1.0
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "scholarly funding",
+    "co_occurrence": 3,
+    "pmi": 1.0
+  },
+  {
+    "source": "empirical research",
+    "target": "latin america",
+    "co_occurrence": 3,
+    "pmi": 1.0
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "postgraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 0.585
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "scholarly endowments",
+    "co_occurrence": 3,
+    "pmi": 0.585
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "scholarly funding",
+    "co_occurrence": 3,
+    "pmi": 0.585
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "empirical research",
+    "co_occurrence": 3,
+    "pmi": 0.585
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "latin america",
+    "co_occurrence": 3,
+    "pmi": 0.585
+  }
+]
