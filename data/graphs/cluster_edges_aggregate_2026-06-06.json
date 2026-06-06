@@ -7,7 +7,7 @@
   {
     "source": "politics_in_academia",
     "target": "science_society",
-    "weight": 8
+    "weight": 9
   },
   {
     "source": "academic_freedom",
@@ -15,19 +15,14 @@
     "weight": 6
   },
   {
+    "source": "academic_abuse",
+    "target": "politics_in_academia",
+    "weight": 19
+  },
+  {
     "source": "education_cost",
     "target": "financial_constraints_in_academia",
     "weight": 13
-  },
-  {
-    "source": "academic_abuse",
-    "target": "politics_in_academia",
-    "weight": 18
-  },
-  {
-    "source": "higher_education_by_region",
-    "target": "politics_in_academia",
-    "weight": 1
   },
   {
     "source": "academic_freedom",
@@ -40,19 +35,14 @@
     "weight": 4
   },
   {
+    "source": "higher_education_crisis",
+    "target": "politics_in_academia",
+    "weight": 62
+  },
+  {
     "source": "admissions_access_in_higher_education",
     "target": "teaching_and_learning",
     "weight": 71
-  },
-  {
-    "source": "higher_education_crisis",
-    "target": "politics_in_academia",
-    "weight": 60
-  },
-  {
-    "source": "academic_freedom",
-    "target": "academic_future_outlook",
-    "weight": 2
   },
   {
     "source": "internationalisation_of_academia",
@@ -75,9 +65,34 @@
     "weight": 51
   },
   {
-    "source": "academic_abuse",
+    "source": "academic_freedom",
     "target": "academic_future_outlook",
+    "weight": 2
+  },
+  {
+    "source": "higher_education_by_region",
+    "target": "politics_in_academia",
+    "weight": 1
+  },
+  {
+    "source": "academic_abuse",
+    "target": "higher_education_crisis",
+    "weight": 65
+  },
+  {
+    "source": "accountability_gaps_in_academia",
+    "target": "politics_in_academia",
+    "weight": 12
+  },
+  {
+    "source": "academic_future_outlook",
+    "target": "politics_in_academia",
     "weight": 4
+  },
+  {
+    "source": "academic_future_outlook",
+    "target": "higher_education_crisis",
+    "weight": 19
   },
   {
     "source": "academic_degradation_signals",
@@ -90,34 +105,19 @@
     "weight": 1
   },
   {
-    "source": "academic_abuse",
-    "target": "higher_education_crisis",
-    "weight": 65
-  },
-  {
     "source": "student_experience",
     "target": "teaching_and_learning",
     "weight": 171
   },
   {
     "source": "academic_abuse",
-    "target": "university_administration",
-    "weight": 42
-  },
-  {
-    "source": "academic_future_outlook",
-    "target": "higher_education_crisis",
-    "weight": 19
-  },
-  {
-    "source": "academic_degradation_signals",
-    "target": "accountability_gaps_in_academia",
+    "target": "academic_future_outlook",
     "weight": 4
   },
   {
-    "source": "accountability_gaps_in_academia",
-    "target": "politics_in_academia",
-    "weight": 8
+    "source": "academic_abuse",
+    "target": "university_administration",
+    "weight": 43
   },
   {
     "source": "campus_infrastructure",
@@ -126,13 +126,13 @@
   },
   {
     "source": "academic_abuse",
-    "target": "academic_freedom",
+    "target": "accountability_gaps_in_academia",
     "weight": 11
   },
   {
-    "source": "academic_abuse",
+    "source": "academic_future_outlook",
     "target": "accountability_gaps_in_academia",
-    "weight": 10
+    "weight": 3
   },
   {
     "source": "academic_abuse",
@@ -141,18 +141,23 @@
   },
   {
     "source": "academic_degradation_signals",
-    "target": "academic_future_outlook",
-    "weight": 1
-  },
-  {
-    "source": "academic_future_outlook",
-    "target": "politics_in_academia",
-    "weight": 2
+    "target": "financial_constraints_in_academia",
+    "weight": 3
   },
   {
     "source": "academic_degradation_signals",
-    "target": "financial_constraints_in_academia",
-    "weight": 3
+    "target": "accountability_gaps_in_academia",
+    "weight": 4
+  },
+  {
+    "source": "academic_abuse",
+    "target": "academic_freedom",
+    "weight": 11
+  },
+  {
+    "source": "academic_degradation_signals",
+    "target": "academic_future_outlook",
+    "weight": 1
   },
   {
     "source": "academic_freedom",
@@ -170,9 +175,9 @@
     "weight": 37
   },
   {
-    "source": "academic_future_outlook",
-    "target": "accountability_gaps_in_academia",
-    "weight": 1
+    "source": "politics_in_academia",
+    "target": "university_administration",
+    "weight": 22
   },
   {
     "source": "academic_abuse",
@@ -183,11 +188,6 @@
     "source": "academic_degradation_signals",
     "target": "higher_education_crisis",
     "weight": 68
-  },
-  {
-    "source": "academic_degradation_signals",
-    "target": "politics_in_academia",
-    "weight": 2
   },
   {
     "source": "education_funding",
@@ -205,11 +205,6 @@
     "weight": 164
   },
   {
-    "source": "politics_in_academia",
-    "target": "university_administration",
-    "weight": 19
-  },
-  {
     "source": "academic_degradation_signals",
     "target": "faculty_labour",
     "weight": 43
@@ -220,9 +215,9 @@
     "weight": 8
   },
   {
-    "source": "ethical_conflicts_in_academia",
-    "target": "higher_education_crisis",
-    "weight": 6
+    "source": "accountability_gaps_in_academia",
+    "target": "university_administration",
+    "weight": 18
   },
   {
     "source": "academic_abuse",
@@ -233,6 +228,21 @@
     "source": "academic_degradation_signals",
     "target": "educational_technology",
     "weight": 1
+  },
+  {
+    "source": "ethical_conflicts_in_academia",
+    "target": "higher_education_crisis",
+    "weight": 6
+  },
+  {
+    "source": "academic_degradation_signals",
+    "target": "politics_in_academia",
+    "weight": 2
+  },
+  {
+    "source": "accountability_gaps_in_academia",
+    "target": "higher_education_crisis",
+    "weight": 32
   },
   {
     "source": "systemic_inequity_in_higher_education",
@@ -261,8 +271,8 @@
   },
   {
     "source": "accountability_gaps_in_academia",
-    "target": "higher_education_crisis",
-    "weight": 32
+    "target": "science_society",
+    "weight": 3
   },
   {
     "source": "academic_abuse",
@@ -275,11 +285,6 @@
     "weight": 28
   },
   {
-    "source": "higher_education_by_region",
-    "target": "science_society",
-    "weight": 4
-  },
-  {
     "source": "higher_education_crisis",
     "target": "university_administration",
     "weight": 93
@@ -290,9 +295,9 @@
     "weight": 15
   },
   {
-    "source": "accountability_gaps_in_academia",
+    "source": "higher_education_by_region",
     "target": "science_society",
-    "weight": 3
+    "weight": 4
   },
   {
     "source": "university_accreditation",
@@ -365,11 +370,6 @@
     "weight": 43
   },
   {
-    "source": "higher_education_crisis",
-    "target": "science_society",
-    "weight": 20
-  },
-  {
     "source": "teaching_and_learning",
     "target": "university_administration",
     "weight": 117
@@ -378,16 +378,6 @@
     "source": "education_cost",
     "target": "faculty_labour",
     "weight": 29
-  },
-  {
-    "source": "academic_future_outlook",
-    "target": "teaching_and_learning",
-    "weight": 7
-  },
-  {
-    "source": "accountability_gaps_in_academia",
-    "target": "university_administration",
-    "weight": 16
   },
   {
     "source": "academic_freedom",
@@ -410,6 +400,11 @@
     "weight": 13
   },
   {
+    "source": "higher_education_crisis",
+    "target": "science_society",
+    "weight": 20
+  },
+  {
     "source": "education_funding",
     "target": "research_activities",
     "weight": 29
@@ -430,6 +425,11 @@
     "weight": 7
   },
   {
+    "source": "academic_future_outlook",
+    "target": "teaching_and_learning",
+    "weight": 7
+  },
+  {
     "source": "education_cost",
     "target": "teaching_and_learning",
     "weight": 30
@@ -438,11 +438,6 @@
     "source": "science_society",
     "target": "student_experience",
     "weight": 13
-  },
-  {
-    "source": "education_cost",
-    "target": "university_administration",
-    "weight": 26
   },
   {
     "source": "student_experience",
@@ -455,14 +450,9 @@
     "weight": 3
   },
   {
-    "source": "science_society",
-    "target": "sustainability_climate_in_academia",
-    "weight": 4
-  },
-  {
-    "source": "education_funding",
-    "target": "science_society",
-    "weight": 17
+    "source": "education_cost",
+    "target": "university_administration",
+    "weight": 26
   },
   {
     "source": "admissions_access_in_higher_education",
@@ -481,8 +471,23 @@
   },
   {
     "source": "science_society",
+    "target": "sustainability_climate_in_academia",
+    "weight": 4
+  },
+  {
+    "source": "education_funding",
+    "target": "science_society",
+    "weight": 17
+  },
+  {
+    "source": "science_society",
     "target": "teaching_and_learning",
     "weight": 21
+  },
+  {
+    "source": "accountability_gaps_in_academia",
+    "target": "faculty_labour",
+    "weight": 16
   },
   {
     "source": "academic_standards",
@@ -496,11 +501,6 @@
   },
   {
     "source": "academic_degradation_signals",
-    "target": "science_society",
-    "weight": 3
-  },
-  {
-    "source": "academic_degradation_signals",
     "target": "student_experience",
     "weight": 27
   },
@@ -510,14 +510,9 @@
     "weight": 12
   },
   {
-    "source": "financial_constraints_in_academia",
-    "target": "higher_education_crisis",
-    "weight": 22
-  },
-  {
-    "source": "higher_education_by_region",
-    "target": "university_administration",
-    "weight": 12
+    "source": "academic_future_outlook",
+    "target": "faculty_labour",
+    "weight": 6
   },
   {
     "source": "education_funding",
@@ -525,14 +520,14 @@
     "weight": 48
   },
   {
-    "source": "accountability_gaps_in_academia",
-    "target": "faculty_labour",
-    "weight": 16
+    "source": "higher_education_by_region",
+    "target": "university_administration",
+    "weight": 12
   },
   {
-    "source": "internationalisation_of_academia",
+    "source": "academic_degradation_signals",
     "target": "science_society",
-    "weight": 2
+    "weight": 3
   },
   {
     "source": "higher_education_crisis",
@@ -545,6 +540,11 @@
     "weight": 10
   },
   {
+    "source": "financial_constraints_in_academia",
+    "target": "higher_education_crisis",
+    "weight": 22
+  },
+  {
     "source": "higher_education_crisis",
     "target": "student_experience",
     "weight": 90
@@ -555,14 +555,14 @@
     "weight": 28
   },
   {
+    "source": "internationalisation_of_academia",
+    "target": "science_society",
+    "weight": 2
+  },
+  {
     "source": "admissions_access_in_higher_education",
     "target": "student_experience",
     "weight": 42
-  },
-  {
-    "source": "academic_future_outlook",
-    "target": "faculty_labour",
-    "weight": 6
   },
   {
     "source": "education_cost",
@@ -570,14 +570,14 @@
     "weight": 43
   },
   {
-    "source": "accountability_gaps_in_academia",
-    "target": "systemic_inequity_in_higher_education",
-    "weight": 1
-  },
-  {
     "source": "education_funding",
     "target": "faculty_labour",
     "weight": 53
+  },
+  {
+    "source": "science_society",
+    "target": "university_administration",
+    "weight": 9
   },
   {
     "source": "academic_freedom",
@@ -588,11 +588,6 @@
     "source": "faculty_labour",
     "target": "research_activities",
     "weight": 35
-  },
-  {
-    "source": "academic_future_outlook",
-    "target": "research_activities",
-    "weight": 1
   },
   {
     "source": "higher_education_by_region",
@@ -635,14 +630,14 @@
     "weight": 5
   },
   {
-    "source": "ethical_conflicts_in_academia",
-    "target": "teaching_and_learning",
+    "source": "accountability_gaps_in_academia",
+    "target": "systemic_inequity_in_higher_education",
     "weight": 1
   },
   {
-    "source": "science_society",
-    "target": "university_administration",
-    "weight": 9
+    "source": "ethical_conflicts_in_academia",
+    "target": "teaching_and_learning",
+    "weight": 1
   },
   {
     "source": "educational_technology",
@@ -650,9 +645,14 @@
     "weight": 13
   },
   {
-    "source": "higher_education_crisis",
+    "source": "academic_future_outlook",
+    "target": "science_society",
+    "weight": 1
+  },
+  {
+    "source": "academic_future_outlook",
     "target": "research_activities",
-    "weight": 50
+    "weight": 1
   },
   {
     "source": "academic_abuse",
@@ -660,9 +660,9 @@
     "weight": 24
   },
   {
-    "source": "academic_freedom",
-    "target": "accountability_gaps_in_academia",
-    "weight": 1
+    "source": "higher_education_crisis",
+    "target": "research_activities",
+    "weight": 50
   },
   {
     "source": "academic_freedom",
@@ -680,11 +680,6 @@
     "weight": 39
   },
   {
-    "source": "ethical_conflicts_in_academia",
-    "target": "faculty_labour",
-    "weight": 3
-  },
-  {
     "source": "research_activities",
     "target": "university_administration",
     "weight": 27
@@ -695,8 +690,13 @@
     "weight": 15
   },
   {
-    "source": "accountability_gaps_in_academia",
-    "target": "university_accreditation",
+    "source": "ethical_conflicts_in_academia",
+    "target": "faculty_labour",
+    "weight": 3
+  },
+  {
+    "source": "academic_freedom",
+    "target": "accountability_gaps_in_academia",
     "weight": 1
   },
   {
@@ -735,6 +735,16 @@
     "weight": 3
   },
   {
+    "source": "accountability_gaps_in_academia",
+    "target": "university_accreditation",
+    "weight": 1
+  },
+  {
+    "source": "faculty_labour",
+    "target": "politics_in_academia",
+    "weight": 13
+  },
+  {
     "source": "academic_abuse",
     "target": "education_funding",
     "weight": 13
@@ -745,29 +755,14 @@
     "weight": 43
   },
   {
-    "source": "faculty_labour",
-    "target": "politics_in_academia",
-    "weight": 12
-  },
-  {
     "source": "academic_freedom",
     "target": "faculty_labour",
     "weight": 9
   },
   {
-    "source": "politics_in_academia",
-    "target": "teaching_and_learning",
-    "weight": 8
-  },
-  {
     "source": "higher_education_by_region",
     "target": "higher_education_crisis",
     "weight": 1
-  },
-  {
-    "source": "politics_in_academia",
-    "target": "student_experience",
-    "weight": 6
   },
   {
     "source": "student_experience",
@@ -788,11 +783,6 @@
     "source": "higher_education_crisis",
     "target": "university_accreditation",
     "weight": 46
-  },
-  {
-    "source": "academic_abuse",
-    "target": "systemic_inequity_in_higher_education",
-    "weight": 1
   },
   {
     "source": "student_experience",
@@ -818,6 +808,16 @@
     "source": "education_cost",
     "target": "higher_education_by_region",
     "weight": 2
+  },
+  {
+    "source": "politics_in_academia",
+    "target": "teaching_and_learning",
+    "weight": 8
+  },
+  {
+    "source": "academic_abuse",
+    "target": "systemic_inequity_in_higher_education",
+    "weight": 1
   },
   {
     "source": "education_cost",
@@ -848,6 +848,11 @@
     "source": "education_funding",
     "target": "politics_in_academia",
     "weight": 3
+  },
+  {
+    "source": "politics_in_academia",
+    "target": "student_experience",
+    "weight": 6
   },
   {
     "source": "internationalisation_of_academia",
@@ -880,14 +885,14 @@
     "weight": 2
   },
   {
-    "source": "academic_freedom",
-    "target": "education_funding",
-    "weight": 5
-  },
-  {
     "source": "educational_technology",
     "target": "higher_education_crisis",
     "weight": 36
+  },
+  {
+    "source": "academic_freedom",
+    "target": "education_funding",
+    "weight": 5
   },
   {
     "source": "academic_abuse",
@@ -902,16 +907,6 @@
   {
     "source": "internationalisation_of_academia",
     "target": "university_accreditation",
-    "weight": 2
-  },
-  {
-    "source": "accountability_gaps_in_academia",
-    "target": "education_funding",
-    "weight": 2
-  },
-  {
-    "source": "accountability_gaps_in_academia",
-    "target": "education_cost",
     "weight": 2
   },
   {
@@ -933,6 +928,16 @@
     "source": "higher_education_crisis",
     "target": "internationalisation_of_academia",
     "weight": 23
+  },
+  {
+    "source": "accountability_gaps_in_academia",
+    "target": "education_cost",
+    "weight": 2
+  },
+  {
+    "source": "accountability_gaps_in_academia",
+    "target": "education_funding",
+    "weight": 2
   },
   {
     "source": "academic_degradation_signals",
@@ -976,13 +981,13 @@
   },
   {
     "source": "academic_future_outlook",
-    "target": "student_experience",
-    "weight": 5
+    "target": "university_administration",
+    "weight": 6
   },
   {
     "source": "academic_future_outlook",
-    "target": "university_administration",
-    "weight": 6
+    "target": "student_experience",
+    "weight": 5
   },
   {
     "source": "education_cost",

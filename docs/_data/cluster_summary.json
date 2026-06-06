@@ -1,8 +1,8 @@
 [
   {
     "topic": "Higher Education Crisis",
-    "count": 938,
-    "score": 0.4557,
+    "count": 949,
+    "score": 0.4554,
     "topics": [
       "academic collapse",
       "academic model breakdown",
@@ -27,7 +27,7 @@
   },
   {
     "topic": "Teaching And Learning",
-    "count": 806,
+    "count": 822,
     "score": 0.4476,
     "topics": [
       "S. T. E. M. qualification",
@@ -64,8 +64,8 @@
   },
   {
     "topic": "Student Experience",
-    "count": 731,
-    "score": 0.4532,
+    "count": 735,
+    "score": 0.4531,
     "topics": [
       "college experience",
       "mentor-student relationship",
@@ -89,8 +89,8 @@
   },
   {
     "topic": "University Administration",
-    "count": 613,
-    "score": 0.4518,
+    "count": 624,
+    "score": 0.4512,
     "topics": [
       "board of regents",
       "board of trustees",
@@ -116,8 +116,8 @@
   },
   {
     "topic": "Faculty Labour",
-    "count": 521,
-    "score": 0.4508,
+    "count": 533,
+    "score": 0.4502,
     "topics": [
       "adjunct faculty",
       "faculty careers",
@@ -132,17 +132,17 @@
       "unpaid faculty labour"
     ],
     "evidence": {
-      "article_id": "f0933480c53349d30e2c70cfea7b21fb",
+      "article_id": "7c3b36f8ddb1b9497667fbcfc021636d",
       "headline": "When Productivity Goes Too Far: How Faculty Can Find Balance",
-      "url": "https://s39613.pcdn.co/articles/faculty-development/when-productivity-goes-too-far-how-faculty-can-find-balance/",
+      "url": "https://www.facultyfocus.com/articles/faculty-development/when-productivity-goes-too-far-how-faculty-can-find-balance/",
       "topic": "faculty job insecurity",
       "score": 0.6802
     }
   },
   {
     "topic": "Education Funding",
-    "count": 207,
-    "score": 0.4569,
+    "count": 216,
+    "score": 0.4564,
     "topics": [
       "public scholarly funding",
       "scholarly endowments",
@@ -160,8 +160,8 @@
   },
   {
     "topic": "Research Activities",
-    "count": 172,
-    "score": 0.4493,
+    "count": 178,
+    "score": 0.4491,
     "topics": [
       "citation count",
       "empirical research",
@@ -185,7 +185,7 @@
   },
   {
     "topic": "Education Cost",
-    "count": 163,
+    "count": 165,
     "score": 0.4534,
     "topics": [
       "cost barriers",
@@ -210,8 +210,8 @@
   },
   {
     "topic": "Admissions Access In Higher Education",
-    "count": 130,
-    "score": 0.4342,
+    "count": 135,
+    "score": 0.4378,
     "topics": [
       "admissions criteria",
       "admissions selectivity",
@@ -232,12 +232,13 @@
   },
   {
     "topic": "Academic Abuse",
-    "count": 122,
-    "score": 0.4304,
+    "count": 126,
+    "score": 0.4314,
     "topics": [
       "administrative abuse",
       "administrative coercion",
       "arbitrary disciplinary actions",
+      "arbitrary tenure denial",
       "bureaucratic gatekeeping",
       "bureaucratic obstruction",
       "career sabotage",
@@ -265,32 +266,9 @@
     }
   },
   {
-    "topic": "Educational Technology",
-    "count": 101,
-    "score": 0.4636,
-    "topics": [
-      "AI assisted process",
-      "algorithmic assessment",
-      "analytics",
-      "artificial intelligence",
-      "automated grading",
-      "digital tools",
-      "edtech",
-      "emerging technology",
-      "generative AI"
-    ],
-    "evidence": {
-      "article_id": "7e719542cf5b9096ea8dced03c492f7c",
-      "headline": "Artificial Intelligence, Mass Surveillance, and the Quiet Reengineering of Higher Education",
-      "url": "https://www.highereducationinquirer.org/2026/01/artificial-intelligence-mass.html",
-      "topic": "artificial intelligence",
-      "score": 0.6237
-    }
-  },
-  {
     "topic": "University Accreditation",
-    "count": 99,
-    "score": 0.447,
+    "count": 112,
+    "score": 0.4447,
     "topics": [
       "accreditation body",
       "accreditation compliance",
@@ -314,12 +292,13 @@
   },
   {
     "topic": "Politics In Academia",
-    "count": 96,
-    "score": 0.4418,
+    "count": 111,
+    "score": 0.4416,
     "topics": [
       "alliances",
       "armed dispute",
       "authoritarianism",
+      "civil unrest",
       "democracy",
       "diplomacy",
       "economic warfare",
@@ -340,17 +319,40 @@
       "war"
     ],
     "evidence": {
-      "article_id": "130525cb1a94cfa4f4f765eee9caa692",
-      "headline": "ANVUR, la grande finzione: quindici anni di “indipendenza” al servizio dei partiti",
-      "url": "https://www.roars.it/anvur-la-grande-finzione-quindici-anni-di-indipendenza-al-servizio-dei-partiti/",
-      "topic": "authoritarianism",
-      "score": 0.5466
+      "article_id": "8139a8c265d1f570b815678acecc60ec",
+      "headline": "Attempts to sneak in political interests using Governor’s powers will be resisted, says Minister Roji M. John",
+      "url": "https://www.thehindu.com/news/national/kerala/attempts-to-sneak-in-political-interests-using-governors-powers-will-be-resisted-says-minister-roji-m-john/article71069861.ece",
+      "topic": "political repression",
+      "score": 0.5533
+    }
+  },
+  {
+    "topic": "Educational Technology",
+    "count": 101,
+    "score": 0.4636,
+    "topics": [
+      "AI assisted process",
+      "algorithmic assessment",
+      "analytics",
+      "artificial intelligence",
+      "automated grading",
+      "digital tools",
+      "edtech",
+      "emerging technology",
+      "generative AI"
+    ],
+    "evidence": {
+      "article_id": "7e719542cf5b9096ea8dced03c492f7c",
+      "headline": "Artificial Intelligence, Mass Surveillance, and the Quiet Reengineering of Higher Education",
+      "url": "https://www.highereducationinquirer.org/2026/01/artificial-intelligence-mass.html",
+      "topic": "artificial intelligence",
+      "score": 0.6237
     }
   },
   {
     "topic": "Academic Degradation Signals",
-    "count": 87,
-    "score": 0.4383,
+    "count": 88,
+    "score": 0.4389,
     "topics": [
       "credential inflation",
       "deteriorating outcomes",
@@ -375,8 +377,8 @@
   },
   {
     "topic": "Science Society",
-    "count": 77,
-    "score": 0.4367,
+    "count": 80,
+    "score": 0.4369,
     "topics": [
       "contested scientific claims",
       "evidence-based reasoning",
@@ -398,29 +400,9 @@
     }
   },
   {
-    "topic": "Academic Freedom",
-    "count": 58,
-    "score": 0.4452,
-    "topics": [
-      "censorship",
-      "freedom of expression",
-      "freedom of opinion",
-      "freedom of speech",
-      "intellectual autonomy",
-      "thought independence"
-    ],
-    "evidence": {
-      "article_id": "3e2aec15154a4e9a16c4eeeea29216eb",
-      "headline": "Chilling effects of Trump’s war on free speech extend far beyond campus walls – and that’s the point",
-      "url": "https://theconversation.com/chilling-effects-of-trumps-war-on-free-speech-extend-far-beyond-campus-walls-and-thats-the-point-283113",
-      "topic": "freedom of speech",
-      "score": 0.5703
-    }
-  },
-  {
     "topic": "Higher Education By Region",
-    "count": 58,
-    "score": 0.4466,
+    "count": 63,
+    "score": 0.4464,
     "topics": [
       "argentina",
       "asia",
@@ -456,9 +438,29 @@
     }
   },
   {
+    "topic": "Academic Freedom",
+    "count": 59,
+    "score": 0.4452,
+    "topics": [
+      "censorship",
+      "freedom of expression",
+      "freedom of opinion",
+      "freedom of speech",
+      "intellectual autonomy",
+      "thought independence"
+    ],
+    "evidence": {
+      "article_id": "3e2aec15154a4e9a16c4eeeea29216eb",
+      "headline": "Chilling effects of Trump’s war on free speech extend far beyond campus walls – and that’s the point",
+      "url": "https://theconversation.com/chilling-effects-of-trumps-war-on-free-speech-extend-far-beyond-campus-walls-and-thats-the-point-283113",
+      "topic": "freedom of speech",
+      "score": 0.5703
+    }
+  },
+  {
     "topic": "Internationalisation Of Academia",
-    "count": 57,
-    "score": 0.4739,
+    "count": 59,
+    "score": 0.4733,
     "topics": [
       "cross-border experience",
       "global experience",
@@ -478,8 +480,8 @@
   },
   {
     "topic": "Systemic Inequity In Higher Education",
-    "count": 55,
-    "score": 0.4524,
+    "count": 56,
+    "score": 0.4515,
     "topics": [
       "accessibility equity",
       "bullying",
@@ -505,8 +507,8 @@
   },
   {
     "topic": "Accountability Gaps In Academia",
-    "count": 40,
-    "score": 0.4298,
+    "count": 44,
+    "score": 0.43,
     "topics": [
       "abuse of office",
       "conflict of interest",
@@ -518,17 +520,17 @@
       "weak oversight"
     ],
     "evidence": {
-      "article_id": "9f59a8d727d0f24569723d8294ea62c8",
-      "headline": "La scuola dei talenti: per i poveri soft skills, filiera e sane regole di vita militare",
-      "url": "https://www.roars.it/la-scuola-dei-talenti-per-i-poveri-soft-skills-filiera-e-sane-regole-di-vita-militare/",
+      "article_id": "130525cb1a94cfa4f4f765eee9caa692",
+      "headline": "ANVUR, la grande finzione: quindici anni di “indipendenza” al servizio dei partiti",
+      "url": "https://www.roars.it/anvur-la-grande-finzione-quindici-anni-di-indipendenza-al-servizio-dei-partiti/",
       "topic": "elite impunity",
-      "score": 0.4949
+      "score": 0.4952
     }
   },
   {
     "topic": "Sustainability Climate In Academia",
-    "count": 38,
-    "score": 0.4681,
+    "count": 39,
+    "score": 0.4689,
     "topics": [
       "carbon neutrality",
       "climate change",
@@ -546,8 +548,8 @@
   },
   {
     "topic": "Financial Constraints In Academia",
-    "count": 28,
-    "score": 0.4376,
+    "count": 30,
+    "score": 0.4377,
     "topics": [
       "austerity",
       "budget constraints",
@@ -566,8 +568,8 @@
   },
   {
     "topic": "Academic Future Outlook",
-    "count": 25,
-    "score": 0.4336,
+    "count": 27,
+    "score": 0.4326,
     "topics": [
       "future planning",
       "morale",
@@ -584,8 +586,8 @@
   },
   {
     "topic": "Ethical Conflicts In Academia",
-    "count": 17,
-    "score": 0.4301,
+    "count": 18,
+    "score": 0.4285,
     "topics": [
       "accountability gaps",
       "corporate interests",

@@ -3,7 +3,7 @@
     "source": "postgraduate pathway",
     "target": "scholarly endowments",
     "co_occurrence": 3,
-    "pmi": 1.0,
+    "pmi": 1.415,
     "source_cluster": "teaching_and_learning",
     "target_cluster": "education_funding"
   },
@@ -11,7 +11,7 @@
     "source": "postgraduate pathway",
     "target": "scholarly funding",
     "co_occurrence": 3,
-    "pmi": 1.0,
+    "pmi": 1.415,
     "source_cluster": "teaching_and_learning",
     "target_cluster": "education_funding"
   },
@@ -19,7 +19,7 @@
     "source": "empirical research",
     "target": "latin america",
     "co_occurrence": 3,
-    "pmi": 1.0,
+    "pmi": 1.415,
     "source_cluster": "research_activities",
     "target_cluster": "higher_education_by_region"
   },
@@ -27,7 +27,7 @@
     "source": "adjunct faculty",
     "target": "postgraduate pathway",
     "co_occurrence": 3,
-    "pmi": 0.585,
+    "pmi": 1.0,
     "source_cluster": "faculty_labour",
     "target_cluster": "teaching_and_learning"
   },
@@ -35,7 +35,7 @@
     "source": "adjunct faculty",
     "target": "scholarly endowments",
     "co_occurrence": 3,
-    "pmi": 0.585,
+    "pmi": 1.0,
     "source_cluster": "faculty_labour",
     "target_cluster": "education_funding"
   },
@@ -43,7 +43,7 @@
     "source": "adjunct faculty",
     "target": "scholarly funding",
     "co_occurrence": 3,
-    "pmi": 0.585,
+    "pmi": 1.0,
     "source_cluster": "faculty_labour",
     "target_cluster": "education_funding"
   },
@@ -51,7 +51,7 @@
     "source": "adjunct faculty",
     "target": "empirical research",
     "co_occurrence": 3,
-    "pmi": 0.585,
+    "pmi": 1.0,
     "source_cluster": "faculty_labour",
     "target_cluster": "research_activities"
   },
@@ -59,7 +59,7 @@
     "source": "adjunct faculty",
     "target": "latin america",
     "co_occurrence": 3,
-    "pmi": 0.585,
+    "pmi": 1.0,
     "source_cluster": "faculty_labour",
     "target_cluster": "higher_education_by_region"
   }

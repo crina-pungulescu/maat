@@ -665,6 +665,11 @@
     "weight": 2
   },
   {
+    "source": "legitimacy crisis",
+    "target": "political interference",
+    "weight": 2
+  },
+  {
     "source": "academic model breakdown",
     "target": "adjunct faculty",
     "weight": 2
@@ -857,6 +862,61 @@
   {
     "source": "university policy",
     "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "civil unrest",
+    "target": "uprising",
+    "weight": 2
+  },
+  {
+    "source": "authoritarianism",
+    "target": "education crisis",
+    "weight": 2
+  },
+  {
+    "source": "authoritarianism",
+    "target": "educational instability",
+    "weight": 2
+  },
+  {
+    "source": "authoritarianism",
+    "target": "political repression",
+    "weight": 2
+  },
+  {
+    "source": "authoritarianism",
+    "target": "suppressing dissent",
+    "weight": 2
+  },
+  {
+    "source": "education crisis",
+    "target": "educational instability",
+    "weight": 2
+  },
+  {
+    "source": "education crisis",
+    "target": "political repression",
+    "weight": 2
+  },
+  {
+    "source": "education crisis",
+    "target": "suppressing dissent",
+    "weight": 2
+  },
+  {
+    "source": "educational instability",
+    "target": "political repression",
+    "weight": 2
+  },
+  {
+    "source": "educational instability",
+    "target": "suppressing dissent",
+    "weight": 2
+  },
+  {
+    "source": "political repression",
+    "target": "suppressing dissent",
     "weight": 2
   },
   {
@@ -2875,11 +2935,6 @@
     "weight": 1
   },
   {
-    "source": "legitimacy crisis",
-    "target": "political interference",
-    "weight": 1
-  },
-  {
     "source": "academic model breakdown",
     "target": "climate change",
     "weight": 1
@@ -3512,11 +3567,6 @@
   {
     "source": "civil unrest",
     "target": "university senate",
-    "weight": 1
-  },
-  {
-    "source": "civil unrest",
-    "target": "uprising",
     "weight": 1
   },
   {
@@ -5397,6 +5447,1156 @@
   {
     "source": "university administrators",
     "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "civil unrest",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "uprising",
+    "weight": 1
+  },
+  {
+    "source": "civil unrest",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "civil unrest",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "civil unrest",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "civil unrest",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "uprising",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "uprising",
+    "weight": 1
+  },
+  {
+    "source": "political repression",
+    "target": "uprising",
+    "weight": 1
+  },
+  {
+    "source": "suppressing dissent",
+    "target": "uprising",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary tenure denial",
+    "target": "authoritarianism",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary tenure denial",
+    "target": "bureaucratic obstruction",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary tenure denial",
+    "target": "democracy",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary tenure denial",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary tenure denial",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary tenure denial",
+    "target": "elite impunity",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary tenure denial",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary tenure denial",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary tenure denial",
+    "target": "institutional governance",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary tenure denial",
+    "target": "lack of oversight",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary tenure denial",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary tenure denial",
+    "target": "pessimism",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary tenure denial",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary tenure denial",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary tenure denial",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary tenure denial",
+    "target": "populism",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary tenure denial",
+    "target": "sovereignty",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary tenure denial",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary tenure denial",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary tenure denial",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary tenure denial",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "bureaucratic obstruction",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "democracy",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "elite impunity",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "institutional governance",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "lack of oversight",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "pessimism",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "populism",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "sovereignty",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "democracy",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "elite impunity",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "institutional governance",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "lack of oversight",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "pessimism",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "populism",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "sovereignty",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "democracy",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "democracy",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "democracy",
+    "target": "elite impunity",
+    "weight": 1
+  },
+  {
+    "source": "democracy",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "democracy",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "democracy",
+    "target": "institutional governance",
+    "weight": 1
+  },
+  {
+    "source": "democracy",
+    "target": "lack of oversight",
+    "weight": 1
+  },
+  {
+    "source": "democracy",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "democracy",
+    "target": "pessimism",
+    "weight": 1
+  },
+  {
+    "source": "democracy",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "democracy",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "democracy",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "democracy",
+    "target": "populism",
+    "weight": 1
+  },
+  {
+    "source": "democracy",
+    "target": "sovereignty",
+    "weight": 1
+  },
+  {
+    "source": "democracy",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "democracy",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "democracy",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "democracy",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "elite impunity",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "institutional governance",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "lack of oversight",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "pessimism",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "populism",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "sovereignty",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "elite impunity",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "institutional governance",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "lack of oversight",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "pessimism",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "populism",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "sovereignty",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "institutional governance",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "lack of oversight",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "pessimism",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "populism",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "sovereignty",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "institutional governance",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "lack of oversight",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "pessimism",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "populism",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "sovereignty",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "institutional governance",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "lack of oversight",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "pessimism",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "populism",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "sovereignty",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "lack of oversight",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "pessimism",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "populism",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "sovereignty",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "lack of oversight",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "lack of oversight",
+    "target": "pessimism",
+    "weight": 1
+  },
+  {
+    "source": "lack of oversight",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "lack of oversight",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "lack of oversight",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "lack of oversight",
+    "target": "populism",
+    "weight": 1
+  },
+  {
+    "source": "lack of oversight",
+    "target": "sovereignty",
+    "weight": 1
+  },
+  {
+    "source": "lack of oversight",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "lack of oversight",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "lack of oversight",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "lack of oversight",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "pessimism",
+    "weight": 1
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "populism",
+    "weight": 1
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "sovereignty",
+    "weight": 1
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "pessimism",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "pessimism",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "pessimism",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "pessimism",
+    "target": "populism",
+    "weight": 1
+  },
+  {
+    "source": "pessimism",
+    "target": "sovereignty",
+    "weight": 1
+  },
+  {
+    "source": "pessimism",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "pessimism",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "pessimism",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "pessimism",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "political interference",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "political interference",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "political interference",
+    "target": "populism",
+    "weight": 1
+  },
+  {
+    "source": "political interference",
+    "target": "sovereignty",
+    "weight": 1
+  },
+  {
+    "source": "political interference",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "political interference",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "political interference",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "political interference",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "political repression",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "political repression",
+    "target": "populism",
+    "weight": 1
+  },
+  {
+    "source": "political repression",
+    "target": "sovereignty",
+    "weight": 1
+  },
+  {
+    "source": "political repression",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "political repression",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "political repression",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "politicisation of science",
+    "target": "populism",
+    "weight": 1
+  },
+  {
+    "source": "politicisation of science",
+    "target": "sovereignty",
+    "weight": 1
+  },
+  {
+    "source": "politicisation of science",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "politicisation of science",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "politicisation of science",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "politicisation of science",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "populism",
+    "target": "sovereignty",
+    "weight": 1
+  },
+  {
+    "source": "populism",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "populism",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "populism",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "populism",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "sovereignty",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "sovereignty",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "sovereignty",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "sovereignty",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "suppressing dissent",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "suppressing dissent",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "suppressing dissent",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "unchecked authority",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "unchecked authority",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "university policy",
+    "target": "weak oversight",
     "weight": 1
   }
 ]

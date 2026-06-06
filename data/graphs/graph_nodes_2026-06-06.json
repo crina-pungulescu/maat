@@ -351,18 +351,20 @@
   {
     "id": "legitimacy crisis",
     "label": "Legitimacy Crisis",
-    "weight": 1,
-    "avg_score": 0.4173,
+    "weight": 2,
+    "avg_score": 0.4483,
     "article_ids": [
+      "8139a8c265d1f570b815678acecc60ec",
       "da70e1fb8ed6b4043d2e3102d3d26a85"
     ]
   },
   {
     "id": "political interference",
     "label": "Political Interference",
-    "weight": 1,
-    "avg_score": 0.452,
+    "weight": 2,
+    "avg_score": 0.4765,
     "article_ids": [
+      "8139a8c265d1f570b815678acecc60ec",
       "da70e1fb8ed6b4043d2e3102d3d26a85"
     ]
   },
@@ -400,10 +402,11 @@
   {
     "id": "university policy",
     "label": "University Policy",
-    "weight": 2,
-    "avg_score": 0.4127,
+    "weight": 3,
+    "avg_score": 0.4116,
     "article_ids": [
       "4e169015d531b3353846a510f899013a",
+      "8139a8c265d1f570b815678acecc60ec",
       "dd1b85456f0c21508fd116777763c559"
     ]
   },
@@ -514,19 +517,21 @@
   {
     "id": "civil unrest",
     "label": "Civil Unrest",
-    "weight": 1,
-    "avg_score": 0.4489,
+    "weight": 2,
+    "avg_score": 0.4398,
     "article_ids": [
-      "4e169015d531b3353846a510f899013a"
+      "4e169015d531b3353846a510f899013a",
+      "97ad63b317ccf84dbe42e063e1455082"
     ]
   },
   {
     "id": "uprising",
     "label": "Uprising",
-    "weight": 1,
-    "avg_score": 0.4214,
+    "weight": 2,
+    "avg_score": 0.4299,
     "article_ids": [
-      "4e169015d531b3353846a510f899013a"
+      "4e169015d531b3353846a510f899013a",
+      "97ad63b317ccf84dbe42e063e1455082"
     ]
   },
   {
@@ -635,6 +640,182 @@
     "avg_score": 0.4555,
     "article_ids": [
       "b05f98e423625d047e9c30ee1056c513"
+    ]
+  },
+  {
+    "id": "education crisis",
+    "label": "Education Crisis",
+    "weight": 2,
+    "avg_score": 0.4483,
+    "article_ids": [
+      "8139a8c265d1f570b815678acecc60ec",
+      "97ad63b317ccf84dbe42e063e1455082"
+    ]
+  },
+  {
+    "id": "educational instability",
+    "label": "Educational Instability",
+    "weight": 2,
+    "avg_score": 0.4488,
+    "article_ids": [
+      "8139a8c265d1f570b815678acecc60ec",
+      "97ad63b317ccf84dbe42e063e1455082"
+    ]
+  },
+  {
+    "id": "suppressing dissent",
+    "label": "Suppressing Dissent",
+    "weight": 2,
+    "avg_score": 0.4716,
+    "article_ids": [
+      "8139a8c265d1f570b815678acecc60ec",
+      "97ad63b317ccf84dbe42e063e1455082"
+    ]
+  },
+  {
+    "id": "authoritarianism",
+    "label": "Authoritarianism",
+    "weight": 2,
+    "avg_score": 0.4709,
+    "article_ids": [
+      "8139a8c265d1f570b815678acecc60ec",
+      "97ad63b317ccf84dbe42e063e1455082"
+    ]
+  },
+  {
+    "id": "political repression",
+    "label": "Political Repression",
+    "weight": 2,
+    "avg_score": 0.4773,
+    "article_ids": [
+      "8139a8c265d1f570b815678acecc60ec",
+      "97ad63b317ccf84dbe42e063e1455082"
+    ]
+  },
+  {
+    "id": "institutional governance",
+    "label": "Institutional Governance",
+    "weight": 1,
+    "avg_score": 0.4231,
+    "article_ids": [
+      "8139a8c265d1f570b815678acecc60ec"
+    ]
+  },
+  {
+    "id": "faculty job insecurity",
+    "label": "Faculty Job Insecurity",
+    "weight": 1,
+    "avg_score": 0.4199,
+    "article_ids": [
+      "8139a8c265d1f570b815678acecc60ec"
+    ]
+  },
+  {
+    "id": "weak oversight",
+    "label": "Weak Oversight",
+    "weight": 1,
+    "avg_score": 0.4257,
+    "article_ids": [
+      "8139a8c265d1f570b815678acecc60ec"
+    ]
+  },
+  {
+    "id": "elite impunity",
+    "label": "Elite Impunity",
+    "weight": 1,
+    "avg_score": 0.4388,
+    "article_ids": [
+      "8139a8c265d1f570b815678acecc60ec"
+    ]
+  },
+  {
+    "id": "lack of oversight",
+    "label": "Lack Of Oversight",
+    "weight": 1,
+    "avg_score": 0.4121,
+    "article_ids": [
+      "8139a8c265d1f570b815678acecc60ec"
+    ]
+  },
+  {
+    "id": "unchecked authority",
+    "label": "Unchecked Authority",
+    "weight": 1,
+    "avg_score": 0.4242,
+    "article_ids": [
+      "8139a8c265d1f570b815678acecc60ec"
+    ]
+  },
+  {
+    "id": "bureaucratic obstruction",
+    "label": "Bureaucratic Obstruction",
+    "weight": 1,
+    "avg_score": 0.4803,
+    "article_ids": [
+      "8139a8c265d1f570b815678acecc60ec"
+    ]
+  },
+  {
+    "id": "arbitrary tenure denial",
+    "label": "Arbitrary Tenure Denial",
+    "weight": 1,
+    "avg_score": 0.4454,
+    "article_ids": [
+      "8139a8c265d1f570b815678acecc60ec"
+    ]
+  },
+  {
+    "id": "democracy",
+    "label": "Democracy",
+    "weight": 1,
+    "avg_score": 0.4061,
+    "article_ids": [
+      "8139a8c265d1f570b815678acecc60ec"
+    ]
+  },
+  {
+    "id": "illiberal democracy",
+    "label": "Illiberal Democracy",
+    "weight": 1,
+    "avg_score": 0.4161,
+    "article_ids": [
+      "8139a8c265d1f570b815678acecc60ec"
+    ]
+  },
+  {
+    "id": "populism",
+    "label": "Populism",
+    "weight": 1,
+    "avg_score": 0.4354,
+    "article_ids": [
+      "8139a8c265d1f570b815678acecc60ec"
+    ]
+  },
+  {
+    "id": "sovereignty",
+    "label": "Sovereignty",
+    "weight": 1,
+    "avg_score": 0.4045,
+    "article_ids": [
+      "8139a8c265d1f570b815678acecc60ec"
+    ]
+  },
+  {
+    "id": "politicisation of science",
+    "label": "Politicisation Of Science",
+    "weight": 1,
+    "avg_score": 0.4037,
+    "article_ids": [
+      "8139a8c265d1f570b815678acecc60ec"
+    ]
+  },
+  {
+    "id": "pessimism",
+    "label": "Pessimism",
+    "weight": 1,
+    "avg_score": 0.4424,
+    "article_ids": [
+      "8139a8c265d1f570b815678acecc60ec"
     ]
   }
 ]

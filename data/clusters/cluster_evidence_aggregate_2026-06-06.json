@@ -1,7 +1,7 @@
 [
   {
     "cluster": "Higher Education Crisis",
-    "count": 944,
+    "count": 949,
     "evidence": {
       "article_id": "4c2fc7f65a637ed73662ed28a8f34258",
       "headline": "The Expanding Crisis in U.S. Higher Education: OPMs, Student Loan Servicers, Deregulation, Robocolleges, AI, and the Collapse of Accountability",
@@ -34,7 +34,7 @@
   },
   {
     "cluster": "University Administration",
-    "count": 622,
+    "count": 624,
     "evidence": {
       "article_id": "349a314246434fb5561c3a39f87c7e53",
       "headline": "Issues of Institutional Governance in Partnerships",
@@ -45,7 +45,7 @@
   },
   {
     "cluster": "Faculty Labour",
-    "count": 532,
+    "count": 533,
     "evidence": {
       "article_id": "7c3b36f8ddb1b9497667fbcfc021636d",
       "headline": "When Productivity Goes Too Far: How Faculty Can Find Balance",
@@ -100,7 +100,7 @@
   },
   {
     "cluster": "Academic Abuse",
-    "count": 122,
+    "count": 126,
     "evidence": {
       "article_id": "1d9c48e1bdc75c3e19762839dabaed93",
       "headline": "L’AI è programmata per piacerci. Ecco il prezzo che paghiamo",
@@ -121,6 +121,17 @@
     }
   },
   {
+    "cluster": "Politics In Academia",
+    "count": 111,
+    "evidence": {
+      "article_id": "8139a8c265d1f570b815678acecc60ec",
+      "headline": "Attempts to sneak in political interests using Governor’s powers will be resisted, says Minister Roji M. John",
+      "url": "https://www.thehindu.com/news/national/kerala/attempts-to-sneak-in-political-interests-using-governors-powers-will-be-resisted-says-minister-roji-m-john/article71069861.ece",
+      "topic": "political repression",
+      "score": 0.5533
+    }
+  },
+  {
     "cluster": "Educational Technology",
     "count": 101,
     "evidence": {
@@ -129,17 +140,6 @@
       "url": "https://www.highereducationinquirer.org/2026/01/artificial-intelligence-mass.html",
       "topic": "artificial intelligence",
       "score": 0.6237
-    }
-  },
-  {
-    "cluster": "Politics In Academia",
-    "count": 100,
-    "evidence": {
-      "article_id": "130525cb1a94cfa4f4f765eee9caa692",
-      "headline": "ANVUR, la grande finzione: quindici anni di “indipendenza” al servizio dei partiti",
-      "url": "https://www.roars.it/anvur-la-grande-finzione-quindici-anni-di-indipendenza-al-servizio-dei-partiti/",
-      "topic": "authoritarianism",
-      "score": 0.5466
     }
   },
   {
@@ -155,7 +155,7 @@
   },
   {
     "cluster": "Science Society",
-    "count": 79,
+    "count": 80,
     "evidence": {
       "article_id": "53c28573410f8f00d032db6481c58f6b",
       "headline": "Tecnologie del futuro, industria del presente: la difficile arte di scegliere cosa è pronto",
@@ -210,13 +210,13 @@
   },
   {
     "cluster": "Accountability Gaps In Academia",
-    "count": 40,
+    "count": 44,
     "evidence": {
-      "article_id": "9f59a8d727d0f24569723d8294ea62c8",
-      "headline": "La scuola dei talenti: per i poveri soft skills, filiera e sane regole di vita militare",
-      "url": "https://www.roars.it/la-scuola-dei-talenti-per-i-poveri-soft-skills-filiera-e-sane-regole-di-vita-militare/",
+      "article_id": "130525cb1a94cfa4f4f765eee9caa692",
+      "headline": "ANVUR, la grande finzione: quindici anni di “indipendenza” al servizio dei partiti",
+      "url": "https://www.roars.it/anvur-la-grande-finzione-quindici-anni-di-indipendenza-al-servizio-dei-partiti/",
       "topic": "elite impunity",
-      "score": 0.4949
+      "score": 0.4952
     }
   },
   {
@@ -243,7 +243,7 @@
   },
   {
     "cluster": "Academic Future Outlook",
-    "count": 26,
+    "count": 27,
     "evidence": {
       "article_id": "8da039d79cbe056c1151ab7c69fbc9e1",
       "headline": "Money, Mission and Culture: Strategic Planning for Colleges Under Pressure",

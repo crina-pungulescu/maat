@@ -17,6 +17,23 @@
     ]
   },
   {
+    "topic": "Politics In Academia",
+    "count": 15,
+    "score": 0.4377,
+    "topics": [
+      "authoritarianism",
+      "civil unrest",
+      "democracy",
+      "geopolitics",
+      "illiberal democracy",
+      "political interference",
+      "political repression",
+      "populism",
+      "sovereignty",
+      "uprising"
+    ]
+  },
+  {
     "topic": "University Accreditation",
     "count": 13,
     "score": 0.4407,
@@ -32,15 +49,44 @@
   },
   {
     "topic": "Faculty Labour",
-    "count": 11,
-    "score": 0.4248,
+    "count": 12,
+    "score": 0.4241,
     "topics": [
       "adjunct faculty",
       "faculty careers",
       "faculty contracts",
+      "faculty job insecurity",
       "faculty precarity",
       "faculty redundancy",
       "faculty unemployment"
+    ]
+  },
+  {
+    "topic": "Higher Education Crisis",
+    "count": 11,
+    "score": 0.4357,
+    "topics": [
+      "academic model breakdown",
+      "decline of academia",
+      "education crisis",
+      "educational instability",
+      "higher education crisis",
+      "legitimacy crisis"
+    ]
+  },
+  {
+    "topic": "University Administration",
+    "count": 11,
+    "score": 0.4307,
+    "topics": [
+      "institutional governance",
+      "institutional partnerships",
+      "university administrators",
+      "university bylaws",
+      "university leadership",
+      "university policy",
+      "university reform",
+      "university senate"
     ]
   },
   {
@@ -55,20 +101,6 @@
     ]
   },
   {
-    "topic": "University Administration",
-    "count": 9,
-    "score": 0.432,
-    "topics": [
-      "institutional partnerships",
-      "university administrators",
-      "university bylaws",
-      "university leadership",
-      "university policy",
-      "university reform",
-      "university senate"
-    ]
-  },
-  {
     "topic": "Research Activities",
     "count": 6,
     "score": 0.4376,
@@ -76,17 +108,6 @@
       "empirical research",
       "research collaboration",
       "research productivity"
-    ]
-  },
-  {
-    "topic": "Higher Education Crisis",
-    "count": 6,
-    "score": 0.4215,
-    "topics": [
-      "academic model breakdown",
-      "decline of academia",
-      "higher education crisis",
-      "legitimacy crisis"
     ]
   },
   {
@@ -112,6 +133,18 @@
     ]
   },
   {
+    "topic": "Ethical Conflicts In Academia",
+    "count": 5,
+    "score": 0.4203,
+    "topics": [
+      "elite impunity",
+      "knowledge commodification",
+      "lack of oversight",
+      "unchecked authority",
+      "weak oversight"
+    ]
+  },
+  {
     "topic": "Student Experience",
     "count": 4,
     "score": 0.4271,
@@ -122,14 +155,22 @@
     ]
   },
   {
-    "topic": "Politics In Academia",
+    "topic": "Academic Abuse",
     "count": 4,
-    "score": 0.4358,
+    "score": 0.4658,
     "topics": [
-      "civil unrest",
-      "geopolitics",
-      "political interference",
-      "uprising"
+      "arbitrary tenure denial",
+      "bureaucratic obstruction",
+      "suppressing dissent"
+    ]
+  },
+  {
+    "topic": "Science Society",
+    "count": 3,
+    "score": 0.43,
+    "topics": [
+      "politicisation of science",
+      "scientific expertise"
     ]
   },
   {
@@ -138,6 +179,15 @@
     "score": 0.4256,
     "topics": [
       "austerity"
+    ]
+  },
+  {
+    "topic": "Academic Future Outlook",
+    "count": 2,
+    "score": 0.4213,
+    "topics": [
+      "future planning",
+      "pessimism"
     ]
   },
   {
@@ -158,27 +208,11 @@
     ]
   },
   {
-    "topic": "Science Society",
-    "count": 2,
-    "score": 0.4563,
-    "topics": [
-      "scientific expertise"
-    ]
-  },
-  {
     "topic": "Academic Degradation Signals",
     "count": 1,
     "score": 0.4926,
     "topics": [
       "opportunistic growth"
-    ]
-  },
-  {
-    "topic": "Academic Future Outlook",
-    "count": 1,
-    "score": 0.4001,
-    "topics": [
-      "future planning"
     ]
   },
   {
@@ -195,14 +229,6 @@
     "score": 0.4289,
     "topics": [
       "racism"
-    ]
-  },
-  {
-    "topic": "Ethical Conflicts In Academia",
-    "count": 1,
-    "score": 0.4006,
-    "topics": [
-      "knowledge commodification"
     ]
   },
   {
