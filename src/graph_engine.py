@@ -168,13 +168,18 @@ def build_topic_hub_svg(npmi_edges, topic_cluster_map, nodes, date_str):
 
 
 def load_all_matrices():
+
     paths = sorted(Path("data/topics").glob("topic_matrix_*.json"))
 
-    all_articles = []
-    for p in paths:
-        all_articles.extend(load_matrix(p))
+    article_map = {}
 
-    return all_articles
+    for p in paths:
+
+        for article in load_matrix(p):
+
+            article_map[article["article_id"]] = article
+
+    return list(article_map.values())
 
 def run_aggregate():
 
