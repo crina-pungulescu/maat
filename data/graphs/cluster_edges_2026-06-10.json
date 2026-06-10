@@ -1,0 +1,232 @@
+[
+  {
+    "source": "faculty_labour",
+    "target": "university_administration",
+    "weight": 33
+  },
+  {
+    "source": "university_accreditation",
+    "target": "university_administration",
+    "weight": 3
+  },
+  {
+    "source": "higher_education_by_region",
+    "target": "internationalisation_of_academia",
+    "weight": 1
+  },
+  {
+    "source": "student_experience",
+    "target": "teaching_and_learning",
+    "weight": 25
+  },
+  {
+    "source": "education_cost",
+    "target": "education_funding",
+    "weight": 3
+  },
+  {
+    "source": "education_funding",
+    "target": "university_administration",
+    "weight": 8
+  },
+  {
+    "source": "education_cost",
+    "target": "internationalisation_of_academia",
+    "weight": 1
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "university_administration",
+    "weight": 28
+  },
+  {
+    "source": "higher_education_by_region",
+    "target": "university_accreditation",
+    "weight": 1
+  },
+  {
+    "source": "education_cost",
+    "target": "university_administration",
+    "weight": 4
+  },
+  {
+    "source": "teaching_and_learning",
+    "target": "university_accreditation",
+    "weight": 4
+  },
+  {
+    "source": "faculty_labour",
+    "target": "higher_education_crisis",
+    "weight": 45
+  },
+  {
+    "source": "faculty_labour",
+    "target": "teaching_and_learning",
+    "weight": 31
+  },
+  {
+    "source": "faculty_labour",
+    "target": "student_experience",
+    "weight": 31
+  },
+  {
+    "source": "education_funding",
+    "target": "faculty_labour",
+    "weight": 6
+  },
+  {
+    "source": "education_cost",
+    "target": "faculty_labour",
+    "weight": 4
+  },
+  {
+    "source": "education_funding",
+    "target": "university_accreditation",
+    "weight": 1
+  },
+  {
+    "source": "education_cost",
+    "target": "university_accreditation",
+    "weight": 1
+  },
+  {
+    "source": "education_funding",
+    "target": "higher_education_by_region",
+    "weight": 1
+  },
+  {
+    "source": "education_cost",
+    "target": "higher_education_by_region",
+    "weight": 1
+  },
+  {
+    "source": "higher_education_by_region",
+    "target": "teaching_and_learning",
+    "weight": 4
+  },
+  {
+    "source": "education_funding",
+    "target": "teaching_and_learning",
+    "weight": 5
+  },
+  {
+    "source": "education_cost",
+    "target": "teaching_and_learning",
+    "weight": 3
+  },
+  {
+    "source": "teaching_and_learning",
+    "target": "university_administration",
+    "weight": 24
+  },
+  {
+    "source": "admissions_access_in_higher_education",
+    "target": "teaching_and_learning",
+    "weight": 1
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "student_experience",
+    "weight": 31
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "teaching_and_learning",
+    "weight": 29
+  },
+  {
+    "source": "student_experience",
+    "target": "university_administration",
+    "weight": 18
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "politics_in_academia",
+    "weight": 2
+  },
+  {
+    "source": "internationalisation_of_academia",
+    "target": "university_administration",
+    "weight": 3
+  },
+  {
+    "source": "higher_education_by_region",
+    "target": "university_administration",
+    "weight": 3
+  },
+  {
+    "source": "internationalisation_of_academia",
+    "target": "teaching_and_learning",
+    "weight": 1
+  },
+  {
+    "source": "faculty_labour",
+    "target": "university_accreditation",
+    "weight": 3
+  },
+  {
+    "source": "faculty_labour",
+    "target": "higher_education_by_region",
+    "weight": 2
+  },
+  {
+    "source": "education_cost",
+    "target": "higher_education_crisis",
+    "weight": 2
+  },
+  {
+    "source": "education_funding",
+    "target": "higher_education_crisis",
+    "weight": 4
+  },
+  {
+    "source": "education_funding",
+    "target": "student_experience",
+    "weight": 6
+  },
+  {
+    "source": "education_cost",
+    "target": "student_experience",
+    "weight": 2
+  },
+  {
+    "source": "politics_in_academia",
+    "target": "university_administration",
+    "weight": 4
+  },
+  {
+    "source": "faculty_labour",
+    "target": "internationalisation_of_academia",
+    "weight": 1
+  },
+  {
+    "source": "student_experience",
+    "target": "university_accreditation",
+    "weight": 2
+  },
+  {
+    "source": "higher_education_by_region",
+    "target": "student_experience",
+    "weight": 2
+  },
+  {
+    "source": "admissions_access_in_higher_education",
+    "target": "faculty_labour",
+    "weight": 1
+  },
+  {
+    "source": "admissions_access_in_higher_education",
+    "target": "student_experience",
+    "weight": 2
+  },
+  {
+    "source": "internationalisation_of_academia",
+    "target": "student_experience",
+    "weight": 1
+  },
+  {
+    "source": "faculty_labour",
+    "target": "politics_in_academia",
+    "weight": 1
+  }
+]
