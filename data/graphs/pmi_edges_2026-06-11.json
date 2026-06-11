@@ -1,0 +1,1424 @@
+[
+  {
+    "source": "mentor-student relationship",
+    "target": "student satisfaction",
+    "co_occurrence": 3,
+    "pmi": 2.5025
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "pmi": 2.5025
+  },
+  {
+    "source": "student satisfaction",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "pmi": 2.5025
+  },
+  {
+    "source": "tuition affordability",
+    "target": "tuition fee",
+    "co_occurrence": 3,
+    "pmi": 2.5025
+  },
+  {
+    "source": "populism",
+    "target": "suppressing dissent",
+    "co_occurrence": 3,
+    "pmi": 2.5025
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "instructional excellence",
+    "co_occurrence": 3,
+    "pmi": 2.5025
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "postgraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 2.5025
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 2.5025
+  },
+  {
+    "source": "instructional excellence",
+    "target": "postgraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 2.5025
+  },
+  {
+    "source": "instructional excellence",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 2.5025
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 2.5025
+  },
+  {
+    "source": "academic collapse",
+    "target": "educational instability",
+    "co_occurrence": 4,
+    "pmi": 2.0875
+  },
+  {
+    "source": "academic collapse",
+    "target": "mentor-student relationship",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "academic collapse",
+    "target": "student life",
+    "co_occurrence": 4,
+    "pmi": 2.0875
+  },
+  {
+    "source": "academic collapse",
+    "target": "student retention",
+    "co_occurrence": 4,
+    "pmi": 2.0875
+  },
+  {
+    "source": "academic collapse",
+    "target": "student satisfaction",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "academic collapse",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "course evaluation",
+    "target": "mentor-student relationship",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "course evaluation",
+    "target": "student satisfaction",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "course evaluation",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "course evaluation",
+    "target": "systemic education failure",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "decline of academia",
+    "target": "mentor-student relationship",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "decline of academia",
+    "target": "student satisfaction",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "decline of academia",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "educational instability",
+    "target": "mentor-student relationship",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "educational instability",
+    "target": "student life",
+    "co_occurrence": 4,
+    "pmi": 2.0875
+  },
+  {
+    "source": "educational instability",
+    "target": "student retention",
+    "co_occurrence": 4,
+    "pmi": 2.0875
+  },
+  {
+    "source": "educational instability",
+    "target": "student satisfaction",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "educational instability",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student life",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student retention",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "student life",
+    "target": "student retention",
+    "co_occurrence": 4,
+    "pmi": 2.0875
+  },
+  {
+    "source": "student life",
+    "target": "student satisfaction",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "student life",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "student retention",
+    "target": "student satisfaction",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "student retention",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "academic collapse",
+    "target": "college experience",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "college experience",
+    "target": "curricular design",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "college experience",
+    "target": "educational instability",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "college experience",
+    "target": "student life",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "college experience",
+    "target": "student retention",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "geopolitics",
+    "target": "populism",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "geopolitics",
+    "target": "suppressing dissent",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "political repression",
+    "target": "populism",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "political repression",
+    "target": "suppressing dissent",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "course evaluation",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "curricular design",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "course evaluation",
+    "target": "instructional excellence",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "course evaluation",
+    "target": "postgraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "course evaluation",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "curricular design",
+    "target": "instructional excellence",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "curricular design",
+    "target": "postgraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "curricular design",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "instructional excellence",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "postgraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "geopolitics",
+    "target": "international cohorts",
+    "co_occurrence": 3,
+    "pmi": 2.0875
+  },
+  {
+    "source": "academic collapse",
+    "target": "academic model breakdown",
+    "co_occurrence": 4,
+    "pmi": 1.7655
+  },
+  {
+    "source": "academic collapse",
+    "target": "educational decline",
+    "co_occurrence": 4,
+    "pmi": 1.7655
+  },
+  {
+    "source": "academic collapse",
+    "target": "higher education crisis",
+    "co_occurrence": 4,
+    "pmi": 1.7655
+  },
+  {
+    "source": "academic collapse",
+    "target": "student experience",
+    "co_occurrence": 4,
+    "pmi": 1.7655
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "course evaluation",
+    "co_occurrence": 4,
+    "pmi": 1.7655
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "educational instability",
+    "co_occurrence": 4,
+    "pmi": 1.7655
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "mentor-student relationship",
+    "co_occurrence": 3,
+    "pmi": 1.7655
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student experience",
+    "co_occurrence": 5,
+    "pmi": 1.7655
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student life",
+    "co_occurrence": 4,
+    "pmi": 1.7655
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student retention",
+    "co_occurrence": 4,
+    "pmi": 1.7655
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student satisfaction",
+    "co_occurrence": 3,
+    "pmi": 1.7655
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "pmi": 1.7655
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "systemic education failure",
+    "co_occurrence": 3,
+    "pmi": 1.7655
+  },
+  {
+    "source": "course evaluation",
+    "target": "student experience",
+    "co_occurrence": 4,
+    "pmi": 1.7655
+  },
+  {
+    "source": "educational decline",
+    "target": "educational instability",
+    "co_occurrence": 4,
+    "pmi": 1.7655
+  },
+  {
+    "source": "educational decline",
+    "target": "mentor-student relationship",
+    "co_occurrence": 3,
+    "pmi": 1.7655
+  },
+  {
+    "source": "educational decline",
+    "target": "student life",
+    "co_occurrence": 4,
+    "pmi": 1.7655
+  },
+  {
+    "source": "educational decline",
+    "target": "student retention",
+    "co_occurrence": 4,
+    "pmi": 1.7655
+  },
+  {
+    "source": "educational decline",
+    "target": "student satisfaction",
+    "co_occurrence": 3,
+    "pmi": 1.7655
+  },
+  {
+    "source": "educational decline",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "pmi": 1.7655
+  },
+  {
+    "source": "educational instability",
+    "target": "higher education crisis",
+    "co_occurrence": 4,
+    "pmi": 1.7655
+  },
+  {
+    "source": "educational instability",
+    "target": "student experience",
+    "co_occurrence": 4,
+    "pmi": 1.7655
+  },
+  {
+    "source": "higher education crisis",
+    "target": "mentor-student relationship",
+    "co_occurrence": 3,
+    "pmi": 1.7655
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student life",
+    "co_occurrence": 4,
+    "pmi": 1.7655
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student retention",
+    "co_occurrence": 4,
+    "pmi": 1.7655
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student satisfaction",
+    "co_occurrence": 3,
+    "pmi": 1.7655
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "pmi": 1.7655
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "pmi": 1.7655
+  },
+  {
+    "source": "student experience",
+    "target": "student life",
+    "co_occurrence": 4,
+    "pmi": 1.7655
+  },
+  {
+    "source": "student experience",
+    "target": "student retention",
+    "co_occurrence": 4,
+    "pmi": 1.7655
+  },
+  {
+    "source": "student experience",
+    "target": "student satisfaction",
+    "co_occurrence": 3,
+    "pmi": 1.7655
+  },
+  {
+    "source": "student experience",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "pmi": 1.7655
+  },
+  {
+    "source": "student experience",
+    "target": "systemic education failure",
+    "co_occurrence": 3,
+    "pmi": 1.7655
+  },
+  {
+    "source": "higher education crisis",
+    "target": "tuition affordability",
+    "co_occurrence": 3,
+    "pmi": 1.7655
+  },
+  {
+    "source": "higher education crisis",
+    "target": "tuition fee",
+    "co_occurrence": 3,
+    "pmi": 1.7655
+  },
+  {
+    "source": "tuition affordability",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.7655
+  },
+  {
+    "source": "tuition affordability",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 1.7655
+  },
+  {
+    "source": "tuition fee",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.7655
+  },
+  {
+    "source": "tuition fee",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 1.7655
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "college experience",
+    "co_occurrence": 3,
+    "pmi": 1.7655
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "curricular design",
+    "co_occurrence": 4,
+    "pmi": 1.7655
+  },
+  {
+    "source": "college experience",
+    "target": "educational decline",
+    "co_occurrence": 3,
+    "pmi": 1.7655
+  },
+  {
+    "source": "college experience",
+    "target": "higher education crisis",
+    "co_occurrence": 3,
+    "pmi": 1.7655
+  },
+  {
+    "source": "college experience",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "pmi": 1.7655
+  },
+  {
+    "source": "college experience",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.7655
+  },
+  {
+    "source": "college experience",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 1.7655
+  },
+  {
+    "source": "curricular design",
+    "target": "student experience",
+    "co_occurrence": 4,
+    "pmi": 1.7655
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "adjunct faculty",
+    "co_occurrence": 3,
+    "pmi": 1.7655
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "instructional excellence",
+    "co_occurrence": 3,
+    "pmi": 1.7655
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "postgraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 1.7655
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 1.7655
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "pmi": 1.7655
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "pmi": 1.7655
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "pmi": 1.7655
+  },
+  {
+    "source": "student experience",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 1.7655
+  },
+  {
+    "source": "academic collapse",
+    "target": "course evaluation",
+    "co_occurrence": 3,
+    "pmi": 1.6724
+  },
+  {
+    "source": "academic collapse",
+    "target": "decline of academia",
+    "co_occurrence": 3,
+    "pmi": 1.6724
+  },
+  {
+    "source": "course evaluation",
+    "target": "decline of academia",
+    "co_occurrence": 3,
+    "pmi": 1.6724
+  },
+  {
+    "source": "course evaluation",
+    "target": "educational instability",
+    "co_occurrence": 3,
+    "pmi": 1.6724
+  },
+  {
+    "source": "course evaluation",
+    "target": "student life",
+    "co_occurrence": 3,
+    "pmi": 1.6724
+  },
+  {
+    "source": "course evaluation",
+    "target": "student retention",
+    "co_occurrence": 3,
+    "pmi": 1.6724
+  },
+  {
+    "source": "decline of academia",
+    "target": "educational instability",
+    "co_occurrence": 3,
+    "pmi": 1.6724
+  },
+  {
+    "source": "decline of academia",
+    "target": "student life",
+    "co_occurrence": 3,
+    "pmi": 1.6724
+  },
+  {
+    "source": "decline of academia",
+    "target": "student retention",
+    "co_occurrence": 3,
+    "pmi": 1.6724
+  },
+  {
+    "source": "academic collapse",
+    "target": "curricular design",
+    "co_occurrence": 3,
+    "pmi": 1.6724
+  },
+  {
+    "source": "curricular design",
+    "target": "educational instability",
+    "co_occurrence": 3,
+    "pmi": 1.6724
+  },
+  {
+    "source": "curricular design",
+    "target": "student life",
+    "co_occurrence": 3,
+    "pmi": 1.6724
+  },
+  {
+    "source": "curricular design",
+    "target": "student retention",
+    "co_occurrence": 3,
+    "pmi": 1.6724
+  },
+  {
+    "source": "geopolitics",
+    "target": "political repression",
+    "co_occurrence": 3,
+    "pmi": 1.6724
+  },
+  {
+    "source": "course evaluation",
+    "target": "curricular design",
+    "co_occurrence": 3,
+    "pmi": 1.6724
+  },
+  {
+    "source": "course evaluation",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "pmi": 1.6724
+  },
+  {
+    "source": "curricular design",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "pmi": 1.6724
+  },
+  {
+    "source": "academic collapse",
+    "target": "education crisis",
+    "co_occurrence": 4,
+    "pmi": 1.5025
+  },
+  {
+    "source": "academic collapse",
+    "target": "outdated education model",
+    "co_occurrence": 4,
+    "pmi": 1.5025
+  },
+  {
+    "source": "academic collapse",
+    "target": "student engagement",
+    "co_occurrence": 4,
+    "pmi": 1.5025
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "education crisis",
+    "co_occurrence": 5,
+    "pmi": 1.5025
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "outdated education model",
+    "co_occurrence": 5,
+    "pmi": 1.5025
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student engagement",
+    "co_occurrence": 5,
+    "pmi": 1.5025
+  },
+  {
+    "source": "course evaluation",
+    "target": "education crisis",
+    "co_occurrence": 4,
+    "pmi": 1.5025
+  },
+  {
+    "source": "course evaluation",
+    "target": "outdated education model",
+    "co_occurrence": 4,
+    "pmi": 1.5025
+  },
+  {
+    "source": "course evaluation",
+    "target": "student engagement",
+    "co_occurrence": 4,
+    "pmi": 1.5025
+  },
+  {
+    "source": "decline of academia",
+    "target": "education crisis",
+    "co_occurrence": 4,
+    "pmi": 1.5025
+  },
+  {
+    "source": "education crisis",
+    "target": "educational instability",
+    "co_occurrence": 4,
+    "pmi": 1.5025
+  },
+  {
+    "source": "education crisis",
+    "target": "mentor-student relationship",
+    "co_occurrence": 3,
+    "pmi": 1.5025
+  },
+  {
+    "source": "education crisis",
+    "target": "student experience",
+    "co_occurrence": 5,
+    "pmi": 1.5025
+  },
+  {
+    "source": "education crisis",
+    "target": "student life",
+    "co_occurrence": 4,
+    "pmi": 1.5025
+  },
+  {
+    "source": "education crisis",
+    "target": "student retention",
+    "co_occurrence": 4,
+    "pmi": 1.5025
+  },
+  {
+    "source": "education crisis",
+    "target": "student satisfaction",
+    "co_occurrence": 3,
+    "pmi": 1.5025
+  },
+  {
+    "source": "education crisis",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "pmi": 1.5025
+  },
+  {
+    "source": "education crisis",
+    "target": "systemic education failure",
+    "co_occurrence": 3,
+    "pmi": 1.5025
+  },
+  {
+    "source": "educational instability",
+    "target": "outdated education model",
+    "co_occurrence": 4,
+    "pmi": 1.5025
+  },
+  {
+    "source": "educational instability",
+    "target": "student engagement",
+    "co_occurrence": 4,
+    "pmi": 1.5025
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "pmi": 1.5025
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "pmi": 1.5025
+  },
+  {
+    "source": "outdated education model",
+    "target": "student engagement",
+    "co_occurrence": 6,
+    "pmi": 1.5025
+  },
+  {
+    "source": "outdated education model",
+    "target": "student experience",
+    "co_occurrence": 5,
+    "pmi": 1.5025
+  },
+  {
+    "source": "outdated education model",
+    "target": "student life",
+    "co_occurrence": 4,
+    "pmi": 1.5025
+  },
+  {
+    "source": "outdated education model",
+    "target": "student retention",
+    "co_occurrence": 4,
+    "pmi": 1.5025
+  },
+  {
+    "source": "outdated education model",
+    "target": "student satisfaction",
+    "co_occurrence": 3,
+    "pmi": 1.5025
+  },
+  {
+    "source": "outdated education model",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "pmi": 1.5025
+  },
+  {
+    "source": "outdated education model",
+    "target": "systemic education failure",
+    "co_occurrence": 3,
+    "pmi": 1.5025
+  },
+  {
+    "source": "student engagement",
+    "target": "student experience",
+    "co_occurrence": 5,
+    "pmi": 1.5025
+  },
+  {
+    "source": "student engagement",
+    "target": "student life",
+    "co_occurrence": 4,
+    "pmi": 1.5025
+  },
+  {
+    "source": "student engagement",
+    "target": "student retention",
+    "co_occurrence": 4,
+    "pmi": 1.5025
+  },
+  {
+    "source": "student engagement",
+    "target": "student satisfaction",
+    "co_occurrence": 3,
+    "pmi": 1.5025
+  },
+  {
+    "source": "student engagement",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "pmi": 1.5025
+  },
+  {
+    "source": "student engagement",
+    "target": "systemic education failure",
+    "co_occurrence": 3,
+    "pmi": 1.5025
+  },
+  {
+    "source": "college experience",
+    "target": "education crisis",
+    "co_occurrence": 3,
+    "pmi": 1.5025
+  },
+  {
+    "source": "college experience",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "pmi": 1.5025
+  },
+  {
+    "source": "college experience",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "pmi": 1.5025
+  },
+  {
+    "source": "curricular design",
+    "target": "education crisis",
+    "co_occurrence": 4,
+    "pmi": 1.5025
+  },
+  {
+    "source": "curricular design",
+    "target": "outdated education model",
+    "co_occurrence": 4,
+    "pmi": 1.5025
+  },
+  {
+    "source": "curricular design",
+    "target": "student engagement",
+    "co_occurrence": 4,
+    "pmi": 1.5025
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "education crisis",
+    "co_occurrence": 3,
+    "pmi": 1.5025
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "pmi": 1.5025
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "pmi": 1.5025
+  },
+  {
+    "source": "education crisis",
+    "target": "instructional excellence",
+    "co_occurrence": 3,
+    "pmi": 1.5025
+  },
+  {
+    "source": "education crisis",
+    "target": "postgraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 1.5025
+  },
+  {
+    "source": "education crisis",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 1.5025
+  },
+  {
+    "source": "instructional excellence",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "pmi": 1.5025
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "pmi": 1.5025
+  },
+  {
+    "source": "outdated education model",
+    "target": "postgraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 1.5025
+  },
+  {
+    "source": "outdated education model",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 1.5025
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "pmi": 1.5025
+  },
+  {
+    "source": "student engagement",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 1.5025
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "educational decline",
+    "co_occurrence": 4,
+    "pmi": 1.4436
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "higher education crisis",
+    "co_occurrence": 4,
+    "pmi": 1.4436
+  },
+  {
+    "source": "educational decline",
+    "target": "higher education crisis",
+    "co_occurrence": 4,
+    "pmi": 1.4436
+  },
+  {
+    "source": "educational decline",
+    "target": "student experience",
+    "co_occurrence": 4,
+    "pmi": 1.4436
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student experience",
+    "co_occurrence": 4,
+    "pmi": 1.4436
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "pmi": 1.4436
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "pmi": 1.4436
+  },
+  {
+    "source": "university policy",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "pmi": 1.4436
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "decline of academia",
+    "co_occurrence": 3,
+    "pmi": 1.3505
+  },
+  {
+    "source": "course evaluation",
+    "target": "educational decline",
+    "co_occurrence": 3,
+    "pmi": 1.3505
+  },
+  {
+    "source": "course evaluation",
+    "target": "higher education crisis",
+    "co_occurrence": 3,
+    "pmi": 1.3505
+  },
+  {
+    "source": "decline of academia",
+    "target": "educational decline",
+    "co_occurrence": 3,
+    "pmi": 1.3505
+  },
+  {
+    "source": "decline of academia",
+    "target": "higher education crisis",
+    "co_occurrence": 3,
+    "pmi": 1.3505
+  },
+  {
+    "source": "decline of academia",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "pmi": 1.3505
+  },
+  {
+    "source": "academic collapse",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.3505
+  },
+  {
+    "source": "academic collapse",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 1.3505
+  },
+  {
+    "source": "curricular design",
+    "target": "educational decline",
+    "co_occurrence": 3,
+    "pmi": 1.3505
+  },
+  {
+    "source": "curricular design",
+    "target": "higher education crisis",
+    "co_occurrence": 3,
+    "pmi": 1.3505
+  },
+  {
+    "source": "curricular design",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.3505
+  },
+  {
+    "source": "curricular design",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 1.3505
+  },
+  {
+    "source": "educational instability",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.3505
+  },
+  {
+    "source": "educational instability",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 1.3505
+  },
+  {
+    "source": "student life",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.3505
+  },
+  {
+    "source": "student life",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 1.3505
+  },
+  {
+    "source": "student retention",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.3505
+  },
+  {
+    "source": "student retention",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 1.3505
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "pmi": 1.3505
+  },
+  {
+    "source": "decline of academia",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 1.3505
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "pmi": 1.3505
+  },
+  {
+    "source": "education crisis",
+    "target": "outdated education model",
+    "co_occurrence": 5,
+    "pmi": 1.2395
+  },
+  {
+    "source": "education crisis",
+    "target": "student engagement",
+    "co_occurrence": 5,
+    "pmi": 1.2395
+  },
+  {
+    "source": "education crisis",
+    "target": "educational decline",
+    "co_occurrence": 4,
+    "pmi": 1.1806
+  },
+  {
+    "source": "education crisis",
+    "target": "higher education crisis",
+    "co_occurrence": 4,
+    "pmi": 1.1806
+  },
+  {
+    "source": "educational decline",
+    "target": "outdated education model",
+    "co_occurrence": 4,
+    "pmi": 1.1806
+  },
+  {
+    "source": "educational decline",
+    "target": "student engagement",
+    "co_occurrence": 4,
+    "pmi": 1.1806
+  },
+  {
+    "source": "higher education crisis",
+    "target": "outdated education model",
+    "co_occurrence": 4,
+    "pmi": 1.1806
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student engagement",
+    "co_occurrence": 4,
+    "pmi": 1.1806
+  },
+  {
+    "source": "education crisis",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "pmi": 1.1806
+  },
+  {
+    "source": "outdated education model",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "pmi": 1.1806
+  },
+  {
+    "source": "student engagement",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "pmi": 1.1806
+  },
+  {
+    "source": "decline of academia",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "pmi": 1.0875
+  },
+  {
+    "source": "decline of academia",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "pmi": 1.0875
+  },
+  {
+    "source": "education crisis",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "pmi": 1.0875
+  },
+  {
+    "source": "outdated education model",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "pmi": 1.0875
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "pmi": 1.0875
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.0286
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 1.0286
+  },
+  {
+    "source": "educational decline",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.0286
+  },
+  {
+    "source": "educational decline",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 1.0286
+  },
+  {
+    "source": "student experience",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.0286
+  },
+  {
+    "source": "student experience",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 1.0286
+  },
+  {
+    "source": "education crisis",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 0.7655
+  },
+  {
+    "source": "outdated education model",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 0.7655
+  },
+  {
+    "source": "student engagement",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 0.7655
+  }
+]
