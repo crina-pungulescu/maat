@@ -1,6 +1,7 @@
 import json
 from pathlib import Path
 from collections import defaultdict
+from datetime import datetime, timedelta
 
 
 # ----------------------------
@@ -30,6 +31,42 @@ def latest_file(pattern):
     print(f"[LOAD] latest file -> {files[-1]}")
     return files[-1]
 
+def files_last_n_days(paths, days=30):
+
+    if not paths:
+        return []
+
+    latest_date = datetime.strptime(
+        paths[-1].stem.split("_")[-1],
+        "%Y-%m-%d"
+    )
+
+    cutoff = latest_date - timedelta(days=days - 1)
+
+    filtered = []
+
+    for path in paths:
+
+        try:
+
+            file_date = datetime.strptime(
+                path.stem.split("_")[-1],
+                "%Y-%m-%d"
+            )
+
+            if file_date >= cutoff:
+                filtered.append(path)
+
+        except Exception:
+            continue
+
+    print(
+        f"[WINDOW] Using {len(filtered)} files "
+        f"from {cutoff.date()} to {latest_date.date()}"
+    )
+
+    return filtered
+
 
 # ----------------------------
 # INPUTS
@@ -38,8 +75,15 @@ def latest_file(pattern):
 cluster_summary_path = latest_file("cluster_summary_aggregate_*.json")
 graph_nodes_path = latest_file("graph_nodes_aggregate_*.json")
 
-topic_matrix_paths = sorted(Path("data/topics").glob("topic_matrix_*.json"))
-raw_paths = sorted(Path("data/raw").glob("articles_*.jsonl"))
+topic_matrix_paths = files_last_n_days(
+    sorted(Path("data/topics").glob("topic_matrix_*.json")),
+    days=30
+)
+
+raw_paths = files_last_n_days(
+    sorted(Path("data/raw").glob("articles_*.jsonl")),
+    days=30
+)
 
 cluster_summary = load_json(cluster_summary_path)
 graph_nodes = load_json(graph_nodes_path)
