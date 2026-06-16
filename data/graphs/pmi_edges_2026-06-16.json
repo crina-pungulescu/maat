@@ -1,0 +1,50 @@
+[
+  {
+    "source": "adjunct faculty",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "pmi": 1.0
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.0
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 1.0
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student life",
+    "co_occurrence": 3,
+    "pmi": 1.0
+  },
+  {
+    "source": "university administrators",
+    "target": "university leadership",
+    "co_occurrence": 3,
+    "pmi": 1.0
+  },
+  {
+    "source": "university policy",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "pmi": 1.0
+  },
+  {
+    "source": "university administrators",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 0.585
+  },
+  {
+    "source": "university administrators",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 0.585
+  }
+]
