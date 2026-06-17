@@ -1,0 +1,97 @@
+[
+  {
+    "source": "faculty_labour",
+    "target": "higher_education_crisis",
+    "weight": 16
+  },
+  {
+    "source": "education_cost",
+    "target": "student_experience",
+    "weight": 5
+  },
+  {
+    "source": "student_experience",
+    "target": "teaching_and_learning",
+    "weight": 24
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "teaching_and_learning",
+    "weight": 41
+  },
+  {
+    "source": "faculty_labour",
+    "target": "student_experience",
+    "weight": 7
+  },
+  {
+    "source": "faculty_labour",
+    "target": "university_administration",
+    "weight": 3
+  },
+  {
+    "source": "student_experience",
+    "target": "university_administration",
+    "weight": 12
+  },
+  {
+    "source": "internationalisation_of_academia",
+    "target": "research_activities",
+    "weight": 3
+  },
+  {
+    "source": "faculty_labour",
+    "target": "teaching_and_learning",
+    "weight": 8
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "student_experience",
+    "weight": 34
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "university_administration",
+    "weight": 13
+  },
+  {
+    "source": "teaching_and_learning",
+    "target": "university_administration",
+    "weight": 10
+  },
+  {
+    "source": "education_cost",
+    "target": "higher_education_crisis",
+    "weight": 2
+  },
+  {
+    "source": "education_cost",
+    "target": "teaching_and_learning",
+    "weight": 3
+  },
+  {
+    "source": "education_cost",
+    "target": "university_administration",
+    "weight": 2
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "research_activities",
+    "weight": 3
+  },
+  {
+    "source": "educational_technology",
+    "target": "higher_education_crisis",
+    "weight": 1
+  },
+  {
+    "source": "academic_freedom",
+    "target": "higher_education_crisis",
+    "weight": 1
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "internationalisation_of_academia",
+    "weight": 3
+  }
+]
