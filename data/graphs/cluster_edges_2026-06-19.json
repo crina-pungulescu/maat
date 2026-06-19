@@ -1,0 +1,42 @@
+[
+  {
+    "source": "internationalisation_of_academia",
+    "target": "research_activities",
+    "weight": 2
+  },
+  {
+    "source": "research_activities",
+    "target": "science_society",
+    "weight": 3
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "teaching_and_learning",
+    "weight": 14
+  },
+  {
+    "source": "faculty_labour",
+    "target": "higher_education_crisis",
+    "weight": 3
+  },
+  {
+    "source": "faculty_labour",
+    "target": "university_administration",
+    "weight": 4
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "university_administration",
+    "weight": 16
+  },
+  {
+    "source": "student_experience",
+    "target": "university_administration",
+    "weight": 6
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "student_experience",
+    "weight": 5
+  }
+]

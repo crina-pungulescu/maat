@@ -1,0 +1,620 @@
+[
+  {
+    "source": "international cohorts",
+    "target": "research collaboration",
+    "co_occurrence": 3,
+    "pmi": 2.737
+  },
+  {
+    "source": "research productivity",
+    "target": "theoretical research",
+    "co_occurrence": 3,
+    "pmi": 2.737
+  },
+  {
+    "source": "empirical research",
+    "target": "international cohorts",
+    "co_occurrence": 3,
+    "pmi": 2.3219
+  },
+  {
+    "source": "empirical research",
+    "target": "research collaboration",
+    "co_occurrence": 3,
+    "pmi": 2.3219
+  },
+  {
+    "source": "empirical research",
+    "target": "research productivity",
+    "co_occurrence": 3,
+    "pmi": 2.3219
+  },
+  {
+    "source": "empirical research",
+    "target": "theoretical research",
+    "co_occurrence": 3,
+    "pmi": 2.3219
+  },
+  {
+    "source": "politicisation of science",
+    "target": "research productivity",
+    "co_occurrence": 3,
+    "pmi": 2.3219
+  },
+  {
+    "source": "politicisation of science",
+    "target": "theoretical research",
+    "co_occurrence": 3,
+    "pmi": 2.3219
+  },
+  {
+    "source": "outdated education model",
+    "target": "systemic education failure",
+    "co_occurrence": 4,
+    "pmi": 2.0
+  },
+  {
+    "source": "instructional excellence",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "pmi": 1.9069
+  },
+  {
+    "source": "instructional excellence",
+    "target": "systemic education failure",
+    "co_occurrence": 3,
+    "pmi": 1.9069
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "systemic education failure",
+    "co_occurrence": 3,
+    "pmi": 1.9069
+  },
+  {
+    "source": "classroom methods",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "pmi": 1.9069
+  },
+  {
+    "source": "empirical research",
+    "target": "politicisation of science",
+    "co_occurrence": 3,
+    "pmi": 1.9069
+  },
+  {
+    "source": "university administrators",
+    "target": "university leadership",
+    "co_occurrence": 6,
+    "pmi": 1.737
+  },
+  {
+    "source": "academic collapse",
+    "target": "academic model breakdown",
+    "co_occurrence": 4,
+    "pmi": 1.737
+  },
+  {
+    "source": "academic collapse",
+    "target": "faculty careers",
+    "co_occurrence": 3,
+    "pmi": 1.737
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "educational decline",
+    "co_occurrence": 4,
+    "pmi": 1.737
+  },
+  {
+    "source": "faculty careers",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "pmi": 1.737
+  },
+  {
+    "source": "faculty careers",
+    "target": "university leadership",
+    "co_occurrence": 3,
+    "pmi": 1.737
+  },
+  {
+    "source": "student life",
+    "target": "student retention",
+    "co_occurrence": 3,
+    "pmi": 1.737
+  },
+  {
+    "source": "student engagement",
+    "target": "student experience",
+    "co_occurrence": 4,
+    "pmi": 1.6781
+  },
+  {
+    "source": "instructional excellence",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "pmi": 1.585
+  },
+  {
+    "source": "outdated education model",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "pmi": 1.585
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "pmi": 1.585
+  },
+  {
+    "source": "faculty careers",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.5146
+  },
+  {
+    "source": "student retention",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.5146
+  },
+  {
+    "source": "educational decline",
+    "target": "outdated education model",
+    "co_occurrence": 4,
+    "pmi": 1.415
+  },
+  {
+    "source": "decline of academia",
+    "target": "instructional excellence",
+    "co_occurrence": 4,
+    "pmi": 1.3219
+  },
+  {
+    "source": "education crisis",
+    "target": "outdated education model",
+    "co_occurrence": 5,
+    "pmi": 1.3219
+  },
+  {
+    "source": "education crisis",
+    "target": "systemic education failure",
+    "co_occurrence": 4,
+    "pmi": 1.3219
+  },
+  {
+    "source": "educational instability",
+    "target": "outdated education model",
+    "co_occurrence": 5,
+    "pmi": 1.3219
+  },
+  {
+    "source": "educational instability",
+    "target": "systemic education failure",
+    "co_occurrence": 4,
+    "pmi": 1.3219
+  },
+  {
+    "source": "academic collapse",
+    "target": "decline of academia",
+    "co_occurrence": 6,
+    "pmi": 1.3219
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "decline of academia",
+    "co_occurrence": 4,
+    "pmi": 1.3219
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "education crisis",
+    "co_occurrence": 4,
+    "pmi": 1.3219
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "educational instability",
+    "co_occurrence": 4,
+    "pmi": 1.3219
+  },
+  {
+    "source": "decline of academia",
+    "target": "faculty careers",
+    "co_occurrence": 3,
+    "pmi": 1.3219
+  },
+  {
+    "source": "education crisis",
+    "target": "educational decline",
+    "co_occurrence": 6,
+    "pmi": 1.3219
+  },
+  {
+    "source": "faculty careers",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 1.3219
+  },
+  {
+    "source": "educational decline",
+    "target": "systemic education failure",
+    "co_occurrence": 3,
+    "pmi": 1.3219
+  },
+  {
+    "source": "classroom methods",
+    "target": "educational decline",
+    "co_occurrence": 3,
+    "pmi": 1.3219
+  },
+  {
+    "source": "academic collapse",
+    "target": "instructional excellence",
+    "co_occurrence": 3,
+    "pmi": 1.3219
+  },
+  {
+    "source": "university administrators",
+    "target": "university policy",
+    "co_occurrence": 5,
+    "pmi": 1.2515
+  },
+  {
+    "source": "university leadership",
+    "target": "university policy",
+    "co_occurrence": 5,
+    "pmi": 1.2515
+  },
+  {
+    "source": "student life",
+    "target": "university policy",
+    "co_occurrence": 5,
+    "pmi": 1.2515
+  },
+  {
+    "source": "academic collapse",
+    "target": "educational decline",
+    "co_occurrence": 4,
+    "pmi": 1.152
+  },
+  {
+    "source": "faculty careers",
+    "target": "higher education crisis",
+    "co_occurrence": 3,
+    "pmi": 1.152
+  },
+  {
+    "source": "education crisis",
+    "target": "educational instability",
+    "co_occurrence": 7,
+    "pmi": 1.1293
+  },
+  {
+    "source": "university policy",
+    "target": "university reform",
+    "co_occurrence": 6,
+    "pmi": 1.0995
+  },
+  {
+    "source": "educational decline",
+    "target": "educational instability",
+    "co_occurrence": 5,
+    "pmi": 1.0589
+  },
+  {
+    "source": "student life",
+    "target": "university reform",
+    "co_occurrence": 5,
+    "pmi": 1.0589
+  },
+  {
+    "source": "decline of academia",
+    "target": "outdated education model",
+    "co_occurrence": 4,
+    "pmi": 1.0
+  },
+  {
+    "source": "student engagement",
+    "target": "student life",
+    "co_occurrence": 3,
+    "pmi": 1.0
+  },
+  {
+    "source": "academic collapse",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "pmi": 1.0
+  },
+  {
+    "source": "student experience",
+    "target": "student life",
+    "co_occurrence": 3,
+    "pmi": 1.0
+  },
+  {
+    "source": "educational instability",
+    "target": "higher education crisis",
+    "co_occurrence": 7,
+    "pmi": 0.9594
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university reform",
+    "co_occurrence": 7,
+    "pmi": 0.9594
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university policy",
+    "co_occurrence": 6,
+    "pmi": 0.9296
+  },
+  {
+    "source": "academic collapse",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "pmi": 0.9296
+  },
+  {
+    "source": "decline of academia",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "pmi": 0.9069
+  },
+  {
+    "source": "decline of academia",
+    "target": "systemic education failure",
+    "co_occurrence": 3,
+    "pmi": 0.9069
+  },
+  {
+    "source": "education crisis",
+    "target": "instructional excellence",
+    "co_occurrence": 3,
+    "pmi": 0.9069
+  },
+  {
+    "source": "education crisis",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "pmi": 0.9069
+  },
+  {
+    "source": "educational instability",
+    "target": "instructional excellence",
+    "co_occurrence": 3,
+    "pmi": 0.9069
+  },
+  {
+    "source": "educational instability",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "pmi": 0.9069
+  },
+  {
+    "source": "classroom methods",
+    "target": "education crisis",
+    "co_occurrence": 3,
+    "pmi": 0.9069
+  },
+  {
+    "source": "academic collapse",
+    "target": "higher education crisis",
+    "co_occurrence": 5,
+    "pmi": 0.889
+  },
+  {
+    "source": "decline of academia",
+    "target": "university policy",
+    "co_occurrence": 5,
+    "pmi": 0.8365
+  },
+  {
+    "source": "higher education crisis",
+    "target": "outdated education model",
+    "co_occurrence": 4,
+    "pmi": 0.8301
+  },
+  {
+    "source": "student engagement",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 0.7776
+  },
+  {
+    "source": "decline of academia",
+    "target": "higher education crisis",
+    "co_occurrence": 6,
+    "pmi": 0.737
+  },
+  {
+    "source": "decline of academia",
+    "target": "university administrators",
+    "co_occurrence": 4,
+    "pmi": 0.737
+  },
+  {
+    "source": "decline of academia",
+    "target": "university leadership",
+    "co_occurrence": 4,
+    "pmi": 0.737
+  },
+  {
+    "source": "education crisis",
+    "target": "higher education crisis",
+    "co_occurrence": 6,
+    "pmi": 0.737
+  },
+  {
+    "source": "higher education crisis",
+    "target": "instructional excellence",
+    "co_occurrence": 3,
+    "pmi": 0.737
+  },
+  {
+    "source": "higher education crisis",
+    "target": "systemic education failure",
+    "co_occurrence": 3,
+    "pmi": 0.737
+  },
+  {
+    "source": "university administrators",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "pmi": 0.737
+  },
+  {
+    "source": "university leadership",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "pmi": 0.737
+  },
+  {
+    "source": "academic collapse",
+    "target": "education crisis",
+    "co_occurrence": 4,
+    "pmi": 0.737
+  },
+  {
+    "source": "academic collapse",
+    "target": "educational instability",
+    "co_occurrence": 4,
+    "pmi": 0.737
+  },
+  {
+    "source": "academic collapse",
+    "target": "student life",
+    "co_occurrence": 3,
+    "pmi": 0.737
+  },
+  {
+    "source": "academic collapse",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "pmi": 0.737
+  },
+  {
+    "source": "academic collapse",
+    "target": "university leadership",
+    "co_occurrence": 3,
+    "pmi": 0.737
+  },
+  {
+    "source": "academic collapse",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "pmi": 0.737
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "higher education crisis",
+    "co_occurrence": 3,
+    "pmi": 0.737
+  },
+  {
+    "source": "decline of academia",
+    "target": "educational decline",
+    "co_occurrence": 4,
+    "pmi": 0.737
+  },
+  {
+    "source": "student life",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "pmi": 0.737
+  },
+  {
+    "source": "student life",
+    "target": "university leadership",
+    "co_occurrence": 3,
+    "pmi": 0.737
+  },
+  {
+    "source": "educational instability",
+    "target": "university reform",
+    "co_occurrence": 5,
+    "pmi": 0.6439
+  },
+  {
+    "source": "decline of academia",
+    "target": "education crisis",
+    "co_occurrence": 5,
+    "pmi": 0.6439
+  },
+  {
+    "source": "decline of academia",
+    "target": "educational instability",
+    "co_occurrence": 5,
+    "pmi": 0.6439
+  },
+  {
+    "source": "decline of academia",
+    "target": "university reform",
+    "co_occurrence": 5,
+    "pmi": 0.6439
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university administrators",
+    "co_occurrence": 4,
+    "pmi": 0.567
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university leadership",
+    "co_occurrence": 4,
+    "pmi": 0.567
+  },
+  {
+    "source": "educational decline",
+    "target": "higher education crisis",
+    "co_occurrence": 4,
+    "pmi": 0.567
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student life",
+    "co_occurrence": 4,
+    "pmi": 0.567
+  },
+  {
+    "source": "education crisis",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "pmi": 0.5146
+  },
+  {
+    "source": "educational instability",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "pmi": 0.5146
+  },
+  {
+    "source": "education crisis",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "pmi": 0.3219
+  },
+  {
+    "source": "decline of academia",
+    "target": "student life",
+    "co_occurrence": 3,
+    "pmi": 0.3219
+  },
+  {
+    "source": "education crisis",
+    "target": "student life",
+    "co_occurrence": 3,
+    "pmi": 0.3219
+  },
+  {
+    "source": "educational instability",
+    "target": "student life",
+    "co_occurrence": 3,
+    "pmi": 0.3219
+  }
+]
