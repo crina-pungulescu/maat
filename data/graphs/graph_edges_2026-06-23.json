@@ -1,0 +1,622 @@
+[
+  {
+    "source": "AI assisted process",
+    "target": "artificial intelligence",
+    "weight": 2
+  },
+  {
+    "source": "AI assisted process",
+    "target": "generative AI",
+    "weight": 2
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "generative AI",
+    "weight": 2
+  },
+  {
+    "source": "administrative coercion",
+    "target": "institutional governance",
+    "weight": 1
+  },
+  {
+    "source": "administrative coercion",
+    "target": "institutional partnerships",
+    "weight": 1
+  },
+  {
+    "source": "administrative coercion",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "institutional partnerships",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "school budgets",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "austerity",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "opportunistic growth",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "unsustainable model",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "austerity",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "opportunistic growth",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "unsustainable model",
+    "weight": 1
+  },
+  {
+    "source": "austerity",
+    "target": "generative AI",
+    "weight": 1
+  },
+  {
+    "source": "austerity",
+    "target": "opportunistic growth",
+    "weight": 1
+  },
+  {
+    "source": "austerity",
+    "target": "unsustainable model",
+    "weight": 1
+  },
+  {
+    "source": "generative AI",
+    "target": "opportunistic growth",
+    "weight": 1
+  },
+  {
+    "source": "generative AI",
+    "target": "unsustainable model",
+    "weight": 1
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "unsustainable model",
+    "weight": 1
+  },
+  {
+    "source": "eastern europe",
+    "target": "emerging technology",
+    "weight": 1
+  },
+  {
+    "source": "eastern europe",
+    "target": "europe",
+    "weight": 1
+  },
+  {
+    "source": "eastern europe",
+    "target": "european union",
+    "weight": 1
+  },
+  {
+    "source": "eastern europe",
+    "target": "italy",
+    "weight": 1
+  },
+  {
+    "source": "eastern europe",
+    "target": "laboratories",
+    "weight": 1
+  },
+  {
+    "source": "eastern europe",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "eastern europe",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "eastern europe",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "eastern europe",
+    "target": "western europe",
+    "weight": 1
+  },
+  {
+    "source": "emerging technology",
+    "target": "europe",
+    "weight": 1
+  },
+  {
+    "source": "emerging technology",
+    "target": "european union",
+    "weight": 1
+  },
+  {
+    "source": "emerging technology",
+    "target": "italy",
+    "weight": 1
+  },
+  {
+    "source": "emerging technology",
+    "target": "laboratories",
+    "weight": 1
+  },
+  {
+    "source": "emerging technology",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "emerging technology",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "emerging technology",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "emerging technology",
+    "target": "western europe",
+    "weight": 1
+  },
+  {
+    "source": "europe",
+    "target": "european union",
+    "weight": 1
+  },
+  {
+    "source": "europe",
+    "target": "italy",
+    "weight": 1
+  },
+  {
+    "source": "europe",
+    "target": "laboratories",
+    "weight": 1
+  },
+  {
+    "source": "europe",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "europe",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "europe",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "europe",
+    "target": "western europe",
+    "weight": 1
+  },
+  {
+    "source": "european union",
+    "target": "italy",
+    "weight": 1
+  },
+  {
+    "source": "european union",
+    "target": "laboratories",
+    "weight": 1
+  },
+  {
+    "source": "european union",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "european union",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "european union",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "european union",
+    "target": "western europe",
+    "weight": 1
+  },
+  {
+    "source": "italy",
+    "target": "laboratories",
+    "weight": 1
+  },
+  {
+    "source": "italy",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "italy",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "italy",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "italy",
+    "target": "western europe",
+    "weight": 1
+  },
+  {
+    "source": "laboratories",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "laboratories",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "laboratories",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "laboratories",
+    "target": "western europe",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "western europe",
+    "weight": 1
+  },
+  {
+    "source": "politicisation of science",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "politicisation of science",
+    "target": "western europe",
+    "weight": 1
+  },
+  {
+    "source": "programme massification",
+    "target": "western europe",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "accountability",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "accountability gaps",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "algorithmic assessment",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "bureaucratic obstruction",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "elite impunity",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "ethical impropriety",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "integrity",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "accountability",
+    "target": "accountability gaps",
+    "weight": 1
+  },
+  {
+    "source": "accountability",
+    "target": "algorithmic assessment",
+    "weight": 1
+  },
+  {
+    "source": "accountability",
+    "target": "artificial intelligence",
+    "weight": 1
+  },
+  {
+    "source": "accountability",
+    "target": "bureaucratic obstruction",
+    "weight": 1
+  },
+  {
+    "source": "accountability",
+    "target": "elite impunity",
+    "weight": 1
+  },
+  {
+    "source": "accountability",
+    "target": "ethical impropriety",
+    "weight": 1
+  },
+  {
+    "source": "accountability",
+    "target": "generative AI",
+    "weight": 1
+  },
+  {
+    "source": "accountability",
+    "target": "integrity",
+    "weight": 1
+  },
+  {
+    "source": "accountability",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "algorithmic assessment",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "artificial intelligence",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "bureaucratic obstruction",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "elite impunity",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "ethical impropriety",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "generative AI",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "integrity",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "algorithmic assessment",
+    "target": "artificial intelligence",
+    "weight": 1
+  },
+  {
+    "source": "algorithmic assessment",
+    "target": "bureaucratic obstruction",
+    "weight": 1
+  },
+  {
+    "source": "algorithmic assessment",
+    "target": "elite impunity",
+    "weight": 1
+  },
+  {
+    "source": "algorithmic assessment",
+    "target": "ethical impropriety",
+    "weight": 1
+  },
+  {
+    "source": "algorithmic assessment",
+    "target": "generative AI",
+    "weight": 1
+  },
+  {
+    "source": "algorithmic assessment",
+    "target": "integrity",
+    "weight": 1
+  },
+  {
+    "source": "algorithmic assessment",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "bureaucratic obstruction",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "elite impunity",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "ethical impropriety",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "integrity",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "elite impunity",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "ethical impropriety",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "generative AI",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "integrity",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "ethical impropriety",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "generative AI",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "integrity",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "ethical impropriety",
+    "target": "generative AI",
+    "weight": 1
+  },
+  {
+    "source": "ethical impropriety",
+    "target": "integrity",
+    "weight": 1
+  },
+  {
+    "source": "ethical impropriety",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "generative AI",
+    "target": "integrity",
+    "weight": 1
+  },
+  {
+    "source": "generative AI",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "integrity",
+    "target": "intellectual autonomy",
+    "weight": 1
+  }
+]
