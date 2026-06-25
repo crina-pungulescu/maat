@@ -1,0 +1,142 @@
+[
+  {
+    "source": "faculty_labour",
+    "target": "higher_education_crisis",
+    "weight": 30
+  },
+  {
+    "source": "education_cost",
+    "target": "higher_education_crisis",
+    "weight": 12
+  },
+  {
+    "source": "faculty_labour",
+    "target": "teaching_and_learning",
+    "weight": 16
+  },
+  {
+    "source": "admissions_access_in_higher_education",
+    "target": "teaching_and_learning",
+    "weight": 6
+  },
+  {
+    "source": "admissions_access_in_higher_education",
+    "target": "faculty_labour",
+    "weight": 5
+  },
+  {
+    "source": "education_cost",
+    "target": "faculty_labour",
+    "weight": 10
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "research_activities",
+    "weight": 8
+  },
+  {
+    "source": "research_activities",
+    "target": "teaching_and_learning",
+    "weight": 6
+  },
+  {
+    "source": "faculty_labour",
+    "target": "research_activities",
+    "weight": 5
+  },
+  {
+    "source": "faculty_labour",
+    "target": "university_administration",
+    "weight": 10
+  },
+  {
+    "source": "admissions_access_in_higher_education",
+    "target": "research_activities",
+    "weight": 2
+  },
+  {
+    "source": "education_cost",
+    "target": "university_administration",
+    "weight": 4
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "teaching_and_learning",
+    "weight": 21
+  },
+  {
+    "source": "admissions_access_in_higher_education",
+    "target": "higher_education_crisis",
+    "weight": 10
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "university_administration",
+    "weight": 12
+  },
+  {
+    "source": "education_cost",
+    "target": "teaching_and_learning",
+    "weight": 4
+  },
+  {
+    "source": "admissions_access_in_higher_education",
+    "target": "education_cost",
+    "weight": 2
+  },
+  {
+    "source": "student_experience",
+    "target": "teaching_and_learning",
+    "weight": 22
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "student_experience",
+    "weight": 37
+  },
+  {
+    "source": "faculty_labour",
+    "target": "student_experience",
+    "weight": 12
+  },
+  {
+    "source": "admissions_access_in_higher_education",
+    "target": "student_experience",
+    "weight": 5
+  },
+  {
+    "source": "education_cost",
+    "target": "research_activities",
+    "weight": 2
+  },
+  {
+    "source": "teaching_and_learning",
+    "target": "university_administration",
+    "weight": 4
+  },
+  {
+    "source": "admissions_access_in_higher_education",
+    "target": "university_administration",
+    "weight": 2
+  },
+  {
+    "source": "education_cost",
+    "target": "student_experience",
+    "weight": 6
+  },
+  {
+    "source": "research_activities",
+    "target": "student_experience",
+    "weight": 3
+  },
+  {
+    "source": "research_activities",
+    "target": "university_administration",
+    "weight": 2
+  },
+  {
+    "source": "student_experience",
+    "target": "university_administration",
+    "weight": 4
+  }
+]
