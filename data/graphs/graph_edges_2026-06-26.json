@@ -1,0 +1,7707 @@
+[
+  {
+    "source": "student engagement",
+    "target": "student experience",
+    "weight": 7
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "student engagement",
+    "weight": 5
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "student experience",
+    "weight": 5
+  },
+  {
+    "source": "student engagement",
+    "target": "student satisfaction",
+    "weight": 4
+  },
+  {
+    "source": "student experience",
+    "target": "student satisfaction",
+    "weight": 4
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "university administrators",
+    "weight": 4
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student experience",
+    "weight": 4
+  },
+  {
+    "source": "student engagement",
+    "target": "student life",
+    "weight": 4
+  },
+  {
+    "source": "student engagement",
+    "target": "university administrators",
+    "weight": 4
+  },
+  {
+    "source": "student experience",
+    "target": "student life",
+    "weight": 4
+  },
+  {
+    "source": "student experience",
+    "target": "university administrators",
+    "weight": 4
+  },
+  {
+    "source": "student experience",
+    "target": "university policy",
+    "weight": 4
+  },
+  {
+    "source": "student experience",
+    "target": "university reform",
+    "weight": 4
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "mentor-student relationship",
+    "weight": 3
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "student satisfaction",
+    "weight": 3
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "student wellbeing",
+    "weight": 3
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "student engagement",
+    "weight": 3
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "student experience",
+    "weight": 3
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "student satisfaction",
+    "weight": 3
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student engagement",
+    "weight": 3
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student experience",
+    "weight": 3
+  },
+  {
+    "source": "student engagement",
+    "target": "student wellbeing",
+    "weight": 3
+  },
+  {
+    "source": "student experience",
+    "target": "student wellbeing",
+    "weight": 3
+  },
+  {
+    "source": "student satisfaction",
+    "target": "student wellbeing",
+    "weight": 3
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "instructional excellence",
+    "weight": 3
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "student life",
+    "weight": 3
+  },
+  {
+    "source": "college experience",
+    "target": "higher education crisis",
+    "weight": 3
+  },
+  {
+    "source": "college experience",
+    "target": "student engagement",
+    "weight": 3
+  },
+  {
+    "source": "college experience",
+    "target": "student experience",
+    "weight": 3
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student engagement",
+    "weight": 3
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university policy",
+    "weight": 3
+  },
+  {
+    "source": "instructional excellence",
+    "target": "scholastic aptitude test",
+    "weight": 3
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student engagement",
+    "weight": 3
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student experience",
+    "weight": 3
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student life",
+    "weight": 3
+  },
+  {
+    "source": "instructional excellence",
+    "target": "university administrators",
+    "weight": 3
+  },
+  {
+    "source": "student engagement",
+    "target": "university policy",
+    "weight": 3
+  },
+  {
+    "source": "student life",
+    "target": "university administrators",
+    "weight": 3
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university reform",
+    "weight": 3
+  },
+  {
+    "source": "student engagement",
+    "target": "university reform",
+    "weight": 3
+  },
+  {
+    "source": "university policy",
+    "target": "university reform",
+    "weight": 3
+  },
+  {
+    "source": "curricular design",
+    "target": "student engagement",
+    "weight": 3
+  },
+  {
+    "source": "curricular design",
+    "target": "student experience",
+    "weight": 3
+  },
+  {
+    "source": "curricular design",
+    "target": "student life",
+    "weight": 3
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "admissions selectivity",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "competency outcomes",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "faculty job insecurity",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "participatory instruction",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "peer review",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "student voice",
+    "weight": 2
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "competency outcomes",
+    "weight": 2
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "peer review",
+    "weight": 2
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "student voice",
+    "weight": 2
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "student wellbeing",
+    "weight": 2
+  },
+  {
+    "source": "competency outcomes",
+    "target": "peer review",
+    "weight": 2
+  },
+  {
+    "source": "competency outcomes",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "competency outcomes",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "competency outcomes",
+    "target": "student satisfaction",
+    "weight": 2
+  },
+  {
+    "source": "competency outcomes",
+    "target": "student voice",
+    "weight": 2
+  },
+  {
+    "source": "competency outcomes",
+    "target": "student wellbeing",
+    "weight": 2
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "participatory instruction",
+    "weight": 2
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student satisfaction",
+    "weight": 2
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student wellbeing",
+    "weight": 2
+  },
+  {
+    "source": "participatory instruction",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "participatory instruction",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "participatory instruction",
+    "target": "student satisfaction",
+    "weight": 2
+  },
+  {
+    "source": "participatory instruction",
+    "target": "student wellbeing",
+    "weight": 2
+  },
+  {
+    "source": "peer review",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "peer review",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "peer review",
+    "target": "student satisfaction",
+    "weight": 2
+  },
+  {
+    "source": "peer review",
+    "target": "student voice",
+    "weight": 2
+  },
+  {
+    "source": "peer review",
+    "target": "student wellbeing",
+    "weight": 2
+  },
+  {
+    "source": "student engagement",
+    "target": "student voice",
+    "weight": 2
+  },
+  {
+    "source": "student experience",
+    "target": "student voice",
+    "weight": 2
+  },
+  {
+    "source": "student satisfaction",
+    "target": "student voice",
+    "weight": 2
+  },
+  {
+    "source": "student voice",
+    "target": "student wellbeing",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "course evaluation",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "faculty careers",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "faculty contracts",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "faculty precarity",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "faculty redundancy",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "instructional practice",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "scholastic aptitude test",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "undergraduate pathway",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "college experience",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "college experience",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "course evaluation",
+    "target": "instructional excellence",
+    "weight": 2
+  },
+  {
+    "source": "course evaluation",
+    "target": "scholastic aptitude test",
+    "weight": 2
+  },
+  {
+    "source": "course evaluation",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "course evaluation",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "course evaluation",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "course evaluation",
+    "target": "undergraduate pathway",
+    "weight": 2
+  },
+  {
+    "source": "course evaluation",
+    "target": "university administrators",
+    "weight": 2
+  },
+  {
+    "source": "course evaluation",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "faculty careers",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "faculty careers",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "faculty careers",
+    "target": "university administrators",
+    "weight": 2
+  },
+  {
+    "source": "faculty contracts",
+    "target": "faculty precarity",
+    "weight": 2
+  },
+  {
+    "source": "faculty contracts",
+    "target": "faculty redundancy",
+    "weight": 2
+  },
+  {
+    "source": "faculty contracts",
+    "target": "instructional excellence",
+    "weight": 2
+  },
+  {
+    "source": "faculty contracts",
+    "target": "instructional practice",
+    "weight": 2
+  },
+  {
+    "source": "faculty contracts",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "faculty contracts",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "faculty contracts",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "faculty contracts",
+    "target": "university administrators",
+    "weight": 2
+  },
+  {
+    "source": "faculty precarity",
+    "target": "faculty redundancy",
+    "weight": 2
+  },
+  {
+    "source": "faculty precarity",
+    "target": "instructional excellence",
+    "weight": 2
+  },
+  {
+    "source": "faculty precarity",
+    "target": "instructional practice",
+    "weight": 2
+  },
+  {
+    "source": "faculty precarity",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "faculty precarity",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "faculty precarity",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "faculty precarity",
+    "target": "university administrators",
+    "weight": 2
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "instructional excellence",
+    "weight": 2
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "instructional practice",
+    "weight": 2
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "university administrators",
+    "weight": 2
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "instructional excellence",
+    "target": "instructional practice",
+    "weight": 2
+  },
+  {
+    "source": "instructional excellence",
+    "target": "undergraduate pathway",
+    "weight": 2
+  },
+  {
+    "source": "instructional excellence",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "instructional practice",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "instructional practice",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "instructional practice",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "instructional practice",
+    "target": "university administrators",
+    "weight": 2
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "undergraduate pathway",
+    "weight": 2
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "university administrators",
+    "weight": 2
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "student engagement",
+    "target": "undergraduate pathway",
+    "weight": 2
+  },
+  {
+    "source": "student experience",
+    "target": "undergraduate pathway",
+    "weight": 2
+  },
+  {
+    "source": "student life",
+    "target": "undergraduate pathway",
+    "weight": 2
+  },
+  {
+    "source": "student life",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "undergraduate pathway",
+    "target": "university administrators",
+    "weight": 2
+  },
+  {
+    "source": "undergraduate pathway",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "university administrators",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "admissions criteria",
+    "target": "admissions selectivity",
+    "weight": 2
+  },
+  {
+    "source": "admissions criteria",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "admissions criteria",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "admissions criteria",
+    "target": "student satisfaction",
+    "weight": 2
+  },
+  {
+    "source": "admissions criteria",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "admissions criteria",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "college experience",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "student satisfaction",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "student satisfaction",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "faculty hiring market",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "faculty workload",
+    "weight": 2
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "faculty workload",
+    "weight": 2
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "mentor-student relationship",
+    "weight": 2
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "university administrators",
+    "weight": 2
+  },
+  {
+    "source": "faculty workload",
+    "target": "mentor-student relationship",
+    "weight": 2
+  },
+  {
+    "source": "faculty workload",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "faculty workload",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "faculty workload",
+    "target": "university administrators",
+    "weight": 2
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "university administrators",
+    "weight": 2
+  },
+  {
+    "source": "research collaboration",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "research collaboration",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "accreditation review",
+    "target": "competency outcomes",
+    "weight": 2
+  },
+  {
+    "source": "accreditation review",
+    "target": "instructional excellence",
+    "weight": 2
+  },
+  {
+    "source": "accreditation review",
+    "target": "scholastic aptitude test",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "curricular design",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "student retention",
+    "weight": 2
+  },
+  {
+    "source": "competency outcomes",
+    "target": "instructional excellence",
+    "weight": 2
+  },
+  {
+    "source": "competency outcomes",
+    "target": "scholastic aptitude test",
+    "weight": 2
+  },
+  {
+    "source": "curricular design",
+    "target": "instructional excellence",
+    "weight": 2
+  },
+  {
+    "source": "curricular design",
+    "target": "student retention",
+    "weight": 2
+  },
+  {
+    "source": "curricular design",
+    "target": "student satisfaction",
+    "weight": 2
+  },
+  {
+    "source": "curricular design",
+    "target": "student wellbeing",
+    "weight": 2
+  },
+  {
+    "source": "curricular design",
+    "target": "university administrators",
+    "weight": 2
+  },
+  {
+    "source": "curricular design",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "educational instability",
+    "target": "global experience",
+    "weight": 2
+  },
+  {
+    "source": "educational instability",
+    "target": "international cohorts",
+    "weight": 2
+  },
+  {
+    "source": "educational instability",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "educational instability",
+    "target": "study abroad",
+    "weight": 2
+  },
+  {
+    "source": "educational instability",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "educational instability",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "global experience",
+    "target": "international cohorts",
+    "weight": 2
+  },
+  {
+    "source": "global experience",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "global experience",
+    "target": "study abroad",
+    "weight": 2
+  },
+  {
+    "source": "global experience",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "global experience",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student retention",
+    "weight": 2
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student satisfaction",
+    "weight": 2
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student wellbeing",
+    "weight": 2
+  },
+  {
+    "source": "international cohorts",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "international cohorts",
+    "target": "study abroad",
+    "weight": 2
+  },
+  {
+    "source": "international cohorts",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "international cohorts",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "student engagement",
+    "target": "student retention",
+    "weight": 2
+  },
+  {
+    "source": "student experience",
+    "target": "student retention",
+    "weight": 2
+  },
+  {
+    "source": "student experience",
+    "target": "study abroad",
+    "weight": 2
+  },
+  {
+    "source": "student life",
+    "target": "student retention",
+    "weight": 2
+  },
+  {
+    "source": "student life",
+    "target": "student satisfaction",
+    "weight": 2
+  },
+  {
+    "source": "student life",
+    "target": "student wellbeing",
+    "weight": 2
+  },
+  {
+    "source": "student life",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "student retention",
+    "target": "student satisfaction",
+    "weight": 2
+  },
+  {
+    "source": "student retention",
+    "target": "student wellbeing",
+    "weight": 2
+  },
+  {
+    "source": "student retention",
+    "target": "university administrators",
+    "weight": 2
+  },
+  {
+    "source": "student satisfaction",
+    "target": "university administrators",
+    "weight": 2
+  },
+  {
+    "source": "student wellbeing",
+    "target": "university administrators",
+    "weight": 2
+  },
+  {
+    "source": "study abroad",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "study abroad",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "university administrators",
+    "target": "university leadership",
+    "weight": 2
+  },
+  {
+    "source": "education crisis",
+    "target": "higher education crisis",
+    "weight": 2
+  },
+  {
+    "source": "education crisis",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "education crisis",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "diversity equity and inclusion initiatives",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "sexual harassment",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "diversity equity and inclusion initiatives",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "sexual harassment",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "diversity equity and inclusion initiatives",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "sexual harassment",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "peer review",
+    "weight": 1
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "sexual harassment",
+    "weight": 1
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "peer review",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "sexual harassment",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "peer review",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "sexual harassment",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "peer review",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "sexual harassment",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "peer review",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "sexual harassment",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "inclusivity",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "inclusivity",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "inclusivity",
+    "target": "peer review",
+    "weight": 1
+  },
+  {
+    "source": "inclusivity",
+    "target": "sexual harassment",
+    "weight": 1
+  },
+  {
+    "source": "inclusivity",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "inclusivity",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "inclusivity",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "inclusivity",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "inclusivity",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "inclusivity",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "inclusivity",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "inclusivity",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "inclusivity",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "peer review",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "sexual harassment",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "participatory instruction",
+    "target": "peer review",
+    "weight": 1
+  },
+  {
+    "source": "participatory instruction",
+    "target": "sexual harassment",
+    "weight": 1
+  },
+  {
+    "source": "participatory instruction",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "participatory instruction",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "participatory instruction",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "participatory instruction",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "participatory instruction",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "peer review",
+    "target": "sexual harassment",
+    "weight": 1
+  },
+  {
+    "source": "peer review",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "peer review",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "peer review",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "peer review",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "sexual harassment",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "sexual harassment",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "sexual harassment",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "sexual harassment",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "sexual harassment",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "sexual harassment",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "sexual harassment",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "sexual harassment",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "sexual harassment",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "student protest",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "student protest",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "student protest",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "student protest",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "student protest",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "student protest",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "student satisfaction",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "student satisfaction",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "student satisfaction",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "student voice",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "student voice",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "student voice",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "student wellbeing",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "student wellbeing",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "student wellbeing",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "suppressing dissent",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "suppressing dissent",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "systemic education failure",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "adjunct faculty",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "arbitrary disciplinary actions",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "bachelor qualification",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "college experience",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "course evaluation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "degree pathway",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "doctoral qualification",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "faculty careers",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "faculty contracts",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "faculty unemployment",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "graduate management admission test",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "graduate record examination",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "master qualification",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "misconduct",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "professional marginalisation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "standards of conduct",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "arbitrary disciplinary actions",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "bachelor qualification",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "college experience",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "degree pathway",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "doctoral qualification",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "faculty unemployment",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "graduate management admission test",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "graduate record examination",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "master qualification",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "misconduct",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "professional marginalisation",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "standards of conduct",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary disciplinary actions",
+    "target": "bachelor qualification",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary disciplinary actions",
+    "target": "college experience",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary disciplinary actions",
+    "target": "course evaluation",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary disciplinary actions",
+    "target": "degree pathway",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary disciplinary actions",
+    "target": "doctoral qualification",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary disciplinary actions",
+    "target": "faculty careers",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary disciplinary actions",
+    "target": "faculty contracts",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary disciplinary actions",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary disciplinary actions",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary disciplinary actions",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary disciplinary actions",
+    "target": "faculty unemployment",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary disciplinary actions",
+    "target": "graduate management admission test",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary disciplinary actions",
+    "target": "graduate record examination",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary disciplinary actions",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary disciplinary actions",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary disciplinary actions",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary disciplinary actions",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary disciplinary actions",
+    "target": "master qualification",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary disciplinary actions",
+    "target": "misconduct",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary disciplinary actions",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary disciplinary actions",
+    "target": "professional marginalisation",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary disciplinary actions",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary disciplinary actions",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary disciplinary actions",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary disciplinary actions",
+    "target": "standards of conduct",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary disciplinary actions",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary disciplinary actions",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary disciplinary actions",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary disciplinary actions",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary disciplinary actions",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary disciplinary actions",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "arbitrary disciplinary actions",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "bachelor qualification",
+    "target": "college experience",
+    "weight": 1
+  },
+  {
+    "source": "bachelor qualification",
+    "target": "course evaluation",
+    "weight": 1
+  },
+  {
+    "source": "bachelor qualification",
+    "target": "degree pathway",
+    "weight": 1
+  },
+  {
+    "source": "bachelor qualification",
+    "target": "doctoral qualification",
+    "weight": 1
+  },
+  {
+    "source": "bachelor qualification",
+    "target": "faculty careers",
+    "weight": 1
+  },
+  {
+    "source": "bachelor qualification",
+    "target": "faculty contracts",
+    "weight": 1
+  },
+  {
+    "source": "bachelor qualification",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "bachelor qualification",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "bachelor qualification",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "bachelor qualification",
+    "target": "faculty unemployment",
+    "weight": 1
+  },
+  {
+    "source": "bachelor qualification",
+    "target": "graduate management admission test",
+    "weight": 1
+  },
+  {
+    "source": "bachelor qualification",
+    "target": "graduate record examination",
+    "weight": 1
+  },
+  {
+    "source": "bachelor qualification",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "bachelor qualification",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "bachelor qualification",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "bachelor qualification",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "bachelor qualification",
+    "target": "master qualification",
+    "weight": 1
+  },
+  {
+    "source": "bachelor qualification",
+    "target": "misconduct",
+    "weight": 1
+  },
+  {
+    "source": "bachelor qualification",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "bachelor qualification",
+    "target": "professional marginalisation",
+    "weight": 1
+  },
+  {
+    "source": "bachelor qualification",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "bachelor qualification",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "bachelor qualification",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "bachelor qualification",
+    "target": "standards of conduct",
+    "weight": 1
+  },
+  {
+    "source": "bachelor qualification",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "bachelor qualification",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "bachelor qualification",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "bachelor qualification",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "bachelor qualification",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "bachelor qualification",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "bachelor qualification",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "course evaluation",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "degree pathway",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "doctoral qualification",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "faculty careers",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "faculty contracts",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "faculty unemployment",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "graduate management admission test",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "graduate record examination",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "master qualification",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "misconduct",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "professional marginalisation",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "standards of conduct",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "degree pathway",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "doctoral qualification",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "faculty careers",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "faculty contracts",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "faculty unemployment",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "graduate management admission test",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "graduate record examination",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "master qualification",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "misconduct",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "professional marginalisation",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "standards of conduct",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "degree pathway",
+    "target": "doctoral qualification",
+    "weight": 1
+  },
+  {
+    "source": "degree pathway",
+    "target": "faculty careers",
+    "weight": 1
+  },
+  {
+    "source": "degree pathway",
+    "target": "faculty contracts",
+    "weight": 1
+  },
+  {
+    "source": "degree pathway",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "degree pathway",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "degree pathway",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "degree pathway",
+    "target": "faculty unemployment",
+    "weight": 1
+  },
+  {
+    "source": "degree pathway",
+    "target": "graduate management admission test",
+    "weight": 1
+  },
+  {
+    "source": "degree pathway",
+    "target": "graduate record examination",
+    "weight": 1
+  },
+  {
+    "source": "degree pathway",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "degree pathway",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "degree pathway",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "degree pathway",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "degree pathway",
+    "target": "master qualification",
+    "weight": 1
+  },
+  {
+    "source": "degree pathway",
+    "target": "misconduct",
+    "weight": 1
+  },
+  {
+    "source": "degree pathway",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "degree pathway",
+    "target": "professional marginalisation",
+    "weight": 1
+  },
+  {
+    "source": "degree pathway",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "degree pathway",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "degree pathway",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "degree pathway",
+    "target": "standards of conduct",
+    "weight": 1
+  },
+  {
+    "source": "degree pathway",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "degree pathway",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "degree pathway",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "degree pathway",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "degree pathway",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "degree pathway",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "degree pathway",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "doctoral qualification",
+    "target": "faculty careers",
+    "weight": 1
+  },
+  {
+    "source": "doctoral qualification",
+    "target": "faculty contracts",
+    "weight": 1
+  },
+  {
+    "source": "doctoral qualification",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "doctoral qualification",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "doctoral qualification",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "doctoral qualification",
+    "target": "faculty unemployment",
+    "weight": 1
+  },
+  {
+    "source": "doctoral qualification",
+    "target": "graduate management admission test",
+    "weight": 1
+  },
+  {
+    "source": "doctoral qualification",
+    "target": "graduate record examination",
+    "weight": 1
+  },
+  {
+    "source": "doctoral qualification",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "doctoral qualification",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "doctoral qualification",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "doctoral qualification",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "doctoral qualification",
+    "target": "master qualification",
+    "weight": 1
+  },
+  {
+    "source": "doctoral qualification",
+    "target": "misconduct",
+    "weight": 1
+  },
+  {
+    "source": "doctoral qualification",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "doctoral qualification",
+    "target": "professional marginalisation",
+    "weight": 1
+  },
+  {
+    "source": "doctoral qualification",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "doctoral qualification",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "doctoral qualification",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "doctoral qualification",
+    "target": "standards of conduct",
+    "weight": 1
+  },
+  {
+    "source": "doctoral qualification",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "doctoral qualification",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "doctoral qualification",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "doctoral qualification",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "doctoral qualification",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "doctoral qualification",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "doctoral qualification",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "faculty contracts",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "faculty unemployment",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "graduate management admission test",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "graduate record examination",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "master qualification",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "misconduct",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "professional marginalisation",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "standards of conduct",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "faculty unemployment",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "graduate management admission test",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "graduate record examination",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "master qualification",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "misconduct",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "professional marginalisation",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "standards of conduct",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "faculty unemployment",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "graduate management admission test",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "graduate record examination",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "master qualification",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "misconduct",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "professional marginalisation",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "standards of conduct",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "faculty unemployment",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "graduate management admission test",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "graduate record examination",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "master qualification",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "misconduct",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "professional marginalisation",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "standards of conduct",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "faculty unemployment",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "graduate management admission test",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "graduate record examination",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "master qualification",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "misconduct",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "professional marginalisation",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "standards of conduct",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "graduate management admission test",
+    "weight": 1
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "graduate record examination",
+    "weight": 1
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "master qualification",
+    "weight": 1
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "misconduct",
+    "weight": 1
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "professional marginalisation",
+    "weight": 1
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "standards of conduct",
+    "weight": 1
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "graduate management admission test",
+    "target": "graduate record examination",
+    "weight": 1
+  },
+  {
+    "source": "graduate management admission test",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "graduate management admission test",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "graduate management admission test",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "graduate management admission test",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "graduate management admission test",
+    "target": "master qualification",
+    "weight": 1
+  },
+  {
+    "source": "graduate management admission test",
+    "target": "misconduct",
+    "weight": 1
+  },
+  {
+    "source": "graduate management admission test",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "graduate management admission test",
+    "target": "professional marginalisation",
+    "weight": 1
+  },
+  {
+    "source": "graduate management admission test",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "graduate management admission test",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "graduate management admission test",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "graduate management admission test",
+    "target": "standards of conduct",
+    "weight": 1
+  },
+  {
+    "source": "graduate management admission test",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "graduate management admission test",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "graduate management admission test",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "graduate management admission test",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "graduate management admission test",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "graduate management admission test",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "graduate management admission test",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "graduate record examination",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "graduate record examination",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "graduate record examination",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "graduate record examination",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "graduate record examination",
+    "target": "master qualification",
+    "weight": 1
+  },
+  {
+    "source": "graduate record examination",
+    "target": "misconduct",
+    "weight": 1
+  },
+  {
+    "source": "graduate record examination",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "graduate record examination",
+    "target": "professional marginalisation",
+    "weight": 1
+  },
+  {
+    "source": "graduate record examination",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "graduate record examination",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "graduate record examination",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "graduate record examination",
+    "target": "standards of conduct",
+    "weight": 1
+  },
+  {
+    "source": "graduate record examination",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "graduate record examination",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "graduate record examination",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "graduate record examination",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "graduate record examination",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "graduate record examination",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "graduate record examination",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "master qualification",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "misconduct",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "professional marginalisation",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "standards of conduct",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "master qualification",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "misconduct",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "professional marginalisation",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "standards of conduct",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "master qualification",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "misconduct",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "professional marginalisation",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "standards of conduct",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "instructional practice",
+    "target": "master qualification",
+    "weight": 1
+  },
+  {
+    "source": "instructional practice",
+    "target": "misconduct",
+    "weight": 1
+  },
+  {
+    "source": "instructional practice",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "instructional practice",
+    "target": "professional marginalisation",
+    "weight": 1
+  },
+  {
+    "source": "instructional practice",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "instructional practice",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "instructional practice",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "instructional practice",
+    "target": "standards of conduct",
+    "weight": 1
+  },
+  {
+    "source": "instructional practice",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "instructional practice",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "instructional practice",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "master qualification",
+    "target": "misconduct",
+    "weight": 1
+  },
+  {
+    "source": "master qualification",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "master qualification",
+    "target": "professional marginalisation",
+    "weight": 1
+  },
+  {
+    "source": "master qualification",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "master qualification",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "master qualification",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "master qualification",
+    "target": "standards of conduct",
+    "weight": 1
+  },
+  {
+    "source": "master qualification",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "master qualification",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "master qualification",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "master qualification",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "master qualification",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "master qualification",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "master qualification",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "misconduct",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "misconduct",
+    "target": "professional marginalisation",
+    "weight": 1
+  },
+  {
+    "source": "misconduct",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "misconduct",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "misconduct",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "misconduct",
+    "target": "standards of conduct",
+    "weight": 1
+  },
+  {
+    "source": "misconduct",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "misconduct",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "misconduct",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "misconduct",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "misconduct",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "misconduct",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "misconduct",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "professional marginalisation",
+    "weight": 1
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "standards of conduct",
+    "weight": 1
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "professional marginalisation",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "professional marginalisation",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "professional marginalisation",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "professional marginalisation",
+    "target": "standards of conduct",
+    "weight": 1
+  },
+  {
+    "source": "professional marginalisation",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "professional marginalisation",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "professional marginalisation",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "professional marginalisation",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "professional marginalisation",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "professional marginalisation",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "professional marginalisation",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "standards of conduct",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "scholarships",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "scholarships",
+    "target": "standards of conduct",
+    "weight": 1
+  },
+  {
+    "source": "scholarships",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "scholarships",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "scholarships",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "scholarships",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "scholarships",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "scholarships",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "scholarships",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "standards of conduct",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "standards of conduct",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "standards of conduct",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "standards of conduct",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "standards of conduct",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "standards of conduct",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "standards of conduct",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "standards of conduct",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "undergraduate pathway",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "university administrators",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "university bylaws",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "college experience",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "cost of attendance support",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "college experience",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "cost of attendance support",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "cost of attendance support",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "cost of attendance support",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "cost of attendance support",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "cost of attendance support",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "cost of attendance support",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "cost of attendance support",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "cost of attendance support",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "cost of attendance support",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "cost of attendance support",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "student satisfaction",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "student satisfaction",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "tuition affordability",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "tuition affordability",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "tuition affordability",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "tuition fee",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "tuition fee",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "faculty labour exploitation",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "faculty hiring market",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "faculty labour exploitation",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "faculty workload",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "faculty labour exploitation",
+    "weight": 1
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "faculty workload",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "faculty workload",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "research collaboration",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "academic model breakdown",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "accreditation review",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "adjunct faculty",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "admissions criteria",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "admissions selectivity",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "competency outcomes",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "course evaluation",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "curricular design",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "global experience",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "international cohorts",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "peer review",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "rigorous standards",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "standardised testing",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "validation process",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "accreditation review",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "adjunct faculty",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "admissions criteria",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "admissions selectivity",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "competency outcomes",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "course evaluation",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "curricular design",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "global experience",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "international cohorts",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "peer review",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "rigorous standards",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "standardised testing",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "validation process",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "adjunct faculty",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "admissions criteria",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "admissions selectivity",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "course evaluation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "curricular design",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "global experience",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "international cohorts",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "peer review",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "rigorous standards",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "standardised testing",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "validation process",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "admissions criteria",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "global experience",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "international cohorts",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "rigorous standards",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "standardised testing",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "validation process",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "competency outcomes",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "course evaluation",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "curricular design",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "global experience",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "international cohorts",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "peer review",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "rigorous standards",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "standardised testing",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "validation process",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "course evaluation",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "curricular design",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "global experience",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "international cohorts",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "rigorous standards",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "standardised testing",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "validation process",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "course evaluation",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "curricular design",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "global experience",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "international cohorts",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "rigorous standards",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "standardised testing",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "validation process",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "curricular design",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "global experience",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "international cohorts",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "peer review",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "rigorous standards",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "standardised testing",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "validation process",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "global experience",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "international cohorts",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "peer review",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "rigorous standards",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "standardised testing",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "validation process",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "peer review",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "rigorous standards",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "standardised testing",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "validation process",
+    "weight": 1
+  },
+  {
+    "source": "global experience",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "global experience",
+    "target": "peer review",
+    "weight": 1
+  },
+  {
+    "source": "global experience",
+    "target": "rigorous standards",
+    "weight": 1
+  },
+  {
+    "source": "global experience",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "global experience",
+    "target": "standardised testing",
+    "weight": 1
+  },
+  {
+    "source": "global experience",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "global experience",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "global experience",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "global experience",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "global experience",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "global experience",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "global experience",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "global experience",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "global experience",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "global experience",
+    "target": "validation process",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "international cohorts",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "peer review",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "rigorous standards",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "standardised testing",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "validation process",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "peer review",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "rigorous standards",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "standardised testing",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "validation process",
+    "weight": 1
+  },
+  {
+    "source": "peer review",
+    "target": "rigorous standards",
+    "weight": 1
+  },
+  {
+    "source": "peer review",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "peer review",
+    "target": "standardised testing",
+    "weight": 1
+  },
+  {
+    "source": "peer review",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "peer review",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "peer review",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "peer review",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "peer review",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "peer review",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "peer review",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "peer review",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "peer review",
+    "target": "validation process",
+    "weight": 1
+  },
+  {
+    "source": "rigorous standards",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "rigorous standards",
+    "target": "standardised testing",
+    "weight": 1
+  },
+  {
+    "source": "rigorous standards",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "rigorous standards",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "rigorous standards",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "rigorous standards",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "rigorous standards",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "rigorous standards",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "rigorous standards",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "rigorous standards",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "rigorous standards",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "rigorous standards",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "rigorous standards",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "rigorous standards",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "rigorous standards",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "rigorous standards",
+    "target": "validation process",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "standardised testing",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "validation process",
+    "weight": 1
+  },
+  {
+    "source": "standardised testing",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "standardised testing",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "standardised testing",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "standardised testing",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "standardised testing",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "standardised testing",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "standardised testing",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "standardised testing",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "standardised testing",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "standardised testing",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "standardised testing",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "standardised testing",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "standardised testing",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "standardised testing",
+    "target": "validation process",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "validation process",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "validation process",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "validation process",
+    "weight": 1
+  },
+  {
+    "source": "student retention",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "student retention",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "student retention",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "student retention",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "student retention",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "student retention",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "student retention",
+    "target": "validation process",
+    "weight": 1
+  },
+  {
+    "source": "student satisfaction",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "student satisfaction",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "student satisfaction",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "student satisfaction",
+    "target": "validation process",
+    "weight": 1
+  },
+  {
+    "source": "student voice",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "student voice",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "student voice",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "student voice",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "student voice",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "student voice",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "student voice",
+    "target": "validation process",
+    "weight": 1
+  },
+  {
+    "source": "student wellbeing",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "student wellbeing",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "student wellbeing",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "student wellbeing",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "student wellbeing",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "student wellbeing",
+    "target": "validation process",
+    "weight": 1
+  },
+  {
+    "source": "study abroad",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "study abroad",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "study abroad",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "study abroad",
+    "target": "validation process",
+    "weight": 1
+  },
+  {
+    "source": "undergraduate pathway",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "undergraduate pathway",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "undergraduate pathway",
+    "target": "validation process",
+    "weight": 1
+  },
+  {
+    "source": "university administrators",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "university administrators",
+    "target": "validation process",
+    "weight": 1
+  },
+  {
+    "source": "university leadership",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "university leadership",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "university leadership",
+    "target": "validation process",
+    "weight": 1
+  },
+  {
+    "source": "university policy",
+    "target": "validation process",
+    "weight": 1
+  },
+  {
+    "source": "university reform",
+    "target": "validation process",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "global experience",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "international cohorts",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "united kingdom",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "global experience",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "international cohorts",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "united kingdom",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "united kingdom",
+    "weight": 1
+  },
+  {
+    "source": "global experience",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "global experience",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "global experience",
+    "target": "united kingdom",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "international cohorts",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "united kingdom",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "united kingdom",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "united kingdom",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "united kingdom",
+    "weight": 1
+  },
+  {
+    "source": "study abroad",
+    "target": "united kingdom",
+    "weight": 1
+  },
+  {
+    "source": "united kingdom",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "united kingdom",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "classroom methods",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "curricular design",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "faculty contracts",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "faculty hiring market",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "faculty workload",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "faculty contracts",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "faculty hiring market",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "faculty workload",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "faculty hiring market",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "faculty workload",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "faculty workload",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "faculty workload",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "faculty workload",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "faculty workload",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "faculty workload",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "faculty workload",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "faculty workload",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "faculty workload",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "faculty workload",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "instructional practice",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "instructional practice",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "instructional practice",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "instructional practice",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "instructional practice",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "participatory instruction",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "participatory instruction",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "participatory instruction",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "curricular design",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "diversity equity and inclusion initiatives",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "institutional partnerships",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "diversity equity and inclusion initiatives",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "institutional partnerships",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "institutional partnerships",
+    "weight": 1
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "diversity equity and inclusion initiatives",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "institutional partnerships",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "institutional partnerships",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "research collaboration",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "research collaboration",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "accreditation review",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "algorithmic assessment",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "artificial intelligence",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "competency outcomes",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "edtech",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "empirical research",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "generative AI",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "online learning",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "theoretical research",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "algorithmic assessment",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "artificial intelligence",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "edtech",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "empirical research",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "generative AI",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "online learning",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "theoretical research",
+    "weight": 1
+  },
+  {
+    "source": "algorithmic assessment",
+    "target": "artificial intelligence",
+    "weight": 1
+  },
+  {
+    "source": "algorithmic assessment",
+    "target": "competency outcomes",
+    "weight": 1
+  },
+  {
+    "source": "algorithmic assessment",
+    "target": "edtech",
+    "weight": 1
+  },
+  {
+    "source": "algorithmic assessment",
+    "target": "empirical research",
+    "weight": 1
+  },
+  {
+    "source": "algorithmic assessment",
+    "target": "generative AI",
+    "weight": 1
+  },
+  {
+    "source": "algorithmic assessment",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "algorithmic assessment",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "algorithmic assessment",
+    "target": "online learning",
+    "weight": 1
+  },
+  {
+    "source": "algorithmic assessment",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "algorithmic assessment",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "algorithmic assessment",
+    "target": "theoretical research",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "competency outcomes",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "edtech",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "empirical research",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "generative AI",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "online learning",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "theoretical research",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "edtech",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "empirical research",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "generative AI",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "online learning",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "theoretical research",
+    "weight": 1
+  },
+  {
+    "source": "edtech",
+    "target": "empirical research",
+    "weight": 1
+  },
+  {
+    "source": "edtech",
+    "target": "generative AI",
+    "weight": 1
+  },
+  {
+    "source": "edtech",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "edtech",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "edtech",
+    "target": "online learning",
+    "weight": 1
+  },
+  {
+    "source": "edtech",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "edtech",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "edtech",
+    "target": "theoretical research",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "generative AI",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "online learning",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "theoretical research",
+    "weight": 1
+  },
+  {
+    "source": "generative AI",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "generative AI",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "generative AI",
+    "target": "online learning",
+    "weight": 1
+  },
+  {
+    "source": "generative AI",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "generative AI",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "generative AI",
+    "target": "theoretical research",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "online learning",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "theoretical research",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "online learning",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "theoretical research",
+    "weight": 1
+  },
+  {
+    "source": "online learning",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "online learning",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "online learning",
+    "target": "theoretical research",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "theoretical research",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "theoretical research",
+    "weight": 1
+  },
+  {
+    "source": "budget constraints",
+    "target": "environmental sustainability",
+    "weight": 1
+  },
+  {
+    "source": "budget constraints",
+    "target": "future planning",
+    "weight": 1
+  },
+  {
+    "source": "budget constraints",
+    "target": "institutional governance",
+    "weight": 1
+  },
+  {
+    "source": "budget constraints",
+    "target": "institutional partnerships",
+    "weight": 1
+  },
+  {
+    "source": "budget constraints",
+    "target": "senior leadership",
+    "weight": 1
+  },
+  {
+    "source": "budget constraints",
+    "target": "sustainability",
+    "weight": 1
+  },
+  {
+    "source": "budget constraints",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "budget constraints",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "environmental sustainability",
+    "target": "future planning",
+    "weight": 1
+  },
+  {
+    "source": "environmental sustainability",
+    "target": "institutional governance",
+    "weight": 1
+  },
+  {
+    "source": "environmental sustainability",
+    "target": "institutional partnerships",
+    "weight": 1
+  },
+  {
+    "source": "environmental sustainability",
+    "target": "senior leadership",
+    "weight": 1
+  },
+  {
+    "source": "environmental sustainability",
+    "target": "sustainability",
+    "weight": 1
+  },
+  {
+    "source": "environmental sustainability",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "environmental sustainability",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "future planning",
+    "target": "institutional governance",
+    "weight": 1
+  },
+  {
+    "source": "future planning",
+    "target": "institutional partnerships",
+    "weight": 1
+  },
+  {
+    "source": "future planning",
+    "target": "senior leadership",
+    "weight": 1
+  },
+  {
+    "source": "future planning",
+    "target": "sustainability",
+    "weight": 1
+  },
+  {
+    "source": "future planning",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "future planning",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "institutional partnerships",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "senior leadership",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "sustainability",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "senior leadership",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "sustainability",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "senior leadership",
+    "target": "sustainability",
+    "weight": 1
+  },
+  {
+    "source": "senior leadership",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "senior leadership",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "sustainability",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "sustainability",
+    "target": "university leadership",
+    "weight": 1
+  }
+]

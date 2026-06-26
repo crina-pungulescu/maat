@@ -1,0 +1,266 @@
+[
+  {
+    "source": "admissions selectivity",
+    "target": "student satisfaction",
+    "co_occurrence": 3,
+    "npmi": 0.7611
+  },
+  {
+    "source": "student satisfaction",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "npmi": 0.7611
+  },
+  {
+    "source": "college experience",
+    "target": "higher education crisis",
+    "co_occurrence": 3,
+    "npmi": 0.7611
+  },
+  {
+    "source": "instructional excellence",
+    "target": "scholastic aptitude test",
+    "co_occurrence": 3,
+    "npmi": 0.7611
+  },
+  {
+    "source": "curricular design",
+    "target": "student life",
+    "co_occurrence": 3,
+    "npmi": 0.7611
+  },
+  {
+    "source": "student engagement",
+    "target": "student experience",
+    "co_occurrence": 7,
+    "npmi": 0.6256
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "mentor-student relationship",
+    "co_occurrence": 3,
+    "npmi": 0.5757
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "npmi": 0.5757
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.5221
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student life",
+    "co_occurrence": 3,
+    "npmi": 0.5221
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": 0.5221
+  },
+  {
+    "source": "university policy",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": 0.5221
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "student engagement",
+    "co_occurrence": 5,
+    "npmi": 0.5146
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "university administrators",
+    "co_occurrence": 4,
+    "npmi": 0.5129
+  },
+  {
+    "source": "student engagement",
+    "target": "student satisfaction",
+    "co_occurrence": 4,
+    "npmi": 0.3893
+  },
+  {
+    "source": "student engagement",
+    "target": "student life",
+    "co_occurrence": 4,
+    "npmi": 0.3893
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "student satisfaction",
+    "co_occurrence": 3,
+    "npmi": 0.3368
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "instructional excellence",
+    "co_occurrence": 3,
+    "npmi": 0.3368
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "student life",
+    "co_occurrence": 3,
+    "npmi": 0.3368
+  },
+  {
+    "source": "instructional excellence",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "npmi": 0.3368
+  },
+  {
+    "source": "student life",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "npmi": 0.3368
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "student experience",
+    "co_occurrence": 5,
+    "npmi": 0.3219
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "npmi": 0.2962
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "npmi": 0.2962
+  },
+  {
+    "source": "student engagement",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "npmi": 0.2962
+  },
+  {
+    "source": "college experience",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "npmi": 0.2962
+  },
+  {
+    "source": "curricular design",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "npmi": 0.2962
+  },
+  {
+    "source": "student experience",
+    "target": "student satisfaction",
+    "co_occurrence": 4,
+    "npmi": 0.2435
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student experience",
+    "co_occurrence": 4,
+    "npmi": 0.2435
+  },
+  {
+    "source": "student experience",
+    "target": "student life",
+    "co_occurrence": 4,
+    "npmi": 0.2435
+  },
+  {
+    "source": "student experience",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "npmi": 0.2435
+  },
+  {
+    "source": "student experience",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "npmi": 0.2435
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "npmi": 0.1853
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "npmi": 0.1853
+  },
+  {
+    "source": "student experience",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "npmi": 0.1853
+  },
+  {
+    "source": "college experience",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "npmi": 0.1853
+  },
+  {
+    "source": "curricular design",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "npmi": 0.1853
+  },
+  {
+    "source": "student engagement",
+    "target": "university administrators",
+    "co_occurrence": 4,
+    "npmi": 0.1457
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "npmi": 0.0573
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "npmi": 0.0573
+  },
+  {
+    "source": "student engagement",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.0573
+  },
+  {
+    "source": "student engagement",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": 0.0573
+  },
+  {
+    "source": "student experience",
+    "target": "university administrators",
+    "co_occurrence": 4,
+    "npmi": 0.0
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "npmi": -0.0536
+  }
+]
