@@ -1,0 +1,6037 @@
+[
+  {
+    "source": "student engagement",
+    "target": "university policy",
+    "weight": 4
+  },
+  {
+    "source": "student engagement",
+    "target": "university reform",
+    "weight": 4
+  },
+  {
+    "source": "university policy",
+    "target": "university reform",
+    "weight": 4
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student engagement",
+    "weight": 3
+  },
+  {
+    "source": "education crisis",
+    "target": "outdated education model",
+    "weight": 3
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "higher education crisis",
+    "weight": 3
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "student engagement",
+    "weight": 3
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "student life",
+    "weight": 3
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "university policy",
+    "weight": 3
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "university reform",
+    "weight": 3
+  },
+  {
+    "source": "higher education crisis",
+    "target": "outdated education model",
+    "weight": 3
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student engagement",
+    "weight": 3
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student life",
+    "weight": 3
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university policy",
+    "weight": 3
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university reform",
+    "weight": 3
+  },
+  {
+    "source": "outdated education model",
+    "target": "student engagement",
+    "weight": 3
+  },
+  {
+    "source": "student engagement",
+    "target": "student life",
+    "weight": 3
+  },
+  {
+    "source": "student life",
+    "target": "university policy",
+    "weight": 3
+  },
+  {
+    "source": "student life",
+    "target": "university reform",
+    "weight": 3
+  },
+  {
+    "source": "institutional governance",
+    "target": "organisational structure",
+    "weight": 3
+  },
+  {
+    "source": "university administrators",
+    "target": "university leadership",
+    "weight": 3
+  },
+  {
+    "source": "university administrators",
+    "target": "university policy",
+    "weight": 3
+  },
+  {
+    "source": "university leadership",
+    "target": "university policy",
+    "weight": 3
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "decline of academia",
+    "weight": 3
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "faculty labour exploitation",
+    "weight": 3
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "faculty workload",
+    "weight": 3
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "student engagement",
+    "weight": 3
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "student experience",
+    "weight": 3
+  },
+  {
+    "source": "decline of academia",
+    "target": "faculty labour exploitation",
+    "weight": 3
+  },
+  {
+    "source": "decline of academia",
+    "target": "faculty workload",
+    "weight": 3
+  },
+  {
+    "source": "decline of academia",
+    "target": "student engagement",
+    "weight": 3
+  },
+  {
+    "source": "decline of academia",
+    "target": "student experience",
+    "weight": 3
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "faculty workload",
+    "weight": 3
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "student engagement",
+    "weight": 3
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "student experience",
+    "weight": 3
+  },
+  {
+    "source": "faculty workload",
+    "target": "student engagement",
+    "weight": 3
+  },
+  {
+    "source": "faculty workload",
+    "target": "student experience",
+    "weight": 3
+  },
+  {
+    "source": "student engagement",
+    "target": "student experience",
+    "weight": 3
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "organisational structure",
+    "weight": 3
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "faculty redundancy",
+    "weight": 2
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "higher education crisis",
+    "weight": 2
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "outdated education model",
+    "weight": 2
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "education crisis",
+    "target": "educational decline",
+    "weight": 2
+  },
+  {
+    "source": "education crisis",
+    "target": "educational instability",
+    "weight": 2
+  },
+  {
+    "source": "education crisis",
+    "target": "higher education crisis",
+    "weight": 2
+  },
+  {
+    "source": "educational decline",
+    "target": "educational instability",
+    "weight": 2
+  },
+  {
+    "source": "educational decline",
+    "target": "outdated education model",
+    "weight": 2
+  },
+  {
+    "source": "educational instability",
+    "target": "outdated education model",
+    "weight": 2
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "outdated education model",
+    "weight": 2
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "student retention",
+    "weight": 2
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student retention",
+    "weight": 2
+  },
+  {
+    "source": "outdated education model",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "outdated education model",
+    "target": "student retention",
+    "weight": 2
+  },
+  {
+    "source": "outdated education model",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "outdated education model",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "student engagement",
+    "target": "student retention",
+    "weight": 2
+  },
+  {
+    "source": "student life",
+    "target": "student retention",
+    "weight": 2
+  },
+  {
+    "source": "student retention",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "student retention",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "student engagement",
+    "target": "student protest",
+    "weight": 2
+  },
+  {
+    "source": "student protest",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "student protest",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "institutional governance",
+    "target": "senior leadership",
+    "weight": 2
+  },
+  {
+    "source": "institutional governance",
+    "target": "university administrators",
+    "weight": 2
+  },
+  {
+    "source": "institutional governance",
+    "target": "university leadership",
+    "weight": 2
+  },
+  {
+    "source": "institutional governance",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "organisational structure",
+    "target": "senior leadership",
+    "weight": 2
+  },
+  {
+    "source": "organisational structure",
+    "target": "university administrators",
+    "weight": 2
+  },
+  {
+    "source": "organisational structure",
+    "target": "university leadership",
+    "weight": 2
+  },
+  {
+    "source": "organisational structure",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "senior leadership",
+    "target": "university administrators",
+    "weight": 2
+  },
+  {
+    "source": "senior leadership",
+    "target": "university leadership",
+    "weight": 2
+  },
+  {
+    "source": "senior leadership",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "adjunct faculty",
+    "weight": 2
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "decline of academia",
+    "weight": 2
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "faculty labour exploitation",
+    "weight": 2
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "faculty workload",
+    "weight": 2
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "college experience",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "faculty careers",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "faculty contracts",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "faculty job insecurity",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "faculty precarity",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "faculty redundancy",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "higher education crisis",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "instructional excellence",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "postgraduate pathway",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "undergraduate pathway",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "university administrators",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "university bylaws",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "university leadership",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "university senate",
+    "weight": 2
+  },
+  {
+    "source": "college experience",
+    "target": "decline of academia",
+    "weight": 2
+  },
+  {
+    "source": "college experience",
+    "target": "faculty careers",
+    "weight": 2
+  },
+  {
+    "source": "college experience",
+    "target": "faculty contracts",
+    "weight": 2
+  },
+  {
+    "source": "college experience",
+    "target": "faculty job insecurity",
+    "weight": 2
+  },
+  {
+    "source": "college experience",
+    "target": "faculty labour exploitation",
+    "weight": 2
+  },
+  {
+    "source": "college experience",
+    "target": "faculty precarity",
+    "weight": 2
+  },
+  {
+    "source": "college experience",
+    "target": "faculty redundancy",
+    "weight": 2
+  },
+  {
+    "source": "college experience",
+    "target": "faculty workload",
+    "weight": 2
+  },
+  {
+    "source": "college experience",
+    "target": "higher education crisis",
+    "weight": 2
+  },
+  {
+    "source": "college experience",
+    "target": "instructional excellence",
+    "weight": 2
+  },
+  {
+    "source": "college experience",
+    "target": "postgraduate pathway",
+    "weight": 2
+  },
+  {
+    "source": "college experience",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "college experience",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "college experience",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "college experience",
+    "target": "undergraduate pathway",
+    "weight": 2
+  },
+  {
+    "source": "college experience",
+    "target": "university administrators",
+    "weight": 2
+  },
+  {
+    "source": "college experience",
+    "target": "university bylaws",
+    "weight": 2
+  },
+  {
+    "source": "college experience",
+    "target": "university leadership",
+    "weight": 2
+  },
+  {
+    "source": "college experience",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "college experience",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "college experience",
+    "target": "university senate",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "faculty careers",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "faculty contracts",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "faculty job insecurity",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "faculty precarity",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "faculty redundancy",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "higher education crisis",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "instructional excellence",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "postgraduate pathway",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "undergraduate pathway",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "university administrators",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "university bylaws",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "university leadership",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "university senate",
+    "weight": 2
+  },
+  {
+    "source": "faculty careers",
+    "target": "faculty contracts",
+    "weight": 2
+  },
+  {
+    "source": "faculty careers",
+    "target": "faculty job insecurity",
+    "weight": 2
+  },
+  {
+    "source": "faculty careers",
+    "target": "faculty labour exploitation",
+    "weight": 2
+  },
+  {
+    "source": "faculty careers",
+    "target": "faculty precarity",
+    "weight": 2
+  },
+  {
+    "source": "faculty careers",
+    "target": "faculty redundancy",
+    "weight": 2
+  },
+  {
+    "source": "faculty careers",
+    "target": "faculty workload",
+    "weight": 2
+  },
+  {
+    "source": "faculty careers",
+    "target": "higher education crisis",
+    "weight": 2
+  },
+  {
+    "source": "faculty careers",
+    "target": "instructional excellence",
+    "weight": 2
+  },
+  {
+    "source": "faculty careers",
+    "target": "postgraduate pathway",
+    "weight": 2
+  },
+  {
+    "source": "faculty careers",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "faculty careers",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "faculty careers",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "faculty careers",
+    "target": "undergraduate pathway",
+    "weight": 2
+  },
+  {
+    "source": "faculty careers",
+    "target": "university administrators",
+    "weight": 2
+  },
+  {
+    "source": "faculty careers",
+    "target": "university bylaws",
+    "weight": 2
+  },
+  {
+    "source": "faculty careers",
+    "target": "university leadership",
+    "weight": 2
+  },
+  {
+    "source": "faculty careers",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "faculty careers",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "faculty careers",
+    "target": "university senate",
+    "weight": 2
+  },
+  {
+    "source": "faculty contracts",
+    "target": "faculty job insecurity",
+    "weight": 2
+  },
+  {
+    "source": "faculty contracts",
+    "target": "faculty labour exploitation",
+    "weight": 2
+  },
+  {
+    "source": "faculty contracts",
+    "target": "faculty precarity",
+    "weight": 2
+  },
+  {
+    "source": "faculty contracts",
+    "target": "faculty redundancy",
+    "weight": 2
+  },
+  {
+    "source": "faculty contracts",
+    "target": "faculty workload",
+    "weight": 2
+  },
+  {
+    "source": "faculty contracts",
+    "target": "higher education crisis",
+    "weight": 2
+  },
+  {
+    "source": "faculty contracts",
+    "target": "instructional excellence",
+    "weight": 2
+  },
+  {
+    "source": "faculty contracts",
+    "target": "postgraduate pathway",
+    "weight": 2
+  },
+  {
+    "source": "faculty contracts",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "faculty contracts",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "faculty contracts",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "faculty contracts",
+    "target": "undergraduate pathway",
+    "weight": 2
+  },
+  {
+    "source": "faculty contracts",
+    "target": "university administrators",
+    "weight": 2
+  },
+  {
+    "source": "faculty contracts",
+    "target": "university bylaws",
+    "weight": 2
+  },
+  {
+    "source": "faculty contracts",
+    "target": "university leadership",
+    "weight": 2
+  },
+  {
+    "source": "faculty contracts",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "faculty contracts",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "faculty contracts",
+    "target": "university senate",
+    "weight": 2
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "faculty labour exploitation",
+    "weight": 2
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "faculty precarity",
+    "weight": 2
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "faculty redundancy",
+    "weight": 2
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "faculty workload",
+    "weight": 2
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "higher education crisis",
+    "weight": 2
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "instructional excellence",
+    "weight": 2
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "postgraduate pathway",
+    "weight": 2
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "undergraduate pathway",
+    "weight": 2
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "university administrators",
+    "weight": 2
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "university bylaws",
+    "weight": 2
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "university leadership",
+    "weight": 2
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "university senate",
+    "weight": 2
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "faculty precarity",
+    "weight": 2
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "faculty redundancy",
+    "weight": 2
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "higher education crisis",
+    "weight": 2
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "instructional excellence",
+    "weight": 2
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "postgraduate pathway",
+    "weight": 2
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "undergraduate pathway",
+    "weight": 2
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "university administrators",
+    "weight": 2
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "university bylaws",
+    "weight": 2
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "university leadership",
+    "weight": 2
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "university senate",
+    "weight": 2
+  },
+  {
+    "source": "faculty precarity",
+    "target": "faculty redundancy",
+    "weight": 2
+  },
+  {
+    "source": "faculty precarity",
+    "target": "faculty workload",
+    "weight": 2
+  },
+  {
+    "source": "faculty precarity",
+    "target": "higher education crisis",
+    "weight": 2
+  },
+  {
+    "source": "faculty precarity",
+    "target": "instructional excellence",
+    "weight": 2
+  },
+  {
+    "source": "faculty precarity",
+    "target": "postgraduate pathway",
+    "weight": 2
+  },
+  {
+    "source": "faculty precarity",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "faculty precarity",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "faculty precarity",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "faculty precarity",
+    "target": "undergraduate pathway",
+    "weight": 2
+  },
+  {
+    "source": "faculty precarity",
+    "target": "university administrators",
+    "weight": 2
+  },
+  {
+    "source": "faculty precarity",
+    "target": "university bylaws",
+    "weight": 2
+  },
+  {
+    "source": "faculty precarity",
+    "target": "university leadership",
+    "weight": 2
+  },
+  {
+    "source": "faculty precarity",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "faculty precarity",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "faculty precarity",
+    "target": "university senate",
+    "weight": 2
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "faculty workload",
+    "weight": 2
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "instructional excellence",
+    "weight": 2
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "postgraduate pathway",
+    "weight": 2
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "undergraduate pathway",
+    "weight": 2
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "university administrators",
+    "weight": 2
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "university bylaws",
+    "weight": 2
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "university leadership",
+    "weight": 2
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "university senate",
+    "weight": 2
+  },
+  {
+    "source": "faculty workload",
+    "target": "higher education crisis",
+    "weight": 2
+  },
+  {
+    "source": "faculty workload",
+    "target": "instructional excellence",
+    "weight": 2
+  },
+  {
+    "source": "faculty workload",
+    "target": "postgraduate pathway",
+    "weight": 2
+  },
+  {
+    "source": "faculty workload",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "faculty workload",
+    "target": "undergraduate pathway",
+    "weight": 2
+  },
+  {
+    "source": "faculty workload",
+    "target": "university administrators",
+    "weight": 2
+  },
+  {
+    "source": "faculty workload",
+    "target": "university bylaws",
+    "weight": 2
+  },
+  {
+    "source": "faculty workload",
+    "target": "university leadership",
+    "weight": 2
+  },
+  {
+    "source": "faculty workload",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "faculty workload",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "faculty workload",
+    "target": "university senate",
+    "weight": 2
+  },
+  {
+    "source": "higher education crisis",
+    "target": "instructional excellence",
+    "weight": 2
+  },
+  {
+    "source": "higher education crisis",
+    "target": "postgraduate pathway",
+    "weight": 2
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "higher education crisis",
+    "target": "undergraduate pathway",
+    "weight": 2
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university administrators",
+    "weight": 2
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university bylaws",
+    "weight": 2
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university leadership",
+    "weight": 2
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university senate",
+    "weight": 2
+  },
+  {
+    "source": "instructional excellence",
+    "target": "postgraduate pathway",
+    "weight": 2
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "instructional excellence",
+    "target": "undergraduate pathway",
+    "weight": 2
+  },
+  {
+    "source": "instructional excellence",
+    "target": "university administrators",
+    "weight": 2
+  },
+  {
+    "source": "instructional excellence",
+    "target": "university bylaws",
+    "weight": 2
+  },
+  {
+    "source": "instructional excellence",
+    "target": "university leadership",
+    "weight": 2
+  },
+  {
+    "source": "instructional excellence",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "instructional excellence",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "instructional excellence",
+    "target": "university senate",
+    "weight": 2
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "undergraduate pathway",
+    "weight": 2
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "university administrators",
+    "weight": 2
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "university bylaws",
+    "weight": 2
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "university leadership",
+    "weight": 2
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "university senate",
+    "weight": 2
+  },
+  {
+    "source": "student engagement",
+    "target": "undergraduate pathway",
+    "weight": 2
+  },
+  {
+    "source": "student engagement",
+    "target": "university administrators",
+    "weight": 2
+  },
+  {
+    "source": "student engagement",
+    "target": "university bylaws",
+    "weight": 2
+  },
+  {
+    "source": "student engagement",
+    "target": "university leadership",
+    "weight": 2
+  },
+  {
+    "source": "student engagement",
+    "target": "university senate",
+    "weight": 2
+  },
+  {
+    "source": "student experience",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "student experience",
+    "target": "undergraduate pathway",
+    "weight": 2
+  },
+  {
+    "source": "student experience",
+    "target": "university administrators",
+    "weight": 2
+  },
+  {
+    "source": "student experience",
+    "target": "university bylaws",
+    "weight": 2
+  },
+  {
+    "source": "student experience",
+    "target": "university leadership",
+    "weight": 2
+  },
+  {
+    "source": "student experience",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "student experience",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "student experience",
+    "target": "university senate",
+    "weight": 2
+  },
+  {
+    "source": "student life",
+    "target": "undergraduate pathway",
+    "weight": 2
+  },
+  {
+    "source": "student life",
+    "target": "university administrators",
+    "weight": 2
+  },
+  {
+    "source": "student life",
+    "target": "university bylaws",
+    "weight": 2
+  },
+  {
+    "source": "student life",
+    "target": "university leadership",
+    "weight": 2
+  },
+  {
+    "source": "student life",
+    "target": "university senate",
+    "weight": 2
+  },
+  {
+    "source": "undergraduate pathway",
+    "target": "university administrators",
+    "weight": 2
+  },
+  {
+    "source": "undergraduate pathway",
+    "target": "university bylaws",
+    "weight": 2
+  },
+  {
+    "source": "undergraduate pathway",
+    "target": "university leadership",
+    "weight": 2
+  },
+  {
+    "source": "undergraduate pathway",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "undergraduate pathway",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "undergraduate pathway",
+    "target": "university senate",
+    "weight": 2
+  },
+  {
+    "source": "university administrators",
+    "target": "university bylaws",
+    "weight": 2
+  },
+  {
+    "source": "university administrators",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "university administrators",
+    "target": "university senate",
+    "weight": 2
+  },
+  {
+    "source": "university bylaws",
+    "target": "university leadership",
+    "weight": 2
+  },
+  {
+    "source": "university bylaws",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "university bylaws",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "university bylaws",
+    "target": "university senate",
+    "weight": 2
+  },
+  {
+    "source": "university leadership",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "university leadership",
+    "target": "university senate",
+    "weight": 2
+  },
+  {
+    "source": "university policy",
+    "target": "university senate",
+    "weight": 2
+  },
+  {
+    "source": "university reform",
+    "target": "university senate",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "curricular design",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "institutional partnerships",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "organisational structure",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "outdated education model",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "pedagogical innovation",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "research collaboration",
+    "weight": 2
+  },
+  {
+    "source": "curricular design",
+    "target": "decline of academia",
+    "weight": 2
+  },
+  {
+    "source": "curricular design",
+    "target": "faculty labour exploitation",
+    "weight": 2
+  },
+  {
+    "source": "curricular design",
+    "target": "faculty workload",
+    "weight": 2
+  },
+  {
+    "source": "curricular design",
+    "target": "institutional partnerships",
+    "weight": 2
+  },
+  {
+    "source": "curricular design",
+    "target": "organisational structure",
+    "weight": 2
+  },
+  {
+    "source": "curricular design",
+    "target": "outdated education model",
+    "weight": 2
+  },
+  {
+    "source": "curricular design",
+    "target": "pedagogical innovation",
+    "weight": 2
+  },
+  {
+    "source": "curricular design",
+    "target": "research collaboration",
+    "weight": 2
+  },
+  {
+    "source": "curricular design",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "curricular design",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "institutional partnerships",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "organisational structure",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "outdated education model",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "pedagogical innovation",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "research collaboration",
+    "weight": 2
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "institutional partnerships",
+    "weight": 2
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "organisational structure",
+    "weight": 2
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "outdated education model",
+    "weight": 2
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "pedagogical innovation",
+    "weight": 2
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "research collaboration",
+    "weight": 2
+  },
+  {
+    "source": "faculty workload",
+    "target": "institutional partnerships",
+    "weight": 2
+  },
+  {
+    "source": "faculty workload",
+    "target": "organisational structure",
+    "weight": 2
+  },
+  {
+    "source": "faculty workload",
+    "target": "outdated education model",
+    "weight": 2
+  },
+  {
+    "source": "faculty workload",
+    "target": "pedagogical innovation",
+    "weight": 2
+  },
+  {
+    "source": "faculty workload",
+    "target": "research collaboration",
+    "weight": 2
+  },
+  {
+    "source": "institutional governance",
+    "target": "institutional partnerships",
+    "weight": 2
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "outdated education model",
+    "weight": 2
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "pedagogical innovation",
+    "weight": 2
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "research collaboration",
+    "weight": 2
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "organisational structure",
+    "target": "outdated education model",
+    "weight": 2
+  },
+  {
+    "source": "organisational structure",
+    "target": "pedagogical innovation",
+    "weight": 2
+  },
+  {
+    "source": "organisational structure",
+    "target": "research collaboration",
+    "weight": 2
+  },
+  {
+    "source": "organisational structure",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "organisational structure",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "outdated education model",
+    "target": "pedagogical innovation",
+    "weight": 2
+  },
+  {
+    "source": "outdated education model",
+    "target": "research collaboration",
+    "weight": 2
+  },
+  {
+    "source": "outdated education model",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "research collaboration",
+    "weight": 2
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "research collaboration",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "research collaboration",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "participatory instruction",
+    "target": "qualitative research",
+    "weight": 2
+  },
+  {
+    "source": "participatory instruction",
+    "target": "research collaboration",
+    "weight": 2
+  },
+  {
+    "source": "qualitative research",
+    "target": "research collaboration",
+    "weight": 2
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "educational decline",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "debt",
+    "target": "loan",
+    "weight": 1
+  },
+  {
+    "source": "debt",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "loan",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "international cohorts",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "over-enrollment",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "international cohorts",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "over-enrollment",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "international cohorts",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "over-enrollment",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "over-enrollment",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "over-enrollment",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "over-enrollment",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "academic model breakdown",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "adjunct faculty",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "college experience",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "decline of academia",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "faculty careers",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "faculty contracts",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "faculty labour exploitation",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "faculty workload",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "green campus",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "college experience",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "faculty careers",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "faculty contracts",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "green campus",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "green campus",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "green campus",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "green campus",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "green campus",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "green campus",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "green campus",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "green campus",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "green campus",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "green campus",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "faculty workload",
+    "target": "green campus",
+    "weight": 1
+  },
+  {
+    "source": "faculty workload",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "faculty workload",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "faculty workload",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "faculty workload",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "faculty workload",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "faculty workload",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "faculty workload",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "faculty workload",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "green campus",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "green campus",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "green campus",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "green campus",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "green campus",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "green campus",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "green campus",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "green campus",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "green campus",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "green campus",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "green campus",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "green campus",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "green campus",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "green campus",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "green campus",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "green campus",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "green campus",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "green campus",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "green campus",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "green campus",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "green campus",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "scholarships",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "scholarships",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "scholarships",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "scholarships",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "scholarships",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "scholarships",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "scholarships",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "scholarships",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "scholarships",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "scholarships",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "scholarships",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "scholarships",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "scholarships",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "student protest",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "student protest",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "student protest",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "student protest",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "student protest",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "student protest",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "student protest",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "systemic education failure",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "systemic education failure",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "systemic education failure",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "systemic education failure",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "systemic education failure",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "systemic education failure",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "systemic education failure",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "systemic education failure",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "undergraduate pathway",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "university administrators",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "university bylaws",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "university leadership",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "university policy",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "university reform",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "university senate",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "institutional governance",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "senior leadership",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "curricular design",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "institutional governance",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "institutional partnerships",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "organisational structure",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "senior leadership",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "faculty careers",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "faculty contracts",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "institutional governance",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "senior leadership",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "institutional governance",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "senior leadership",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "institutional governance",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "institutional partnerships",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "organisational structure",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "senior leadership",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "institutional governance",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "institutional partnerships",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "organisational structure",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "senior leadership",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "institutional governance",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "institutional partnerships",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "organisational structure",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "senior leadership",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "institutional governance",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "senior leadership",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "institutional governance",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "institutional partnerships",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "organisational structure",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "senior leadership",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "institutional governance",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "institutional partnerships",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "organisational structure",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "senior leadership",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "faculty workload",
+    "target": "institutional governance",
+    "weight": 1
+  },
+  {
+    "source": "faculty workload",
+    "target": "senior leadership",
+    "weight": 1
+  },
+  {
+    "source": "faculty workload",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "faculty workload",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "faculty workload",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "institutional governance",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "institutional partnerships",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "organisational structure",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "senior leadership",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "senior leadership",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "organisational structure",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "senior leadership",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "organisational structure",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "organisational structure",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "organisational structure",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "organisational structure",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "organisational structure",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "organisational structure",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "organisational structure",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "organisational structure",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "organisational structure",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "senior leadership",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "senior leadership",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "senior leadership",
+    "weight": 1
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "research collaboration",
+    "target": "senior leadership",
+    "weight": 1
+  },
+  {
+    "source": "research collaboration",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "research collaboration",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "research collaboration",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "research collaboration",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "research collaboration",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "research collaboration",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "research collaboration",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "research collaboration",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "research collaboration",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "research collaboration",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "research collaboration",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "senior leadership",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "senior leadership",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "senior leadership",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "senior leadership",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "senior leadership",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "senior leadership",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "senior leadership",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "senior leadership",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "senior leadership",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "senior leadership",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "student retention",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "student retention",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "student retention",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "student retention",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "student retention",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "student retention",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "student retention",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "student voice",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "student voice",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "student voice",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "student voice",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "student voice",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "student voice",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "student voice",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "student voice",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "student wellbeing",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "student wellbeing",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "student wellbeing",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "student wellbeing",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "student wellbeing",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "student wellbeing",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "student wellbeing",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "curricular design",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "employability gap",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "faculty hiring market",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "institutional partnerships",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "organisational structure",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "supporting staff",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "employability gap",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "faculty hiring market",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "supporting staff",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "employability gap",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "faculty hiring market",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "supporting staff",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "employability gap",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "faculty hiring market",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "supporting staff",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "employability gap",
+    "target": "faculty hiring market",
+    "weight": 1
+  },
+  {
+    "source": "employability gap",
+    "target": "faculty labour exploitation",
+    "weight": 1
+  },
+  {
+    "source": "employability gap",
+    "target": "faculty workload",
+    "weight": 1
+  },
+  {
+    "source": "employability gap",
+    "target": "institutional partnerships",
+    "weight": 1
+  },
+  {
+    "source": "employability gap",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "employability gap",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "employability gap",
+    "target": "organisational structure",
+    "weight": 1
+  },
+  {
+    "source": "employability gap",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "employability gap",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "employability gap",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "employability gap",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "employability gap",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "employability gap",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "employability gap",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "employability gap",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "employability gap",
+    "target": "supporting staff",
+    "weight": 1
+  },
+  {
+    "source": "employability gap",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "faculty labour exploitation",
+    "weight": 1
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "faculty workload",
+    "weight": 1
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "institutional partnerships",
+    "weight": 1
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "organisational structure",
+    "weight": 1
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "supporting staff",
+    "weight": 1
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "supporting staff",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "faculty workload",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "faculty workload",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "faculty workload",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "faculty workload",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "faculty workload",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "faculty workload",
+    "target": "supporting staff",
+    "weight": 1
+  },
+  {
+    "source": "faculty workload",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "supporting staff",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "instructional practice",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "instructional practice",
+    "target": "organisational structure",
+    "weight": 1
+  },
+  {
+    "source": "instructional practice",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "instructional practice",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "instructional practice",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "instructional practice",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "instructional practice",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "instructional practice",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "instructional practice",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "instructional practice",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "instructional practice",
+    "target": "supporting staff",
+    "weight": 1
+  },
+  {
+    "source": "instructional practice",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "organisational structure",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "supporting staff",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "organisational structure",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "organisational structure",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "organisational structure",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "organisational structure",
+    "target": "supporting staff",
+    "weight": 1
+  },
+  {
+    "source": "organisational structure",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "supporting staff",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "participatory instruction",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "participatory instruction",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "participatory instruction",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "participatory instruction",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "participatory instruction",
+    "target": "supporting staff",
+    "weight": 1
+  },
+  {
+    "source": "participatory instruction",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "supporting staff",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "qualitative research",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "qualitative research",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "qualitative research",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "qualitative research",
+    "target": "supporting staff",
+    "weight": 1
+  },
+  {
+    "source": "qualitative research",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "research collaboration",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "research collaboration",
+    "target": "supporting staff",
+    "weight": 1
+  },
+  {
+    "source": "research collaboration",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "research productivity",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "research productivity",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "research productivity",
+    "target": "supporting staff",
+    "weight": 1
+  },
+  {
+    "source": "research productivity",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "supporting staff",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "supporting staff",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "supporting staff",
+    "target": "workplace bias",
+    "weight": 1
+  },
+  {
+    "source": "central asia",
+    "target": "east asia",
+    "weight": 1
+  },
+  {
+    "source": "central asia",
+    "target": "eastern europe",
+    "weight": 1
+  },
+  {
+    "source": "central asia",
+    "target": "emerging technology",
+    "weight": 1
+  },
+  {
+    "source": "central asia",
+    "target": "future planning",
+    "weight": 1
+  },
+  {
+    "source": "central asia",
+    "target": "geopolitics",
+    "weight": 1
+  },
+  {
+    "source": "central asia",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "central asia",
+    "target": "infrastructure",
+    "weight": 1
+  },
+  {
+    "source": "central asia",
+    "target": "institutional governance",
+    "weight": 1
+  },
+  {
+    "source": "central asia",
+    "target": "institutional partnerships",
+    "weight": 1
+  },
+  {
+    "source": "central asia",
+    "target": "opportunistic growth",
+    "weight": 1
+  },
+  {
+    "source": "central asia",
+    "target": "organisational structure",
+    "weight": 1
+  },
+  {
+    "source": "central asia",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "central asia",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "east asia",
+    "target": "eastern europe",
+    "weight": 1
+  },
+  {
+    "source": "east asia",
+    "target": "emerging technology",
+    "weight": 1
+  },
+  {
+    "source": "east asia",
+    "target": "future planning",
+    "weight": 1
+  },
+  {
+    "source": "east asia",
+    "target": "geopolitics",
+    "weight": 1
+  },
+  {
+    "source": "east asia",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "east asia",
+    "target": "infrastructure",
+    "weight": 1
+  },
+  {
+    "source": "east asia",
+    "target": "institutional governance",
+    "weight": 1
+  },
+  {
+    "source": "east asia",
+    "target": "institutional partnerships",
+    "weight": 1
+  },
+  {
+    "source": "east asia",
+    "target": "opportunistic growth",
+    "weight": 1
+  },
+  {
+    "source": "east asia",
+    "target": "organisational structure",
+    "weight": 1
+  },
+  {
+    "source": "east asia",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "east asia",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "eastern europe",
+    "target": "emerging technology",
+    "weight": 1
+  },
+  {
+    "source": "eastern europe",
+    "target": "future planning",
+    "weight": 1
+  },
+  {
+    "source": "eastern europe",
+    "target": "geopolitics",
+    "weight": 1
+  },
+  {
+    "source": "eastern europe",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "eastern europe",
+    "target": "infrastructure",
+    "weight": 1
+  },
+  {
+    "source": "eastern europe",
+    "target": "institutional governance",
+    "weight": 1
+  },
+  {
+    "source": "eastern europe",
+    "target": "institutional partnerships",
+    "weight": 1
+  },
+  {
+    "source": "eastern europe",
+    "target": "opportunistic growth",
+    "weight": 1
+  },
+  {
+    "source": "eastern europe",
+    "target": "organisational structure",
+    "weight": 1
+  },
+  {
+    "source": "eastern europe",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "eastern europe",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "emerging technology",
+    "target": "future planning",
+    "weight": 1
+  },
+  {
+    "source": "emerging technology",
+    "target": "geopolitics",
+    "weight": 1
+  },
+  {
+    "source": "emerging technology",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "emerging technology",
+    "target": "infrastructure",
+    "weight": 1
+  },
+  {
+    "source": "emerging technology",
+    "target": "institutional governance",
+    "weight": 1
+  },
+  {
+    "source": "emerging technology",
+    "target": "institutional partnerships",
+    "weight": 1
+  },
+  {
+    "source": "emerging technology",
+    "target": "opportunistic growth",
+    "weight": 1
+  },
+  {
+    "source": "emerging technology",
+    "target": "organisational structure",
+    "weight": 1
+  },
+  {
+    "source": "emerging technology",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "emerging technology",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "future planning",
+    "target": "geopolitics",
+    "weight": 1
+  },
+  {
+    "source": "future planning",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "future planning",
+    "target": "infrastructure",
+    "weight": 1
+  },
+  {
+    "source": "future planning",
+    "target": "institutional governance",
+    "weight": 1
+  },
+  {
+    "source": "future planning",
+    "target": "institutional partnerships",
+    "weight": 1
+  },
+  {
+    "source": "future planning",
+    "target": "opportunistic growth",
+    "weight": 1
+  },
+  {
+    "source": "future planning",
+    "target": "organisational structure",
+    "weight": 1
+  },
+  {
+    "source": "future planning",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "future planning",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "geopolitics",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "geopolitics",
+    "target": "infrastructure",
+    "weight": 1
+  },
+  {
+    "source": "geopolitics",
+    "target": "institutional governance",
+    "weight": 1
+  },
+  {
+    "source": "geopolitics",
+    "target": "institutional partnerships",
+    "weight": 1
+  },
+  {
+    "source": "geopolitics",
+    "target": "opportunistic growth",
+    "weight": 1
+  },
+  {
+    "source": "geopolitics",
+    "target": "organisational structure",
+    "weight": 1
+  },
+  {
+    "source": "geopolitics",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "geopolitics",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "infrastructure",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "institutional governance",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "institutional partnerships",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "opportunistic growth",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "organisational structure",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "infrastructure",
+    "target": "institutional governance",
+    "weight": 1
+  },
+  {
+    "source": "infrastructure",
+    "target": "institutional partnerships",
+    "weight": 1
+  },
+  {
+    "source": "infrastructure",
+    "target": "opportunistic growth",
+    "weight": 1
+  },
+  {
+    "source": "infrastructure",
+    "target": "organisational structure",
+    "weight": 1
+  },
+  {
+    "source": "infrastructure",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "infrastructure",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "opportunistic growth",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "opportunistic growth",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "organisational structure",
+    "weight": 1
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "organisational structure",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "organisational structure",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "politicisation of science",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "decision-making opacity",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "deteriorating outcomes",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "empirical research",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "health profession",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "medical profession",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "responsibility",
+    "weight": 1
+  },
+  {
+    "source": "decision-making opacity",
+    "target": "deteriorating outcomes",
+    "weight": 1
+  },
+  {
+    "source": "decision-making opacity",
+    "target": "empirical research",
+    "weight": 1
+  },
+  {
+    "source": "decision-making opacity",
+    "target": "health profession",
+    "weight": 1
+  },
+  {
+    "source": "decision-making opacity",
+    "target": "medical profession",
+    "weight": 1
+  },
+  {
+    "source": "decision-making opacity",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "decision-making opacity",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "decision-making opacity",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "decision-making opacity",
+    "target": "responsibility",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "empirical research",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "health profession",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "medical profession",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "responsibility",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "health profession",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "medical profession",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "responsibility",
+    "weight": 1
+  },
+  {
+    "source": "health profession",
+    "target": "medical profession",
+    "weight": 1
+  },
+  {
+    "source": "health profession",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "health profession",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "health profession",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "health profession",
+    "target": "responsibility",
+    "weight": 1
+  },
+  {
+    "source": "medical profession",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "medical profession",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "medical profession",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "medical profession",
+    "target": "responsibility",
+    "weight": 1
+  },
+  {
+    "source": "participatory instruction",
+    "target": "responsibility",
+    "weight": 1
+  },
+  {
+    "source": "qualitative research",
+    "target": "responsibility",
+    "weight": 1
+  },
+  {
+    "source": "research collaboration",
+    "target": "responsibility",
+    "weight": 1
+  }
+]
