@@ -1,0 +1,682 @@
+[
+  {
+    "source": "laboratories",
+    "target": "politicisation of science",
+    "co_occurrence": 3,
+    "npmi": 1.0,
+    "source_cluster": "campus_infrastructure",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "school budgets",
+    "target": "tuition fee",
+    "co_occurrence": 3,
+    "npmi": 0.8588,
+    "source_cluster": "education_funding",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "research collaboration",
+    "target": "scientific expertise",
+    "co_occurrence": 3,
+    "npmi": 0.8588,
+    "source_cluster": "research_activities",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "scientific expertise",
+    "target": "theoretical research",
+    "co_occurrence": 3,
+    "npmi": 0.8588,
+    "source_cluster": "science_society",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "laboratories",
+    "target": "scientific expertise",
+    "co_occurrence": 3,
+    "npmi": 0.8588,
+    "source_cluster": "campus_infrastructure",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "instructional excellence",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "npmi": 0.7175,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "npmi": 0.7175,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "scholarly funding",
+    "target": "scholarships",
+    "co_occurrence": 5,
+    "npmi": 0.692,
+    "source_cluster": "education_funding",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "scientific expertise",
+    "co_occurrence": 4,
+    "npmi": 0.6801,
+    "source_cluster": "education_funding",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "student experience",
+    "co_occurrence": 4,
+    "npmi": 0.6406,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "scholarships",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "npmi": 0.608,
+    "source_cluster": "education_cost",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "npmi": 0.608,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "edtech",
+    "co_occurrence": 3,
+    "npmi": 0.584,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "educational_technology"
+  },
+  {
+    "source": "edtech",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "npmi": 0.584,
+    "source_cluster": "educational_technology",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "programme accreditation",
+    "co_occurrence": 3,
+    "npmi": 0.584,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "university_accreditation"
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "scholarly endowments",
+    "co_occurrence": 3,
+    "npmi": 0.584,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "theoretical research",
+    "co_occurrence": 3,
+    "npmi": 0.584,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "research collaboration",
+    "target": "scholarly endowments",
+    "co_occurrence": 3,
+    "npmi": 0.584,
+    "source_cluster": "research_activities",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "theoretical research",
+    "co_occurrence": 3,
+    "npmi": 0.584,
+    "source_cluster": "education_funding",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "laboratories",
+    "target": "scholarly endowments",
+    "co_occurrence": 3,
+    "npmi": 0.584,
+    "source_cluster": "campus_infrastructure",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "politicisation of science",
+    "target": "scholarly endowments",
+    "co_occurrence": 3,
+    "npmi": 0.584,
+    "source_cluster": "science_society",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "student experience",
+    "co_occurrence": 4,
+    "npmi": 0.5525,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "school budgets",
+    "target": "tuition affordability",
+    "co_occurrence": 3,
+    "npmi": 0.5185,
+    "source_cluster": "education_funding",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "npmi": 0.5185,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "research collaboration",
+    "target": "scholarly funding",
+    "co_occurrence": 3,
+    "npmi": 0.5185,
+    "source_cluster": "research_activities",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "outdated education model",
+    "target": "pedagogical innovation",
+    "co_occurrence": 6,
+    "npmi": 0.5051,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "scholarships",
+    "co_occurrence": 3,
+    "npmi": 0.4984,
+    "source_cluster": "education_funding",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "scholarships",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.4984,
+    "source_cluster": "education_cost",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "scholarships",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": 0.4984,
+    "source_cluster": "education_cost",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "scholarships",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "npmi": 0.4984,
+    "source_cluster": "education_cost",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "education crisis",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "npmi": 0.4762,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "education crisis",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "npmi": 0.4762,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "npmi": 0.4762,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "npmi": 0.4762,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "education crisis",
+    "target": "scholarships",
+    "co_occurrence": 4,
+    "npmi": 0.4762,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "education crisis",
+    "target": "student experience",
+    "co_occurrence": 4,
+    "npmi": 0.4762,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "education crisis",
+    "target": "pedagogical innovation",
+    "co_occurrence": 5,
+    "npmi": 0.4715,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "npmi": 0.4428,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "npmi": 0.4428,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "scientific expertise",
+    "co_occurrence": 3,
+    "npmi": 0.4428,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "tuition affordability",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.4089,
+    "source_cluster": "education_cost",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "tuition affordability",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": 0.4089,
+    "source_cluster": "education_cost",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "edtech",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.4089,
+    "source_cluster": "educational_technology",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "education crisis",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "npmi": 0.3772,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "npmi": 0.3772,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "scholarly funding",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "npmi": 0.3772,
+    "source_cluster": "education_funding",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "education crisis",
+    "target": "instructional excellence",
+    "co_occurrence": 3,
+    "npmi": 0.3772,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "education crisis",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "npmi": 0.3772,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "instructional excellence",
+    "co_occurrence": 3,
+    "npmi": 0.3772,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "npmi": 0.3772,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "scholarly funding",
+    "target": "scientific expertise",
+    "co_occurrence": 3,
+    "npmi": 0.3772,
+    "source_cluster": "education_funding",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "tuition affordability",
+    "co_occurrence": 4,
+    "npmi": 0.3719,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "pedagogical innovation",
+    "co_occurrence": 4,
+    "npmi": 0.3601,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "scholarly endowments",
+    "co_occurrence": 4,
+    "npmi": 0.3601,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "outdated education model",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "npmi": 0.3486,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "outdated education model",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "npmi": 0.3486,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "outdated education model",
+    "target": "scholarships",
+    "co_occurrence": 4,
+    "npmi": 0.3486,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "outdated education model",
+    "target": "student experience",
+    "co_occurrence": 4,
+    "npmi": 0.3486,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "public scholarly funding",
+    "co_occurrence": 3,
+    "npmi": 0.3332,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "scholarships",
+    "co_occurrence": 3,
+    "npmi": 0.3332,
+    "source_cluster": "education_funding",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "pedagogical innovation",
+    "co_occurrence": 4,
+    "npmi": 0.2838,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "scholarly funding",
+    "co_occurrence": 4,
+    "npmi": 0.2838,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "scholarly funding",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.2677,
+    "source_cluster": "education_funding",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "scholarly funding",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": 0.2677,
+    "source_cluster": "education_funding",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "scholarships",
+    "co_occurrence": 3,
+    "npmi": 0.2677,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "npmi": 0.2677,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "outdated education model",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "npmi": 0.2677,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "scholarly funding",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "npmi": 0.2677,
+    "source_cluster": "education_funding",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "instructional excellence",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.2677,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "outdated education model",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "npmi": 0.2677,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "outdated education model",
+    "target": "postgraduate pathway",
+    "co_occurrence": 4,
+    "npmi": 0.2444,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "scholarly endowments",
+    "co_occurrence": 3,
+    "npmi": 0.2437,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "outdated education model",
+    "target": "scholarly funding",
+    "co_occurrence": 5,
+    "npmi": 0.2378,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "scholarly funding",
+    "co_occurrence": 4,
+    "npmi": 0.2075,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "education crisis",
+    "target": "scholarly funding",
+    "co_occurrence": 4,
+    "npmi": 0.2075,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "postgraduate pathway",
+    "co_occurrence": 3,
+    "npmi": 0.1782,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "scholarly funding",
+    "target": "tuition affordability",
+    "co_occurrence": 3,
+    "npmi": 0.1782,
+    "source_cluster": "education_funding",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "education crisis",
+    "target": "postgraduate pathway",
+    "co_occurrence": 3,
+    "npmi": 0.1782,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "scholarly endowments",
+    "co_occurrence": 3,
+    "npmi": 0.168,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "outdated education model",
+    "target": "public scholarly funding",
+    "co_occurrence": 3,
+    "npmi": 0.1581,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "outdated education model",
+    "target": "scholarly endowments",
+    "co_occurrence": 4,
+    "npmi": 0.1562,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "scholarly endowments",
+    "co_occurrence": 3,
+    "npmi": 0.1025,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "education crisis",
+    "target": "scholarly endowments",
+    "co_occurrence": 3,
+    "npmi": 0.1025,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "scholarly funding",
+    "co_occurrence": 3,
+    "npmi": 0.1025,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "outdated education model",
+    "target": "tuition affordability",
+    "co_occurrence": 3,
+    "npmi": 0.0686,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "source": "campus_infrastructure",
+    "target": "science_society",
+    "weight": 2
+  },
+  {
+    "source": "education_cost",
+    "target": "education_funding",
+    "weight": 6
+  },
+  {
+    "source": "research_activities",
+    "target": "science_society",
+    "weight": 2
+  },
+  {
+    "source": "teaching_and_learning",
+    "target": "university_administration",
+    "weight": 2
+  },
+  {
+    "source": "student_experience",
+    "target": "teaching_and_learning",
+    "weight": 6
+  },
+  {
+    "source": "education_funding",
+    "target": "science_society",
+    "weight": 3
+  },
+  {
+    "source": "education_cost",
+    "target": "student_experience",
+    "weight": 2
+  },
+  {
+    "source": "educational_technology",
+    "target": "higher_education_crisis",
+    "weight": 2
+  },
+  {
+    "source": "educational_technology",
+    "target": "teaching_and_learning",
+    "weight": 1
+  },
+  {
+    "source": "teaching_and_learning",
+    "target": "university_accreditation",
+    "weight": 1
+  },
+  {
+    "source": "education_funding",
+    "target": "faculty_labour",
+    "weight": 1
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "research_activities",
+    "weight": 1
+  },
+  {
+    "source": "education_funding",
+    "target": "research_activities",
+    "weight": 3
+  },
+  {
+    "source": "campus_infrastructure",
+    "target": "education_funding",
+    "weight": 1
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "teaching_and_learning",
+    "weight": 10
+  },
+  {
+    "source": "education_cost",
+    "target": "university_administration",
+    "weight": 4
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "university_administration",
+    "weight": 9
+  },
+  {
+    "source": "education_cost",
+    "target": "higher_education_crisis",
+    "weight": 5
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "student_experience",
+    "weight": 6
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "science_society",
+    "weight": 1
+  },
+  {
+    "source": "education_funding",
+    "target": "student_experience",
+    "weight": 2
+  },
+  {
+    "source": "education_funding",
+    "target": "higher_education_crisis",
+    "weight": 10
+  },
+  {
+    "source": "education_funding",
+    "target": "university_administration",
+    "weight": 2
+  },
+  {
+    "source": "education_funding",
+    "target": "teaching_and_learning",
+    "weight": 3
+  }
+]

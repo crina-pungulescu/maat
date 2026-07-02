@@ -1,22 +1,7 @@
 [
   {
-    "topic": "Higher Education Crisis",
+    "cluster": "Higher Education Crisis",
     "count": 1682,
-    "score": 0.4534,
-    "topics": [
-      "academic collapse",
-      "academic model breakdown",
-      "decline of academia",
-      "education crisis",
-      "educational decline",
-      "educational instability",
-      "higher education crisis",
-      "legitimacy crisis",
-      "outdated education model",
-      "structural breakdown",
-      "systemic education failure",
-      "unsustainable model"
-    ],
     "evidence": {
       "article_id": "f8292d78d890c815e50b7f171e8af0df",
       "headline": "OPINION: The real college crisis isn’t enrollment. It’s completion, and it’s time to start asking why",
@@ -26,34 +11,8 @@
     }
   },
   {
-    "topic": "Teaching And Learning",
+    "cluster": "Teaching And Learning",
     "count": 1349,
-    "score": 0.4465,
-    "topics": [
-      "S. T. E. M. qualification",
-      "bachelor qualification",
-      "blended instruction",
-      "business qualification",
-      "classroom methods",
-      "competency outcomes",
-      "course architecture",
-      "course evaluation",
-      "curricular design",
-      "degree pathway",
-      "distance pedagogy",
-      "doctoral qualification",
-      "instructional excellence",
-      "instructional practice",
-      "master qualification",
-      "online learning",
-      "participatory instruction",
-      "pedagogical innovation",
-      "pedagogical methods",
-      "postgraduate pathway",
-      "remote coursework",
-      "undergraduate pathway",
-      "virtual instruction"
-    ],
     "evidence": {
       "article_id": "49cb8d1b5b01e6e7a76c9672624e214a",
       "headline": "Distance learning has never mattered more – but you wouldn’t know it",
@@ -63,22 +22,8 @@
     }
   },
   {
-    "topic": "Student Experience",
+    "cluster": "Student Experience",
     "count": 1269,
-    "score": 0.4522,
-    "topics": [
-      "college experience",
-      "mentor-student relationship",
-      "student engagement",
-      "student experience",
-      "student life",
-      "student protest",
-      "student retention",
-      "student satisfaction",
-      "student voice",
-      "student wellbeing",
-      "supporting staff"
-    ],
     "evidence": {
       "article_id": "2c71f0560c1822aa3f9cd4ffac072a81",
       "headline": "Effectively communicate how your campus connects education to careers",
@@ -88,24 +33,8 @@
     }
   },
   {
-    "topic": "University Administration",
+    "cluster": "University Administration",
     "count": 1008,
-    "score": 0.4502,
-    "topics": [
-      "board of regents",
-      "board of trustees",
-      "institutional governance",
-      "institutional partnerships",
-      "internal regulations",
-      "organisational structure",
-      "senior leadership",
-      "university administrators",
-      "university bylaws",
-      "university leadership",
-      "university policy",
-      "university reform",
-      "university senate"
-    ],
     "evidence": {
       "article_id": "8095d968b7c88a85901c8166e1098c16",
       "headline": "OPINION: In this moment of growing public scrutiny, colleges should invest in faculty to drive student success",
@@ -115,22 +44,8 @@
     }
   },
   {
-    "topic": "Faculty Labour",
+    "cluster": "Faculty Labour",
     "count": 913,
-    "score": 0.4544,
-    "topics": [
-      "adjunct faculty",
-      "faculty careers",
-      "faculty contracts",
-      "faculty hiring market",
-      "faculty job insecurity",
-      "faculty labour exploitation",
-      "faculty precarity",
-      "faculty redundancy",
-      "faculty unemployment",
-      "faculty workload",
-      "unpaid faculty labour"
-    ],
     "evidence": {
       "article_id": "7c3b36f8ddb1b9497667fbcfc021636d",
       "headline": "When Productivity Goes Too Far: How Faculty Can Find Balance",
@@ -140,22 +55,8 @@
     }
   },
   {
-    "topic": "Research Activities",
+    "cluster": "Research Activities",
     "count": 343,
-    "score": 0.444,
-    "topics": [
-      "citation count",
-      "empirical research",
-      "high-impact research",
-      "peer review",
-      "publication pressure",
-      "publish or perish",
-      "qualitative research",
-      "quantitative research",
-      "research collaboration",
-      "research productivity",
-      "theoretical research"
-    ],
     "evidence": {
       "article_id": "7b29058dbed3fa0506288730aee3fafe",
       "headline": "Scienza aperta e valutazione di stato: una relazione problematica",
@@ -165,16 +66,8 @@
     }
   },
   {
-    "topic": "Education Funding",
+    "cluster": "Education Funding",
     "count": 339,
-    "score": 0.4517,
-    "topics": [
-      "public scholarly funding",
-      "scholarly endowments",
-      "scholarly funding",
-      "scholarly grant funding",
-      "school budgets"
-    ],
     "evidence": {
       "article_id": "2e2d113d9e18d22f672b74ca307b19d5",
       "headline": "Mejorar la calidad de los metadatos abiertos sobre financiamiento de la investigación: una agenda para la ciencia abierta",
@@ -184,22 +77,8 @@
     }
   },
   {
-    "topic": "Education Cost",
+    "cluster": "Education Cost",
     "count": 288,
-    "score": 0.4478,
-    "topics": [
-      "cost barriers",
-      "cost of attendance support",
-      "debt",
-      "fee waivers and bursaries",
-      "financial hardship",
-      "loan",
-      "need-based financial assistance",
-      "need-based financial support",
-      "scholarships",
-      "tuition affordability",
-      "tuition fee"
-    ],
     "evidence": {
       "article_id": "52ed8c1060dfcd532f3ae6db7813139c",
       "headline": "Private college discount rates for first-year students, 2021",
@@ -209,19 +88,8 @@
     }
   },
   {
-    "topic": "Admissions Access In Higher Education",
+    "cluster": "Admissions Access In Higher Education",
     "count": 233,
-    "score": 0.44,
-    "topics": [
-      "admissions criteria",
-      "admissions selectivity",
-      "affirmative action",
-      "graduate management admission test",
-      "graduate record examination",
-      "scholastic aptitude test",
-      "standardised testing",
-      "widening participation"
-    ],
     "evidence": {
       "article_id": "d48449b46399e27f23de9892532fe060",
       "headline": "What drives enrollment decisions today: Clear ROI",
@@ -231,35 +99,8 @@
     }
   },
   {
-    "topic": "Politics In Academia",
+    "cluster": "Politics In Academia",
     "count": 232,
-    "score": 0.4441,
-    "topics": [
-      "alliances",
-      "armed dispute",
-      "authoritarianism",
-      "civil unrest",
-      "democracy",
-      "diplomacy",
-      "economic warfare",
-      "fascism",
-      "foreign affairs",
-      "geopolitics",
-      "illiberal democracy",
-      "instability",
-      "legislation",
-      "nationalism",
-      "nuclear strategy",
-      "political interference",
-      "political repression",
-      "populism",
-      "propaganda",
-      "regime",
-      "sovereignty",
-      "state surveillance",
-      "uprising",
-      "war"
-    ],
     "evidence": {
       "article_id": "63489a344c4cc29415e7e4349adf62f9",
       "headline": "Populism and centrism in universities",
@@ -269,22 +110,8 @@
     }
   },
   {
-    "topic": "Educational Technology",
+    "cluster": "Educational Technology",
     "count": 220,
-    "score": 0.4515,
-    "topics": [
-      "AI assisted process",
-      "algorithmic assessment",
-      "analytics",
-      "artificial intelligence",
-      "automated grading",
-      "digital tools",
-      "edtech",
-      "emerging technology",
-      "generative AI",
-      "process automation",
-      "proctoring software"
-    ],
     "evidence": {
       "article_id": "463a22c52bba0d26c3af8ebb04c80e27",
       "headline": "Etica dell’AI, come governare rischi e responsabilità",
@@ -294,24 +121,8 @@
     }
   },
   {
-    "topic": "University Accreditation",
+    "cluster": "University Accreditation",
     "count": 195,
-    "score": 0.443,
-    "topics": [
-      "accreditation body",
-      "accreditation compliance",
-      "accreditation process",
-      "accreditation review",
-      "accreditation standards",
-      "accreditation withdrawal",
-      "external review process",
-      "institutional accreditation",
-      "loss of accreditation",
-      "programme accreditation",
-      "quality assurance body",
-      "quality assurance review",
-      "validation process"
-    ],
     "evidence": {
       "article_id": "59c49b5d969d96472772a3afb80738f2",
       "headline": "What is the likely future for institutional accreditation as the current US structure is unravelled?",
@@ -321,33 +132,8 @@
     }
   },
   {
-    "topic": "Academic Abuse",
+    "cluster": "Academic Abuse",
     "count": 192,
-    "score": 0.4309,
-    "topics": [
-      "administrative abuse",
-      "administrative coercion",
-      "arbitrary disciplinary actions",
-      "arbitrary tenure denial",
-      "bureaucratic gatekeeping",
-      "bureaucratic obstruction",
-      "career sabotage",
-      "disproportionate punishment",
-      "fear-driven self-silencing",
-      "procedural abuse",
-      "procedural manipulation",
-      "professional marginalisation",
-      "punitive exclusion exclusion",
-      "reputation damage",
-      "retaliatory litigation",
-      "scarcity-based exploitation",
-      "silencing criticism",
-      "suppressing dissent",
-      "weaponised collegiality",
-      "weaponised hierarchy",
-      "whistleblowing risks",
-      "wrongful termination"
-    ],
     "evidence": {
       "article_id": "1d9c48e1bdc75c3e19762839dabaed93",
       "headline": "L’AI è programmata per piacerci. Ecco il prezzo che paghiamo",
@@ -357,46 +143,8 @@
     }
   },
   {
-    "topic": "Higher Education By Region",
+    "cluster": "Higher Education By Region",
     "count": 159,
-    "score": 0.4495,
-    "topics": [
-      "africa",
-      "argentina",
-      "asia",
-      "australia",
-      "brazil",
-      "canada",
-      "central asia",
-      "china",
-      "east asia",
-      "eastern europe",
-      "egypt",
-      "europe",
-      "european union",
-      "germany",
-      "india",
-      "indonesia",
-      "italy",
-      "latin america",
-      "mexico",
-      "middle east",
-      "north africa",
-      "north america",
-      "oceania",
-      "russia",
-      "south africa",
-      "south america",
-      "south asia",
-      "south korea",
-      "southeast asia",
-      "spain",
-      "sub-saharan africa",
-      "ukraine",
-      "united kingdom",
-      "united states of america",
-      "western europe"
-    ],
     "evidence": {
       "article_id": "6ca80245471bf0a2916ea05f6e347499",
       "headline": "Diploma Superior en Derecho a la educación y políticas públicas en América Latina",
@@ -406,21 +154,8 @@
     }
   },
   {
-    "topic": "Science Society",
+    "cluster": "Science Society",
     "count": 158,
-    "score": 0.4386,
-    "topics": [
-      "contested scientific claims",
-      "evidence-based reasoning",
-      "fabricated news",
-      "false narratives",
-      "media falsehoods",
-      "politicisation of science",
-      "public misinformation",
-      "science communication",
-      "scientific expertise",
-      "trust in science"
-    ],
     "evidence": {
       "article_id": "53c28573410f8f00d032db6481c58f6b",
       "headline": "Tecnologie del futuro, industria del presente: la difficile arte di scegliere cosa è pronto",
@@ -430,24 +165,8 @@
     }
   },
   {
-    "topic": "Academic Degradation Signals",
+    "cluster": "Academic Degradation Signals",
     "count": 152,
-    "score": 0.4351,
-    "topics": [
-      "credential inflation",
-      "deteriorating outcomes",
-      "employability gap",
-      "grade inflation",
-      "incompetence",
-      "lower expectations",
-      "opportunistic growth",
-      "over-enrollment",
-      "oversimplification",
-      "performative commitment",
-      "programme massification",
-      "rubric inflation",
-      "skills mismatch"
-    ],
     "evidence": {
       "article_id": "cf8f35b378acc2eb6feb765ef4cd537a",
       "headline": "WEEKEND READING: How the UCAS process magnifies inequality: part one",
@@ -457,19 +176,8 @@
     }
   },
   {
-    "topic": "Internationalisation Of Academia",
+    "cluster": "Internationalisation Of Academia",
     "count": 127,
-    "score": 0.4531,
-    "topics": [
-      "cross-border experience",
-      "global experience",
-      "international cohorts",
-      "international exchange",
-      "international mobility",
-      "international partnerships",
-      "study abroad",
-      "transnational mobility"
-    ],
     "evidence": {
       "article_id": "9dc48f043ecda94c762e1511fb3c9bac",
       "headline": "Who gets to feel transformed by study abroad?",
@@ -479,25 +187,8 @@
     }
   },
   {
-    "topic": "Systemic Inequity In Higher Education",
+    "cluster": "Systemic Inequity In Higher Education",
     "count": 104,
-    "score": 0.4419,
-    "topics": [
-      "accessibility equity",
-      "biased systems",
-      "bullying",
-      "discrimination",
-      "diversity equity and inclusion initiatives",
-      "equity initiatives",
-      "gender discrimination",
-      "harmful culture",
-      "hostile culture",
-      "inclusivity",
-      "racism",
-      "sexual harassment",
-      "workplace bias",
-      "workplace harassment"
-    ],
     "evidence": {
       "article_id": "606f1d55f2db59893a438b728a0b6cae",
       "headline": "Musei e cultura digitale, i megatrend che cambiano il settore",
@@ -507,17 +198,8 @@
     }
   },
   {
-    "topic": "Academic Freedom",
+    "cluster": "Academic Freedom",
     "count": 103,
-    "score": 0.4423,
-    "topics": [
-      "censorship",
-      "freedom of expression",
-      "freedom of opinion",
-      "freedom of speech",
-      "intellectual autonomy",
-      "thought independence"
-    ],
     "evidence": {
       "article_id": "be706ea76c856662101ed6aeb5107331",
       "headline": "Lawmakers see different threats to campus speech — but the same stakes",
@@ -527,16 +209,8 @@
     }
   },
   {
-    "topic": "Sustainability Climate In Academia",
+    "cluster": "Sustainability Climate In Academia",
     "count": 63,
-    "score": 0.4631,
-    "topics": [
-      "carbon neutrality",
-      "climate change",
-      "environmental sustainability",
-      "green campus",
-      "sustainability"
-    ],
     "evidence": {
       "article_id": "aa36599a4c218754e9618425904a70d1",
       "headline": "Sostenibilità IT: perché cloud e AI cambiano le strategie aziendali",
@@ -546,19 +220,8 @@
     }
   },
   {
-    "topic": "Accountability Gaps In Academia",
+    "cluster": "Accountability Gaps In Academia",
     "count": 63,
-    "score": 0.4302,
-    "topics": [
-      "abuse of office",
-      "conflict of interest",
-      "decision-making opacity",
-      "elite impunity",
-      "lack of oversight",
-      "nepotism",
-      "unchecked authority",
-      "weak oversight"
-    ],
     "evidence": {
       "article_id": "fc0835f9eb9d5c2f2bba3c0cb95babc9",
       "headline": "Perché l’AI minaccia la democrazia secondo il Nobel Acemoglu",
@@ -568,17 +231,8 @@
     }
   },
   {
-    "topic": "Financial Constraints In Academia",
+    "cluster": "Financial Constraints In Academia",
     "count": 57,
-    "score": 0.4351,
-    "topics": [
-      "austerity",
-      "budget constraints",
-      "budget cuts",
-      "financial concerns",
-      "insufficient resources",
-      "resource constraints"
-    ],
     "evidence": {
       "article_id": "9a9044fe42b50708a7a92e9b65513a98",
       "headline": "Nel nuovo piano finanziario pluriennale la coesione al bivio: redistribuzione o crescita?",
@@ -588,16 +242,8 @@
     }
   },
   {
-    "topic": "Academic Future Outlook",
+    "cluster": "Academic Future Outlook",
     "count": 46,
-    "score": 0.4337,
-    "topics": [
-      "future planning",
-      "morale",
-      "optimism",
-      "pessimism",
-      "uncertainty"
-    ],
     "evidence": {
       "article_id": "f6409fd8da0c78926d2c2b991adbe57b",
       "headline": "Construir futuro desde el pensamiento crítico",
@@ -607,21 +253,8 @@
     }
   },
   {
-    "topic": "Ethical Conflicts In Academia",
+    "cluster": "Ethical Conflicts In Academia",
     "count": 39,
-    "score": 0.4266,
-    "topics": [
-      "accountability gaps",
-      "corporate interests",
-      "deliberate misrepresentation",
-      "dishonesty",
-      "ethical impropriety",
-      "factual misrepresentation",
-      "intentional misrepresentation",
-      "knowledge commodification",
-      "plagiarism",
-      "unethical behaviour"
-    ],
     "evidence": {
       "article_id": "bac32405a9875f8d4bd61b85cb229c5e",
       "headline": "Tecnopolo al rilancio nel calcolo avanzato",
@@ -631,16 +264,8 @@
     }
   },
   {
-    "topic": "Campus Infrastructure",
+    "cluster": "Campus Infrastructure",
     "count": 36,
-    "score": 0.4304,
-    "topics": [
-      "accommodation",
-      "facilities",
-      "infrastructure",
-      "laboratories",
-      "library services"
-    ],
     "evidence": {
       "article_id": "44da22728e1aeb7443733a85cb708c88",
       "headline": "Understanding the prior library experience of new undergraduate students",
@@ -650,19 +275,8 @@
     }
   },
   {
-    "topic": "Academic Standards",
+    "cluster": "Academic Standards",
     "count": 32,
-    "score": 0.4312,
-    "topics": [
-      "accountability",
-      "integrity",
-      "reporting clarity",
-      "reporting honesty",
-      "responsibility",
-      "rigorous standards",
-      "standards of conduct",
-      "transparency"
-    ],
     "evidence": {
       "article_id": "aa8464b1ec912595f806a4b5b3e4d42a",
       "headline": "Beyond integrity and security: assessing for coherence in the age of generative and agentic AI",
@@ -672,16 +286,8 @@
     }
   },
   {
-    "topic": "Norm Violations In Academia",
+    "cluster": "Norm Violations In Academia",
     "count": 14,
-    "score": 0.4266,
-    "topics": [
-      "bribery",
-      "contempt of court",
-      "corruption",
-      "misconduct",
-      "privacy violation"
-    ],
     "evidence": {
       "article_id": "d2ddb7bd9a449bbe21ee25a538534a4c",
       "headline": "University of Cambridge accused of tolerating misogyny and bullying in tribunal",
@@ -691,14 +297,8 @@
     }
   },
   {
-    "topic": "Health Professions Education",
+    "cluster": "Health Professions Education",
     "count": 9,
-    "score": 0.4599,
-    "topics": [
-      "health profession",
-      "medical profession",
-      "training hospitals"
-    ],
     "evidence": {
       "article_id": "b90820da928d08086f9ee8da22b4587d",
       "headline": "Digital Health: Erfahrungen mit E-Rezept, E-Patientenakte und Heilberufsausweis",
@@ -708,13 +308,8 @@
     }
   },
   {
-    "topic": "Academic Ranking Systems",
+    "cluster": "Academic Ranking Systems",
     "count": 6,
-    "score": 0.4207,
-    "topics": [
-      "performance indicators",
-      "rankings"
-    ],
     "evidence": {
       "article_id": "2a5d2fcfda31b154cce40bed2dcf634b",
       "headline": "Florida's Slide in the Rankings: Collateral Damage of the Rankings Obsession",
