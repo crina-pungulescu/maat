@@ -1,0 +1,42 @@
+[
+  {
+    "source": "institutional partnerships",
+    "target": "postgraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 1.737,
+    "source_cluster": "university_administration",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "pmi": 1.737,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "pmi": 1.3219,
+    "source_cluster": "university_administration",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "pmi": 1.3219,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "student engagement",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "pmi": 1.3219,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  }
+]
