@@ -1,0 +1,42 @@
+[
+  {
+    "source": "public scholarly funding",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 1.0,
+    "source_cluster": "education_funding",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": 1.0,
+    "source_cluster": "education_funding",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "education crisis",
+    "target": "public scholarly funding",
+    "co_occurrence": 3,
+    "npmi": 0.0,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "education crisis",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.0,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "education crisis",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": 0.0,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  }
+]
