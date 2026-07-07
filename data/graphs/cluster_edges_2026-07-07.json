@@ -1,0 +1,82 @@
+[
+  {
+    "source": "student_experience",
+    "target": "teaching_and_learning",
+    "weight": 8
+  },
+  {
+    "source": "financial_constraints_in_academia",
+    "target": "higher_education_crisis",
+    "weight": 5
+  },
+  {
+    "source": "education_cost",
+    "target": "higher_education_crisis",
+    "weight": 2
+  },
+  {
+    "source": "teaching_and_learning",
+    "target": "university_accreditation",
+    "weight": 1
+  },
+  {
+    "source": "student_experience",
+    "target": "university_administration",
+    "weight": 7
+  },
+  {
+    "source": "internationalisation_of_academia",
+    "target": "student_experience",
+    "weight": 3
+  },
+  {
+    "source": "student_experience",
+    "target": "university_accreditation",
+    "weight": 1
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "university_accreditation",
+    "weight": 3
+  },
+  {
+    "source": "education_cost",
+    "target": "university_administration",
+    "weight": 3
+  },
+  {
+    "source": "internationalisation_of_academia",
+    "target": "teaching_and_learning",
+    "weight": 2
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "university_administration",
+    "weight": 16
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "teaching_and_learning",
+    "weight": 12
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "student_experience",
+    "weight": 8
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "internationalisation_of_academia",
+    "weight": 3
+  },
+  {
+    "source": "financial_constraints_in_academia",
+    "target": "university_administration",
+    "weight": 1
+  },
+  {
+    "source": "internationalisation_of_academia",
+    "target": "university_administration",
+    "weight": 1
+  }
+]
