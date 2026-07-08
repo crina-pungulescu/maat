@@ -1,0 +1,848 @@
+[
+  {
+    "source": "adjunct faculty",
+    "target": "faculty careers",
+    "co_occurrence": 4,
+    "npmi": 1.0
+  },
+  {
+    "source": "student engagement",
+    "target": "student experience",
+    "co_occurrence": 6,
+    "npmi": 1.0
+  },
+  {
+    "source": "student satisfaction",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "npmi": 1.0
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "scholarly funding",
+    "co_occurrence": 3,
+    "npmi": 1.0
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "scholarships",
+    "co_occurrence": 3,
+    "npmi": 1.0
+  },
+  {
+    "source": "scholarly funding",
+    "target": "scholarships",
+    "co_occurrence": 3,
+    "npmi": 1.0
+  },
+  {
+    "source": "outdated education model",
+    "target": "postgraduate pathway",
+    "co_occurrence": 5,
+    "npmi": 0.851
+  },
+  {
+    "source": "curricular design",
+    "target": "pedagogical innovation",
+    "co_occurrence": 4,
+    "npmi": 0.8458
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "undergraduate pathway",
+    "co_occurrence": 4,
+    "npmi": 0.8458
+  },
+  {
+    "source": "education crisis",
+    "target": "educational instability",
+    "co_occurrence": 4,
+    "npmi": 0.8458
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "faculty workload",
+    "co_occurrence": 3,
+    "npmi": 0.8342
+  },
+  {
+    "source": "curricular design",
+    "target": "instructional practice",
+    "co_occurrence": 3,
+    "npmi": 0.8342
+  },
+  {
+    "source": "faculty careers",
+    "target": "faculty workload",
+    "co_occurrence": 3,
+    "npmi": 0.8342
+  },
+  {
+    "source": "instructional excellence",
+    "target": "instructional practice",
+    "co_occurrence": 3,
+    "npmi": 0.8342
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student satisfaction",
+    "co_occurrence": 3,
+    "npmi": 0.8342
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "npmi": 0.8342
+  },
+  {
+    "source": "educational instability",
+    "target": "student voice",
+    "co_occurrence": 3,
+    "npmi": 0.8342
+  },
+  {
+    "source": "college experience",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "npmi": 0.8342
+  },
+  {
+    "source": "education crisis",
+    "target": "higher education crisis",
+    "co_occurrence": 5,
+    "npmi": 0.7251
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student engagement",
+    "co_occurrence": 4,
+    "npmi": 0.7198
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student experience",
+    "co_occurrence": 4,
+    "npmi": 0.7198
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student engagement",
+    "co_occurrence": 4,
+    "npmi": 0.7198
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student experience",
+    "co_occurrence": 4,
+    "npmi": 0.7198
+  },
+  {
+    "source": "outdated education model",
+    "target": "undergraduate pathway",
+    "co_occurrence": 4,
+    "npmi": 0.7198
+  },
+  {
+    "source": "instructional practice",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "npmi": 0.7055
+  },
+  {
+    "source": "student satisfaction",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "npmi": 0.7055
+  },
+  {
+    "source": "student wellbeing",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "npmi": 0.7055
+  },
+  {
+    "source": "university administrators",
+    "target": "university leadership",
+    "co_occurrence": 3,
+    "npmi": 0.7055
+  },
+  {
+    "source": "education crisis",
+    "target": "student voice",
+    "co_occurrence": 3,
+    "npmi": 0.7055
+  },
+  {
+    "source": "college experience",
+    "target": "postgraduate pathway",
+    "co_occurrence": 3,
+    "npmi": 0.7055
+  },
+  {
+    "source": "faculty precarity",
+    "target": "faculty redundancy",
+    "co_occurrence": 4,
+    "npmi": 0.6916
+  },
+  {
+    "source": "university policy",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "npmi": 0.6916
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "npmi": 0.6916
+  },
+  {
+    "source": "curricular design",
+    "target": "instructional excellence",
+    "co_occurrence": 3,
+    "npmi": 0.6683
+  },
+  {
+    "source": "instructional excellence",
+    "target": "mentor-student relationship",
+    "co_occurrence": 3,
+    "npmi": 0.6683
+  },
+  {
+    "source": "student life",
+    "target": "university administrators",
+    "co_occurrence": 5,
+    "npmi": 0.6159
+  },
+  {
+    "source": "faculty precarity",
+    "target": "student life",
+    "co_occurrence": 5,
+    "npmi": 0.6159
+  },
+  {
+    "source": "educational instability",
+    "target": "higher education crisis",
+    "co_occurrence": 4,
+    "npmi": 0.6132
+  },
+  {
+    "source": "instructional practice",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "npmi": 0.6004
+  },
+  {
+    "source": "instructional practice",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "npmi": 0.6004
+  },
+  {
+    "source": "student engagement",
+    "target": "student satisfaction",
+    "co_occurrence": 3,
+    "npmi": 0.6004
+  },
+  {
+    "source": "student engagement",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "npmi": 0.6004
+  },
+  {
+    "source": "student experience",
+    "target": "student satisfaction",
+    "co_occurrence": 3,
+    "npmi": 0.6004
+  },
+  {
+    "source": "student experience",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "npmi": 0.6004
+  },
+  {
+    "source": "academic collapse",
+    "target": "decline of academia",
+    "co_occurrence": 3,
+    "npmi": 0.6004
+  },
+  {
+    "source": "college experience",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.6004
+  },
+  {
+    "source": "participatory instruction",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "npmi": 0.6004
+  },
+  {
+    "source": "participatory instruction",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "npmi": 0.6004
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "student engagement",
+    "co_occurrence": 4,
+    "npmi": 0.5656
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "student experience",
+    "co_occurrence": 4,
+    "npmi": 0.5656
+  },
+  {
+    "source": "education crisis",
+    "target": "outdated education model",
+    "co_occurrence": 4,
+    "npmi": 0.5656
+  },
+  {
+    "source": "faculty precarity",
+    "target": "outdated education model",
+    "co_occurrence": 4,
+    "npmi": 0.5656
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "npmi": 0.5397
+  },
+  {
+    "source": "faculty careers",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "npmi": 0.5397
+  },
+  {
+    "source": "instructional excellence",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "npmi": 0.5397
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "npmi": 0.5397
+  },
+  {
+    "source": "education crisis",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "npmi": 0.5397
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "npmi": 0.5397
+  },
+  {
+    "source": "educational instability",
+    "target": "faculty precarity",
+    "co_occurrence": 3,
+    "npmi": 0.5397
+  },
+  {
+    "source": "educational instability",
+    "target": "faculty redundancy",
+    "co_occurrence": 3,
+    "npmi": 0.5397
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "faculty precarity",
+    "co_occurrence": 3,
+    "npmi": 0.5397
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "postgraduate pathway",
+    "co_occurrence": 3,
+    "npmi": 0.5397
+  },
+  {
+    "source": "faculty careers",
+    "target": "faculty precarity",
+    "co_occurrence": 3,
+    "npmi": 0.5397
+  },
+  {
+    "source": "faculty careers",
+    "target": "postgraduate pathway",
+    "co_occurrence": 3,
+    "npmi": 0.5397
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "student life",
+    "co_occurrence": 4,
+    "npmi": 0.5209
+  },
+  {
+    "source": "faculty careers",
+    "target": "student life",
+    "co_occurrence": 4,
+    "npmi": 0.5209
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student life",
+    "co_occurrence": 4,
+    "npmi": 0.5209
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student life",
+    "co_occurrence": 4,
+    "npmi": 0.5209
+  },
+  {
+    "source": "educational instability",
+    "target": "student life",
+    "co_occurrence": 4,
+    "npmi": 0.5209
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university leadership",
+    "co_occurrence": 3,
+    "npmi": 0.5115
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student voice",
+    "co_occurrence": 3,
+    "npmi": 0.5115
+  },
+  {
+    "source": "student engagement",
+    "target": "student life",
+    "co_occurrence": 5,
+    "npmi": 0.467
+  },
+  {
+    "source": "student experience",
+    "target": "student life",
+    "co_occurrence": 5,
+    "npmi": 0.467
+  },
+  {
+    "source": "outdated education model",
+    "target": "student life",
+    "co_occurrence": 5,
+    "npmi": 0.467
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "npmi": 0.459
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "higher education crisis",
+    "co_occurrence": 4,
+    "npmi": 0.459
+  },
+  {
+    "source": "outdated education model",
+    "target": "student engagement",
+    "co_occurrence": 4,
+    "npmi": 0.4395
+  },
+  {
+    "source": "outdated education model",
+    "target": "student experience",
+    "co_occurrence": 4,
+    "npmi": 0.4395
+  },
+  {
+    "source": "curricular design",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "npmi": 0.4346
+  },
+  {
+    "source": "curricular design",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "npmi": 0.4346
+  },
+  {
+    "source": "faculty workload",
+    "target": "student life",
+    "co_occurrence": 3,
+    "npmi": 0.4346
+  },
+  {
+    "source": "instructional practice",
+    "target": "student life",
+    "co_occurrence": 3,
+    "npmi": 0.4346
+  },
+  {
+    "source": "student life",
+    "target": "student satisfaction",
+    "co_occurrence": 3,
+    "npmi": 0.4346
+  },
+  {
+    "source": "student life",
+    "target": "student wellbeing",
+    "co_occurrence": 3,
+    "npmi": 0.4346
+  },
+  {
+    "source": "student life",
+    "target": "university leadership",
+    "co_occurrence": 3,
+    "npmi": 0.4346
+  },
+  {
+    "source": "student engagement",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "npmi": 0.4346
+  },
+  {
+    "source": "student experience",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "npmi": 0.4346
+  },
+  {
+    "source": "student life",
+    "target": "student voice",
+    "co_occurrence": 3,
+    "npmi": 0.4346
+  },
+  {
+    "source": "college experience",
+    "target": "student life",
+    "co_occurrence": 3,
+    "npmi": 0.4346
+  },
+  {
+    "source": "educational instability",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.4346
+  },
+  {
+    "source": "instructional excellence",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.4346
+  },
+  {
+    "source": "participatory instruction",
+    "target": "student life",
+    "co_occurrence": 3,
+    "npmi": 0.4346
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.4346
+  },
+  {
+    "source": "faculty careers",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.4346
+  },
+  {
+    "source": "education crisis",
+    "target": "postgraduate pathway",
+    "co_occurrence": 3,
+    "npmi": 0.411
+  },
+  {
+    "source": "education crisis",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.411
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "postgraduate pathway",
+    "co_occurrence": 3,
+    "npmi": 0.411
+  },
+  {
+    "source": "education crisis",
+    "target": "faculty precarity",
+    "co_occurrence": 3,
+    "npmi": 0.411
+  },
+  {
+    "source": "education crisis",
+    "target": "faculty redundancy",
+    "co_occurrence": 3,
+    "npmi": 0.411
+  },
+  {
+    "source": "faculty precarity",
+    "target": "postgraduate pathway",
+    "co_occurrence": 3,
+    "npmi": 0.411
+  },
+  {
+    "source": "faculty precarity",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "npmi": 0.411
+  },
+  {
+    "source": "faculty precarity",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": 0.411
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "npmi": 0.411
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.411
+  },
+  {
+    "source": "university administrators",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": 0.411
+  },
+  {
+    "source": "education crisis",
+    "target": "student life",
+    "co_occurrence": 4,
+    "npmi": 0.3667
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "student life",
+    "co_occurrence": 4,
+    "npmi": 0.3667
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "student life",
+    "co_occurrence": 4,
+    "npmi": 0.3667
+  },
+  {
+    "source": "higher education crisis",
+    "target": "instructional excellence",
+    "co_occurrence": 3,
+    "npmi": 0.3457
+  },
+  {
+    "source": "higher education crisis",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "npmi": 0.3457
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student life",
+    "co_occurrence": 5,
+    "npmi": 0.341
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student engagement",
+    "co_occurrence": 4,
+    "npmi": 0.333
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student experience",
+    "co_occurrence": 4,
+    "npmi": 0.333
+  },
+  {
+    "source": "higher education crisis",
+    "target": "outdated education model",
+    "co_occurrence": 4,
+    "npmi": 0.333
+  },
+  {
+    "source": "student engagement",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "npmi": 0.3059
+  },
+  {
+    "source": "student experience",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "npmi": 0.3059
+  },
+  {
+    "source": "decline of academia",
+    "target": "education crisis",
+    "co_occurrence": 3,
+    "npmi": 0.3059
+  },
+  {
+    "source": "decline of academia",
+    "target": "postgraduate pathway",
+    "co_occurrence": 3,
+    "npmi": 0.3059
+  },
+  {
+    "source": "education crisis",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "npmi": 0.3059
+  },
+  {
+    "source": "education crisis",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "npmi": 0.3059
+  },
+  {
+    "source": "outdated education model",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "npmi": 0.3059
+  },
+  {
+    "source": "outdated education model",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.3059
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "npmi": 0.3059
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "npmi": 0.3059
+  },
+  {
+    "source": "decline of academia",
+    "target": "faculty precarity",
+    "co_occurrence": 3,
+    "npmi": 0.3059
+  },
+  {
+    "source": "decline of academia",
+    "target": "faculty redundancy",
+    "co_occurrence": 3,
+    "npmi": 0.3059
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.3059
+  },
+  {
+    "source": "outdated education model",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "npmi": 0.3059
+  },
+  {
+    "source": "outdated education model",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": 0.3059
+  },
+  {
+    "source": "curricular design",
+    "target": "student life",
+    "co_occurrence": 3,
+    "npmi": 0.2687
+  },
+  {
+    "source": "student life",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "npmi": 0.2687
+  },
+  {
+    "source": "higher education crisis",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "npmi": 0.217
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "npmi": 0.217
+  },
+  {
+    "source": "higher education crisis",
+    "target": "postgraduate pathway",
+    "co_occurrence": 3,
+    "npmi": 0.217
+  },
+  {
+    "source": "faculty precarity",
+    "target": "higher education crisis",
+    "co_occurrence": 3,
+    "npmi": 0.217
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": 0.217
+  },
+  {
+    "source": "decline of academia",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.2008
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "student life",
+    "co_occurrence": 3,
+    "npmi": 0.1401
+  },
+  {
+    "source": "student life",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": 0.1401
+  },
+  {
+    "source": "decline of academia",
+    "target": "higher education crisis",
+    "co_occurrence": 3,
+    "npmi": 0.1119
+  },
+  {
+    "source": "decline of academia",
+    "target": "student life",
+    "co_occurrence": 3,
+    "npmi": 0.035
+  }
+]
