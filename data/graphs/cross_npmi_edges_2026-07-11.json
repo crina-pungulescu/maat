@@ -1,0 +1,474 @@
+[
+  {
+    "source": "education crisis",
+    "target": "scholarships",
+    "co_occurrence": 4,
+    "npmi": 1.0,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "educational decline",
+    "target": "scholarships",
+    "co_occurrence": 4,
+    "npmi": 1.0,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "education crisis",
+    "target": "student engagement",
+    "co_occurrence": 4,
+    "npmi": 0.7794,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "education crisis",
+    "target": "student experience",
+    "co_occurrence": 4,
+    "npmi": 0.7794,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "educational decline",
+    "target": "student engagement",
+    "co_occurrence": 4,
+    "npmi": 0.7794,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "educational decline",
+    "target": "student experience",
+    "co_occurrence": 4,
+    "npmi": 0.7794,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "scholarships",
+    "co_occurrence": 4,
+    "npmi": 0.7794,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "scholarships",
+    "target": "student engagement",
+    "co_occurrence": 4,
+    "npmi": 0.7794,
+    "source_cluster": "education_cost",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "scholarships",
+    "target": "student experience",
+    "co_occurrence": 4,
+    "npmi": 0.7794,
+    "source_cluster": "education_cost",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "college experience",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "npmi": 0.7786,
+    "source_cluster": "student_experience",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "education crisis",
+    "target": "scholarly grant funding",
+    "co_occurrence": 3,
+    "npmi": 0.7786,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "education crisis",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "npmi": 0.7786,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "educational decline",
+    "target": "scholarly grant funding",
+    "co_occurrence": 3,
+    "npmi": 0.7786,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "educational decline",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "npmi": 0.7786,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "faculty careers",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "npmi": 0.7786,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "scholarly grant funding",
+    "target": "scholarships",
+    "co_occurrence": 3,
+    "npmi": 0.7786,
+    "source_cluster": "education_funding",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "scholarships",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "npmi": 0.7786,
+    "source_cluster": "education_cost",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "undergraduate pathway",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": 0.7786,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "education crisis",
+    "target": "student retention",
+    "co_occurrence": 3,
+    "npmi": 0.7786,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "educational decline",
+    "target": "student retention",
+    "co_occurrence": 3,
+    "npmi": 0.7786,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "scholarships",
+    "target": "student retention",
+    "co_occurrence": 3,
+    "npmi": 0.7786,
+    "source_cluster": "education_cost",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "scholarly grant funding",
+    "co_occurrence": 3,
+    "npmi": 0.6068,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "npmi": 0.6068,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "scholarly grant funding",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "npmi": 0.6068,
+    "source_cluster": "education_funding",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "scholarly grant funding",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "npmi": 0.6068,
+    "source_cluster": "education_funding",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "student engagement",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "npmi": 0.6068,
+    "source_cluster": "student_experience",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "student experience",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "npmi": 0.6068,
+    "source_cluster": "student_experience",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student retention",
+    "co_occurrence": 3,
+    "npmi": 0.6068,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "education crisis",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "npmi": 0.5992,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "educational decline",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "npmi": 0.5992,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "scholarships",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "npmi": 0.5992,
+    "source_cluster": "education_cost",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student engagement",
+    "co_occurrence": 4,
+    "npmi": 0.5588,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student experience",
+    "co_occurrence": 4,
+    "npmi": 0.5588,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "college experience",
+    "target": "education crisis",
+    "co_occurrence": 3,
+    "npmi": 0.5572,
+    "source_cluster": "student_experience",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "college experience",
+    "target": "educational decline",
+    "co_occurrence": 3,
+    "npmi": 0.5572,
+    "source_cluster": "student_experience",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "college experience",
+    "target": "scholarships",
+    "co_occurrence": 3,
+    "npmi": 0.5572,
+    "source_cluster": "student_experience",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "college experience",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": 0.5572,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "education crisis",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": 0.5572,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "educational decline",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": 0.5572,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "outdated education model",
+    "target": "scholarships",
+    "co_occurrence": 3,
+    "npmi": 0.5572,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "outdated education model",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "npmi": 0.5572,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "scholarships",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": 0.5572,
+    "source_cluster": "education_cost",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "scholarly funding",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.4665,
+    "source_cluster": "education_funding",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "scholarly grant funding",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.4665,
+    "source_cluster": "education_funding",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "undergraduate pathway",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.4665,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "student retention",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.4665,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "college experience",
+    "target": "higher education crisis",
+    "co_occurrence": 3,
+    "npmi": 0.3854,
+    "source_cluster": "student_experience",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "npmi": 0.3854,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": 0.3854,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "outdated education model",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "npmi": 0.3854,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "outdated education model",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "npmi": 0.3854,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "student engagement",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": 0.3854,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "student experience",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": 0.3854,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "npmi": 0.3786,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "student engagement",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "npmi": 0.3786,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "student experience",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "npmi": 0.3786,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "college experience",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.2451,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "outdated education model",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.2451,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "tuition affordability",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.2451,
+    "source_cluster": "education_cost",
+    "target_cluster": "university_administration"
+  }
+]
