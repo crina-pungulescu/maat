@@ -1,0 +1,274 @@
+[
+  {
+    "source": "employability gap",
+    "target": "faculty labour exploitation",
+    "co_occurrence": 3,
+    "pmi": 1.0,
+    "source_cluster": "academic_degradation_signals",
+    "target_cluster": "faculty_labour"
+  },
+  {
+    "source": "employability gap",
+    "target": "institutional accreditation",
+    "co_occurrence": 3,
+    "pmi": 1.0,
+    "source_cluster": "academic_degradation_signals",
+    "target_cluster": "university_accreditation"
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "institutional accreditation",
+    "co_occurrence": 3,
+    "pmi": 1.0,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "university_accreditation"
+  },
+  {
+    "source": "systemic education failure",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.0,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "decline of academia",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 0.585,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "education crisis",
+    "target": "instructional excellence",
+    "co_occurrence": 3,
+    "pmi": 0.585,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "education crisis",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 0.585,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "education crisis",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "pmi": 0.585,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "instructional excellence",
+    "co_occurrence": 3,
+    "pmi": 0.585,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 0.585,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "pmi": 0.585,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "instructional excellence",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 0.585,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "systemic education failure",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 0.585,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "education crisis",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "pmi": 0.585,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "pmi": 0.585,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "student experience",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 0.585,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "employability gap",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "pmi": 0.263,
+    "source_cluster": "academic_degradation_signals",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "pmi": 0.263,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "pmi": 0.263,
+    "source_cluster": "university_accreditation",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "decline of academia",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "pmi": 0.263,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "education crisis",
+    "target": "pedagogical innovation",
+    "co_occurrence": 4,
+    "pmi": 0.263,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "pedagogical innovation",
+    "co_occurrence": 4,
+    "pmi": 0.263,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "systemic education failure",
+    "co_occurrence": 3,
+    "pmi": 0.263,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 0.263,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "pmi": 0.263,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "pmi": 0.263,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "employability gap",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "pmi": 0.0,
+    "source_cluster": "academic_degradation_signals",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "pmi": 0.0,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "pmi": 0.0,
+    "source_cluster": "university_accreditation",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "outdated education model",
+    "target": "pedagogical innovation",
+    "co_occurrence": 5,
+    "pmi": 0.0,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "instructional excellence",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "pmi": 0.0,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "outdated education model",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 0.0,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "outdated education model",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "pmi": 0.0,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "outdated education model",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "pmi": 0.0,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  }
+]
