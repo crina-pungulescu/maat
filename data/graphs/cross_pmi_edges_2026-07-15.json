@@ -1,0 +1,210 @@
+[
+  {
+    "source": "academic collapse",
+    "target": "postgraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 2.3219,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "decline of academia",
+    "target": "postgraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 2.3219,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "educational decline",
+    "target": "postgraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 2.3219,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "instructional excellence",
+    "target": "scholastic aptitude test",
+    "co_occurrence": 3,
+    "pmi": 1.9069,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "admissions_access_in_higher_education"
+  },
+  {
+    "source": "student life",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 1.9069,
+    "source_cluster": "student_experience",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.585,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "educational instability",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "pmi": 1.585,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "faculty precarity",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.585,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "postgraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 1.585,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "systemic education failure",
+    "co_occurrence": 3,
+    "pmi": 1.585,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "edtech",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "pmi": 1.585,
+    "source_cluster": "educational_technology",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 1.3219,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "faculty precarity",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 1.3219,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "pmi": 1.263,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "pmi": 1.1699,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "outdated education model",
+    "target": "postgraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 1.0995,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "education crisis",
+    "target": "pedagogical innovation",
+    "co_occurrence": 4,
+    "pmi": 1.0,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "education crisis",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "pmi": 1.0,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "pmi": 1.0,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "education crisis",
+    "target": "instructional excellence",
+    "co_occurrence": 3,
+    "pmi": 0.9069,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "outdated education model",
+    "target": "pedagogical innovation",
+    "co_occurrence": 4,
+    "pmi": 0.7776,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "education crisis",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "pmi": 0.737,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "instructional excellence",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "pmi": 0.6845,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "outdated education model",
+    "target": "student life",
+    "co_occurrence": 3,
+    "pmi": 0.6845,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "outdated education model",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 0.3626,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "outdated education model",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 0.0995,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  }
+]
