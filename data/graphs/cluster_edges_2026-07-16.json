@@ -1,0 +1,27 @@
+[
+  {
+    "source": "education_funding",
+    "target": "research_activities",
+    "weight": 1
+  },
+  {
+    "source": "faculty_labour",
+    "target": "teaching_and_learning",
+    "weight": 4
+  },
+  {
+    "source": "student_experience",
+    "target": "teaching_and_learning",
+    "weight": 3
+  },
+  {
+    "source": "teaching_and_learning",
+    "target": "university_administration",
+    "weight": 4
+  },
+  {
+    "source": "research_activities",
+    "target": "teaching_and_learning",
+    "weight": 1
+  }
+]

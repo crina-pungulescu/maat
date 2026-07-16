@@ -1,0 +1,106 @@
+[
+  {
+    "source": "research collaboration",
+    "target": "scholarly funding",
+    "co_occurrence": 3,
+    "pmi": 2.3219,
+    "source_cluster": "research_activities",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "faculty careers",
+    "target": "postgraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 1.9069,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "faculty hiring market",
+    "target": "postgraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 1.9069,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "curricular design",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "pmi": 1.9069,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "curricular design",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "pmi": 1.9069,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "curricular design",
+    "target": "student life",
+    "co_occurrence": 3,
+    "pmi": 1.9069,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "undergraduate pathway",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.9069,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "undergraduate pathway",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 1.9069,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "postgraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 1.4919,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "research productivity",
+    "co_occurrence": 3,
+    "pmi": 1.4919,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "curricular design",
+    "co_occurrence": 3,
+    "pmi": 1.4919,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.4919,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 1.4919,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "university_administration"
+  }
+]
