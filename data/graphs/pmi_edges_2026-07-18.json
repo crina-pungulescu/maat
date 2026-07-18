@@ -1,0 +1,602 @@
+[
+  {
+    "source": "student protest",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 2.3219
+  },
+  {
+    "source": "educational instability",
+    "target": "systemic education failure",
+    "co_occurrence": 3,
+    "pmi": 1.9069
+  },
+  {
+    "source": "education crisis",
+    "target": "outdated education model",
+    "co_occurrence": 4,
+    "pmi": 1.585
+  },
+  {
+    "source": "educational instability",
+    "target": "outdated education model",
+    "co_occurrence": 4,
+    "pmi": 1.585
+  },
+  {
+    "source": "green campus",
+    "target": "student life",
+    "co_occurrence": 3,
+    "pmi": 1.585
+  },
+  {
+    "source": "college experience",
+    "target": "faculty careers",
+    "co_occurrence": 3,
+    "pmi": 1.585
+  },
+  {
+    "source": "college experience",
+    "target": "postgraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 1.585
+  },
+  {
+    "source": "college experience",
+    "target": "student protest",
+    "co_occurrence": 3,
+    "pmi": 1.585
+  },
+  {
+    "source": "college experience",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 1.585
+  },
+  {
+    "source": "faculty careers",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "pmi": 1.585
+  },
+  {
+    "source": "faculty careers",
+    "target": "student life",
+    "co_occurrence": 3,
+    "pmi": 1.585
+  },
+  {
+    "source": "higher education crisis",
+    "target": "postgraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 1.585
+  },
+  {
+    "source": "outdated education model",
+    "target": "systemic education failure",
+    "co_occurrence": 3,
+    "pmi": 1.585
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "pmi": 1.585
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "student life",
+    "co_occurrence": 3,
+    "pmi": 1.585
+  },
+  {
+    "source": "student experience",
+    "target": "student protest",
+    "co_occurrence": 3,
+    "pmi": 1.585
+  },
+  {
+    "source": "student experience",
+    "target": "student satisfaction",
+    "co_occurrence": 3,
+    "pmi": 1.585
+  },
+  {
+    "source": "student experience",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 1.585
+  },
+  {
+    "source": "student life",
+    "target": "student protest",
+    "co_occurrence": 3,
+    "pmi": 1.585
+  },
+  {
+    "source": "student life",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 1.585
+  },
+  {
+    "source": "college experience",
+    "target": "curricular design",
+    "co_occurrence": 3,
+    "pmi": 1.585
+  },
+  {
+    "source": "curricular design",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "pmi": 1.585
+  },
+  {
+    "source": "curricular design",
+    "target": "student life",
+    "co_occurrence": 3,
+    "pmi": 1.585
+  },
+  {
+    "source": "education crisis",
+    "target": "educational instability",
+    "co_occurrence": 3,
+    "pmi": 1.4919
+  },
+  {
+    "source": "college experience",
+    "target": "student engagement",
+    "co_occurrence": 5,
+    "pmi": 1.3219
+  },
+  {
+    "source": "faculty careers",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "pmi": 1.3219
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "pmi": 1.3219
+  },
+  {
+    "source": "student engagement",
+    "target": "student experience",
+    "co_occurrence": 5,
+    "pmi": 1.3219
+  },
+  {
+    "source": "student engagement",
+    "target": "student protest",
+    "co_occurrence": 3,
+    "pmi": 1.3219
+  },
+  {
+    "source": "student engagement",
+    "target": "student satisfaction",
+    "co_occurrence": 3,
+    "pmi": 1.3219
+  },
+  {
+    "source": "student engagement",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 1.3219
+  },
+  {
+    "source": "curricular design",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "pmi": 1.3219
+  },
+  {
+    "source": "higher education crisis",
+    "target": "outdated education model",
+    "co_occurrence": 4,
+    "pmi": 1.263
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student life",
+    "co_occurrence": 4,
+    "pmi": 1.263
+  },
+  {
+    "source": "college experience",
+    "target": "student experience",
+    "co_occurrence": 4,
+    "pmi": 1.263
+  },
+  {
+    "source": "college experience",
+    "target": "student life",
+    "co_occurrence": 4,
+    "pmi": 1.263
+  },
+  {
+    "source": "student experience",
+    "target": "student life",
+    "co_occurrence": 4,
+    "pmi": 1.263
+  },
+  {
+    "source": "education crisis",
+    "target": "higher education crisis",
+    "co_occurrence": 3,
+    "pmi": 1.1699
+  },
+  {
+    "source": "education crisis",
+    "target": "student life",
+    "co_occurrence": 3,
+    "pmi": 1.1699
+  },
+  {
+    "source": "educational instability",
+    "target": "higher education crisis",
+    "co_occurrence": 3,
+    "pmi": 1.1699
+  },
+  {
+    "source": "green campus",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.0995
+  },
+  {
+    "source": "student life",
+    "target": "university policy",
+    "co_occurrence": 5,
+    "pmi": 1.0995
+  },
+  {
+    "source": "college experience",
+    "target": "university policy",
+    "co_occurrence": 5,
+    "pmi": 1.0995
+  },
+  {
+    "source": "student engagement",
+    "target": "university policy",
+    "co_occurrence": 6,
+    "pmi": 1.0995
+  },
+  {
+    "source": "faculty careers",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.0995
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.0995
+  },
+  {
+    "source": "student experience",
+    "target": "university policy",
+    "co_occurrence": 5,
+    "pmi": 1.0995
+  },
+  {
+    "source": "student protest",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.0995
+  },
+  {
+    "source": "student satisfaction",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.0995
+  },
+  {
+    "source": "undergraduate pathway",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.0995
+  },
+  {
+    "source": "curricular design",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.0995
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university leadership",
+    "co_occurrence": 4,
+    "pmi": 1.0
+  },
+  {
+    "source": "outdated education model",
+    "target": "university leadership",
+    "co_occurrence": 4,
+    "pmi": 1.0
+  },
+  {
+    "source": "student engagement",
+    "target": "student life",
+    "co_occurrence": 4,
+    "pmi": 1.0
+  },
+  {
+    "source": "education crisis",
+    "target": "university leadership",
+    "co_occurrence": 3,
+    "pmi": 0.9069
+  },
+  {
+    "source": "educational instability",
+    "target": "university leadership",
+    "co_occurrence": 3,
+    "pmi": 0.9069
+  },
+  {
+    "source": "green campus",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "pmi": 0.9069
+  },
+  {
+    "source": "green campus",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 0.9069
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university administrators",
+    "co_occurrence": 5,
+    "pmi": 0.9069
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university reform",
+    "co_occurrence": 5,
+    "pmi": 0.9069
+  },
+  {
+    "source": "student life",
+    "target": "university administrators",
+    "co_occurrence": 5,
+    "pmi": 0.9069
+  },
+  {
+    "source": "student life",
+    "target": "university reform",
+    "co_occurrence": 5,
+    "pmi": 0.9069
+  },
+  {
+    "source": "university administrators",
+    "target": "university leadership",
+    "co_occurrence": 6,
+    "pmi": 0.9069
+  },
+  {
+    "source": "university policy",
+    "target": "university reform",
+    "co_occurrence": 7,
+    "pmi": 0.9069
+  },
+  {
+    "source": "college experience",
+    "target": "university reform",
+    "co_occurrence": 5,
+    "pmi": 0.9069
+  },
+  {
+    "source": "student engagement",
+    "target": "university reform",
+    "co_occurrence": 6,
+    "pmi": 0.9069
+  },
+  {
+    "source": "faculty careers",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "pmi": 0.9069
+  },
+  {
+    "source": "faculty careers",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 0.9069
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "pmi": 0.9069
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 0.9069
+  },
+  {
+    "source": "student experience",
+    "target": "university reform",
+    "co_occurrence": 5,
+    "pmi": 0.9069
+  },
+  {
+    "source": "student protest",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "pmi": 0.9069
+  },
+  {
+    "source": "student protest",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 0.9069
+  },
+  {
+    "source": "student satisfaction",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 0.9069
+  },
+  {
+    "source": "undergraduate pathway",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "pmi": 0.9069
+  },
+  {
+    "source": "undergraduate pathway",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 0.9069
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "pmi": 0.9069
+  },
+  {
+    "source": "curricular design",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "pmi": 0.9069
+  },
+  {
+    "source": "curricular design",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 0.9069
+  },
+  {
+    "source": "outdated education model",
+    "target": "student life",
+    "co_occurrence": 3,
+    "pmi": 0.848
+  },
+  {
+    "source": "college experience",
+    "target": "higher education crisis",
+    "co_occurrence": 3,
+    "pmi": 0.848
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "pmi": 0.848
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "pmi": 0.7776
+  },
+  {
+    "source": "education crisis",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 0.6845
+  },
+  {
+    "source": "outdated education model",
+    "target": "university administrators",
+    "co_occurrence": 4,
+    "pmi": 0.585
+  },
+  {
+    "source": "outdated education model",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "pmi": 0.585
+  },
+  {
+    "source": "student life",
+    "target": "university leadership",
+    "co_occurrence": 3,
+    "pmi": 0.585
+  },
+  {
+    "source": "college experience",
+    "target": "university administrators",
+    "co_occurrence": 4,
+    "pmi": 0.585
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "pmi": 0.585
+  },
+  {
+    "source": "student experience",
+    "target": "university administrators",
+    "co_occurrence": 4,
+    "pmi": 0.585
+  },
+  {
+    "source": "education crisis",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "pmi": 0.4919
+  },
+  {
+    "source": "education crisis",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 0.4919
+  },
+  {
+    "source": "educational instability",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "pmi": 0.4919
+  },
+  {
+    "source": "educational instability",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 0.4919
+  },
+  {
+    "source": "university administrators",
+    "target": "university reform",
+    "co_occurrence": 6,
+    "pmi": 0.4919
+  },
+  {
+    "source": "university administrators",
+    "target": "university policy",
+    "co_occurrence": 5,
+    "pmi": 0.4215
+  },
+  {
+    "source": "outdated education model",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 0.3626
+  },
+  {
+    "source": "university leadership",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "pmi": 0.3219
+  },
+  {
+    "source": "student engagement",
+    "target": "university administrators",
+    "co_occurrence": 4,
+    "pmi": 0.3219
+  },
+  {
+    "source": "university leadership",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 0.0995
+  }
+]
