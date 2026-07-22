@@ -1,0 +1,410 @@
+[
+  {
+    "source": "undergraduate pathway",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 2.1155,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "AI assisted process",
+    "target": "high-impact research",
+    "co_occurrence": 3,
+    "pmi": 2.1155,
+    "source_cluster": "educational_technology",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "AI assisted process",
+    "target": "theoretical research",
+    "co_occurrence": 3,
+    "pmi": 2.1155,
+    "source_cluster": "educational_technology",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "high-impact research",
+    "co_occurrence": 3,
+    "pmi": 2.1155,
+    "source_cluster": "educational_technology",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "theoretical research",
+    "co_occurrence": 3,
+    "pmi": 2.1155,
+    "source_cluster": "educational_technology",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "curricular design",
+    "target": "student satisfaction",
+    "co_occurrence": 3,
+    "pmi": 1.7004,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "public scholarly funding",
+    "co_occurrence": 3,
+    "pmi": 1.7004,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "scholarly funding",
+    "co_occurrence": 3,
+    "pmi": 1.7004,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "scholarships",
+    "co_occurrence": 3,
+    "pmi": 1.7004,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "scholarships",
+    "co_occurrence": 4,
+    "pmi": 1.7004,
+    "source_cluster": "education_funding",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 1.7004,
+    "source_cluster": "education_funding",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.7004,
+    "source_cluster": "education_funding",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "scholarly funding",
+    "target": "scholarships",
+    "co_occurrence": 4,
+    "pmi": 1.7004,
+    "source_cluster": "education_funding",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "scholarly funding",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 1.7004,
+    "source_cluster": "education_funding",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "scholarly funding",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.7004,
+    "source_cluster": "education_funding",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "scholarships",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 1.7004,
+    "source_cluster": "education_cost",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "scholarships",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.7004,
+    "source_cluster": "education_cost",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "scholarships",
+    "co_occurrence": 3,
+    "pmi": 1.7004,
+    "source_cluster": "education_funding",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "empirical research",
+    "target": "politicisation of science",
+    "co_occurrence": 3,
+    "pmi": 1.7004,
+    "source_cluster": "research_activities",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "politicisation of science",
+    "target": "research productivity",
+    "co_occurrence": 3,
+    "pmi": 1.7004,
+    "source_cluster": "science_society",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "AI assisted process",
+    "target": "empirical research",
+    "co_occurrence": 3,
+    "pmi": 1.7004,
+    "source_cluster": "educational_technology",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "AI assisted process",
+    "target": "research productivity",
+    "co_occurrence": 3,
+    "pmi": 1.7004,
+    "source_cluster": "educational_technology",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "empirical research",
+    "co_occurrence": 3,
+    "pmi": 1.7004,
+    "source_cluster": "educational_technology",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "research productivity",
+    "co_occurrence": 3,
+    "pmi": 1.7004,
+    "source_cluster": "educational_technology",
+    "target_cluster": "research_activities"
+  },
+  {
+    "source": "curricular design",
+    "target": "student experience",
+    "co_occurrence": 4,
+    "pmi": 1.3785,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "curricular design",
+    "target": "student life",
+    "co_occurrence": 4,
+    "pmi": 1.3785,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "student experience",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 1.3785,
+    "source_cluster": "student_experience",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "student experience",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.3785,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "student life",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 1.3785,
+    "source_cluster": "student_experience",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "student life",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.3785,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "outdated education model",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "pmi": 1.2854,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "pmi": 1.2854,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "curricular design",
+    "target": "student engagement",
+    "co_occurrence": 4,
+    "pmi": 1.1155,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "pmi": 1.1155,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "student engagement",
+    "co_occurrence": 4,
+    "pmi": 1.1155,
+    "source_cluster": "education_funding",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "scholarly funding",
+    "target": "student engagement",
+    "co_occurrence": 4,
+    "pmi": 1.1155,
+    "source_cluster": "education_funding",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "scholarships",
+    "target": "student engagement",
+    "co_occurrence": 4,
+    "pmi": 1.1155,
+    "source_cluster": "education_cost",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "student engagement",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "pmi": 1.1155,
+    "source_cluster": "student_experience",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "student engagement",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.1155,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "pmi": 1.1155,
+    "source_cluster": "education_funding",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "pmi": 0.9635,
+    "source_cluster": "education_funding",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "student life",
+    "co_occurrence": 3,
+    "pmi": 0.9635,
+    "source_cluster": "education_funding",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "scholarly funding",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "pmi": 0.9635,
+    "source_cluster": "education_funding",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "scholarly funding",
+    "target": "student life",
+    "co_occurrence": 3,
+    "pmi": 0.9635,
+    "source_cluster": "education_funding",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "scholarships",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "pmi": 0.9635,
+    "source_cluster": "education_cost",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "scholarships",
+    "target": "student life",
+    "co_occurrence": 3,
+    "pmi": 0.9635,
+    "source_cluster": "education_cost",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "pmi": 0.7004,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "student engagement",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "pmi": 0.7004,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "education crisis",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "pmi": 0.3785,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "education crisis",
+    "target": "student life",
+    "co_occurrence": 3,
+    "pmi": 0.3785,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "education crisis",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "pmi": 0.1155,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  }
+]
