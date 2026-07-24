@@ -1,0 +1,27 @@
+[
+  {
+    "source": "student_experience",
+    "target": "teaching_and_learning",
+    "weight": 1
+  },
+  {
+    "source": "academic_abuse",
+    "target": "politics_in_academia",
+    "weight": 1
+  },
+  {
+    "source": "academic_abuse",
+    "target": "student_experience",
+    "weight": 1
+  },
+  {
+    "source": "politics_in_academia",
+    "target": "student_experience",
+    "weight": 1
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "student_experience",
+    "weight": 4
+  }
+]

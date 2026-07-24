@@ -1,0 +1,66 @@
+[
+  {
+    "source": "student experience",
+    "target": "undergraduate pathway",
+    "co_occurrence": 3,
+    "npmi": 0.8213,
+    "source_cluster": "student_experience",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "political repression",
+    "target": "suppressing dissent",
+    "co_occurrence": 3,
+    "npmi": 0.8213,
+    "source_cluster": "politics_in_academia",
+    "target_cluster": "academic_abuse"
+  },
+  {
+    "source": "student protest",
+    "target": "suppressing dissent",
+    "co_occurrence": 3,
+    "npmi": 0.8213,
+    "source_cluster": "student_experience",
+    "target_cluster": "academic_abuse"
+  },
+  {
+    "source": "political repression",
+    "target": "student protest",
+    "co_occurrence": 3,
+    "npmi": 0.6425,
+    "source_cluster": "politics_in_academia",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "education crisis",
+    "target": "student protest",
+    "co_occurrence": 3,
+    "npmi": 0.5039,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "educational instability",
+    "target": "student protest",
+    "co_occurrence": 3,
+    "npmi": 0.5039,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student protest",
+    "co_occurrence": 3,
+    "npmi": 0.5039,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "outdated education model",
+    "target": "student protest",
+    "co_occurrence": 3,
+    "npmi": 0.5039,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  }
+]
