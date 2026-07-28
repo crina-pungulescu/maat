@@ -1,0 +1,87 @@
+[
+  {
+    "source": "education_cost",
+    "target": "faculty_labour",
+    "weight": 2
+  },
+  {
+    "source": "faculty_labour",
+    "target": "higher_education_crisis",
+    "weight": 21
+  },
+  {
+    "source": "education_cost",
+    "target": "teaching_and_learning",
+    "weight": 1
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "university_administration",
+    "weight": 16
+  },
+  {
+    "source": "faculty_labour",
+    "target": "teaching_and_learning",
+    "weight": 1
+  },
+  {
+    "source": "student_experience",
+    "target": "teaching_and_learning",
+    "weight": 1
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "student_experience",
+    "weight": 14
+  },
+  {
+    "source": "faculty_labour",
+    "target": "university_administration",
+    "weight": 8
+  },
+  {
+    "source": "education_cost",
+    "target": "university_administration",
+    "weight": 2
+  },
+  {
+    "source": "faculty_labour",
+    "target": "student_experience",
+    "weight": 3
+  },
+  {
+    "source": "teaching_and_learning",
+    "target": "university_administration",
+    "weight": 2
+  },
+  {
+    "source": "student_experience",
+    "target": "university_administration",
+    "weight": 8
+  },
+  {
+    "source": "internationalisation_of_academia",
+    "target": "university_administration",
+    "weight": 2
+  },
+  {
+    "source": "education_cost",
+    "target": "higher_education_crisis",
+    "weight": 3
+  },
+  {
+    "source": "education_cost",
+    "target": "student_experience",
+    "weight": 2
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "teaching_and_learning",
+    "weight": 2
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "internationalisation_of_academia",
+    "weight": 2
+  }
+]
