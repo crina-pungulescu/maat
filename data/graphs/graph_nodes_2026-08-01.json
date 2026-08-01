@@ -1,0 +1,698 @@
+[
+  {
+    "id": "postgraduate pathway",
+    "label": "Postgraduate Pathway",
+    "weight": 2,
+    "avg_score": 0.4118,
+    "article_ids": [
+      "39df25285ca1d77a3e790f9c9912df2b",
+      "40d6b0faac31266396d13ef14d1ecd95"
+    ]
+  },
+  {
+    "id": "education crisis",
+    "label": "Education Crisis",
+    "weight": 6,
+    "avg_score": 0.4586,
+    "article_ids": [
+      "04cc34af8e8572c51a3e66eff5c66a10",
+      "39df25285ca1d77a3e790f9c9912df2b",
+      "40d6b0faac31266396d13ef14d1ecd95",
+      "6eff01148197b473359e5fa91603a1c1",
+      "88c2b8d91361a8dce138758ab95db5a8",
+      "be3bd46089c93c92669bc6e1e4a3143d"
+    ]
+  },
+  {
+    "id": "higher education crisis",
+    "label": "Higher Education Crisis",
+    "weight": 5,
+    "avg_score": 0.4599,
+    "article_ids": [
+      "39df25285ca1d77a3e790f9c9912df2b",
+      "40d6b0faac31266396d13ef14d1ecd95",
+      "6eff01148197b473359e5fa91603a1c1",
+      "88c2b8d91361a8dce138758ab95db5a8",
+      "b18ce59bfed5aee5e4e0e9f81bc12837"
+    ]
+  },
+  {
+    "id": "decline of academia",
+    "label": "Decline Of Academia",
+    "weight": 2,
+    "avg_score": 0.4517,
+    "article_ids": [
+      "04cc34af8e8572c51a3e66eff5c66a10",
+      "40d6b0faac31266396d13ef14d1ecd95"
+    ]
+  },
+  {
+    "id": "academic collapse",
+    "label": "Academic Collapse",
+    "weight": 5,
+    "avg_score": 0.4284,
+    "article_ids": [
+      "04cc34af8e8572c51a3e66eff5c66a10",
+      "39df25285ca1d77a3e790f9c9912df2b",
+      "40d6b0faac31266396d13ef14d1ecd95",
+      "6eff01148197b473359e5fa91603a1c1",
+      "b18ce59bfed5aee5e4e0e9f81bc12837"
+    ]
+  },
+  {
+    "id": "academic model breakdown",
+    "label": "Academic Model Breakdown",
+    "weight": 1,
+    "avg_score": 0.4353,
+    "article_ids": [
+      "40d6b0faac31266396d13ef14d1ecd95"
+    ]
+  },
+  {
+    "id": "scholarly funding",
+    "label": "Scholarly Funding",
+    "weight": 1,
+    "avg_score": 0.4722,
+    "article_ids": [
+      "40d6b0faac31266396d13ef14d1ecd95"
+    ]
+  },
+  {
+    "id": "public scholarly funding",
+    "label": "Public Scholarly Funding",
+    "weight": 1,
+    "avg_score": 0.4644,
+    "article_ids": [
+      "40d6b0faac31266396d13ef14d1ecd95"
+    ]
+  },
+  {
+    "id": "scholarly grant funding",
+    "label": "Scholarly Grant Funding",
+    "weight": 1,
+    "avg_score": 0.4101,
+    "article_ids": [
+      "40d6b0faac31266396d13ef14d1ecd95"
+    ]
+  },
+  {
+    "id": "scholarly endowments",
+    "label": "Scholarly Endowments",
+    "weight": 1,
+    "avg_score": 0.5016,
+    "article_ids": [
+      "40d6b0faac31266396d13ef14d1ecd95"
+    ]
+  },
+  {
+    "id": "adjunct faculty",
+    "label": "Adjunct Faculty",
+    "weight": 3,
+    "avg_score": 0.4356,
+    "article_ids": [
+      "39df25285ca1d77a3e790f9c9912df2b",
+      "40d6b0faac31266396d13ef14d1ecd95",
+      "fe98c5900402e42849dca20f9514e0a1"
+    ]
+  },
+  {
+    "id": "faculty precarity",
+    "label": "Faculty Precarity",
+    "weight": 2,
+    "avg_score": 0.4313,
+    "article_ids": [
+      "39df25285ca1d77a3e790f9c9912df2b",
+      "40d6b0faac31266396d13ef14d1ecd95"
+    ]
+  },
+  {
+    "id": "faculty careers",
+    "label": "Faculty Careers",
+    "weight": 3,
+    "avg_score": 0.438,
+    "article_ids": [
+      "39df25285ca1d77a3e790f9c9912df2b",
+      "40d6b0faac31266396d13ef14d1ecd95",
+      "fe98c5900402e42849dca20f9514e0a1"
+    ]
+  },
+  {
+    "id": "faculty workload",
+    "label": "Faculty Workload",
+    "weight": 2,
+    "avg_score": 0.4025,
+    "article_ids": [
+      "40d6b0faac31266396d13ef14d1ecd95",
+      "fe98c5900402e42849dca20f9514e0a1"
+    ]
+  },
+  {
+    "id": "faculty job insecurity",
+    "label": "Faculty Job Insecurity",
+    "weight": 2,
+    "avg_score": 0.4455,
+    "article_ids": [
+      "40d6b0faac31266396d13ef14d1ecd95",
+      "fe98c5900402e42849dca20f9514e0a1"
+    ]
+  },
+  {
+    "id": "faculty redundancy",
+    "label": "Faculty Redundancy",
+    "weight": 2,
+    "avg_score": 0.4063,
+    "article_ids": [
+      "40d6b0faac31266396d13ef14d1ecd95",
+      "fe98c5900402e42849dca20f9514e0a1"
+    ]
+  },
+  {
+    "id": "intellectual autonomy",
+    "label": "Intellectual Autonomy",
+    "weight": 1,
+    "avg_score": 0.445,
+    "article_ids": [
+      "40d6b0faac31266396d13ef14d1ecd95"
+    ]
+  },
+  {
+    "id": "educational decline",
+    "label": "Educational Decline",
+    "weight": 3,
+    "avg_score": 0.4336,
+    "article_ids": [
+      "04cc34af8e8572c51a3e66eff5c66a10",
+      "39df25285ca1d77a3e790f9c9912df2b",
+      "88c2b8d91361a8dce138758ab95db5a8"
+    ]
+  },
+  {
+    "id": "educational instability",
+    "label": "Educational Instability",
+    "weight": 4,
+    "avg_score": 0.4538,
+    "article_ids": [
+      "04cc34af8e8572c51a3e66eff5c66a10",
+      "39df25285ca1d77a3e790f9c9912df2b",
+      "6eff01148197b473359e5fa91603a1c1",
+      "88c2b8d91361a8dce138758ab95db5a8"
+    ]
+  },
+  {
+    "id": "outdated education model",
+    "label": "Outdated Education Model",
+    "weight": 5,
+    "avg_score": 0.4456,
+    "article_ids": [
+      "04cc34af8e8572c51a3e66eff5c66a10",
+      "39df25285ca1d77a3e790f9c9912df2b",
+      "6eff01148197b473359e5fa91603a1c1",
+      "88c2b8d91361a8dce138758ab95db5a8",
+      "b18ce59bfed5aee5e4e0e9f81bc12837"
+    ]
+  },
+  {
+    "id": "university senate",
+    "label": "University Senate",
+    "weight": 1,
+    "avg_score": 0.4022,
+    "article_ids": [
+      "be3bd46089c93c92669bc6e1e4a3143d"
+    ]
+  },
+  {
+    "id": "suppressing dissent",
+    "label": "Suppressing Dissent",
+    "weight": 1,
+    "avg_score": 0.4232,
+    "article_ids": [
+      "be3bd46089c93c92669bc6e1e4a3143d"
+    ]
+  },
+  {
+    "id": "student protest",
+    "label": "Student Protest",
+    "weight": 3,
+    "avg_score": 0.411,
+    "article_ids": [
+      "39df25285ca1d77a3e790f9c9912df2b",
+      "6eff01148197b473359e5fa91603a1c1",
+      "ae875e63d9badb2492cd28b7c48034f2"
+    ]
+  },
+  {
+    "id": "green campus",
+    "label": "Green Campus",
+    "weight": 3,
+    "avg_score": 0.4649,
+    "article_ids": [
+      "24f0ced3469b57cb185a8b26a601e4b8",
+      "6eff01148197b473359e5fa91603a1c1",
+      "ae875e63d9badb2492cd28b7c48034f2"
+    ]
+  },
+  {
+    "id": "curricular design",
+    "label": "Curricular Design",
+    "weight": 2,
+    "avg_score": 0.4212,
+    "article_ids": [
+      "39df25285ca1d77a3e790f9c9912df2b",
+      "88c2b8d91361a8dce138758ab95db5a8"
+    ]
+  },
+  {
+    "id": "course evaluation",
+    "label": "Course Evaluation",
+    "weight": 2,
+    "avg_score": 0.4194,
+    "article_ids": [
+      "39df25285ca1d77a3e790f9c9912df2b",
+      "88c2b8d91361a8dce138758ab95db5a8"
+    ]
+  },
+  {
+    "id": "bachelor qualification",
+    "label": "Bachelor Qualification",
+    "weight": 1,
+    "avg_score": 0.4464,
+    "article_ids": [
+      "39df25285ca1d77a3e790f9c9912df2b"
+    ]
+  },
+  {
+    "id": "undergraduate pathway",
+    "label": "Undergraduate Pathway",
+    "weight": 2,
+    "avg_score": 0.4308,
+    "article_ids": [
+      "39df25285ca1d77a3e790f9c9912df2b",
+      "6eff01148197b473359e5fa91603a1c1"
+    ]
+  },
+  {
+    "id": "instructional excellence",
+    "label": "Instructional Excellence",
+    "weight": 2,
+    "avg_score": 0.4962,
+    "article_ids": [
+      "39df25285ca1d77a3e790f9c9912df2b",
+      "88c2b8d91361a8dce138758ab95db5a8"
+    ]
+  },
+  {
+    "id": "student wellbeing",
+    "label": "Student Wellbeing",
+    "weight": 1,
+    "avg_score": 0.41,
+    "article_ids": [
+      "39df25285ca1d77a3e790f9c9912df2b"
+    ]
+  },
+  {
+    "id": "student life",
+    "label": "Student Life",
+    "weight": 3,
+    "avg_score": 0.4817,
+    "article_ids": [
+      "39df25285ca1d77a3e790f9c9912df2b",
+      "6eff01148197b473359e5fa91603a1c1",
+      "88c2b8d91361a8dce138758ab95db5a8"
+    ]
+  },
+  {
+    "id": "college experience",
+    "label": "College Experience",
+    "weight": 2,
+    "avg_score": 0.4691,
+    "article_ids": [
+      "39df25285ca1d77a3e790f9c9912df2b",
+      "6eff01148197b473359e5fa91603a1c1"
+    ]
+  },
+  {
+    "id": "student experience",
+    "label": "Student Experience",
+    "weight": 3,
+    "avg_score": 0.4605,
+    "article_ids": [
+      "39df25285ca1d77a3e790f9c9912df2b",
+      "6eff01148197b473359e5fa91603a1c1",
+      "88c2b8d91361a8dce138758ab95db5a8"
+    ]
+  },
+  {
+    "id": "student satisfaction",
+    "label": "Student Satisfaction",
+    "weight": 1,
+    "avg_score": 0.4291,
+    "article_ids": [
+      "39df25285ca1d77a3e790f9c9912df2b"
+    ]
+  },
+  {
+    "id": "student engagement",
+    "label": "Student Engagement",
+    "weight": 3,
+    "avg_score": 0.4481,
+    "article_ids": [
+      "39df25285ca1d77a3e790f9c9912df2b",
+      "6eff01148197b473359e5fa91603a1c1",
+      "88c2b8d91361a8dce138758ab95db5a8"
+    ]
+  },
+  {
+    "id": "student retention",
+    "label": "Student Retention",
+    "weight": 2,
+    "avg_score": 0.4661,
+    "article_ids": [
+      "39df25285ca1d77a3e790f9c9912df2b",
+      "6eff01148197b473359e5fa91603a1c1"
+    ]
+  },
+  {
+    "id": "student voice",
+    "label": "Student Voice",
+    "weight": 1,
+    "avg_score": 0.4212,
+    "article_ids": [
+      "39df25285ca1d77a3e790f9c9912df2b"
+    ]
+  },
+  {
+    "id": "systemic education failure",
+    "label": "Systemic Education Failure",
+    "weight": 2,
+    "avg_score": 0.4485,
+    "article_ids": [
+      "39df25285ca1d77a3e790f9c9912df2b",
+      "88c2b8d91361a8dce138758ab95db5a8"
+    ]
+  },
+  {
+    "id": "scholarships",
+    "label": "Scholarships",
+    "weight": 2,
+    "avg_score": 0.4194,
+    "article_ids": [
+      "39df25285ca1d77a3e790f9c9912df2b",
+      "88c2b8d91361a8dce138758ab95db5a8"
+    ]
+  },
+  {
+    "id": "university policy",
+    "label": "University Policy",
+    "weight": 4,
+    "avg_score": 0.4291,
+    "article_ids": [
+      "24f0ced3469b57cb185a8b26a601e4b8",
+      "39df25285ca1d77a3e790f9c9912df2b",
+      "6eff01148197b473359e5fa91603a1c1",
+      "fe98c5900402e42849dca20f9514e0a1"
+    ]
+  },
+  {
+    "id": "university reform",
+    "label": "University Reform",
+    "weight": 3,
+    "avg_score": 0.451,
+    "article_ids": [
+      "24f0ced3469b57cb185a8b26a601e4b8",
+      "39df25285ca1d77a3e790f9c9912df2b",
+      "6eff01148197b473359e5fa91603a1c1"
+    ]
+  },
+  {
+    "id": "admissions criteria",
+    "label": "Admissions Criteria",
+    "weight": 1,
+    "avg_score": 0.4378,
+    "article_ids": [
+      "39df25285ca1d77a3e790f9c9912df2b"
+    ]
+  },
+  {
+    "id": "admissions selectivity",
+    "label": "Admissions Selectivity",
+    "weight": 1,
+    "avg_score": 0.4239,
+    "article_ids": [
+      "39df25285ca1d77a3e790f9c9912df2b"
+    ]
+  },
+  {
+    "id": "scholastic aptitude test",
+    "label": "Scholastic Aptitude Test",
+    "weight": 2,
+    "avg_score": 0.4653,
+    "article_ids": [
+      "39df25285ca1d77a3e790f9c9912df2b",
+      "88c2b8d91361a8dce138758ab95db5a8"
+    ]
+  },
+  {
+    "id": "graduate record examination",
+    "label": "Graduate Record Examination",
+    "weight": 1,
+    "avg_score": 0.4486,
+    "article_ids": [
+      "39df25285ca1d77a3e790f9c9912df2b"
+    ]
+  },
+  {
+    "id": "graduate management admission test",
+    "label": "Graduate Management Admission Test",
+    "weight": 1,
+    "avg_score": 0.4586,
+    "article_ids": [
+      "39df25285ca1d77a3e790f9c9912df2b"
+    ]
+  },
+  {
+    "id": "course architecture",
+    "label": "Course Architecture",
+    "weight": 1,
+    "avg_score": 0.4075,
+    "article_ids": [
+      "24f0ced3469b57cb185a8b26a601e4b8"
+    ]
+  },
+  {
+    "id": "university administrators",
+    "label": "University Administrators",
+    "weight": 2,
+    "avg_score": 0.4404,
+    "article_ids": [
+      "24f0ced3469b57cb185a8b26a601e4b8",
+      "fe98c5900402e42849dca20f9514e0a1"
+    ]
+  },
+  {
+    "id": "university leadership",
+    "label": "University Leadership",
+    "weight": 1,
+    "avg_score": 0.4278,
+    "article_ids": [
+      "fe98c5900402e42849dca20f9514e0a1"
+    ]
+  },
+  {
+    "id": "faculty contracts",
+    "label": "Faculty Contracts",
+    "weight": 1,
+    "avg_score": 0.4398,
+    "article_ids": [
+      "fe98c5900402e42849dca20f9514e0a1"
+    ]
+  },
+  {
+    "id": "unpaid faculty labour",
+    "label": "Unpaid Faculty Labour",
+    "weight": 1,
+    "avg_score": 0.413,
+    "article_ids": [
+      "fe98c5900402e42849dca20f9514e0a1"
+    ]
+  },
+  {
+    "id": "faculty hiring market",
+    "label": "Faculty Hiring Market",
+    "weight": 1,
+    "avg_score": 0.4017,
+    "article_ids": [
+      "fe98c5900402e42849dca20f9514e0a1"
+    ]
+  },
+  {
+    "id": "faculty unemployment",
+    "label": "Faculty Unemployment",
+    "weight": 1,
+    "avg_score": 0.4527,
+    "article_ids": [
+      "fe98c5900402e42849dca20f9514e0a1"
+    ]
+  },
+  {
+    "id": "geopolitics",
+    "label": "Geopolitics",
+    "weight": 1,
+    "avg_score": 0.4134,
+    "article_ids": [
+      "b18ce59bfed5aee5e4e0e9f81bc12837"
+    ]
+  },
+  {
+    "id": "east asia",
+    "label": "East Asia",
+    "weight": 1,
+    "avg_score": 0.4267,
+    "article_ids": [
+      "b18ce59bfed5aee5e4e0e9f81bc12837"
+    ]
+  },
+  {
+    "id": "international cohorts",
+    "label": "International Cohorts",
+    "weight": 1,
+    "avg_score": 0.4681,
+    "article_ids": [
+      "b18ce59bfed5aee5e4e0e9f81bc12837"
+    ]
+  },
+  {
+    "id": "global experience",
+    "label": "Global Experience",
+    "weight": 1,
+    "avg_score": 0.4218,
+    "article_ids": [
+      "b18ce59bfed5aee5e4e0e9f81bc12837"
+    ]
+  },
+  {
+    "id": "instructional practice",
+    "label": "Instructional Practice",
+    "weight": 1,
+    "avg_score": 0.4616,
+    "article_ids": [
+      "88c2b8d91361a8dce138758ab95db5a8"
+    ]
+  },
+  {
+    "id": "pedagogical methods",
+    "label": "Pedagogical Methods",
+    "weight": 1,
+    "avg_score": 0.433,
+    "article_ids": [
+      "88c2b8d91361a8dce138758ab95db5a8"
+    ]
+  },
+  {
+    "id": "classroom methods",
+    "label": "Classroom Methods",
+    "weight": 1,
+    "avg_score": 0.4735,
+    "article_ids": [
+      "88c2b8d91361a8dce138758ab95db5a8"
+    ]
+  },
+  {
+    "id": "participatory instruction",
+    "label": "Participatory Instruction",
+    "weight": 1,
+    "avg_score": 0.4393,
+    "article_ids": [
+      "88c2b8d91361a8dce138758ab95db5a8"
+    ]
+  },
+  {
+    "id": "pedagogical innovation",
+    "label": "Pedagogical Innovation",
+    "weight": 1,
+    "avg_score": 0.4692,
+    "article_ids": [
+      "88c2b8d91361a8dce138758ab95db5a8"
+    ]
+  },
+  {
+    "id": "qualitative research",
+    "label": "Qualitative Research",
+    "weight": 1,
+    "avg_score": 0.4,
+    "article_ids": [
+      "88c2b8d91361a8dce138758ab95db5a8"
+    ]
+  },
+  {
+    "id": "tuition affordability",
+    "label": "Tuition Affordability",
+    "weight": 1,
+    "avg_score": 0.4136,
+    "article_ids": [
+      "88c2b8d91361a8dce138758ab95db5a8"
+    ]
+  },
+  {
+    "id": "skills mismatch",
+    "label": "Skills Mismatch",
+    "weight": 1,
+    "avg_score": 0.4215,
+    "article_ids": [
+      "88c2b8d91361a8dce138758ab95db5a8"
+    ]
+  },
+  {
+    "id": "sustainability",
+    "label": "Sustainability",
+    "weight": 1,
+    "avg_score": 0.4386,
+    "article_ids": [
+      "6ee23436f26681d1df0d42a419605d55"
+    ]
+  },
+  {
+    "id": "environmental sustainability",
+    "label": "Environmental Sustainability",
+    "weight": 1,
+    "avg_score": 0.4832,
+    "article_ids": [
+      "6ee23436f26681d1df0d42a419605d55"
+    ]
+  },
+  {
+    "id": "theoretical research",
+    "label": "Theoretical Research",
+    "weight": 1,
+    "avg_score": 0.454,
+    "article_ids": [
+      "fc823a4a1b7485e4cf7b239820058502"
+    ]
+  },
+  {
+    "id": "trust in science",
+    "label": "Trust In Science",
+    "weight": 1,
+    "avg_score": 0.4246,
+    "article_ids": [
+      "fc823a4a1b7485e4cf7b239820058502"
+    ]
+  },
+  {
+    "id": "science communication",
+    "label": "Science Communication",
+    "weight": 1,
+    "avg_score": 0.4519,
+    "article_ids": [
+      "fc823a4a1b7485e4cf7b239820058502"
+    ]
+  },
+  {
+    "id": "scientific expertise",
+    "label": "Scientific Expertise",
+    "weight": 1,
+    "avg_score": 0.4488,
+    "article_ids": [
+      "fc823a4a1b7485e4cf7b239820058502"
+    ]
+  }
+]
