@@ -1,0 +1,308 @@
+[
+  {
+    "source": "student satisfaction",
+    "target": "student wellbeing",
+    "co_occurrence": 4,
+    "pmi": 2.1699
+  },
+  {
+    "source": "education crisis",
+    "target": "educational instability",
+    "co_occurrence": 3,
+    "pmi": 1.848
+  },
+  {
+    "source": "education crisis",
+    "target": "systemic education failure",
+    "co_occurrence": 4,
+    "pmi": 1.848
+  },
+  {
+    "source": "instructional excellence",
+    "target": "systemic education failure",
+    "co_occurrence": 3,
+    "pmi": 1.7549
+  },
+  {
+    "source": "education crisis",
+    "target": "outdated education model",
+    "co_occurrence": 5,
+    "pmi": 1.585
+  },
+  {
+    "source": "educational instability",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "pmi": 1.585
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student engagement",
+    "co_occurrence": 4,
+    "pmi": 1.585
+  },
+  {
+    "source": "outdated education model",
+    "target": "systemic education failure",
+    "co_occurrence": 4,
+    "pmi": 1.585
+  },
+  {
+    "source": "participatory instruction",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "pmi": 1.585
+  },
+  {
+    "source": "outdated education model",
+    "target": "over-enrollment",
+    "co_occurrence": 3,
+    "pmi": 1.585
+  },
+  {
+    "source": "school budgets",
+    "target": "tuition affordability",
+    "co_occurrence": 3,
+    "pmi": 1.585
+  },
+  {
+    "source": "student retention",
+    "target": "tuition affordability",
+    "co_occurrence": 3,
+    "pmi": 1.585
+  },
+  {
+    "source": "tuition affordability",
+    "target": "tuition fee",
+    "co_occurrence": 3,
+    "pmi": 1.585
+  },
+  {
+    "source": "education crisis",
+    "target": "instructional excellence",
+    "co_occurrence": 3,
+    "pmi": 1.433
+  },
+  {
+    "source": "instructional excellence",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "pmi": 1.433
+  },
+  {
+    "source": "higher education crisis",
+    "target": "school budgets",
+    "co_occurrence": 3,
+    "pmi": 1.3626
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "student engagement",
+    "co_occurrence": 4,
+    "pmi": 1.263
+  },
+  {
+    "source": "instructional excellence",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "pmi": 1.1699
+  },
+  {
+    "source": "student engagement",
+    "target": "systemic education failure",
+    "co_occurrence": 3,
+    "pmi": 1.1699
+  },
+  {
+    "source": "university policy",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "pmi": 1.1699
+  },
+  {
+    "source": "decline of academia",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "pmi": 1.1699
+  },
+  {
+    "source": "student life",
+    "target": "student satisfaction",
+    "co_occurrence": 4,
+    "pmi": 1.1699
+  },
+  {
+    "source": "student life",
+    "target": "student wellbeing",
+    "co_occurrence": 4,
+    "pmi": 1.1699
+  },
+  {
+    "source": "school budgets",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.1699
+  },
+  {
+    "source": "student life",
+    "target": "tuition fee",
+    "co_occurrence": 3,
+    "pmi": 1.1699
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "student experience",
+    "co_occurrence": 4,
+    "pmi": 1.0406
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university policy",
+    "co_occurrence": 6,
+    "pmi": 0.9475
+  },
+  {
+    "source": "student experience",
+    "target": "student life",
+    "co_occurrence": 6,
+    "pmi": 0.9475
+  },
+  {
+    "source": "student experience",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 0.9475
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "pmi": 0.9475
+  },
+  {
+    "source": "education crisis",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "pmi": 0.848
+  },
+  {
+    "source": "higher education crisis",
+    "target": "outdated education model",
+    "co_occurrence": 4,
+    "pmi": 0.7776
+  },
+  {
+    "source": "higher education crisis",
+    "target": "tuition affordability",
+    "co_occurrence": 4,
+    "pmi": 0.7776
+  },
+  {
+    "source": "student engagement",
+    "target": "student experience",
+    "co_occurrence": 4,
+    "pmi": 0.7776
+  },
+  {
+    "source": "student life",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 0.7549
+  },
+  {
+    "source": "student experience",
+    "target": "university policy",
+    "co_occurrence": 5,
+    "pmi": 0.6845
+  },
+  {
+    "source": "education crisis",
+    "target": "higher education crisis",
+    "co_occurrence": 3,
+    "pmi": 0.6256
+  },
+  {
+    "source": "education crisis",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "pmi": 0.6256
+  },
+  {
+    "source": "outdated education model",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "pmi": 0.585
+  },
+  {
+    "source": "outdated education model",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "pmi": 0.585
+  },
+  {
+    "source": "student life",
+    "target": "tuition affordability",
+    "co_occurrence": 4,
+    "pmi": 0.585
+  },
+  {
+    "source": "tuition affordability",
+    "target": "university policy",
+    "co_occurrence": 4,
+    "pmi": 0.585
+  },
+  {
+    "source": "student life",
+    "target": "university policy",
+    "co_occurrence": 5,
+    "pmi": 0.4919
+  },
+  {
+    "source": "education crisis",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 0.433
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "student life",
+    "co_occurrence": 3,
+    "pmi": 0.433
+  },
+  {
+    "source": "outdated education model",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "pmi": 0.3626
+  },
+  {
+    "source": "student engagement",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 0.1699
+  },
+  {
+    "source": "outdated education model",
+    "target": "student life",
+    "co_occurrence": 3,
+    "pmi": 0.1699
+  },
+  {
+    "source": "student engagement",
+    "target": "student life",
+    "co_occurrence": 3,
+    "pmi": 0.1699
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "pmi": 0.1402
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student life",
+    "co_occurrence": 3,
+    "pmi": -0.0525
+  }
+]
