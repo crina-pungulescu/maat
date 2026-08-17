@@ -1,0 +1,38 @@
+[
+  {
+    "source": "education crisis",
+    "target": "educational decline",
+    "co_occurrence": 3,
+    "pmi": 1.0
+  },
+  {
+    "source": "education crisis",
+    "target": "educational instability",
+    "co_occurrence": 3,
+    "pmi": 0.585
+  },
+  {
+    "source": "educational decline",
+    "target": "educational instability",
+    "co_occurrence": 3,
+    "pmi": 0.585
+  },
+  {
+    "source": "education crisis",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "pmi": 0.263
+  },
+  {
+    "source": "educational decline",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "pmi": 0.263
+  },
+  {
+    "source": "educational instability",
+    "target": "outdated education model",
+    "co_occurrence": 4,
+    "pmi": 0.263
+  }
+]
