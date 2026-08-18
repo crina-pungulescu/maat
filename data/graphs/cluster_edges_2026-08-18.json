@@ -1,0 +1,52 @@
+[
+  {
+    "source": "higher_education_crisis",
+    "target": "university_administration",
+    "weight": 9
+  },
+  {
+    "source": "faculty_labour",
+    "target": "higher_education_crisis",
+    "weight": 18
+  },
+  {
+    "source": "admissions_access_in_higher_education",
+    "target": "teaching_and_learning",
+    "weight": 1
+  },
+  {
+    "source": "faculty_labour",
+    "target": "university_administration",
+    "weight": 3
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "teaching_and_learning",
+    "weight": 5
+  },
+  {
+    "source": "admissions_access_in_higher_education",
+    "target": "higher_education_crisis",
+    "weight": 4
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "student_experience",
+    "weight": 6
+  },
+  {
+    "source": "student_experience",
+    "target": "teaching_and_learning",
+    "weight": 2
+  },
+  {
+    "source": "admissions_access_in_higher_education",
+    "target": "student_experience",
+    "weight": 1
+  },
+  {
+    "source": "faculty_labour",
+    "target": "student_experience",
+    "weight": 2
+  }
+]
