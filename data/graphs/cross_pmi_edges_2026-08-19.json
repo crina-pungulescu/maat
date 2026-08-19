@@ -1,0 +1,66 @@
+[
+  {
+    "source": "faculty precarity",
+    "target": "scholarly endowments",
+    "co_occurrence": 3,
+    "pmi": 2.3219,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "pmi": 1.9069,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "faculty careers",
+    "target": "university administrators",
+    "co_occurrence": 3,
+    "pmi": 1.9069,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "education crisis",
+    "target": "instructional excellence",
+    "co_occurrence": 3,
+    "pmi": 1.585,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 1.4919,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "faculty careers",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 1.4919,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "public scholarly funding",
+    "co_occurrence": 3,
+    "pmi": 1.1699,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "pmi": 0.848,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  }
+]
