@@ -1,0 +1,77 @@
+[
+  {
+    "source": "higher_education_crisis",
+    "target": "student_experience",
+    "weight": 55
+  },
+  {
+    "source": "education_cost",
+    "target": "higher_education_crisis",
+    "weight": 14
+  },
+  {
+    "source": "education_cost",
+    "target": "student_experience",
+    "weight": 16
+  },
+  {
+    "source": "faculty_labour",
+    "target": "higher_education_crisis",
+    "weight": 20
+  },
+  {
+    "source": "faculty_labour",
+    "target": "student_experience",
+    "weight": 19
+  },
+  {
+    "source": "education_cost",
+    "target": "faculty_labour",
+    "weight": 5
+  },
+  {
+    "source": "faculty_labour",
+    "target": "university_administration",
+    "weight": 9
+  },
+  {
+    "source": "education_funding",
+    "target": "faculty_labour",
+    "weight": 6
+  },
+  {
+    "source": "education_funding",
+    "target": "university_administration",
+    "weight": 2
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "university_administration",
+    "weight": 14
+  },
+  {
+    "source": "student_experience",
+    "target": "university_administration",
+    "weight": 15
+  },
+  {
+    "source": "education_cost",
+    "target": "university_administration",
+    "weight": 4
+  },
+  {
+    "source": "education_funding",
+    "target": "higher_education_crisis",
+    "weight": 1
+  },
+  {
+    "source": "student_experience",
+    "target": "teaching_and_learning",
+    "weight": 1
+  },
+  {
+    "source": "education_funding",
+    "target": "student_experience",
+    "weight": 2
+  }
+]
