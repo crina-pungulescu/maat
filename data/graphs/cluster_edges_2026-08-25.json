@@ -1,0 +1,27 @@
+[
+  {
+    "source": "higher_education_crisis",
+    "target": "university_administration",
+    "weight": 12
+  },
+  {
+    "source": "education_funding",
+    "target": "higher_education_crisis",
+    "weight": 2
+  },
+  {
+    "source": "education_cost",
+    "target": "higher_education_crisis",
+    "weight": 2
+  },
+  {
+    "source": "education_funding",
+    "target": "university_administration",
+    "weight": 4
+  },
+  {
+    "source": "education_cost",
+    "target": "university_administration",
+    "weight": 2
+  }
+]
