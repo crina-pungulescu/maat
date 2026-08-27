@@ -1,0 +1,138 @@
+[
+  {
+    "source": "academic collapse",
+    "target": "public scholarly funding",
+    "co_occurrence": 3,
+    "pmi": 2.1155,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "academic collapse",
+    "target": "tuition affordability",
+    "co_occurrence": 3,
+    "pmi": 2.1155,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "academic collapse",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 2.1155,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "public scholarly funding",
+    "co_occurrence": 3,
+    "pmi": 2.1155,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "tuition affordability",
+    "co_occurrence": 3,
+    "pmi": 2.1155,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 2.1155,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "tuition affordability",
+    "co_occurrence": 3,
+    "pmi": 2.1155,
+    "source_cluster": "education_funding",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 2.1155,
+    "source_cluster": "education_funding",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "tuition affordability",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 2.1155,
+    "source_cluster": "education_cost",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "academic collapse",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 1.7004,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 1.7004,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 1.7004,
+    "source_cluster": "education_funding",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "tuition affordability",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 1.7004,
+    "source_cluster": "education_cost",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "education crisis",
+    "target": "public scholarly funding",
+    "co_occurrence": 3,
+    "pmi": 1.3785,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_funding"
+  },
+  {
+    "source": "education crisis",
+    "target": "tuition affordability",
+    "co_occurrence": 3,
+    "pmi": 1.3785,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "education_cost"
+  },
+  {
+    "source": "education crisis",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.3785,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "education crisis",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 0.9635,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  }
+]
