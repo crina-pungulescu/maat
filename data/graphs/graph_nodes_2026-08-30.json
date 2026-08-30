@@ -1,0 +1,354 @@
+[
+  {
+    "id": "student wellbeing",
+    "label": "Student Wellbeing",
+    "weight": 1,
+    "avg_score": 0.471,
+    "article_ids": [
+      "bf487309322c1519a19dbde74ac75abe"
+    ]
+  },
+  {
+    "id": "student life",
+    "label": "Student Life",
+    "weight": 1,
+    "avg_score": 0.4435,
+    "article_ids": [
+      "bf487309322c1519a19dbde74ac75abe"
+    ]
+  },
+  {
+    "id": "student experience",
+    "label": "Student Experience",
+    "weight": 1,
+    "avg_score": 0.403,
+    "article_ids": [
+      "bf487309322c1519a19dbde74ac75abe"
+    ]
+  },
+  {
+    "id": "student satisfaction",
+    "label": "Student Satisfaction",
+    "weight": 1,
+    "avg_score": 0.4683,
+    "article_ids": [
+      "bf487309322c1519a19dbde74ac75abe"
+    ]
+  },
+  {
+    "id": "tuition fee",
+    "label": "Tuition Fee",
+    "weight": 1,
+    "avg_score": 0.4467,
+    "article_ids": [
+      "bf487309322c1519a19dbde74ac75abe"
+    ]
+  },
+  {
+    "id": "tuition affordability",
+    "label": "Tuition Affordability",
+    "weight": 1,
+    "avg_score": 0.4383,
+    "article_ids": [
+      "bf487309322c1519a19dbde74ac75abe"
+    ]
+  },
+  {
+    "id": "grade inflation",
+    "label": "Grade Inflation",
+    "weight": 1,
+    "avg_score": 0.4469,
+    "article_ids": [
+      "bf487309322c1519a19dbde74ac75abe"
+    ]
+  },
+  {
+    "id": "student protest",
+    "label": "Student Protest",
+    "weight": 1,
+    "avg_score": 0.4326,
+    "article_ids": [
+      "1b24857d3847c986ed72bdee99a5d2e6"
+    ]
+  },
+  {
+    "id": "education crisis",
+    "label": "Education Crisis",
+    "weight": 1,
+    "avg_score": 0.4369,
+    "article_ids": [
+      "1b24857d3847c986ed72bdee99a5d2e6"
+    ]
+  },
+  {
+    "id": "higher education crisis",
+    "label": "Higher Education Crisis",
+    "weight": 1,
+    "avg_score": 0.4697,
+    "article_ids": [
+      "1b24857d3847c986ed72bdee99a5d2e6"
+    ]
+  },
+  {
+    "id": "decline of academia",
+    "label": "Decline Of Academia",
+    "weight": 2,
+    "avg_score": 0.4472,
+    "article_ids": [
+      "1b24857d3847c986ed72bdee99a5d2e6",
+      "f34b1dd11a238af665fc691f1d7d46ff"
+    ]
+  },
+  {
+    "id": "academic collapse",
+    "label": "Academic Collapse",
+    "weight": 1,
+    "avg_score": 0.4171,
+    "article_ids": [
+      "1b24857d3847c986ed72bdee99a5d2e6"
+    ]
+  },
+  {
+    "id": "educational instability",
+    "label": "Educational Instability",
+    "weight": 1,
+    "avg_score": 0.4148,
+    "article_ids": [
+      "1b24857d3847c986ed72bdee99a5d2e6"
+    ]
+  },
+  {
+    "id": "university bylaws",
+    "label": "University Bylaws",
+    "weight": 1,
+    "avg_score": 0.4532,
+    "article_ids": [
+      "1b24857d3847c986ed72bdee99a5d2e6"
+    ]
+  },
+  {
+    "id": "university leadership",
+    "label": "University Leadership",
+    "weight": 1,
+    "avg_score": 0.4453,
+    "article_ids": [
+      "1b24857d3847c986ed72bdee99a5d2e6"
+    ]
+  },
+  {
+    "id": "university senate",
+    "label": "University Senate",
+    "weight": 2,
+    "avg_score": 0.4254,
+    "article_ids": [
+      "1b24857d3847c986ed72bdee99a5d2e6",
+      "f34b1dd11a238af665fc691f1d7d46ff"
+    ]
+  },
+  {
+    "id": "university administrators",
+    "label": "University Administrators",
+    "weight": 1,
+    "avg_score": 0.4745,
+    "article_ids": [
+      "1b24857d3847c986ed72bdee99a5d2e6"
+    ]
+  },
+  {
+    "id": "university policy",
+    "label": "University Policy",
+    "weight": 2,
+    "avg_score": 0.4966,
+    "article_ids": [
+      "1b24857d3847c986ed72bdee99a5d2e6",
+      "f34b1dd11a238af665fc691f1d7d46ff"
+    ]
+  },
+  {
+    "id": "university reform",
+    "label": "University Reform",
+    "weight": 2,
+    "avg_score": 0.5084,
+    "article_ids": [
+      "1b24857d3847c986ed72bdee99a5d2e6",
+      "f34b1dd11a238af665fc691f1d7d46ff"
+    ]
+  },
+  {
+    "id": "public scholarly funding",
+    "label": "Public Scholarly Funding",
+    "weight": 1,
+    "avg_score": 0.4403,
+    "article_ids": [
+      "1b24857d3847c986ed72bdee99a5d2e6"
+    ]
+  },
+  {
+    "id": "scholarly endowments",
+    "label": "Scholarly Endowments",
+    "weight": 1,
+    "avg_score": 0.4048,
+    "article_ids": [
+      "1b24857d3847c986ed72bdee99a5d2e6"
+    ]
+  },
+  {
+    "id": "faculty contracts",
+    "label": "Faculty Contracts",
+    "weight": 1,
+    "avg_score": 0.5026,
+    "article_ids": [
+      "1b24857d3847c986ed72bdee99a5d2e6"
+    ]
+  },
+  {
+    "id": "adjunct faculty",
+    "label": "Adjunct Faculty",
+    "weight": 2,
+    "avg_score": 0.4762,
+    "article_ids": [
+      "1b24857d3847c986ed72bdee99a5d2e6",
+      "f34b1dd11a238af665fc691f1d7d46ff"
+    ]
+  },
+  {
+    "id": "faculty precarity",
+    "label": "Faculty Precarity",
+    "weight": 2,
+    "avg_score": 0.5084,
+    "article_ids": [
+      "1b24857d3847c986ed72bdee99a5d2e6",
+      "f34b1dd11a238af665fc691f1d7d46ff"
+    ]
+  },
+  {
+    "id": "faculty labour exploitation",
+    "label": "Faculty Labour Exploitation",
+    "weight": 1,
+    "avg_score": 0.4348,
+    "article_ids": [
+      "1b24857d3847c986ed72bdee99a5d2e6"
+    ]
+  },
+  {
+    "id": "faculty careers",
+    "label": "Faculty Careers",
+    "weight": 2,
+    "avg_score": 0.4792,
+    "article_ids": [
+      "1b24857d3847c986ed72bdee99a5d2e6",
+      "f34b1dd11a238af665fc691f1d7d46ff"
+    ]
+  },
+  {
+    "id": "unpaid faculty labour",
+    "label": "Unpaid Faculty Labour",
+    "weight": 1,
+    "avg_score": 0.4004,
+    "article_ids": [
+      "1b24857d3847c986ed72bdee99a5d2e6"
+    ]
+  },
+  {
+    "id": "faculty workload",
+    "label": "Faculty Workload",
+    "weight": 1,
+    "avg_score": 0.4936,
+    "article_ids": [
+      "1b24857d3847c986ed72bdee99a5d2e6"
+    ]
+  },
+  {
+    "id": "faculty job insecurity",
+    "label": "Faculty Job Insecurity",
+    "weight": 2,
+    "avg_score": 0.5154,
+    "article_ids": [
+      "1b24857d3847c986ed72bdee99a5d2e6",
+      "f34b1dd11a238af665fc691f1d7d46ff"
+    ]
+  },
+  {
+    "id": "faculty hiring market",
+    "label": "Faculty Hiring Market",
+    "weight": 1,
+    "avg_score": 0.4691,
+    "article_ids": [
+      "1b24857d3847c986ed72bdee99a5d2e6"
+    ]
+  },
+  {
+    "id": "faculty redundancy",
+    "label": "Faculty Redundancy",
+    "weight": 1,
+    "avg_score": 0.5059,
+    "article_ids": [
+      "1b24857d3847c986ed72bdee99a5d2e6"
+    ]
+  },
+  {
+    "id": "faculty unemployment",
+    "label": "Faculty Unemployment",
+    "weight": 1,
+    "avg_score": 0.4486,
+    "article_ids": [
+      "1b24857d3847c986ed72bdee99a5d2e6"
+    ]
+  },
+  {
+    "id": "suppressing dissent",
+    "label": "Suppressing Dissent",
+    "weight": 2,
+    "avg_score": 0.4472,
+    "article_ids": [
+      "1b24857d3847c986ed72bdee99a5d2e6",
+      "f34b1dd11a238af665fc691f1d7d46ff"
+    ]
+  },
+  {
+    "id": "bureaucratic obstruction",
+    "label": "Bureaucratic Obstruction",
+    "weight": 1,
+    "avg_score": 0.409,
+    "article_ids": [
+      "1b24857d3847c986ed72bdee99a5d2e6"
+    ]
+  },
+  {
+    "id": "abuse of office",
+    "label": "Abuse Of Office",
+    "weight": 1,
+    "avg_score": 0.4156,
+    "article_ids": [
+      "1b24857d3847c986ed72bdee99a5d2e6"
+    ]
+  },
+  {
+    "id": "political repression",
+    "label": "Political Repression",
+    "weight": 2,
+    "avg_score": 0.4421,
+    "article_ids": [
+      "1b24857d3847c986ed72bdee99a5d2e6",
+      "f34b1dd11a238af665fc691f1d7d46ff"
+    ]
+  },
+  {
+    "id": "legitimacy crisis",
+    "label": "Legitimacy Crisis",
+    "weight": 1,
+    "avg_score": 0.4083,
+    "article_ids": [
+      "f34b1dd11a238af665fc691f1d7d46ff"
+    ]
+  },
+  {
+    "id": "freedom of speech",
+    "label": "Freedom Of Speech",
+    "weight": 1,
+    "avg_score": 0.4675,
+    "article_ids": [
+      "f34b1dd11a238af665fc691f1d7d46ff"
+    ]
+  }
+]
