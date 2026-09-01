@@ -1,0 +1,5237 @@
+[
+  {
+    "source": "higher education crisis",
+    "target": "university policy",
+    "weight": 7
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university reform",
+    "weight": 5
+  },
+  {
+    "source": "university policy",
+    "target": "university reform",
+    "weight": 5
+  },
+  {
+    "source": "higher education crisis",
+    "target": "public scholarly funding",
+    "weight": 5
+  },
+  {
+    "source": "higher education crisis",
+    "target": "scholarly funding",
+    "weight": 5
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "scholarly funding",
+    "weight": 5
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "university policy",
+    "weight": 5
+  },
+  {
+    "source": "scholarly funding",
+    "target": "university policy",
+    "weight": 5
+  },
+  {
+    "source": "education crisis",
+    "target": "higher education crisis",
+    "weight": 4
+  },
+  {
+    "source": "education crisis",
+    "target": "university policy",
+    "weight": 4
+  },
+  {
+    "source": "education crisis",
+    "target": "university reform",
+    "weight": 4
+  },
+  {
+    "source": "higher education crisis",
+    "target": "scholarships",
+    "weight": 4
+  },
+  {
+    "source": "higher education crisis",
+    "target": "tuition affordability",
+    "weight": 4
+  },
+  {
+    "source": "scholarships",
+    "target": "tuition affordability",
+    "weight": 4
+  },
+  {
+    "source": "scholarships",
+    "target": "university policy",
+    "weight": 4
+  },
+  {
+    "source": "student experience",
+    "target": "student life",
+    "weight": 4
+  },
+  {
+    "source": "tuition affordability",
+    "target": "university policy",
+    "weight": 4
+  },
+  {
+    "source": "tuition affordability",
+    "target": "university reform",
+    "weight": 4
+  },
+  {
+    "source": "education crisis",
+    "target": "educational instability",
+    "weight": 4
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "university reform",
+    "weight": 4
+  },
+  {
+    "source": "scholarly funding",
+    "target": "university reform",
+    "weight": 4
+  },
+  {
+    "source": "decline of academia",
+    "target": "higher education crisis",
+    "weight": 4
+  },
+  {
+    "source": "decline of academia",
+    "target": "university policy",
+    "weight": 4
+  },
+  {
+    "source": "college experience",
+    "target": "higher education crisis",
+    "weight": 3
+  },
+  {
+    "source": "college experience",
+    "target": "university policy",
+    "weight": 3
+  },
+  {
+    "source": "education crisis",
+    "target": "instructional excellence",
+    "weight": 3
+  },
+  {
+    "source": "education crisis",
+    "target": "tuition affordability",
+    "weight": 3
+  },
+  {
+    "source": "faculty precarity",
+    "target": "higher education crisis",
+    "weight": 3
+  },
+  {
+    "source": "faculty precarity",
+    "target": "scholarships",
+    "weight": 3
+  },
+  {
+    "source": "faculty precarity",
+    "target": "university policy",
+    "weight": 3
+  },
+  {
+    "source": "higher education crisis",
+    "target": "instructional excellence",
+    "weight": 3
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student experience",
+    "weight": 3
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student life",
+    "weight": 3
+  },
+  {
+    "source": "instructional excellence",
+    "target": "tuition affordability",
+    "weight": 3
+  },
+  {
+    "source": "instructional excellence",
+    "target": "university policy",
+    "weight": 3
+  },
+  {
+    "source": "instructional excellence",
+    "target": "university reform",
+    "weight": 3
+  },
+  {
+    "source": "scholarships",
+    "target": "student experience",
+    "weight": 3
+  },
+  {
+    "source": "scholarships",
+    "target": "student life",
+    "weight": 3
+  },
+  {
+    "source": "scholarships",
+    "target": "university reform",
+    "weight": 3
+  },
+  {
+    "source": "student engagement",
+    "target": "student experience",
+    "weight": 3
+  },
+  {
+    "source": "student engagement",
+    "target": "student life",
+    "weight": 3
+  },
+  {
+    "source": "student experience",
+    "target": "tuition affordability",
+    "weight": 3
+  },
+  {
+    "source": "student experience",
+    "target": "university policy",
+    "weight": 3
+  },
+  {
+    "source": "student life",
+    "target": "tuition affordability",
+    "weight": 3
+  },
+  {
+    "source": "student life",
+    "target": "university policy",
+    "weight": 3
+  },
+  {
+    "source": "education crisis",
+    "target": "public scholarly funding",
+    "weight": 3
+  },
+  {
+    "source": "education crisis",
+    "target": "scholarly funding",
+    "weight": 3
+  },
+  {
+    "source": "educational instability",
+    "target": "higher education crisis",
+    "weight": 3
+  },
+  {
+    "source": "educational instability",
+    "target": "public scholarly funding",
+    "weight": 3
+  },
+  {
+    "source": "educational instability",
+    "target": "scholarly funding",
+    "weight": 3
+  },
+  {
+    "source": "educational instability",
+    "target": "university policy",
+    "weight": 3
+  },
+  {
+    "source": "educational instability",
+    "target": "university reform",
+    "weight": 3
+  },
+  {
+    "source": "higher education crisis",
+    "target": "scholarly grant funding",
+    "weight": 3
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "scholarly grant funding",
+    "weight": 3
+  },
+  {
+    "source": "scholarly funding",
+    "target": "scholarly grant funding",
+    "weight": 3
+  },
+  {
+    "source": "scholarly grant funding",
+    "target": "university policy",
+    "weight": 3
+  },
+  {
+    "source": "education crisis",
+    "target": "outdated education model",
+    "weight": 3
+  },
+  {
+    "source": "educational instability",
+    "target": "outdated education model",
+    "weight": 3
+  },
+  {
+    "source": "educational decline",
+    "target": "tuition affordability",
+    "weight": 3
+  },
+  {
+    "source": "tuition affordability",
+    "target": "tuition fee",
+    "weight": 3
+  },
+  {
+    "source": "decline of academia",
+    "target": "public scholarly funding",
+    "weight": 3
+  },
+  {
+    "source": "decline of academia",
+    "target": "scholarly funding",
+    "weight": 3
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "higher education crisis",
+    "weight": 3
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "public scholarly funding",
+    "weight": 3
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "scholarly funding",
+    "weight": 3
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "scholarships",
+    "weight": 3
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "university policy",
+    "weight": 3
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "scholarships",
+    "weight": 3
+  },
+  {
+    "source": "scholarly funding",
+    "target": "scholarships",
+    "weight": 3
+  },
+  {
+    "source": "scholarly grant funding",
+    "target": "scholarships",
+    "weight": 3
+  },
+  {
+    "source": "academic collapse",
+    "target": "decline of academia",
+    "weight": 3
+  },
+  {
+    "source": "academic collapse",
+    "target": "higher education crisis",
+    "weight": 3
+  },
+  {
+    "source": "academic collapse",
+    "target": "university policy",
+    "weight": 3
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "tuition affordability",
+    "weight": 3
+  },
+  {
+    "source": "scholarly funding",
+    "target": "tuition affordability",
+    "weight": 3
+  },
+  {
+    "source": "college experience",
+    "target": "scholarships",
+    "weight": 2
+  },
+  {
+    "source": "college experience",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "college experience",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "college experience",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "college experience",
+    "target": "student retention",
+    "weight": 2
+  },
+  {
+    "source": "college experience",
+    "target": "tuition affordability",
+    "weight": 2
+  },
+  {
+    "source": "college experience",
+    "target": "university administrators",
+    "weight": 2
+  },
+  {
+    "source": "college experience",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "education crisis",
+    "target": "faculty job insecurity",
+    "weight": 2
+  },
+  {
+    "source": "education crisis",
+    "target": "faculty precarity",
+    "weight": 2
+  },
+  {
+    "source": "education crisis",
+    "target": "scholarships",
+    "weight": 2
+  },
+  {
+    "source": "education crisis",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "education crisis",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "education crisis",
+    "target": "student wellbeing",
+    "weight": 2
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "faculty precarity",
+    "weight": 2
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "higher education crisis",
+    "weight": 2
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "instructional excellence",
+    "weight": 2
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "scholarships",
+    "weight": 2
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "student wellbeing",
+    "weight": 2
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "tuition affordability",
+    "weight": 2
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "faculty precarity",
+    "target": "instructional excellence",
+    "weight": 2
+  },
+  {
+    "source": "faculty precarity",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "faculty precarity",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "faculty precarity",
+    "target": "student wellbeing",
+    "weight": 2
+  },
+  {
+    "source": "faculty precarity",
+    "target": "tuition affordability",
+    "weight": 2
+  },
+  {
+    "source": "faculty precarity",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student retention",
+    "weight": 2
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student wellbeing",
+    "weight": 2
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university administrators",
+    "weight": 2
+  },
+  {
+    "source": "instructional excellence",
+    "target": "scholarships",
+    "weight": 2
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student wellbeing",
+    "weight": 2
+  },
+  {
+    "source": "scholarships",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "scholarships",
+    "target": "student satisfaction",
+    "weight": 2
+  },
+  {
+    "source": "scholarships",
+    "target": "student wellbeing",
+    "weight": 2
+  },
+  {
+    "source": "scholarships",
+    "target": "university administrators",
+    "weight": 2
+  },
+  {
+    "source": "student engagement",
+    "target": "student retention",
+    "weight": 2
+  },
+  {
+    "source": "student engagement",
+    "target": "student satisfaction",
+    "weight": 2
+  },
+  {
+    "source": "student engagement",
+    "target": "tuition affordability",
+    "weight": 2
+  },
+  {
+    "source": "student engagement",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "student experience",
+    "target": "student retention",
+    "weight": 2
+  },
+  {
+    "source": "student experience",
+    "target": "student satisfaction",
+    "weight": 2
+  },
+  {
+    "source": "student experience",
+    "target": "student wellbeing",
+    "weight": 2
+  },
+  {
+    "source": "student experience",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "student life",
+    "target": "student retention",
+    "weight": 2
+  },
+  {
+    "source": "student life",
+    "target": "student satisfaction",
+    "weight": 2
+  },
+  {
+    "source": "student life",
+    "target": "student wellbeing",
+    "weight": 2
+  },
+  {
+    "source": "student life",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "student retention",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "student satisfaction",
+    "target": "tuition affordability",
+    "weight": 2
+  },
+  {
+    "source": "student wellbeing",
+    "target": "tuition affordability",
+    "weight": 2
+  },
+  {
+    "source": "student wellbeing",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "student wellbeing",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "tuition affordability",
+    "target": "university administrators",
+    "weight": 2
+  },
+  {
+    "source": "university administrators",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "university administrators",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "faculty precarity",
+    "target": "outdated education model",
+    "weight": 2
+  },
+  {
+    "source": "outdated education model",
+    "target": "pedagogical innovation",
+    "weight": 2
+  },
+  {
+    "source": "outdated education model",
+    "target": "postgraduate pathway",
+    "weight": 2
+  },
+  {
+    "source": "scholarly grant funding",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "educational decline",
+    "target": "school budgets",
+    "weight": 2
+  },
+  {
+    "source": "school budgets",
+    "target": "tuition affordability",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "faculty precarity",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "faculty redundancy",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "scholarships",
+    "weight": 2
+  },
+  {
+    "source": "faculty careers",
+    "target": "faculty redundancy",
+    "weight": 2
+  },
+  {
+    "source": "faculty careers",
+    "target": "higher education crisis",
+    "weight": 2
+  },
+  {
+    "source": "faculty careers",
+    "target": "public scholarly funding",
+    "weight": 2
+  },
+  {
+    "source": "faculty careers",
+    "target": "scholarly endowments",
+    "weight": 2
+  },
+  {
+    "source": "faculty careers",
+    "target": "scholarly funding",
+    "weight": 2
+  },
+  {
+    "source": "faculty careers",
+    "target": "scholarly grant funding",
+    "weight": 2
+  },
+  {
+    "source": "faculty careers",
+    "target": "scholarships",
+    "weight": 2
+  },
+  {
+    "source": "faculty careers",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "faculty precarity",
+    "target": "faculty redundancy",
+    "weight": 2
+  },
+  {
+    "source": "faculty precarity",
+    "target": "public scholarly funding",
+    "weight": 2
+  },
+  {
+    "source": "faculty precarity",
+    "target": "scholarly funding",
+    "weight": 2
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "scholarly endowments",
+    "weight": 2
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "scholarly grant funding",
+    "weight": 2
+  },
+  {
+    "source": "higher education crisis",
+    "target": "scholarly endowments",
+    "weight": 2
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "scholarly endowments",
+    "weight": 2
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "scholarly funding",
+    "weight": 2
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "scholarly grant funding",
+    "weight": 2
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "scholarships",
+    "weight": 2
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "academic collapse",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "academic collapse",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "programme accreditation",
+    "weight": 2
+  },
+  {
+    "source": "academic collapse",
+    "target": "academic model breakdown",
+    "weight": 2
+  },
+  {
+    "source": "academic collapse",
+    "target": "education crisis",
+    "weight": 2
+  },
+  {
+    "source": "academic collapse",
+    "target": "educational decline",
+    "weight": 2
+  },
+  {
+    "source": "academic collapse",
+    "target": "educational instability",
+    "weight": 2
+  },
+  {
+    "source": "academic collapse",
+    "target": "instructional excellence",
+    "weight": 2
+  },
+  {
+    "source": "academic collapse",
+    "target": "outdated education model",
+    "weight": 2
+  },
+  {
+    "source": "academic collapse",
+    "target": "public scholarly funding",
+    "weight": 2
+  },
+  {
+    "source": "academic collapse",
+    "target": "scholarly funding",
+    "weight": 2
+  },
+  {
+    "source": "academic collapse",
+    "target": "systemic education failure",
+    "weight": 2
+  },
+  {
+    "source": "academic collapse",
+    "target": "tuition affordability",
+    "weight": 2
+  },
+  {
+    "source": "academic collapse",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "decline of academia",
+    "weight": 2
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "education crisis",
+    "weight": 2
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "educational decline",
+    "weight": 2
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "educational instability",
+    "weight": 2
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "higher education crisis",
+    "weight": 2
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "instructional excellence",
+    "weight": 2
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "outdated education model",
+    "weight": 2
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "public scholarly funding",
+    "weight": 2
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "scholarly funding",
+    "weight": 2
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "systemic education failure",
+    "weight": 2
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "tuition affordability",
+    "weight": 2
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "education crisis",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "educational decline",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "educational instability",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "instructional excellence",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "outdated education model",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "systemic education failure",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "tuition affordability",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "education crisis",
+    "target": "educational decline",
+    "weight": 2
+  },
+  {
+    "source": "education crisis",
+    "target": "systemic education failure",
+    "weight": 2
+  },
+  {
+    "source": "educational decline",
+    "target": "educational instability",
+    "weight": 2
+  },
+  {
+    "source": "educational decline",
+    "target": "higher education crisis",
+    "weight": 2
+  },
+  {
+    "source": "educational decline",
+    "target": "instructional excellence",
+    "weight": 2
+  },
+  {
+    "source": "educational decline",
+    "target": "outdated education model",
+    "weight": 2
+  },
+  {
+    "source": "educational decline",
+    "target": "public scholarly funding",
+    "weight": 2
+  },
+  {
+    "source": "educational decline",
+    "target": "scholarly funding",
+    "weight": 2
+  },
+  {
+    "source": "educational decline",
+    "target": "systemic education failure",
+    "weight": 2
+  },
+  {
+    "source": "educational decline",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "educational decline",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "educational instability",
+    "target": "instructional excellence",
+    "weight": 2
+  },
+  {
+    "source": "educational instability",
+    "target": "systemic education failure",
+    "weight": 2
+  },
+  {
+    "source": "educational instability",
+    "target": "tuition affordability",
+    "weight": 2
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "tuition affordability",
+    "weight": 2
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "higher education crisis",
+    "target": "outdated education model",
+    "weight": 2
+  },
+  {
+    "source": "higher education crisis",
+    "target": "systemic education failure",
+    "weight": 2
+  },
+  {
+    "source": "instructional excellence",
+    "target": "outdated education model",
+    "weight": 2
+  },
+  {
+    "source": "instructional excellence",
+    "target": "public scholarly funding",
+    "weight": 2
+  },
+  {
+    "source": "instructional excellence",
+    "target": "scholarly funding",
+    "weight": 2
+  },
+  {
+    "source": "instructional excellence",
+    "target": "systemic education failure",
+    "weight": 2
+  },
+  {
+    "source": "outdated education model",
+    "target": "public scholarly funding",
+    "weight": 2
+  },
+  {
+    "source": "outdated education model",
+    "target": "scholarly funding",
+    "weight": 2
+  },
+  {
+    "source": "outdated education model",
+    "target": "systemic education failure",
+    "weight": 2
+  },
+  {
+    "source": "outdated education model",
+    "target": "tuition affordability",
+    "weight": 2
+  },
+  {
+    "source": "outdated education model",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "outdated education model",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "systemic education failure",
+    "weight": 2
+  },
+  {
+    "source": "scholarly funding",
+    "target": "systemic education failure",
+    "weight": 2
+  },
+  {
+    "source": "systemic education failure",
+    "target": "tuition affordability",
+    "weight": 2
+  },
+  {
+    "source": "systemic education failure",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "systemic education failure",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "higher education crisis",
+    "target": "institutional accreditation",
+    "weight": 2
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "public scholarly funding",
+    "weight": 2
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "scholarly funding",
+    "weight": 2
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "tuition affordability",
+    "weight": 2
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "scholarly grant funding",
+    "target": "tuition affordability",
+    "weight": 2
+  },
+  {
+    "source": "scholarly grant funding",
+    "target": "tuition fee",
+    "weight": 2
+  },
+  {
+    "source": "scholarly grant funding",
+    "target": "unpaid faculty labour",
+    "weight": 2
+  },
+  {
+    "source": "scholarships",
+    "target": "tuition fee",
+    "weight": 2
+  },
+  {
+    "source": "scholarships",
+    "target": "unpaid faculty labour",
+    "weight": 2
+  },
+  {
+    "source": "tuition affordability",
+    "target": "unpaid faculty labour",
+    "weight": 2
+  },
+  {
+    "source": "tuition fee",
+    "target": "unpaid faculty labour",
+    "weight": 2
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "college experience",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "scholarships",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "scholarships",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "student protest",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "student protest",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "student protest",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "student protest",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "student protest",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "student protest",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "student protest",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "student retention",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "student retention",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "student retention",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "student retention",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "student retention",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "student satisfaction",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "student satisfaction",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "student satisfaction",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "student satisfaction",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "student wellbeing",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "edtech",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "edtech",
+    "target": "future planning",
+    "weight": 1
+  },
+  {
+    "source": "edtech",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "edtech",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "edtech",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "edtech",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "future planning",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "future planning",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "future planning",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "future planning",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "future planning",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "postgraduate pathway",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "scholarly grant funding",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "scholarly grant funding",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "employability gap",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "faculty labour exploitation",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "faculty unemployment",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "employability gap",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "faculty labour exploitation",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "faculty unemployment",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "employability gap",
+    "target": "faculty labour exploitation",
+    "weight": 1
+  },
+  {
+    "source": "employability gap",
+    "target": "faculty unemployment",
+    "weight": 1
+  },
+  {
+    "source": "employability gap",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "employability gap",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "faculty unemployment",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "postgraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "cost of attendance support",
+    "target": "educational decline",
+    "weight": 1
+  },
+  {
+    "source": "cost of attendance support",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "cost of attendance support",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "cost of attendance support",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "school budgets",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "affirmative action",
+    "target": "decline of academia",
+    "weight": 1
+  },
+  {
+    "source": "affirmative action",
+    "target": "faculty careers",
+    "weight": 1
+  },
+  {
+    "source": "affirmative action",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "affirmative action",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "affirmative action",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "affirmative action",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "affirmative action",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "affirmative action",
+    "target": "racism",
+    "weight": 1
+  },
+  {
+    "source": "affirmative action",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "affirmative action",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "affirmative action",
+    "target": "scholarly grant funding",
+    "weight": 1
+  },
+  {
+    "source": "affirmative action",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "affirmative action",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "faculty careers",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "racism",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "scholarly grant funding",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "racism",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "racism",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "scholarly grant funding",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "racism",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "racism",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "racism",
+    "weight": 1
+  },
+  {
+    "source": "qualitative research",
+    "target": "racism",
+    "weight": 1
+  },
+  {
+    "source": "qualitative research",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "qualitative research",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "qualitative research",
+    "target": "scholarly grant funding",
+    "weight": 1
+  },
+  {
+    "source": "qualitative research",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "qualitative research",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "racism",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "racism",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "racism",
+    "target": "scholarly grant funding",
+    "weight": 1
+  },
+  {
+    "source": "racism",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "racism",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "adjunct faculty",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "china",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "college experience",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "china",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "college experience",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "decline of academia",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "china",
+    "target": "college experience",
+    "weight": 1
+  },
+  {
+    "source": "china",
+    "target": "decline of academia",
+    "weight": 1
+  },
+  {
+    "source": "china",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "china",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "china",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "china",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "china",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "china",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "china",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "china",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "decline of academia",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "student retention",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "student retention",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "study abroad",
+    "target": "undergraduate pathway",
+    "weight": 1
+  },
+  {
+    "source": "study abroad",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "undergraduate pathway",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "accreditation body",
+    "target": "accreditation compliance",
+    "weight": 1
+  },
+  {
+    "source": "accreditation body",
+    "target": "accreditation process",
+    "weight": 1
+  },
+  {
+    "source": "accreditation body",
+    "target": "accreditation review",
+    "weight": 1
+  },
+  {
+    "source": "accreditation body",
+    "target": "accreditation standards",
+    "weight": 1
+  },
+  {
+    "source": "accreditation body",
+    "target": "accreditation withdrawal",
+    "weight": 1
+  },
+  {
+    "source": "accreditation body",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation body",
+    "target": "loss of accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation body",
+    "target": "programme accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation compliance",
+    "target": "accreditation process",
+    "weight": 1
+  },
+  {
+    "source": "accreditation compliance",
+    "target": "accreditation review",
+    "weight": 1
+  },
+  {
+    "source": "accreditation compliance",
+    "target": "accreditation standards",
+    "weight": 1
+  },
+  {
+    "source": "accreditation compliance",
+    "target": "accreditation withdrawal",
+    "weight": 1
+  },
+  {
+    "source": "accreditation compliance",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation compliance",
+    "target": "loss of accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation compliance",
+    "target": "programme accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation process",
+    "target": "accreditation review",
+    "weight": 1
+  },
+  {
+    "source": "accreditation process",
+    "target": "accreditation standards",
+    "weight": 1
+  },
+  {
+    "source": "accreditation process",
+    "target": "accreditation withdrawal",
+    "weight": 1
+  },
+  {
+    "source": "accreditation process",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation process",
+    "target": "loss of accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation process",
+    "target": "programme accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "accreditation standards",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "accreditation withdrawal",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "loss of accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "programme accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "accreditation withdrawal",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "loss of accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "programme accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation withdrawal",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation withdrawal",
+    "target": "loss of accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation withdrawal",
+    "target": "programme accreditation",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "loss of accreditation",
+    "weight": 1
+  },
+  {
+    "source": "loss of accreditation",
+    "target": "programme accreditation",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "course evaluation",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "deteriorating outcomes",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "loss of accreditation",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "skills mismatch",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "course evaluation",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "deteriorating outcomes",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "loss of accreditation",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "skills mismatch",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "decline of academia",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "deteriorating outcomes",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "educational decline",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "loss of accreditation",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "skills mismatch",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "deteriorating outcomes",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "loss of accreditation",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "skills mismatch",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "educational decline",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "loss of accreditation",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "skills mismatch",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "loss of accreditation",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "skills mismatch",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "loss of accreditation",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "skills mismatch",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "loss of accreditation",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "skills mismatch",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "loss of accreditation",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "skills mismatch",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "loss of accreditation",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "skills mismatch",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "loss of accreditation",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "skills mismatch",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "loss of accreditation",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "skills mismatch",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "loss of accreditation",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "skills mismatch",
+    "weight": 1
+  },
+  {
+    "source": "loss of accreditation",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "loss of accreditation",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "loss of accreditation",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "loss of accreditation",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "loss of accreditation",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "loss of accreditation",
+    "target": "skills mismatch",
+    "weight": 1
+  },
+  {
+    "source": "loss of accreditation",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "loss of accreditation",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "loss of accreditation",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "loss of accreditation",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "loss of accreditation",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "loss of accreditation",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "loss of accreditation",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "skills mismatch",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "skills mismatch",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "skills mismatch",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "scholarships",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "scholarships",
+    "target": "skills mismatch",
+    "weight": 1
+  },
+  {
+    "source": "scholarships",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "skills mismatch",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "skills mismatch",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "skills mismatch",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "skills mismatch",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "skills mismatch",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "skills mismatch",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "skills mismatch",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "skills mismatch",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "student wellbeing",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "faculty careers",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "faculty contracts",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "faculty unemployment",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "scholarly grant funding",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "faculty contracts",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "faculty unemployment",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "faculty unemployment",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "scholarly grant funding",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "faculty contracts",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "faculty unemployment",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "scholarly grant funding",
+    "weight": 1
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "faculty unemployment",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "scholarly grant funding",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "scholarly grant funding",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "scholarly grant funding",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "scholarships",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "tuition affordability",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "tuition fee",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "tuition fee",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "tuition fee",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "tuition fee",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "university administrators",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "university administrators",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "university policy",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "university policy",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "university reform",
+    "target": "university senate",
+    "weight": 1
+  },
+  {
+    "source": "university reform",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "university senate",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "online learning",
+    "target": "scholarly grant funding",
+    "weight": 1
+  },
+  {
+    "source": "online learning",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "online learning",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "online learning",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "online learning",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "online learning",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "online learning",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "online learning",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "online learning",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "scholarly grant funding",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "scholarly grant funding",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "scholarly grant funding",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "scholarly grant funding",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "student satisfaction",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "student satisfaction",
+    "target": "unpaid faculty labour",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "competency outcomes",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "empirical research",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "opportunistic growth",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "over-enrollment",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "programme accreditation",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "competency outcomes",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "empirical research",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "opportunistic growth",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "over-enrollment",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "programme accreditation",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "decline of academia",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "educational decline",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "empirical research",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "opportunistic growth",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "over-enrollment",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "programme accreditation",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "competency outcomes",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "empirical research",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "opportunistic growth",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "over-enrollment",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "programme accreditation",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "empirical research",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "opportunistic growth",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "over-enrollment",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "programme accreditation",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "empirical research",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "opportunistic growth",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "over-enrollment",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "programme accreditation",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "empirical research",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "opportunistic growth",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "over-enrollment",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "programme accreditation",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "opportunistic growth",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "over-enrollment",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "programme accreditation",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "opportunistic growth",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "over-enrollment",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "programme accreditation",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "opportunistic growth",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "over-enrollment",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "opportunistic growth",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "over-enrollment",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "programme accreditation",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "over-enrollment",
+    "weight": 1
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "programme accreditation",
+    "weight": 1
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "over-enrollment",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "programme accreditation",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "over-enrollment",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "over-enrollment",
+    "target": "programme accreditation",
+    "weight": 1
+  },
+  {
+    "source": "over-enrollment",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "over-enrollment",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "over-enrollment",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "over-enrollment",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "over-enrollment",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "over-enrollment",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "over-enrollment",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "over-enrollment",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "over-enrollment",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "over-enrollment",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "programme accreditation",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "programme accreditation",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "programme accreditation",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "programme accreditation",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "programme accreditation",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "programme accreditation",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "programme accreditation",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "programme accreditation",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "programme accreditation",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "programme accreditation",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "programme accreditation",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "programme massification",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "programme massification",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "programme massification",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "programme massification",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "programme massification",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "programme massification",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "programme massification",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "programme massification",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "programme massification",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "research productivity",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "research productivity",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "research productivity",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "research productivity",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "research productivity",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "research productivity",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "research productivity",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "school budgets",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "school budgets",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "school budgets",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "school budgets",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "systemic education failure",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "tuition affordability",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "university policy",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "university reform",
+    "target": "widening participation",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "empirical research",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "health profession",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "international cohorts",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "pessimism",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "unsustainable model",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "whistleblowing risks",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "health profession",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "international cohorts",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "pessimism",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "unsustainable model",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "whistleblowing risks",
+    "weight": 1
+  },
+  {
+    "source": "health profession",
+    "target": "international cohorts",
+    "weight": 1
+  },
+  {
+    "source": "health profession",
+    "target": "pessimism",
+    "weight": 1
+  },
+  {
+    "source": "health profession",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "health profession",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "health profession",
+    "target": "unsustainable model",
+    "weight": 1
+  },
+  {
+    "source": "health profession",
+    "target": "whistleblowing risks",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "pessimism",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "unsustainable model",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "whistleblowing risks",
+    "weight": 1
+  },
+  {
+    "source": "pessimism",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "pessimism",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "pessimism",
+    "target": "unsustainable model",
+    "weight": 1
+  },
+  {
+    "source": "pessimism",
+    "target": "whistleblowing risks",
+    "weight": 1
+  },
+  {
+    "source": "politicisation of science",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "politicisation of science",
+    "target": "unsustainable model",
+    "weight": 1
+  },
+  {
+    "source": "politicisation of science",
+    "target": "whistleblowing risks",
+    "weight": 1
+  },
+  {
+    "source": "public misinformation",
+    "target": "unsustainable model",
+    "weight": 1
+  },
+  {
+    "source": "public misinformation",
+    "target": "whistleblowing risks",
+    "weight": 1
+  },
+  {
+    "source": "unsustainable model",
+    "target": "whistleblowing risks",
+    "weight": 1
+  }
+]
