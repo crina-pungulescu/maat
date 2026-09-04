@@ -1,0 +1,27 @@
+[
+  {
+    "source": "education_funding",
+    "target": "student_experience",
+    "weight": 1
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "student_experience",
+    "weight": 4
+  },
+  {
+    "source": "education_funding",
+    "target": "higher_education_crisis",
+    "weight": 4
+  },
+  {
+    "source": "student_experience",
+    "target": "university_administration",
+    "weight": 1
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "university_administration",
+    "weight": 2
+  }
+]
