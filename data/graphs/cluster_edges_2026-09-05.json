@@ -1,0 +1,22 @@
+[
+  {
+    "source": "education_funding",
+    "target": "higher_education_crisis",
+    "weight": 2
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "teaching_and_learning",
+    "weight": 2
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "student_experience",
+    "weight": 1
+  },
+  {
+    "source": "education_cost",
+    "target": "higher_education_crisis",
+    "weight": 1
+  }
+]
