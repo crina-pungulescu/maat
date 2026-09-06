@@ -1,0 +1,797 @@
+[
+  {
+    "source": "tuition fee",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "tuition fee",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "university policy",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "student engagement",
+    "target": "student retention",
+    "weight": 2
+  },
+  {
+    "source": "accountability gaps",
+    "target": "authoritarianism",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "democracy",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "institutional governance",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "organisational structure",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "populism",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "democracy",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "institutional governance",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "organisational structure",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "populism",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "democracy",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "democracy",
+    "target": "institutional governance",
+    "weight": 1
+  },
+  {
+    "source": "democracy",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "democracy",
+    "target": "organisational structure",
+    "weight": 1
+  },
+  {
+    "source": "democracy",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "democracy",
+    "target": "populism",
+    "weight": 1
+  },
+  {
+    "source": "democracy",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "institutional governance",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "organisational structure",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "populism",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "organisational structure",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "populism",
+    "weight": 1
+  },
+  {
+    "source": "institutional governance",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "organisational structure",
+    "weight": 1
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "populism",
+    "weight": 1
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "organisational structure",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "organisational structure",
+    "target": "populism",
+    "weight": 1
+  },
+  {
+    "source": "organisational structure",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "political repression",
+    "target": "populism",
+    "weight": 1
+  },
+  {
+    "source": "political repression",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "populism",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "tuition affordability",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "tuition affordability",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "tuition affordability",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "accreditation body",
+    "target": "accreditation process",
+    "weight": 1
+  },
+  {
+    "source": "accreditation body",
+    "target": "accreditation review",
+    "weight": 1
+  },
+  {
+    "source": "accreditation body",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation body",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "accreditation body",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation body",
+    "target": "programme accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation process",
+    "target": "accreditation review",
+    "weight": 1
+  },
+  {
+    "source": "accreditation process",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation process",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "accreditation process",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation process",
+    "target": "programme accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "programme accreditation",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "programme accreditation",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "programme accreditation",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "programme accreditation",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "debt",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "loan",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "college experience",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "debt",
+    "target": "loan",
+    "weight": 1
+  },
+  {
+    "source": "debt",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "debt",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "debt",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "debt",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "debt",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "debt",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "debt",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "debt",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "debt",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "debt",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "loan",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "loan",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "loan",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "loan",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "loan",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "loan",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "loan",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "loan",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "loan",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "loan",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "student protest",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "student protest",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "student protest",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "student protest",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "student protest",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "student protest",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "student retention",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "student retention",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "student retention",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "student retention",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "student retention",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "student satisfaction",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "student satisfaction",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "student satisfaction",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "student satisfaction",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "student voice",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "student voice",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "student voice",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "incompetence",
+    "target": "italy",
+    "weight": 1
+  },
+  {
+    "source": "incompetence",
+    "target": "spain",
+    "weight": 1
+  },
+  {
+    "source": "italy",
+    "target": "spain",
+    "weight": 1
+  }
+]
