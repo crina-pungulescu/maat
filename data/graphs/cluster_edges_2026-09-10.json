@@ -1,0 +1,22 @@
+[
+  {
+    "source": "higher_education_crisis",
+    "target": "teaching_and_learning",
+    "weight": 6
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "university_administration",
+    "weight": 1
+  },
+  {
+    "source": "student_experience",
+    "target": "university_administration",
+    "weight": 1
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "student_experience",
+    "weight": 1
+  }
+]

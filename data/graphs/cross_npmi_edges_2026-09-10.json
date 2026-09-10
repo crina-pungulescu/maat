@@ -1,0 +1,74 @@
+[
+  {
+    "source": "academic model breakdown",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "npmi": 1.0,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "higher education crisis",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "npmi": 1.0,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "outdated education model",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "npmi": 1.0,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "systemic education failure",
+    "co_occurrence": 3,
+    "npmi": 1.0,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "education crisis",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "npmi": 0.6605,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "education crisis",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.6605,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "educational instability",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "npmi": 0.6605,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "student experience",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.6605,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "education crisis",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "npmi": 0.3209,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  }
+]
