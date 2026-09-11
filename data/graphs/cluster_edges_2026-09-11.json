@@ -1,0 +1,22 @@
+[
+  {
+    "source": "faculty_labour",
+    "target": "university_administration",
+    "weight": 4
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "student_experience",
+    "weight": 3
+  },
+  {
+    "source": "faculty_labour",
+    "target": "student_experience",
+    "weight": 2
+  },
+  {
+    "source": "faculty_labour",
+    "target": "higher_education_crisis",
+    "weight": 1
+  }
+]
