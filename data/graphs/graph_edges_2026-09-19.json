@@ -1,0 +1,8592 @@
+[
+  {
+    "source": "education crisis",
+    "target": "educational instability",
+    "weight": 5
+  },
+  {
+    "source": "education crisis",
+    "target": "outdated education model",
+    "weight": 5
+  },
+  {
+    "source": "educational instability",
+    "target": "outdated education model",
+    "weight": 5
+  },
+  {
+    "source": "education crisis",
+    "target": "higher education crisis",
+    "weight": 4
+  },
+  {
+    "source": "education crisis",
+    "target": "student engagement",
+    "weight": 4
+  },
+  {
+    "source": "education crisis",
+    "target": "student life",
+    "weight": 4
+  },
+  {
+    "source": "educational instability",
+    "target": "higher education crisis",
+    "weight": 4
+  },
+  {
+    "source": "educational instability",
+    "target": "student engagement",
+    "weight": 4
+  },
+  {
+    "source": "educational instability",
+    "target": "student life",
+    "weight": 4
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student life",
+    "weight": 4
+  },
+  {
+    "source": "student engagement",
+    "target": "student experience",
+    "weight": 4
+  },
+  {
+    "source": "student engagement",
+    "target": "student life",
+    "weight": 4
+  },
+  {
+    "source": "student experience",
+    "target": "student life",
+    "weight": 4
+  },
+  {
+    "source": "university policy",
+    "target": "university reform",
+    "weight": 4
+  },
+  {
+    "source": "outdated education model",
+    "target": "student life",
+    "weight": 4
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "outdated education model",
+    "weight": 4
+  },
+  {
+    "source": "outdated education model",
+    "target": "student engagement",
+    "weight": 4
+  },
+  {
+    "source": "classroom methods",
+    "target": "outdated education model",
+    "weight": 4
+  },
+  {
+    "source": "education crisis",
+    "target": "faculty precarity",
+    "weight": 3
+  },
+  {
+    "source": "education crisis",
+    "target": "student experience",
+    "weight": 3
+  },
+  {
+    "source": "education crisis",
+    "target": "university policy",
+    "weight": 3
+  },
+  {
+    "source": "education crisis",
+    "target": "university reform",
+    "weight": 3
+  },
+  {
+    "source": "educational instability",
+    "target": "faculty precarity",
+    "weight": 3
+  },
+  {
+    "source": "educational instability",
+    "target": "student experience",
+    "weight": 3
+  },
+  {
+    "source": "educational instability",
+    "target": "university policy",
+    "weight": 3
+  },
+  {
+    "source": "educational instability",
+    "target": "university reform",
+    "weight": 3
+  },
+  {
+    "source": "faculty precarity",
+    "target": "higher education crisis",
+    "weight": 3
+  },
+  {
+    "source": "faculty precarity",
+    "target": "student engagement",
+    "weight": 3
+  },
+  {
+    "source": "faculty precarity",
+    "target": "student life",
+    "weight": 3
+  },
+  {
+    "source": "faculty precarity",
+    "target": "university policy",
+    "weight": 3
+  },
+  {
+    "source": "faculty precarity",
+    "target": "university reform",
+    "weight": 3
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student engagement",
+    "weight": 3
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university policy",
+    "weight": 3
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university reform",
+    "weight": 3
+  },
+  {
+    "source": "student engagement",
+    "target": "university policy",
+    "weight": 3
+  },
+  {
+    "source": "student engagement",
+    "target": "university reform",
+    "weight": 3
+  },
+  {
+    "source": "student experience",
+    "target": "student wellbeing",
+    "weight": 3
+  },
+  {
+    "source": "student life",
+    "target": "student wellbeing",
+    "weight": 3
+  },
+  {
+    "source": "student life",
+    "target": "university policy",
+    "weight": 3
+  },
+  {
+    "source": "student life",
+    "target": "university reform",
+    "weight": 3
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "decline of academia",
+    "weight": 3
+  },
+  {
+    "source": "decline of academia",
+    "target": "outdated education model",
+    "weight": 3
+  },
+  {
+    "source": "higher education crisis",
+    "target": "outdated education model",
+    "weight": 3
+  },
+  {
+    "source": "instructional excellence",
+    "target": "outdated education model",
+    "weight": 3
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student life",
+    "weight": 3
+  },
+  {
+    "source": "outdated education model",
+    "target": "systemic education failure",
+    "weight": 3
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "outdated education model",
+    "weight": 3
+  },
+  {
+    "source": "outdated education model",
+    "target": "student experience",
+    "weight": 3
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "scholarly funding",
+    "weight": 3
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "university policy",
+    "weight": 3
+  },
+  {
+    "source": "classroom methods",
+    "target": "instructional practice",
+    "weight": 3
+  },
+  {
+    "source": "classroom methods",
+    "target": "student voice",
+    "weight": 3
+  },
+  {
+    "source": "instructional practice",
+    "target": "outdated education model",
+    "weight": 3
+  },
+  {
+    "source": "instructional practice",
+    "target": "student voice",
+    "weight": 3
+  },
+  {
+    "source": "outdated education model",
+    "target": "student voice",
+    "weight": 3
+  },
+  {
+    "source": "censorship",
+    "target": "outdated education model",
+    "weight": 3
+  },
+  {
+    "source": "censorship",
+    "target": "public misinformation",
+    "weight": 3
+  },
+  {
+    "source": "outdated education model",
+    "target": "politicisation of science",
+    "weight": 3
+  },
+  {
+    "source": "outdated education model",
+    "target": "public misinformation",
+    "weight": 3
+  },
+  {
+    "source": "political interference",
+    "target": "political repression",
+    "weight": 3
+  },
+  {
+    "source": "empirical research",
+    "target": "outdated education model",
+    "weight": 3
+  },
+  {
+    "source": "education crisis",
+    "target": "faculty job insecurity",
+    "weight": 2
+  },
+  {
+    "source": "educational instability",
+    "target": "faculty job insecurity",
+    "weight": 2
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "faculty precarity",
+    "weight": 2
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "higher education crisis",
+    "weight": 2
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "faculty precarity",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "student engagement",
+    "target": "student wellbeing",
+    "weight": 2
+  },
+  {
+    "source": "student experience",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "student experience",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "academic collapse",
+    "target": "academic model breakdown",
+    "weight": 2
+  },
+  {
+    "source": "academic collapse",
+    "target": "decline of academia",
+    "weight": 2
+  },
+  {
+    "source": "academic collapse",
+    "target": "education crisis",
+    "weight": 2
+  },
+  {
+    "source": "academic collapse",
+    "target": "educational decline",
+    "weight": 2
+  },
+  {
+    "source": "academic collapse",
+    "target": "educational instability",
+    "weight": 2
+  },
+  {
+    "source": "academic collapse",
+    "target": "higher education crisis",
+    "weight": 2
+  },
+  {
+    "source": "academic collapse",
+    "target": "outdated education model",
+    "weight": 2
+  },
+  {
+    "source": "academic collapse",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "education crisis",
+    "weight": 2
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "educational decline",
+    "weight": 2
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "educational instability",
+    "weight": 2
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "higher education crisis",
+    "weight": 2
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "outdated education model",
+    "weight": 2
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "education crisis",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "educational decline",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "educational instability",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "higher education crisis",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "systemic education failure",
+    "weight": 2
+  },
+  {
+    "source": "education crisis",
+    "target": "educational decline",
+    "weight": 2
+  },
+  {
+    "source": "education crisis",
+    "target": "instructional excellence",
+    "weight": 2
+  },
+  {
+    "source": "education crisis",
+    "target": "scholastic aptitude test",
+    "weight": 2
+  },
+  {
+    "source": "education crisis",
+    "target": "systemic education failure",
+    "weight": 2
+  },
+  {
+    "source": "educational decline",
+    "target": "educational instability",
+    "weight": 2
+  },
+  {
+    "source": "educational decline",
+    "target": "higher education crisis",
+    "weight": 2
+  },
+  {
+    "source": "educational decline",
+    "target": "outdated education model",
+    "weight": 2
+  },
+  {
+    "source": "educational decline",
+    "target": "school budgets",
+    "weight": 2
+  },
+  {
+    "source": "educational decline",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "educational instability",
+    "target": "instructional excellence",
+    "weight": 2
+  },
+  {
+    "source": "educational instability",
+    "target": "scholastic aptitude test",
+    "weight": 2
+  },
+  {
+    "source": "educational instability",
+    "target": "systemic education failure",
+    "weight": 2
+  },
+  {
+    "source": "higher education crisis",
+    "target": "instructional excellence",
+    "weight": 2
+  },
+  {
+    "source": "outdated education model",
+    "target": "scholastic aptitude test",
+    "weight": 2
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "systemic education failure",
+    "weight": 2
+  },
+  {
+    "source": "AI assisted process",
+    "target": "artificial intelligence",
+    "weight": 2
+  },
+  {
+    "source": "AI assisted process",
+    "target": "outdated education model",
+    "weight": 2
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "generative AI",
+    "weight": 2
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "intellectual autonomy",
+    "weight": 2
+  },
+  {
+    "source": "education crisis",
+    "target": "intellectual autonomy",
+    "weight": 2
+  },
+  {
+    "source": "educational instability",
+    "target": "intellectual autonomy",
+    "weight": 2
+  },
+  {
+    "source": "generative AI",
+    "target": "intellectual autonomy",
+    "weight": 2
+  },
+  {
+    "source": "generative AI",
+    "target": "outdated education model",
+    "weight": 2
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "educational decline",
+    "target": "public scholarly funding",
+    "weight": 2
+  },
+  {
+    "source": "educational decline",
+    "target": "scholarly funding",
+    "weight": 2
+  },
+  {
+    "source": "educational decline",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "educational decline",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "scholarly grant funding",
+    "weight": 2
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "scholarly funding",
+    "target": "scholarly grant funding",
+    "weight": 2
+  },
+  {
+    "source": "scholarly funding",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "scholarly funding",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "adjunct faculty",
+    "weight": 2
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "faculty careers",
+    "weight": 2
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "decline of academia",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "faculty careers",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "faculty careers",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "faculty careers",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "education crisis",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "educational instability",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "faculty precarity",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "faculty redundancy",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "higher education crisis",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "outdated education model",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "classroom methods",
+    "target": "curricular design",
+    "weight": 2
+  },
+  {
+    "source": "classroom methods",
+    "target": "educational instability",
+    "weight": 2
+  },
+  {
+    "source": "classroom methods",
+    "target": "instructional excellence",
+    "weight": 2
+  },
+  {
+    "source": "classroom methods",
+    "target": "participatory instruction",
+    "weight": 2
+  },
+  {
+    "source": "classroom methods",
+    "target": "pedagogical methods",
+    "weight": 2
+  },
+  {
+    "source": "classroom methods",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "classroom methods",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "classroom methods",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "curricular design",
+    "target": "instructional excellence",
+    "weight": 2
+  },
+  {
+    "source": "curricular design",
+    "target": "instructional practice",
+    "weight": 2
+  },
+  {
+    "source": "curricular design",
+    "target": "outdated education model",
+    "weight": 2
+  },
+  {
+    "source": "curricular design",
+    "target": "participatory instruction",
+    "weight": 2
+  },
+  {
+    "source": "curricular design",
+    "target": "pedagogical methods",
+    "weight": 2
+  },
+  {
+    "source": "curricular design",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "curricular design",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "curricular design",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "curricular design",
+    "target": "student voice",
+    "weight": 2
+  },
+  {
+    "source": "education crisis",
+    "target": "faculty redundancy",
+    "weight": 2
+  },
+  {
+    "source": "educational instability",
+    "target": "faculty redundancy",
+    "weight": 2
+  },
+  {
+    "source": "faculty precarity",
+    "target": "faculty redundancy",
+    "weight": 2
+  },
+  {
+    "source": "faculty precarity",
+    "target": "outdated education model",
+    "weight": 2
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "higher education crisis",
+    "weight": 2
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "outdated education model",
+    "weight": 2
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "instructional excellence",
+    "target": "instructional practice",
+    "weight": 2
+  },
+  {
+    "source": "instructional excellence",
+    "target": "participatory instruction",
+    "weight": 2
+  },
+  {
+    "source": "instructional excellence",
+    "target": "pedagogical methods",
+    "weight": 2
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student voice",
+    "weight": 2
+  },
+  {
+    "source": "instructional practice",
+    "target": "participatory instruction",
+    "weight": 2
+  },
+  {
+    "source": "instructional practice",
+    "target": "pedagogical methods",
+    "weight": 2
+  },
+  {
+    "source": "instructional practice",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "instructional practice",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "instructional practice",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "outdated education model",
+    "target": "participatory instruction",
+    "weight": 2
+  },
+  {
+    "source": "outdated education model",
+    "target": "pedagogical methods",
+    "weight": 2
+  },
+  {
+    "source": "outdated education model",
+    "target": "university policy",
+    "weight": 2
+  },
+  {
+    "source": "outdated education model",
+    "target": "university reform",
+    "weight": 2
+  },
+  {
+    "source": "participatory instruction",
+    "target": "pedagogical methods",
+    "weight": 2
+  },
+  {
+    "source": "participatory instruction",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "participatory instruction",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "participatory instruction",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "participatory instruction",
+    "target": "student voice",
+    "weight": 2
+  },
+  {
+    "source": "pedagogical methods",
+    "target": "student engagement",
+    "weight": 2
+  },
+  {
+    "source": "pedagogical methods",
+    "target": "student experience",
+    "weight": 2
+  },
+  {
+    "source": "pedagogical methods",
+    "target": "student life",
+    "weight": 2
+  },
+  {
+    "source": "pedagogical methods",
+    "target": "student voice",
+    "weight": 2
+  },
+  {
+    "source": "student engagement",
+    "target": "student voice",
+    "weight": 2
+  },
+  {
+    "source": "student experience",
+    "target": "student voice",
+    "weight": 2
+  },
+  {
+    "source": "student life",
+    "target": "student voice",
+    "weight": 2
+  },
+  {
+    "source": "censorship",
+    "target": "educational instability",
+    "weight": 2
+  },
+  {
+    "source": "censorship",
+    "target": "freedom of expression",
+    "weight": 2
+  },
+  {
+    "source": "censorship",
+    "target": "intellectual autonomy",
+    "weight": 2
+  },
+  {
+    "source": "censorship",
+    "target": "legitimacy crisis",
+    "weight": 2
+  },
+  {
+    "source": "censorship",
+    "target": "politicisation of science",
+    "weight": 2
+  },
+  {
+    "source": "decline of academia",
+    "target": "politicisation of science",
+    "weight": 2
+  },
+  {
+    "source": "educational instability",
+    "target": "public misinformation",
+    "weight": 2
+  },
+  {
+    "source": "elite impunity",
+    "target": "outdated education model",
+    "weight": 2
+  },
+  {
+    "source": "freedom of expression",
+    "target": "intellectual autonomy",
+    "weight": 2
+  },
+  {
+    "source": "freedom of expression",
+    "target": "legitimacy crisis",
+    "weight": 2
+  },
+  {
+    "source": "freedom of expression",
+    "target": "outdated education model",
+    "weight": 2
+  },
+  {
+    "source": "freedom of expression",
+    "target": "politicisation of science",
+    "weight": 2
+  },
+  {
+    "source": "freedom of expression",
+    "target": "public misinformation",
+    "weight": 2
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "legitimacy crisis",
+    "weight": 2
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "politicisation of science",
+    "weight": 2
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "public misinformation",
+    "weight": 2
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "outdated education model",
+    "weight": 2
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "politicisation of science",
+    "weight": 2
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "public misinformation",
+    "weight": 2
+  },
+  {
+    "source": "political interference",
+    "target": "suppressing dissent",
+    "weight": 2
+  },
+  {
+    "source": "political repression",
+    "target": "suppressing dissent",
+    "weight": 2
+  },
+  {
+    "source": "politicisation of science",
+    "target": "public misinformation",
+    "weight": 2
+  },
+  {
+    "source": "political interference",
+    "target": "populism",
+    "weight": 2
+  },
+  {
+    "source": "political repression",
+    "target": "populism",
+    "weight": 2
+  },
+  {
+    "source": "censorship",
+    "target": "harmful culture",
+    "weight": 2
+  },
+  {
+    "source": "harmful culture",
+    "target": "outdated education model",
+    "weight": 2
+  },
+  {
+    "source": "harmful culture",
+    "target": "public misinformation",
+    "weight": 2
+  },
+  {
+    "source": "empirical research",
+    "target": "international cohorts",
+    "weight": 2
+  },
+  {
+    "source": "empirical research",
+    "target": "politicisation of science",
+    "weight": 2
+  },
+  {
+    "source": "international cohorts",
+    "target": "whistleblowing risks",
+    "weight": 2
+  },
+  {
+    "source": "accountability gaps",
+    "target": "international cohorts",
+    "weight": 2
+  },
+  {
+    "source": "accountability gaps",
+    "target": "opportunistic growth",
+    "weight": 2
+  },
+  {
+    "source": "accountability gaps",
+    "target": "scarcity-based exploitation",
+    "weight": 2
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "scarcity-based exploitation",
+    "weight": 2
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "empirical research",
+    "weight": 2
+  },
+  {
+    "source": "accountability gaps",
+    "target": "empirical research",
+    "weight": 2
+  },
+  {
+    "source": "accountability gaps",
+    "target": "unsustainable model",
+    "weight": 2
+  },
+  {
+    "source": "empirical research",
+    "target": "unsustainable model",
+    "weight": 2
+  },
+  {
+    "source": "education crisis",
+    "target": "safety",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "safety",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "safety",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "safety",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "safety",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "safety",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "safety",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "safety",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "safety",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "safety",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "safety",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "safety",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "safety",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "student protest",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "student protest",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "student protest",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "student protest",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "student satisfaction",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "student satisfaction",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "student satisfaction",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "student wellbeing",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "student wellbeing",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "peer review",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "peer review",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "peer review",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "peer review",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "peer review",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "research collaboration",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "research collaboration",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "research collaboration",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "europe",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "europe",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "europe",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "europe",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "europe",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "europe",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "europe",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "europe",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "europe",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "europe",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "europe",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "europe",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "europe",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "school budgets",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "school budgets",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "edtech",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "generative AI",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "edtech",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "edtech",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "edtech",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "edtech",
+    "target": "generative AI",
+    "weight": 1
+  },
+  {
+    "source": "edtech",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "edtech",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "edtech",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "edtech",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "edtech",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "edtech",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "edtech",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "generative AI",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "generative AI",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "generative AI",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "generative AI",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "generative AI",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "generative AI",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "generative AI",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "student retention",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "cost of attendance support",
+    "target": "educational decline",
+    "weight": 1
+  },
+  {
+    "source": "cost of attendance support",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "cost of attendance support",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "cost of attendance support",
+    "target": "scholarly grant funding",
+    "weight": 1
+  },
+  {
+    "source": "cost of attendance support",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "cost of attendance support",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "cost of attendance support",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "cost of attendance support",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "cost of attendance support",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "cost of attendance support",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "scholarly grant funding",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "scholarly grant funding",
+    "target": "scholarships",
+    "weight": 1
+  },
+  {
+    "source": "scholarly grant funding",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "scholarly grant funding",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "scholarly grant funding",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "scholarly grant funding",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "scholarly grant funding",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "scholarships",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "scholarships",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "scholarships",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "scholarships",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "scholarships",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "school budgets",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "school budgets",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "school budgets",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "school budgets",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "tuition affordability",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "tuition affordability",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "tuition affordability",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "tuition fee",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "tuition fee",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "gender discrimination",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "gender discrimination",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "gender discrimination",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "gender discrimination",
+    "weight": 1
+  },
+  {
+    "source": "gender discrimination",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "accreditation body",
+    "target": "accreditation compliance",
+    "weight": 1
+  },
+  {
+    "source": "accreditation body",
+    "target": "accreditation process",
+    "weight": 1
+  },
+  {
+    "source": "accreditation body",
+    "target": "accreditation review",
+    "weight": 1
+  },
+  {
+    "source": "accreditation body",
+    "target": "accreditation standards",
+    "weight": 1
+  },
+  {
+    "source": "accreditation body",
+    "target": "accreditation withdrawal",
+    "weight": 1
+  },
+  {
+    "source": "accreditation body",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation body",
+    "target": "loss of accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation body",
+    "target": "programme accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation compliance",
+    "target": "accreditation process",
+    "weight": 1
+  },
+  {
+    "source": "accreditation compliance",
+    "target": "accreditation review",
+    "weight": 1
+  },
+  {
+    "source": "accreditation compliance",
+    "target": "accreditation standards",
+    "weight": 1
+  },
+  {
+    "source": "accreditation compliance",
+    "target": "accreditation withdrawal",
+    "weight": 1
+  },
+  {
+    "source": "accreditation compliance",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation compliance",
+    "target": "loss of accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation compliance",
+    "target": "programme accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation process",
+    "target": "accreditation review",
+    "weight": 1
+  },
+  {
+    "source": "accreditation process",
+    "target": "accreditation standards",
+    "weight": 1
+  },
+  {
+    "source": "accreditation process",
+    "target": "accreditation withdrawal",
+    "weight": 1
+  },
+  {
+    "source": "accreditation process",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation process",
+    "target": "loss of accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation process",
+    "target": "programme accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "accreditation standards",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "accreditation withdrawal",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "loss of accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation review",
+    "target": "programme accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "accreditation withdrawal",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "loss of accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation standards",
+    "target": "programme accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation withdrawal",
+    "target": "institutional accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation withdrawal",
+    "target": "loss of accreditation",
+    "weight": 1
+  },
+  {
+    "source": "accreditation withdrawal",
+    "target": "programme accreditation",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "loss of accreditation",
+    "weight": 1
+  },
+  {
+    "source": "institutional accreditation",
+    "target": "programme accreditation",
+    "weight": 1
+  },
+  {
+    "source": "loss of accreditation",
+    "target": "programme accreditation",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "admissions criteria",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "admissions selectivity",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "classroom methods",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "course architecture",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "course evaluation",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "curricular design",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "pedagogical methods",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "admissions selectivity",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "classroom methods",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "course architecture",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "course evaluation",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "curricular design",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "pedagogical methods",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "admissions criteria",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "classroom methods",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "course architecture",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "course evaluation",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "curricular design",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "pedagogical methods",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "admissions selectivity",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "course architecture",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "course evaluation",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "course architecture",
+    "target": "course evaluation",
+    "weight": 1
+  },
+  {
+    "source": "course architecture",
+    "target": "curricular design",
+    "weight": 1
+  },
+  {
+    "source": "course architecture",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "course architecture",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "course architecture",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "course architecture",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "course architecture",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "course architecture",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "course architecture",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "course architecture",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "course architecture",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "course architecture",
+    "target": "pedagogical methods",
+    "weight": 1
+  },
+  {
+    "source": "course architecture",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "course architecture",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "course architecture",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "course architecture",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "course architecture",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "course architecture",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "curricular design",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "pedagogical methods",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "course evaluation",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "pedagogical methods",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "pedagogical methods",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "pedagogical methods",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "pedagogical methods",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "pedagogical methods",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "instructional practice",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "instructional practice",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "participatory instruction",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "participatory instruction",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical methods",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical methods",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "student voice",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "student voice",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "abuse of office",
+    "target": "academic collapse",
+    "weight": 1
+  },
+  {
+    "source": "abuse of office",
+    "target": "academic model breakdown",
+    "weight": 1
+  },
+  {
+    "source": "abuse of office",
+    "target": "adjunct faculty",
+    "weight": 1
+  },
+  {
+    "source": "abuse of office",
+    "target": "authoritarianism",
+    "weight": 1
+  },
+  {
+    "source": "abuse of office",
+    "target": "bureaucratic obstruction",
+    "weight": 1
+  },
+  {
+    "source": "abuse of office",
+    "target": "censorship",
+    "weight": 1
+  },
+  {
+    "source": "abuse of office",
+    "target": "decline of academia",
+    "weight": 1
+  },
+  {
+    "source": "abuse of office",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "abuse of office",
+    "target": "educational decline",
+    "weight": 1
+  },
+  {
+    "source": "abuse of office",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "abuse of office",
+    "target": "elite impunity",
+    "weight": 1
+  },
+  {
+    "source": "abuse of office",
+    "target": "faculty careers",
+    "weight": 1
+  },
+  {
+    "source": "abuse of office",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "abuse of office",
+    "target": "faculty labour exploitation",
+    "weight": 1
+  },
+  {
+    "source": "abuse of office",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "abuse of office",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "abuse of office",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "abuse of office",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "abuse of office",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "abuse of office",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "abuse of office",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "abuse of office",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "abuse of office",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "abuse of office",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "abuse of office",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "abuse of office",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "abuse of office",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "abuse of office",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "abuse of office",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "abuse of office",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "abuse of office",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "abuse of office",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "abuse of office",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "abuse of office",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "abuse of office",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "abuse of office",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "abuse of office",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "abuse of office",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "abuse of office",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "abuse of office",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "adjunct faculty",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "authoritarianism",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "bureaucratic obstruction",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "censorship",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "elite impunity",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "faculty careers",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "faculty labour exploitation",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "authoritarianism",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "bureaucratic obstruction",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "censorship",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "elite impunity",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "faculty labour exploitation",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "authoritarianism",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "bureaucratic obstruction",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "censorship",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "educational decline",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "elite impunity",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "faculty labour exploitation",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "bureaucratic obstruction",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "censorship",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "decline of academia",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "educational decline",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "elite impunity",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "faculty careers",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "faculty labour exploitation",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "censorship",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "decline of academia",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "educational decline",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "elite impunity",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "faculty careers",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "faculty labour exploitation",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "decline of academia",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "educational decline",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "elite impunity",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "faculty careers",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "faculty labour exploitation",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "elite impunity",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "faculty labour exploitation",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "elite impunity",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "faculty careers",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "faculty labour exploitation",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "elite impunity",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "faculty careers",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "faculty labour exploitation",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "elite impunity",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "faculty careers",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "faculty labour exploitation",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "faculty careers",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "faculty labour exploitation",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "faculty job insecurity",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "faculty labour exploitation",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "faculty labour exploitation",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "faculty job insecurity",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "faculty precarity",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "faculty redundancy",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "faculty labour exploitation",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "faculty precarity",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "faculty redundancy",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "political interference",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "political interference",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "political interference",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "political interference",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "political interference",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "political interference",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "political interference",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "political interference",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "political interference",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "political interference",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "political interference",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "political interference",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "political interference",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "political repression",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "political repression",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "political repression",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "political repression",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "political repression",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "political repression",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "political repression",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "political repression",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "political repression",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "political repression",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "political repression",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "political repression",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "political repression",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "politicisation of science",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "politicisation of science",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "politicisation of science",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "politicisation of science",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "politicisation of science",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "politicisation of science",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "politicisation of science",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "politicisation of science",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "politicisation of science",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "politicisation of science",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "politicisation of science",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "politicisation of science",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "public misinformation",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "public misinformation",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "public misinformation",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "public misinformation",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "public misinformation",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "public misinformation",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "public misinformation",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "public misinformation",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "public misinformation",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "public misinformation",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "public misinformation",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "public misinformation",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "suppressing dissent",
+    "target": "unchecked authority",
+    "weight": 1
+  },
+  {
+    "source": "suppressing dissent",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "suppressing dissent",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "suppressing dissent",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "suppressing dissent",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "suppressing dissent",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "unchecked authority",
+    "target": "university administrators",
+    "weight": 1
+  },
+  {
+    "source": "unchecked authority",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "unchecked authority",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "unchecked authority",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "unchecked authority",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "university administrators",
+    "target": "university bylaws",
+    "weight": 1
+  },
+  {
+    "source": "university administrators",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "university administrators",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "university administrators",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "university bylaws",
+    "target": "university leadership",
+    "weight": 1
+  },
+  {
+    "source": "university bylaws",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "university bylaws",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "university leadership",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "university leadership",
+    "target": "university reform",
+    "weight": 1
+  },
+  {
+    "source": "civil unrest",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "civil unrest",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "civil unrest",
+    "target": "populism",
+    "weight": 1
+  },
+  {
+    "source": "civil unrest",
+    "target": "propaganda",
+    "weight": 1
+  },
+  {
+    "source": "civil unrest",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "civil unrest",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "civil unrest",
+    "target": "uprising",
+    "weight": 1
+  },
+  {
+    "source": "political interference",
+    "target": "propaganda",
+    "weight": 1
+  },
+  {
+    "source": "political interference",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "political interference",
+    "target": "uprising",
+    "weight": 1
+  },
+  {
+    "source": "political repression",
+    "target": "propaganda",
+    "weight": 1
+  },
+  {
+    "source": "political repression",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "political repression",
+    "target": "uprising",
+    "weight": 1
+  },
+  {
+    "source": "populism",
+    "target": "propaganda",
+    "weight": 1
+  },
+  {
+    "source": "populism",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "populism",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "populism",
+    "target": "uprising",
+    "weight": 1
+  },
+  {
+    "source": "propaganda",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "propaganda",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "propaganda",
+    "target": "uprising",
+    "weight": 1
+  },
+  {
+    "source": "student protest",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "student protest",
+    "target": "uprising",
+    "weight": 1
+  },
+  {
+    "source": "suppressing dissent",
+    "target": "uprising",
+    "weight": 1
+  },
+  {
+    "source": "china",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "central asia",
+    "target": "east asia",
+    "weight": 1
+  },
+  {
+    "source": "central asia",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "central asia",
+    "target": "foreign affairs",
+    "weight": 1
+  },
+  {
+    "source": "central asia",
+    "target": "geopolitics",
+    "weight": 1
+  },
+  {
+    "source": "central asia",
+    "target": "global experience",
+    "weight": 1
+  },
+  {
+    "source": "central asia",
+    "target": "middle east",
+    "weight": 1
+  },
+  {
+    "source": "central asia",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "central asia",
+    "target": "southeast asia",
+    "weight": 1
+  },
+  {
+    "source": "central asia",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "central asia",
+    "target": "transnational mobility",
+    "weight": 1
+  },
+  {
+    "source": "east asia",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "east asia",
+    "target": "foreign affairs",
+    "weight": 1
+  },
+  {
+    "source": "east asia",
+    "target": "geopolitics",
+    "weight": 1
+  },
+  {
+    "source": "east asia",
+    "target": "global experience",
+    "weight": 1
+  },
+  {
+    "source": "east asia",
+    "target": "middle east",
+    "weight": 1
+  },
+  {
+    "source": "east asia",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "east asia",
+    "target": "southeast asia",
+    "weight": 1
+  },
+  {
+    "source": "east asia",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "east asia",
+    "target": "transnational mobility",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "foreign affairs",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "geopolitics",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "global experience",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "middle east",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "southeast asia",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "transnational mobility",
+    "weight": 1
+  },
+  {
+    "source": "foreign affairs",
+    "target": "geopolitics",
+    "weight": 1
+  },
+  {
+    "source": "foreign affairs",
+    "target": "global experience",
+    "weight": 1
+  },
+  {
+    "source": "foreign affairs",
+    "target": "middle east",
+    "weight": 1
+  },
+  {
+    "source": "foreign affairs",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "foreign affairs",
+    "target": "southeast asia",
+    "weight": 1
+  },
+  {
+    "source": "foreign affairs",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "foreign affairs",
+    "target": "transnational mobility",
+    "weight": 1
+  },
+  {
+    "source": "geopolitics",
+    "target": "global experience",
+    "weight": 1
+  },
+  {
+    "source": "geopolitics",
+    "target": "middle east",
+    "weight": 1
+  },
+  {
+    "source": "geopolitics",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "geopolitics",
+    "target": "southeast asia",
+    "weight": 1
+  },
+  {
+    "source": "geopolitics",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "geopolitics",
+    "target": "transnational mobility",
+    "weight": 1
+  },
+  {
+    "source": "global experience",
+    "target": "middle east",
+    "weight": 1
+  },
+  {
+    "source": "global experience",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "global experience",
+    "target": "southeast asia",
+    "weight": 1
+  },
+  {
+    "source": "global experience",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "global experience",
+    "target": "transnational mobility",
+    "weight": 1
+  },
+  {
+    "source": "middle east",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "middle east",
+    "target": "southeast asia",
+    "weight": 1
+  },
+  {
+    "source": "middle east",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "middle east",
+    "target": "transnational mobility",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "southeast asia",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "transnational mobility",
+    "weight": 1
+  },
+  {
+    "source": "southeast asia",
+    "target": "study abroad",
+    "weight": 1
+  },
+  {
+    "source": "southeast asia",
+    "target": "transnational mobility",
+    "weight": 1
+  },
+  {
+    "source": "study abroad",
+    "target": "transnational mobility",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "classroom methods",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "classroom methods",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "instructional practice",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "participatory instruction",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical methods",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "student voice",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "classroom methods",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "hostile culture",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "media falsehoods",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "propaganda",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "sexual harassment",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "unethical behaviour",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "harmful culture",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "hostile culture",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "media falsehoods",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "propaganda",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "sexual harassment",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "unethical behaviour",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "harmful culture",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "hostile culture",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "media falsehoods",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "propaganda",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "sexual harassment",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "unethical behaviour",
+    "weight": 1
+  },
+  {
+    "source": "harmful culture",
+    "target": "hostile culture",
+    "weight": 1
+  },
+  {
+    "source": "harmful culture",
+    "target": "media falsehoods",
+    "weight": 1
+  },
+  {
+    "source": "harmful culture",
+    "target": "propaganda",
+    "weight": 1
+  },
+  {
+    "source": "harmful culture",
+    "target": "sexual harassment",
+    "weight": 1
+  },
+  {
+    "source": "harmful culture",
+    "target": "unethical behaviour",
+    "weight": 1
+  },
+  {
+    "source": "hostile culture",
+    "target": "media falsehoods",
+    "weight": 1
+  },
+  {
+    "source": "hostile culture",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "hostile culture",
+    "target": "propaganda",
+    "weight": 1
+  },
+  {
+    "source": "hostile culture",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "hostile culture",
+    "target": "sexual harassment",
+    "weight": 1
+  },
+  {
+    "source": "hostile culture",
+    "target": "unethical behaviour",
+    "weight": 1
+  },
+  {
+    "source": "media falsehoods",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "media falsehoods",
+    "target": "propaganda",
+    "weight": 1
+  },
+  {
+    "source": "media falsehoods",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "media falsehoods",
+    "target": "sexual harassment",
+    "weight": 1
+  },
+  {
+    "source": "media falsehoods",
+    "target": "unethical behaviour",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "propaganda",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "sexual harassment",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "unethical behaviour",
+    "weight": 1
+  },
+  {
+    "source": "propaganda",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "propaganda",
+    "target": "sexual harassment",
+    "weight": 1
+  },
+  {
+    "source": "propaganda",
+    "target": "unethical behaviour",
+    "weight": 1
+  },
+  {
+    "source": "public misinformation",
+    "target": "sexual harassment",
+    "weight": 1
+  },
+  {
+    "source": "public misinformation",
+    "target": "unethical behaviour",
+    "weight": 1
+  },
+  {
+    "source": "sexual harassment",
+    "target": "unethical behaviour",
+    "weight": 1
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "decline of academia",
+    "weight": 1
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "empirical research",
+    "weight": 1
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "international cohorts",
+    "weight": 1
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "laboratories",
+    "weight": 1
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "whistleblowing risks",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "empirical research",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "international cohorts",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "laboratories",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "whistleblowing risks",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "laboratories",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "whistleblowing risks",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "laboratories",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "laboratories",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "laboratories",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "laboratories",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "laboratories",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "laboratories",
+    "target": "whistleblowing risks",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "whistleblowing risks",
+    "weight": 1
+  },
+  {
+    "source": "politicisation of science",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "politicisation of science",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "politicisation of science",
+    "target": "whistleblowing risks",
+    "weight": 1
+  },
+  {
+    "source": "research collaboration",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "research collaboration",
+    "target": "whistleblowing risks",
+    "weight": 1
+  },
+  {
+    "source": "systemic education failure",
+    "target": "whistleblowing risks",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "austerity",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "budget constraints",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "equity initiatives",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "financial hardship",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "institutional partnerships",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "insufficient resources",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "need-based financial assistance",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "need-based financial support",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "profitability incentives",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "scholarly grant funding",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "whistleblowing risks",
+    "weight": 1
+  },
+  {
+    "source": "austerity",
+    "target": "budget constraints",
+    "weight": 1
+  },
+  {
+    "source": "austerity",
+    "target": "equity initiatives",
+    "weight": 1
+  },
+  {
+    "source": "austerity",
+    "target": "financial hardship",
+    "weight": 1
+  },
+  {
+    "source": "austerity",
+    "target": "institutional partnerships",
+    "weight": 1
+  },
+  {
+    "source": "austerity",
+    "target": "insufficient resources",
+    "weight": 1
+  },
+  {
+    "source": "austerity",
+    "target": "international cohorts",
+    "weight": 1
+  },
+  {
+    "source": "austerity",
+    "target": "need-based financial assistance",
+    "weight": 1
+  },
+  {
+    "source": "austerity",
+    "target": "need-based financial support",
+    "weight": 1
+  },
+  {
+    "source": "austerity",
+    "target": "opportunistic growth",
+    "weight": 1
+  },
+  {
+    "source": "austerity",
+    "target": "profitability incentives",
+    "weight": 1
+  },
+  {
+    "source": "austerity",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "austerity",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "austerity",
+    "target": "scarcity-based exploitation",
+    "weight": 1
+  },
+  {
+    "source": "austerity",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "austerity",
+    "target": "scholarly grant funding",
+    "weight": 1
+  },
+  {
+    "source": "austerity",
+    "target": "whistleblowing risks",
+    "weight": 1
+  },
+  {
+    "source": "budget constraints",
+    "target": "equity initiatives",
+    "weight": 1
+  },
+  {
+    "source": "budget constraints",
+    "target": "financial hardship",
+    "weight": 1
+  },
+  {
+    "source": "budget constraints",
+    "target": "institutional partnerships",
+    "weight": 1
+  },
+  {
+    "source": "budget constraints",
+    "target": "insufficient resources",
+    "weight": 1
+  },
+  {
+    "source": "budget constraints",
+    "target": "international cohorts",
+    "weight": 1
+  },
+  {
+    "source": "budget constraints",
+    "target": "need-based financial assistance",
+    "weight": 1
+  },
+  {
+    "source": "budget constraints",
+    "target": "need-based financial support",
+    "weight": 1
+  },
+  {
+    "source": "budget constraints",
+    "target": "opportunistic growth",
+    "weight": 1
+  },
+  {
+    "source": "budget constraints",
+    "target": "profitability incentives",
+    "weight": 1
+  },
+  {
+    "source": "budget constraints",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "budget constraints",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "budget constraints",
+    "target": "scarcity-based exploitation",
+    "weight": 1
+  },
+  {
+    "source": "budget constraints",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "budget constraints",
+    "target": "scholarly grant funding",
+    "weight": 1
+  },
+  {
+    "source": "budget constraints",
+    "target": "whistleblowing risks",
+    "weight": 1
+  },
+  {
+    "source": "equity initiatives",
+    "target": "financial hardship",
+    "weight": 1
+  },
+  {
+    "source": "equity initiatives",
+    "target": "institutional partnerships",
+    "weight": 1
+  },
+  {
+    "source": "equity initiatives",
+    "target": "insufficient resources",
+    "weight": 1
+  },
+  {
+    "source": "equity initiatives",
+    "target": "international cohorts",
+    "weight": 1
+  },
+  {
+    "source": "equity initiatives",
+    "target": "need-based financial assistance",
+    "weight": 1
+  },
+  {
+    "source": "equity initiatives",
+    "target": "need-based financial support",
+    "weight": 1
+  },
+  {
+    "source": "equity initiatives",
+    "target": "opportunistic growth",
+    "weight": 1
+  },
+  {
+    "source": "equity initiatives",
+    "target": "profitability incentives",
+    "weight": 1
+  },
+  {
+    "source": "equity initiatives",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "equity initiatives",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "equity initiatives",
+    "target": "scarcity-based exploitation",
+    "weight": 1
+  },
+  {
+    "source": "equity initiatives",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "equity initiatives",
+    "target": "scholarly grant funding",
+    "weight": 1
+  },
+  {
+    "source": "equity initiatives",
+    "target": "whistleblowing risks",
+    "weight": 1
+  },
+  {
+    "source": "financial hardship",
+    "target": "institutional partnerships",
+    "weight": 1
+  },
+  {
+    "source": "financial hardship",
+    "target": "insufficient resources",
+    "weight": 1
+  },
+  {
+    "source": "financial hardship",
+    "target": "international cohorts",
+    "weight": 1
+  },
+  {
+    "source": "financial hardship",
+    "target": "need-based financial assistance",
+    "weight": 1
+  },
+  {
+    "source": "financial hardship",
+    "target": "need-based financial support",
+    "weight": 1
+  },
+  {
+    "source": "financial hardship",
+    "target": "opportunistic growth",
+    "weight": 1
+  },
+  {
+    "source": "financial hardship",
+    "target": "profitability incentives",
+    "weight": 1
+  },
+  {
+    "source": "financial hardship",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "financial hardship",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "financial hardship",
+    "target": "scarcity-based exploitation",
+    "weight": 1
+  },
+  {
+    "source": "financial hardship",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "financial hardship",
+    "target": "scholarly grant funding",
+    "weight": 1
+  },
+  {
+    "source": "financial hardship",
+    "target": "whistleblowing risks",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "insufficient resources",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "international cohorts",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "need-based financial assistance",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "need-based financial support",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "opportunistic growth",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "profitability incentives",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "scarcity-based exploitation",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "scholarly grant funding",
+    "weight": 1
+  },
+  {
+    "source": "institutional partnerships",
+    "target": "whistleblowing risks",
+    "weight": 1
+  },
+  {
+    "source": "insufficient resources",
+    "target": "international cohorts",
+    "weight": 1
+  },
+  {
+    "source": "insufficient resources",
+    "target": "need-based financial assistance",
+    "weight": 1
+  },
+  {
+    "source": "insufficient resources",
+    "target": "need-based financial support",
+    "weight": 1
+  },
+  {
+    "source": "insufficient resources",
+    "target": "opportunistic growth",
+    "weight": 1
+  },
+  {
+    "source": "insufficient resources",
+    "target": "profitability incentives",
+    "weight": 1
+  },
+  {
+    "source": "insufficient resources",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "insufficient resources",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "insufficient resources",
+    "target": "scarcity-based exploitation",
+    "weight": 1
+  },
+  {
+    "source": "insufficient resources",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "insufficient resources",
+    "target": "scholarly grant funding",
+    "weight": 1
+  },
+  {
+    "source": "insufficient resources",
+    "target": "whistleblowing risks",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "need-based financial assistance",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "need-based financial support",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "opportunistic growth",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "profitability incentives",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "scarcity-based exploitation",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "scholarly grant funding",
+    "weight": 1
+  },
+  {
+    "source": "need-based financial assistance",
+    "target": "need-based financial support",
+    "weight": 1
+  },
+  {
+    "source": "need-based financial assistance",
+    "target": "opportunistic growth",
+    "weight": 1
+  },
+  {
+    "source": "need-based financial assistance",
+    "target": "profitability incentives",
+    "weight": 1
+  },
+  {
+    "source": "need-based financial assistance",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "need-based financial assistance",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "need-based financial assistance",
+    "target": "scarcity-based exploitation",
+    "weight": 1
+  },
+  {
+    "source": "need-based financial assistance",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "need-based financial assistance",
+    "target": "scholarly grant funding",
+    "weight": 1
+  },
+  {
+    "source": "need-based financial assistance",
+    "target": "whistleblowing risks",
+    "weight": 1
+  },
+  {
+    "source": "need-based financial support",
+    "target": "opportunistic growth",
+    "weight": 1
+  },
+  {
+    "source": "need-based financial support",
+    "target": "profitability incentives",
+    "weight": 1
+  },
+  {
+    "source": "need-based financial support",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "need-based financial support",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "need-based financial support",
+    "target": "scarcity-based exploitation",
+    "weight": 1
+  },
+  {
+    "source": "need-based financial support",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "need-based financial support",
+    "target": "scholarly grant funding",
+    "weight": 1
+  },
+  {
+    "source": "need-based financial support",
+    "target": "whistleblowing risks",
+    "weight": 1
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "profitability incentives",
+    "weight": 1
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "scholarly grant funding",
+    "weight": 1
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "whistleblowing risks",
+    "weight": 1
+  },
+  {
+    "source": "profitability incentives",
+    "target": "programme massification",
+    "weight": 1
+  },
+  {
+    "source": "profitability incentives",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "profitability incentives",
+    "target": "scarcity-based exploitation",
+    "weight": 1
+  },
+  {
+    "source": "profitability incentives",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "profitability incentives",
+    "target": "scholarly grant funding",
+    "weight": 1
+  },
+  {
+    "source": "profitability incentives",
+    "target": "whistleblowing risks",
+    "weight": 1
+  },
+  {
+    "source": "programme massification",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "programme massification",
+    "target": "scarcity-based exploitation",
+    "weight": 1
+  },
+  {
+    "source": "programme massification",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "programme massification",
+    "target": "scholarly grant funding",
+    "weight": 1
+  },
+  {
+    "source": "programme massification",
+    "target": "whistleblowing risks",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "scarcity-based exploitation",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "whistleblowing risks",
+    "weight": 1
+  },
+  {
+    "source": "scarcity-based exploitation",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "scarcity-based exploitation",
+    "target": "scholarly grant funding",
+    "weight": 1
+  },
+  {
+    "source": "scarcity-based exploitation",
+    "target": "whistleblowing risks",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "whistleblowing risks",
+    "weight": 1
+  },
+  {
+    "source": "scholarly grant funding",
+    "target": "whistleblowing risks",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "censorship",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "digital tools",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "emerging technology",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "ethical impropriety",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "harmful culture",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "digital tools",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "emerging technology",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "empirical research",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "ethical impropriety",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "generative AI",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "digital tools",
+    "target": "emerging technology",
+    "weight": 1
+  },
+  {
+    "source": "digital tools",
+    "target": "empirical research",
+    "weight": 1
+  },
+  {
+    "source": "digital tools",
+    "target": "ethical impropriety",
+    "weight": 1
+  },
+  {
+    "source": "digital tools",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "digital tools",
+    "target": "generative AI",
+    "weight": 1
+  },
+  {
+    "source": "digital tools",
+    "target": "harmful culture",
+    "weight": 1
+  },
+  {
+    "source": "digital tools",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "digital tools",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "digital tools",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "digital tools",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "digital tools",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "digital tools",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "digital tools",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "emerging technology",
+    "target": "empirical research",
+    "weight": 1
+  },
+  {
+    "source": "emerging technology",
+    "target": "ethical impropriety",
+    "weight": 1
+  },
+  {
+    "source": "emerging technology",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "emerging technology",
+    "target": "generative AI",
+    "weight": 1
+  },
+  {
+    "source": "emerging technology",
+    "target": "harmful culture",
+    "weight": 1
+  },
+  {
+    "source": "emerging technology",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "emerging technology",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "emerging technology",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "emerging technology",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "emerging technology",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "emerging technology",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "emerging technology",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "ethical impropriety",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "generative AI",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "harmful culture",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "ethical impropriety",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "ethical impropriety",
+    "target": "generative AI",
+    "weight": 1
+  },
+  {
+    "source": "ethical impropriety",
+    "target": "harmful culture",
+    "weight": 1
+  },
+  {
+    "source": "ethical impropriety",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "ethical impropriety",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "ethical impropriety",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "ethical impropriety",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "ethical impropriety",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "ethical impropriety",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "ethical impropriety",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "generative AI",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "harmful culture",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "generative AI",
+    "target": "harmful culture",
+    "weight": 1
+  },
+  {
+    "source": "generative AI",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "generative AI",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "generative AI",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "generative AI",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "generative AI",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "harmful culture",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "harmful culture",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "harmful culture",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "harmful culture",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "harmful culture",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "inclusivity",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "inclusivity",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "inclusivity",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "inclusivity",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "inclusivity",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "inclusivity",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "politicisation of science",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "public misinformation",
+    "target": "qualitative research",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "unsustainable model",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "artificial intelligence",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "elite impunity",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "elite impunity",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "opportunistic growth",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "scarcity-based exploitation",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "unsustainable model",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "empirical research",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "opportunistic growth",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "scarcity-based exploitation",
+    "weight": 1
+  },
+  {
+    "source": "elite impunity",
+    "target": "unsustainable model",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "opportunistic growth",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "scarcity-based exploitation",
+    "weight": 1
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "opportunistic growth",
+    "target": "unsustainable model",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "research productivity",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "scarcity-based exploitation",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "unsustainable model",
+    "weight": 1
+  },
+  {
+    "source": "research productivity",
+    "target": "scarcity-based exploitation",
+    "weight": 1
+  },
+  {
+    "source": "research productivity",
+    "target": "unsustainable model",
+    "weight": 1
+  },
+  {
+    "source": "scarcity-based exploitation",
+    "target": "unsustainable model",
+    "weight": 1
+  }
+]
