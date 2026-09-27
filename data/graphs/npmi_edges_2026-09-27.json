@@ -1,0 +1,56 @@
+[
+  {
+    "source": "university policy",
+    "target": "university reform",
+    "co_occurrence": 4,
+    "npmi": 1.0
+  },
+  {
+    "source": "education crisis",
+    "target": "higher education crisis",
+    "co_occurrence": 3,
+    "npmi": 1.0
+  },
+  {
+    "source": "academic collapse",
+    "target": "academic model breakdown",
+    "co_occurrence": 3,
+    "npmi": 0.7925
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.7925
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": 0.7925
+  },
+  {
+    "source": "academic collapse",
+    "target": "education crisis",
+    "co_occurrence": 3,
+    "npmi": 0.7925
+  },
+  {
+    "source": "academic collapse",
+    "target": "higher education crisis",
+    "co_occurrence": 3,
+    "npmi": 0.7925
+  },
+  {
+    "source": "academic collapse",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "npmi": 0.585
+  },
+  {
+    "source": "academic collapse",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "npmi": 0.585
+  }
+]
