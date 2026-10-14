@@ -1,7 +1,7 @@
 [
   {
     "topic": "Higher Education Crisis",
-    "count": 4176,
+    "count": 4216,
     "score": 0.4515,
     "topics": [
       "academic collapse",
@@ -27,8 +27,8 @@
   },
   {
     "topic": "Student Experience",
-    "count": 2890,
-    "score": 0.4525,
+    "count": 2910,
+    "score": 0.4524,
     "topics": [
       "college experience",
       "mentor-student relationship",
@@ -52,8 +52,8 @@
   },
   {
     "topic": "Teaching And Learning",
-    "count": 2846,
-    "score": 0.4463,
+    "count": 2870,
+    "score": 0.4464,
     "topics": [
       "S. T. E. M. qualification",
       "bachelor qualification",
@@ -89,8 +89,8 @@
   },
   {
     "topic": "University Administration",
-    "count": 2218,
-    "score": 0.4473,
+    "count": 2240,
+    "score": 0.4471,
     "topics": [
       "board of regents",
       "board of trustees",
@@ -116,8 +116,8 @@
   },
   {
     "topic": "Faculty Labour",
-    "count": 2013,
-    "score": 0.4495,
+    "count": 2041,
+    "score": 0.4496,
     "topics": [
       "adjunct faculty",
       "faculty careers",
@@ -141,7 +141,7 @@
   },
   {
     "topic": "Education Funding",
-    "count": 853,
+    "count": 860,
     "score": 0.453,
     "topics": [
       "public scholarly funding",
@@ -160,8 +160,8 @@
   },
   {
     "topic": "Research Activities",
-    "count": 722,
-    "score": 0.4379,
+    "count": 733,
+    "score": 0.4378,
     "topics": [
       "citation count",
       "empirical research",
@@ -211,7 +211,7 @@
   },
   {
     "topic": "Politics In Academia",
-    "count": 588,
+    "count": 592,
     "score": 0.4402,
     "topics": [
       "alliances",
@@ -252,7 +252,7 @@
   },
   {
     "topic": "Educational Technology",
-    "count": 519,
+    "count": 523,
     "score": 0.4458,
     "topics": [
       "AI assisted process",
@@ -277,30 +277,8 @@
     }
   },
   {
-    "topic": "Admissions Access In Higher Education",
-    "count": 484,
-    "score": 0.4356,
-    "topics": [
-      "admissions criteria",
-      "admissions selectivity",
-      "affirmative action",
-      "graduate management admission test",
-      "graduate record examination",
-      "scholastic aptitude test",
-      "standardised testing",
-      "widening participation"
-    ],
-    "evidence": {
-      "article_id": "fb16314d233ed748718e5a6773a281ff",
-      "headline": "UEL launches US institution with Florida degree offer",
-      "url": "https://thepienews.com/uel-launches-us-institution-with-florida-degree-offer/",
-      "topic": "graduate management admission test",
-      "score": 0.4853
-    }
-  },
-  {
     "topic": "University Accreditation",
-    "count": 477,
+    "count": 491,
     "score": 0.4375,
     "topics": [
       "accreditation body",
@@ -326,9 +304,31 @@
     }
   },
   {
+    "topic": "Admissions Access In Higher Education",
+    "count": 490,
+    "score": 0.436,
+    "topics": [
+      "admissions criteria",
+      "admissions selectivity",
+      "affirmative action",
+      "graduate management admission test",
+      "graduate record examination",
+      "scholastic aptitude test",
+      "standardised testing",
+      "widening participation"
+    ],
+    "evidence": {
+      "article_id": "fb16314d233ed748718e5a6773a281ff",
+      "headline": "UEL launches US institution with Florida degree offer",
+      "url": "https://thepienews.com/uel-launches-us-institution-with-florida-degree-offer/",
+      "topic": "graduate management admission test",
+      "score": 0.4853
+    }
+  },
+  {
     "topic": "Academic Abuse",
-    "count": 442,
-    "score": 0.4306,
+    "count": 453,
+    "score": 0.4305,
     "topics": [
       "administrative abuse",
       "administrative coercion",
@@ -365,8 +365,8 @@
   },
   {
     "topic": "Science Society",
-    "count": 371,
-    "score": 0.4438,
+    "count": 381,
+    "score": 0.4439,
     "topics": [
       "contested scientific claims",
       "evidence-based reasoning",
@@ -389,8 +389,8 @@
   },
   {
     "topic": "Academic Degradation Signals",
-    "count": 368,
-    "score": 0.4346,
+    "count": 371,
+    "score": 0.4345,
     "topics": [
       "credential inflation",
       "declining rigour",
@@ -419,8 +419,8 @@
   },
   {
     "topic": "Higher Education By Region",
-    "count": 347,
-    "score": 0.45,
+    "count": 350,
+    "score": 0.4502,
     "topics": [
       "africa",
       "argentina",
@@ -471,8 +471,8 @@
   },
   {
     "topic": "Internationalisation Of Academia",
-    "count": 334,
-    "score": 0.4515,
+    "count": 338,
+    "score": 0.4514,
     "topics": [
       "cross-border experience",
       "global experience",
@@ -494,8 +494,8 @@
   },
   {
     "topic": "Academic Freedom",
-    "count": 236,
-    "score": 0.4464,
+    "count": 239,
+    "score": 0.4465,
     "topics": [
       "censorship",
       "freedom of expression",
@@ -514,7 +514,7 @@
   },
   {
     "topic": "Systemic Inequity In Higher Education",
-    "count": 221,
+    "count": 222,
     "score": 0.4477,
     "topics": [
       "accessibility equity",
@@ -543,8 +543,8 @@
   },
   {
     "topic": "Financial Constraints In Academia",
-    "count": 160,
-    "score": 0.442,
+    "count": 164,
+    "score": 0.4423,
     "topics": [
       "austerity",
       "budget constraints",
@@ -563,8 +563,8 @@
   },
   {
     "topic": "Sustainability Climate In Academia",
-    "count": 156,
-    "score": 0.4681,
+    "count": 158,
+    "score": 0.4677,
     "topics": [
       "carbon neutrality",
       "climate change",
@@ -582,8 +582,8 @@
   },
   {
     "topic": "Accountability Gaps In Academia",
-    "count": 136,
-    "score": 0.4293,
+    "count": 138,
+    "score": 0.4292,
     "topics": [
       "abuse of office",
       "conflict of interest",
@@ -605,8 +605,8 @@
   },
   {
     "topic": "Ethical Conflicts In Academia",
-    "count": 115,
-    "score": 0.4316,
+    "count": 116,
+    "score": 0.4315,
     "topics": [
       "accountability gaps",
       "corporate interests",
@@ -651,8 +651,8 @@
   },
   {
     "topic": "Campus Infrastructure",
-    "count": 72,
-    "score": 0.4282,
+    "count": 74,
+    "score": 0.4287,
     "topics": [
       "accommodation",
       "facilities",
@@ -671,8 +671,8 @@
   },
   {
     "topic": "Academic Standards",
-    "count": 62,
-    "score": 0.4303,
+    "count": 64,
+    "score": 0.4301,
     "topics": [
       "accountability",
       "integrity",
@@ -693,8 +693,8 @@
   },
   {
     "topic": "Norm Violations In Academia",
-    "count": 41,
-    "score": 0.4243,
+    "count": 42,
+    "score": 0.4242,
     "topics": [
       "bribery",
       "contempt of court",
