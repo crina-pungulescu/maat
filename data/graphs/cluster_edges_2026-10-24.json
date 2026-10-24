@@ -1,0 +1,17 @@
+[
+  {
+    "source": "student_experience",
+    "target": "teaching_and_learning",
+    "weight": 5
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "student_experience",
+    "weight": 1
+  },
+  {
+    "source": "faculty_labour",
+    "target": "student_experience",
+    "weight": 2
+  }
+]
