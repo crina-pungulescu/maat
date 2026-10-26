@@ -1,0 +1,273 @@
+[
+  {
+    "id": "political interference",
+    "label": "Political Interference",
+    "weight": 2,
+    "avg_score": 0.4354,
+    "article_ids": [
+      "3af69d2dd0fe317b64f1a8ff544f57a1",
+      "698e51a67ddfd251dd7c6b4235202c9c"
+    ]
+  },
+  {
+    "id": "medical profession",
+    "label": "Medical Profession",
+    "weight": 1,
+    "avg_score": 0.48,
+    "article_ids": [
+      "eed8f22092ae668846b2c0388871acf8"
+    ]
+  },
+  {
+    "id": "nursing profession",
+    "label": "Nursing Profession",
+    "weight": 1,
+    "avg_score": 0.4073,
+    "article_ids": [
+      "eed8f22092ae668846b2c0388871acf8"
+    ]
+  },
+  {
+    "id": "health profession",
+    "label": "Health Profession",
+    "weight": 1,
+    "avg_score": 0.5069,
+    "article_ids": [
+      "eed8f22092ae668846b2c0388871acf8"
+    ]
+  },
+  {
+    "id": "training hospitals",
+    "label": "Training Hospitals",
+    "weight": 1,
+    "avg_score": 0.4556,
+    "article_ids": [
+      "eed8f22092ae668846b2c0388871acf8"
+    ]
+  },
+  {
+    "id": "geopolitics",
+    "label": "Geopolitics",
+    "weight": 1,
+    "avg_score": 0.4254,
+    "article_ids": [
+      "698e51a67ddfd251dd7c6b4235202c9c"
+    ]
+  },
+  {
+    "id": "nationalism",
+    "label": "Nationalism",
+    "weight": 1,
+    "avg_score": 0.4734,
+    "article_ids": [
+      "698e51a67ddfd251dd7c6b4235202c9c"
+    ]
+  },
+  {
+    "id": "political repression",
+    "label": "Political Repression",
+    "weight": 1,
+    "avg_score": 0.4048,
+    "article_ids": [
+      "698e51a67ddfd251dd7c6b4235202c9c"
+    ]
+  },
+  {
+    "id": "instructional practice",
+    "label": "Instructional Practice",
+    "weight": 1,
+    "avg_score": 0.4697,
+    "article_ids": [
+      "de21d74496326d927e54b719a34338fd"
+    ]
+  },
+  {
+    "id": "classroom methods",
+    "label": "Classroom Methods",
+    "weight": 1,
+    "avg_score": 0.449,
+    "article_ids": [
+      "de21d74496326d927e54b719a34338fd"
+    ]
+  },
+  {
+    "id": "participatory instruction",
+    "label": "Participatory Instruction",
+    "weight": 1,
+    "avg_score": 0.5358,
+    "article_ids": [
+      "de21d74496326d927e54b719a34338fd"
+    ]
+  },
+  {
+    "id": "pedagogical innovation",
+    "label": "Pedagogical Innovation",
+    "weight": 1,
+    "avg_score": 0.4213,
+    "article_ids": [
+      "de21d74496326d927e54b719a34338fd"
+    ]
+  },
+  {
+    "id": "instructional excellence",
+    "label": "Instructional Excellence",
+    "weight": 1,
+    "avg_score": 0.4173,
+    "article_ids": [
+      "de21d74496326d927e54b719a34338fd"
+    ]
+  },
+  {
+    "id": "student life",
+    "label": "Student Life",
+    "weight": 1,
+    "avg_score": 0.406,
+    "article_ids": [
+      "de21d74496326d927e54b719a34338fd"
+    ]
+  },
+  {
+    "id": "student experience",
+    "label": "Student Experience",
+    "weight": 1,
+    "avg_score": 0.5315,
+    "article_ids": [
+      "de21d74496326d927e54b719a34338fd"
+    ]
+  },
+  {
+    "id": "student engagement",
+    "label": "Student Engagement",
+    "weight": 1,
+    "avg_score": 0.5751,
+    "article_ids": [
+      "de21d74496326d927e54b719a34338fd"
+    ]
+  },
+  {
+    "id": "mentor-student relationship",
+    "label": "Mentor Student Relationship",
+    "weight": 1,
+    "avg_score": 0.5105,
+    "article_ids": [
+      "de21d74496326d927e54b719a34338fd"
+    ]
+  },
+  {
+    "id": "legitimacy crisis",
+    "label": "Legitimacy Crisis",
+    "weight": 1,
+    "avg_score": 0.4013,
+    "article_ids": [
+      "352bb6edb7e769249d5aef86c14314ec"
+    ]
+  },
+  {
+    "id": "informal power networks",
+    "label": "Informal Power Networks",
+    "weight": 1,
+    "avg_score": 0.4015,
+    "article_ids": [
+      "352bb6edb7e769249d5aef86c14314ec"
+    ]
+  },
+  {
+    "id": "privacy violation",
+    "label": "Privacy Violation",
+    "weight": 1,
+    "avg_score": 0.4183,
+    "article_ids": [
+      "352bb6edb7e769249d5aef86c14314ec"
+    ]
+  },
+  {
+    "id": "inclusivity",
+    "label": "Inclusivity",
+    "weight": 1,
+    "avg_score": 0.4365,
+    "article_ids": [
+      "352bb6edb7e769249d5aef86c14314ec"
+    ]
+  },
+  {
+    "id": "accessibility equity",
+    "label": "Accessibility Equity",
+    "weight": 1,
+    "avg_score": 0.4245,
+    "article_ids": [
+      "352bb6edb7e769249d5aef86c14314ec"
+    ]
+  },
+  {
+    "id": "authoritarianism",
+    "label": "Authoritarianism",
+    "weight": 1,
+    "avg_score": 0.4732,
+    "article_ids": [
+      "352bb6edb7e769249d5aef86c14314ec"
+    ]
+  },
+  {
+    "id": "illiberal democracy",
+    "label": "Illiberal Democracy",
+    "weight": 1,
+    "avg_score": 0.4417,
+    "article_ids": [
+      "352bb6edb7e769249d5aef86c14314ec"
+    ]
+  },
+  {
+    "id": "freedom of expression",
+    "label": "Freedom Of Expression",
+    "weight": 1,
+    "avg_score": 0.5477,
+    "article_ids": [
+      "352bb6edb7e769249d5aef86c14314ec"
+    ]
+  },
+  {
+    "id": "freedom of speech",
+    "label": "Freedom Of Speech",
+    "weight": 1,
+    "avg_score": 0.508,
+    "article_ids": [
+      "352bb6edb7e769249d5aef86c14314ec"
+    ]
+  },
+  {
+    "id": "freedom of opinion",
+    "label": "Freedom Of Opinion",
+    "weight": 1,
+    "avg_score": 0.4464,
+    "article_ids": [
+      "352bb6edb7e769249d5aef86c14314ec"
+    ]
+  },
+  {
+    "id": "censorship",
+    "label": "Censorship",
+    "weight": 1,
+    "avg_score": 0.546,
+    "article_ids": [
+      "352bb6edb7e769249d5aef86c14314ec"
+    ]
+  },
+  {
+    "id": "intellectual autonomy",
+    "label": "Intellectual Autonomy",
+    "weight": 1,
+    "avg_score": 0.4887,
+    "article_ids": [
+      "352bb6edb7e769249d5aef86c14314ec"
+    ]
+  },
+  {
+    "id": "public misinformation",
+    "label": "Public Misinformation",
+    "weight": 1,
+    "avg_score": 0.413,
+    "article_ids": [
+      "352bb6edb7e769249d5aef86c14314ec"
+    ]
+  }
+]

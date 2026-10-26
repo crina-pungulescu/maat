@@ -1,0 +1,632 @@
+[
+  {
+    "source": "health profession",
+    "target": "medical profession",
+    "weight": 1
+  },
+  {
+    "source": "health profession",
+    "target": "nursing profession",
+    "weight": 1
+  },
+  {
+    "source": "health profession",
+    "target": "training hospitals",
+    "weight": 1
+  },
+  {
+    "source": "medical profession",
+    "target": "nursing profession",
+    "weight": 1
+  },
+  {
+    "source": "medical profession",
+    "target": "training hospitals",
+    "weight": 1
+  },
+  {
+    "source": "nursing profession",
+    "target": "training hospitals",
+    "weight": 1
+  },
+  {
+    "source": "geopolitics",
+    "target": "nationalism",
+    "weight": 1
+  },
+  {
+    "source": "geopolitics",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "geopolitics",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "nationalism",
+    "target": "political interference",
+    "weight": 1
+  },
+  {
+    "source": "nationalism",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "political interference",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "instructional practice",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "instructional practice",
+    "target": "mentor-student relationship",
+    "weight": 1
+  },
+  {
+    "source": "instructional practice",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "instructional practice",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "instructional practice",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "instructional practice",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "instructional practice",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "mentor-student relationship",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "participatory instruction",
+    "target": "pedagogical innovation",
+    "weight": 1
+  },
+  {
+    "source": "participatory instruction",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "participatory instruction",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "participatory instruction",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "accessibility equity",
+    "target": "authoritarianism",
+    "weight": 1
+  },
+  {
+    "source": "accessibility equity",
+    "target": "censorship",
+    "weight": 1
+  },
+  {
+    "source": "accessibility equity",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "accessibility equity",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "accessibility equity",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "accessibility equity",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "accessibility equity",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "accessibility equity",
+    "target": "informal power networks",
+    "weight": 1
+  },
+  {
+    "source": "accessibility equity",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "accessibility equity",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "accessibility equity",
+    "target": "privacy violation",
+    "weight": 1
+  },
+  {
+    "source": "accessibility equity",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "censorship",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "informal power networks",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "privacy violation",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "informal power networks",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "privacy violation",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "informal power networks",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "privacy violation",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "informal power networks",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "privacy violation",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "informal power networks",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "privacy violation",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "informal power networks",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "privacy violation",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "inclusivity",
+    "target": "informal power networks",
+    "weight": 1
+  },
+  {
+    "source": "inclusivity",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "inclusivity",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "inclusivity",
+    "target": "privacy violation",
+    "weight": 1
+  },
+  {
+    "source": "inclusivity",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "informal power networks",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "informal power networks",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "informal power networks",
+    "target": "privacy violation",
+    "weight": 1
+  },
+  {
+    "source": "informal power networks",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "privacy violation",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "privacy violation",
+    "weight": 1
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "privacy violation",
+    "target": "public misinformation",
+    "weight": 1
+  }
+]
