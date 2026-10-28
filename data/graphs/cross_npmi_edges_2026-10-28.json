@@ -1,0 +1,26 @@
+[
+  {
+    "source": "instructional excellence",
+    "target": "student engagement",
+    "co_occurrence": 4,
+    "npmi": 0.8219,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "npmi": 0.6684,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "outdated education model",
+    "target": "pedagogical innovation",
+    "co_occurrence": 3,
+    "npmi": 0.3633,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "teaching_and_learning"
+  }
+]
