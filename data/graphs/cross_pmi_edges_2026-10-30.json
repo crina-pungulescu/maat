@@ -1,0 +1,74 @@
+[
+  {
+    "source": "college experience",
+    "target": "curricular design",
+    "co_occurrence": 3,
+    "pmi": 1.4594,
+    "source_cluster": "student_experience",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "college experience",
+    "target": "instructional excellence",
+    "co_occurrence": 3,
+    "pmi": 1.4594,
+    "source_cluster": "student_experience",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "instructional excellence",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "pmi": 1.4594,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "pmi": 1.4594,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "pmi": 1.4594,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student engagement",
+    "co_occurrence": 4,
+    "pmi": 1.1375,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "outdated education model",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "pmi": 1.1375,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "curricular design",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "pmi": 0.7225,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "pmi": 0.7225,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  }
+]

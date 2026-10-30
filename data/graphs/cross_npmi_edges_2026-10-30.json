@@ -1,0 +1,74 @@
+[
+  {
+    "source": "instructional excellence",
+    "target": "student engagement",
+    "co_occurrence": 4,
+    "npmi": 0.7794,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "college experience",
+    "target": "curricular design",
+    "co_occurrence": 3,
+    "npmi": 0.7786,
+    "source_cluster": "student_experience",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "college experience",
+    "target": "instructional excellence",
+    "co_occurrence": 3,
+    "npmi": 0.7786,
+    "source_cluster": "student_experience",
+    "target_cluster": "teaching_and_learning"
+  },
+  {
+    "source": "instructional excellence",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.7786,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "instructional excellence",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "npmi": 0.7786,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "npmi": 0.7786,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "outdated education model",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "npmi": 0.6068,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "curricular design",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "npmi": 0.3854,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "pedagogical innovation",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "npmi": 0.3854,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  }
+]
