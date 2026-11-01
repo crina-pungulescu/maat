@@ -1,0 +1,44 @@
+[
+  {
+    "source": "authoritarianism",
+    "target": "educational instability",
+    "co_occurrence": 3,
+    "npmi": 1.0
+  },
+  {
+    "source": "authoritarianism",
+    "target": "politicisation of science",
+    "co_occurrence": 3,
+    "npmi": 1.0
+  },
+  {
+    "source": "educational instability",
+    "target": "politicisation of science",
+    "co_occurrence": 3,
+    "npmi": 1.0
+  },
+  {
+    "source": "higher education crisis",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.4368
+  },
+  {
+    "source": "authoritarianism",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.4368
+  },
+  {
+    "source": "educational instability",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "npmi": 0.4368
+  },
+  {
+    "source": "outdated education model",
+    "target": "politicisation of science",
+    "co_occurrence": 3,
+    "npmi": 0.4368
+  }
+]

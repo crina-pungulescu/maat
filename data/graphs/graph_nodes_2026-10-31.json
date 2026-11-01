@@ -1,0 +1,777 @@
+[
+  {
+    "id": "student wellbeing",
+    "label": "Student Wellbeing",
+    "weight": 1,
+    "avg_score": 0.4238,
+    "article_ids": [
+      "1558e38281f08c0d994ee24a6425a015"
+    ]
+  },
+  {
+    "id": "student life",
+    "label": "Student Life",
+    "weight": 1,
+    "avg_score": 0.4748,
+    "article_ids": [
+      "1558e38281f08c0d994ee24a6425a015"
+    ]
+  },
+  {
+    "id": "student experience",
+    "label": "Student Experience",
+    "weight": 1,
+    "avg_score": 0.4699,
+    "article_ids": [
+      "1558e38281f08c0d994ee24a6425a015"
+    ]
+  },
+  {
+    "id": "student satisfaction",
+    "label": "Student Satisfaction",
+    "weight": 1,
+    "avg_score": 0.4069,
+    "article_ids": [
+      "1558e38281f08c0d994ee24a6425a015"
+    ]
+  },
+  {
+    "id": "student engagement",
+    "label": "Student Engagement",
+    "weight": 1,
+    "avg_score": 0.504,
+    "article_ids": [
+      "1558e38281f08c0d994ee24a6425a015"
+    ]
+  },
+  {
+    "id": "student retention",
+    "label": "Student Retention",
+    "weight": 1,
+    "avg_score": 0.5496,
+    "article_ids": [
+      "1558e38281f08c0d994ee24a6425a015"
+    ]
+  },
+  {
+    "id": "tuition affordability",
+    "label": "Tuition Affordability",
+    "weight": 1,
+    "avg_score": 0.4455,
+    "article_ids": [
+      "1558e38281f08c0d994ee24a6425a015"
+    ]
+  },
+  {
+    "id": "accommodation",
+    "label": "Accommodation",
+    "weight": 1,
+    "avg_score": 0.5183,
+    "article_ids": [
+      "1558e38281f08c0d994ee24a6425a015"
+    ]
+  },
+  {
+    "id": "higher education crisis",
+    "label": "Higher Education Crisis",
+    "weight": 3,
+    "avg_score": 0.4448,
+    "article_ids": [
+      "2b991e72ec82a78ae9296f154672584a",
+      "ce2a79aeedd64d608366e2228eac4797",
+      "effee1c22bdcbbef14b46b5def32ffb2"
+    ]
+  },
+  {
+    "id": "decline of academia",
+    "label": "Decline Of Academia",
+    "weight": 2,
+    "avg_score": 0.4244,
+    "article_ids": [
+      "2b991e72ec82a78ae9296f154672584a",
+      "ce2a79aeedd64d608366e2228eac4797"
+    ]
+  },
+  {
+    "id": "outdated education model",
+    "label": "Outdated Education Model",
+    "weight": 4,
+    "avg_score": 0.469,
+    "article_ids": [
+      "2b991e72ec82a78ae9296f154672584a",
+      "ce2a79aeedd64d608366e2228eac4797",
+      "effee1c22bdcbbef14b46b5def32ffb2",
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "university administrators",
+    "label": "University Administrators",
+    "weight": 1,
+    "avg_score": 0.4239,
+    "article_ids": [
+      "2b991e72ec82a78ae9296f154672584a"
+    ]
+  },
+  {
+    "id": "university policy",
+    "label": "University Policy",
+    "weight": 2,
+    "avg_score": 0.4239,
+    "article_ids": [
+      "2b991e72ec82a78ae9296f154672584a",
+      "ce2a79aeedd64d608366e2228eac4797"
+    ]
+  },
+  {
+    "id": "university reform",
+    "label": "University Reform",
+    "weight": 2,
+    "avg_score": 0.4257,
+    "article_ids": [
+      "2b991e72ec82a78ae9296f154672584a",
+      "ce2a79aeedd64d608366e2228eac4797"
+    ]
+  },
+  {
+    "id": "scholarly endowments",
+    "label": "Scholarly Endowments",
+    "weight": 1,
+    "avg_score": 0.4026,
+    "article_ids": [
+      "2b991e72ec82a78ae9296f154672584a"
+    ]
+  },
+  {
+    "id": "adjunct faculty",
+    "label": "Adjunct Faculty",
+    "weight": 1,
+    "avg_score": 0.4372,
+    "article_ids": [
+      "2b991e72ec82a78ae9296f154672584a"
+    ]
+  },
+  {
+    "id": "faculty careers",
+    "label": "Faculty Careers",
+    "weight": 1,
+    "avg_score": 0.432,
+    "article_ids": [
+      "2b991e72ec82a78ae9296f154672584a"
+    ]
+  },
+  {
+    "id": "admissions selectivity",
+    "label": "Admissions Selectivity",
+    "weight": 1,
+    "avg_score": 0.4014,
+    "article_ids": [
+      "2b991e72ec82a78ae9296f154672584a"
+    ]
+  },
+  {
+    "id": "student protest",
+    "label": "Student Protest",
+    "weight": 1,
+    "avg_score": 0.4919,
+    "article_ids": [
+      "effee1c22bdcbbef14b46b5def32ffb2"
+    ]
+  },
+  {
+    "id": "education crisis",
+    "label": "Education Crisis",
+    "weight": 2,
+    "avg_score": 0.4857,
+    "article_ids": [
+      "ce2a79aeedd64d608366e2228eac4797",
+      "effee1c22bdcbbef14b46b5def32ffb2"
+    ]
+  },
+  {
+    "id": "educational decline",
+    "label": "Educational Decline",
+    "weight": 1,
+    "avg_score": 0.4537,
+    "article_ids": [
+      "effee1c22bdcbbef14b46b5def32ffb2"
+    ]
+  },
+  {
+    "id": "educational instability",
+    "label": "Educational Instability",
+    "weight": 3,
+    "avg_score": 0.4433,
+    "article_ids": [
+      "ce2a79aeedd64d608366e2228eac4797",
+      "effee1c22bdcbbef14b46b5def32ffb2",
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "systemic education failure",
+    "label": "Systemic Education Failure",
+    "weight": 2,
+    "avg_score": 0.4235,
+    "article_ids": [
+      "ce2a79aeedd64d608366e2228eac4797",
+      "effee1c22bdcbbef14b46b5def32ffb2"
+    ]
+  },
+  {
+    "id": "authoritarianism",
+    "label": "Authoritarianism",
+    "weight": 3,
+    "avg_score": 0.4431,
+    "article_ids": [
+      "ce2a79aeedd64d608366e2228eac4797",
+      "effee1c22bdcbbef14b46b5def32ffb2",
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "populism",
+    "label": "Populism",
+    "weight": 1,
+    "avg_score": 0.4157,
+    "article_ids": [
+      "effee1c22bdcbbef14b46b5def32ffb2"
+    ]
+  },
+  {
+    "id": "uprising",
+    "label": "Uprising",
+    "weight": 1,
+    "avg_score": 0.4058,
+    "article_ids": [
+      "effee1c22bdcbbef14b46b5def32ffb2"
+    ]
+  },
+  {
+    "id": "political repression",
+    "label": "Political Repression",
+    "weight": 2,
+    "avg_score": 0.4375,
+    "article_ids": [
+      "effee1c22bdcbbef14b46b5def32ffb2",
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "politicisation of science",
+    "label": "Politicisation Of Science",
+    "weight": 3,
+    "avg_score": 0.4369,
+    "article_ids": [
+      "ce2a79aeedd64d608366e2228eac4797",
+      "effee1c22bdcbbef14b46b5def32ffb2",
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "pessimism",
+    "label": "Pessimism",
+    "weight": 1,
+    "avg_score": 0.442,
+    "article_ids": [
+      "effee1c22bdcbbef14b46b5def32ffb2"
+    ]
+  },
+  {
+    "id": "morale",
+    "label": "Morale",
+    "weight": 1,
+    "avg_score": 0.4131,
+    "article_ids": [
+      "effee1c22bdcbbef14b46b5def32ffb2"
+    ]
+  },
+  {
+    "id": "research collaboration",
+    "label": "Research Collaboration",
+    "weight": 1,
+    "avg_score": 0.4402,
+    "article_ids": [
+      "ce2a79aeedd64d608366e2228eac4797"
+    ]
+  },
+  {
+    "id": "research productivity",
+    "label": "Research Productivity",
+    "weight": 1,
+    "avg_score": 0.5125,
+    "article_ids": [
+      "ce2a79aeedd64d608366e2228eac4797"
+    ]
+  },
+  {
+    "id": "empirical research",
+    "label": "Empirical Research",
+    "weight": 2,
+    "avg_score": 0.4803,
+    "article_ids": [
+      "ce2a79aeedd64d608366e2228eac4797",
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "theoretical research",
+    "label": "Theoretical Research",
+    "weight": 1,
+    "avg_score": 0.4095,
+    "article_ids": [
+      "ce2a79aeedd64d608366e2228eac4797"
+    ]
+  },
+  {
+    "id": "academic model breakdown",
+    "label": "Academic Model Breakdown",
+    "weight": 1,
+    "avg_score": 0.441,
+    "article_ids": [
+      "ce2a79aeedd64d608366e2228eac4797"
+    ]
+  },
+  {
+    "id": "legitimacy crisis",
+    "label": "Legitimacy Crisis",
+    "weight": 2,
+    "avg_score": 0.5094,
+    "article_ids": [
+      "ce2a79aeedd64d608366e2228eac4797",
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "institutional partnerships",
+    "label": "Institutional Partnerships",
+    "weight": 1,
+    "avg_score": 0.4268,
+    "article_ids": [
+      "ce2a79aeedd64d608366e2228eac4797"
+    ]
+  },
+  {
+    "id": "scholarly funding",
+    "label": "Scholarly Funding",
+    "weight": 1,
+    "avg_score": 0.4157,
+    "article_ids": [
+      "ce2a79aeedd64d608366e2228eac4797"
+    ]
+  },
+  {
+    "id": "public scholarly funding",
+    "label": "Public Scholarly Funding",
+    "weight": 1,
+    "avg_score": 0.4482,
+    "article_ids": [
+      "ce2a79aeedd64d608366e2228eac4797"
+    ]
+  },
+  {
+    "id": "austerity",
+    "label": "Austerity",
+    "weight": 1,
+    "avg_score": 0.4504,
+    "article_ids": [
+      "ce2a79aeedd64d608366e2228eac4797"
+    ]
+  },
+  {
+    "id": "faculty labour exploitation",
+    "label": "Faculty Labour Exploitation",
+    "weight": 1,
+    "avg_score": 0.4227,
+    "article_ids": [
+      "ce2a79aeedd64d608366e2228eac4797"
+    ]
+  },
+  {
+    "id": "faculty job insecurity",
+    "label": "Faculty Job Insecurity",
+    "weight": 1,
+    "avg_score": 0.409,
+    "article_ids": [
+      "ce2a79aeedd64d608366e2228eac4797"
+    ]
+  },
+  {
+    "id": "faculty redundancy",
+    "label": "Faculty Redundancy",
+    "weight": 1,
+    "avg_score": 0.4156,
+    "article_ids": [
+      "ce2a79aeedd64d608366e2228eac4797"
+    ]
+  },
+  {
+    "id": "accountability",
+    "label": "Accountability",
+    "weight": 2,
+    "avg_score": 0.4461,
+    "article_ids": [
+      "ce2a79aeedd64d608366e2228eac4797",
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "accountability gaps",
+    "label": "Accountability Gaps",
+    "weight": 2,
+    "avg_score": 0.5214,
+    "article_ids": [
+      "ce2a79aeedd64d608366e2228eac4797",
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "elite impunity",
+    "label": "Elite Impunity",
+    "weight": 2,
+    "avg_score": 0.4795,
+    "article_ids": [
+      "ce2a79aeedd64d608366e2228eac4797",
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "programme massification",
+    "label": "Programme Massification",
+    "weight": 1,
+    "avg_score": 0.4007,
+    "article_ids": [
+      "ce2a79aeedd64d608366e2228eac4797"
+    ]
+  },
+  {
+    "id": "employability gap",
+    "label": "Employability Gap",
+    "weight": 1,
+    "avg_score": 0.4654,
+    "article_ids": [
+      "ce2a79aeedd64d608366e2228eac4797"
+    ]
+  },
+  {
+    "id": "opportunistic growth",
+    "label": "Opportunistic Growth",
+    "weight": 2,
+    "avg_score": 0.4541,
+    "article_ids": [
+      "ce2a79aeedd64d608366e2228eac4797",
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "administrative coercion",
+    "label": "Administrative Coercion",
+    "weight": 2,
+    "avg_score": 0.4301,
+    "article_ids": [
+      "ce2a79aeedd64d608366e2228eac4797",
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "bureaucratic obstruction",
+    "label": "Bureaucratic Obstruction",
+    "weight": 2,
+    "avg_score": 0.5037,
+    "article_ids": [
+      "ce2a79aeedd64d608366e2228eac4797",
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "equity initiatives",
+    "label": "Equity Initiatives",
+    "weight": 1,
+    "avg_score": 0.4497,
+    "article_ids": [
+      "ce2a79aeedd64d608366e2228eac4797"
+    ]
+  },
+  {
+    "id": "illiberal democracy",
+    "label": "Illiberal Democracy",
+    "weight": 2,
+    "avg_score": 0.4263,
+    "article_ids": [
+      "ce2a79aeedd64d608366e2228eac4797",
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "economic warfare",
+    "label": "Economic Warfare",
+    "weight": 1,
+    "avg_score": 0.4039,
+    "article_ids": [
+      "ce2a79aeedd64d608366e2228eac4797"
+    ]
+  },
+  {
+    "id": "international cohorts",
+    "label": "International Cohorts",
+    "weight": 2,
+    "avg_score": 0.4438,
+    "article_ids": [
+      "ce2a79aeedd64d608366e2228eac4797",
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "intellectual autonomy",
+    "label": "Intellectual Autonomy",
+    "weight": 2,
+    "avg_score": 0.4216,
+    "article_ids": [
+      "ce2a79aeedd64d608366e2228eac4797",
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "artificial intelligence",
+    "label": "Artificial Intelligence",
+    "weight": 1,
+    "avg_score": 0.4139,
+    "article_ids": [
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "unsustainable model",
+    "label": "Unsustainable Model",
+    "weight": 1,
+    "avg_score": 0.4283,
+    "article_ids": [
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "internal regulations",
+    "label": "Internal Regulations",
+    "weight": 1,
+    "avg_score": 0.4235,
+    "article_ids": [
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "ethical impropriety",
+    "label": "Ethical Impropriety",
+    "weight": 1,
+    "avg_score": 0.4315,
+    "article_ids": [
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "weak oversight",
+    "label": "Weak Oversight",
+    "weight": 1,
+    "avg_score": 0.5088,
+    "article_ids": [
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "lack of oversight",
+    "label": "Lack Of Oversight",
+    "weight": 1,
+    "avg_score": 0.5151,
+    "article_ids": [
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "unchecked authority",
+    "label": "Unchecked Authority",
+    "weight": 1,
+    "avg_score": 0.4487,
+    "article_ids": [
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "decision-making opacity",
+    "label": "Decision Making Opacity",
+    "weight": 1,
+    "avg_score": 0.4565,
+    "article_ids": [
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "incompetence",
+    "label": "Incompetence",
+    "weight": 1,
+    "avg_score": 0.4568,
+    "article_ids": [
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "procedural abuse",
+    "label": "Procedural Abuse",
+    "weight": 1,
+    "avg_score": 0.4285,
+    "article_ids": [
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "administrative retaliation",
+    "label": "Administrative Retaliation",
+    "weight": 1,
+    "avg_score": 0.4101,
+    "article_ids": [
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "administrative abuse",
+    "label": "Administrative Abuse",
+    "weight": 1,
+    "avg_score": 0.433,
+    "article_ids": [
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "suppressing dissent",
+    "label": "Suppressing Dissent",
+    "weight": 1,
+    "avg_score": 0.423,
+    "article_ids": [
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "silencing criticism",
+    "label": "Silencing Criticism",
+    "weight": 1,
+    "avg_score": 0.4171,
+    "article_ids": [
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "whistleblowing risks",
+    "label": "Whistleblowing Risks",
+    "weight": 1,
+    "avg_score": 0.4719,
+    "article_ids": [
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "disproportionate punishment",
+    "label": "Disproportionate Punishment",
+    "weight": 1,
+    "avg_score": 0.4456,
+    "article_ids": [
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "bureaucratic gatekeeping",
+    "label": "Bureaucratic Gatekeeping",
+    "weight": 1,
+    "avg_score": 0.4356,
+    "article_ids": [
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "scarcity-based exploitation",
+    "label": "Scarcity Based Exploitation",
+    "weight": 1,
+    "avg_score": 0.4191,
+    "article_ids": [
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "corruption",
+    "label": "Corruption",
+    "weight": 1,
+    "avg_score": 0.4064,
+    "article_ids": [
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "regulatory violation",
+    "label": "Regulatory Violation",
+    "weight": 1,
+    "avg_score": 0.446,
+    "article_ids": [
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "biased systems",
+    "label": "Biased Systems",
+    "weight": 1,
+    "avg_score": 0.4061,
+    "article_ids": [
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "geopolitics",
+    "label": "Geopolitics",
+    "weight": 1,
+    "avg_score": 0.4525,
+    "article_ids": [
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "regime",
+    "label": "Regime",
+    "weight": 1,
+    "avg_score": 0.4188,
+    "article_ids": [
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "political interference",
+    "label": "Political Interference",
+    "weight": 1,
+    "avg_score": 0.4004,
+    "article_ids": [
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "state surveillance",
+    "label": "State Surveillance",
+    "weight": 1,
+    "avg_score": 0.4134,
+    "article_ids": [
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "censorship",
+    "label": "Censorship",
+    "weight": 1,
+    "avg_score": 0.4061,
+    "article_ids": [
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  },
+  {
+    "id": "public misinformation",
+    "label": "Public Misinformation",
+    "weight": 1,
+    "avg_score": 0.5039,
+    "article_ids": [
+      "fc800231960c631a69107c5facc55cdc"
+    ]
+  }
+]

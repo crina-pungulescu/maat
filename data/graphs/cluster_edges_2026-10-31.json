@@ -1,0 +1,17 @@
+[
+  {
+    "source": "higher_education_crisis",
+    "target": "politics_in_academia",
+    "weight": 2
+  },
+  {
+    "source": "politics_in_academia",
+    "target": "science_society",
+    "weight": 1
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "science_society",
+    "weight": 2
+  }
+]
