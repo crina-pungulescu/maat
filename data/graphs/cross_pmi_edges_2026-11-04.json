@@ -1,0 +1,74 @@
+[
+  {
+    "source": "classroom methods",
+    "target": "education crisis",
+    "co_occurrence": 4,
+    "pmi": 2.0875,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "classroom methods",
+    "target": "student voice",
+    "co_occurrence": 3,
+    "pmi": 2.0875,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "education crisis",
+    "target": "student voice",
+    "co_occurrence": 3,
+    "pmi": 2.0875,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "classroom methods",
+    "target": "educational instability",
+    "co_occurrence": 3,
+    "pmi": 1.6724,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "student engagement",
+    "target": "university policy",
+    "co_occurrence": 3,
+    "pmi": 1.3505,
+    "source_cluster": "student_experience",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "outdated education model",
+    "target": "student voice",
+    "co_occurrence": 3,
+    "pmi": 1.2801,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "classroom methods",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "pmi": 0.8651,
+    "source_cluster": "teaching_and_learning",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "outdated education model",
+    "target": "student experience",
+    "co_occurrence": 3,
+    "pmi": 0.8651,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  },
+  {
+    "source": "outdated education model",
+    "target": "student engagement",
+    "co_occurrence": 3,
+    "pmi": 0.5431,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "student_experience"
+  }
+]
