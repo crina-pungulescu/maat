@@ -1,7 +1,7 @@
 [
   {
     "topic": "Higher Education Crisis",
-    "count": 4551,
+    "count": 4652,
     "score": 0.4512,
     "topics": [
       "academic collapse",
@@ -18,42 +18,17 @@
       "unsustainable model"
     ],
     "evidence": {
-      "article_id": "5ec1ed83af7949a861a687ba7138a5f9",
-      "headline": "La ferita aperta del reclutamento scolastico",
-      "url": "https://www.roars.it/la-ferita-aperta-del-reclutamento-scolastico/",
+      "article_id": "20c0fbb12e743aeadb36a9929a733b60",
+      "headline": "Crises have taken their classrooms. But education cannot wait",
+      "url": "https://www.euronews.com/2026/11/05/crises-have-taken-their-classrooms-but-education-cannot-wait",
       "topic": "education crisis",
-      "score": 0.6551
-    }
-  },
-  {
-    "topic": "Student Experience",
-    "count": 3090,
-    "score": 0.4523,
-    "topics": [
-      "college experience",
-      "mentor-student relationship",
-      "student engagement",
-      "student experience",
-      "student life",
-      "student protest",
-      "student retention",
-      "student satisfaction",
-      "student voice",
-      "student wellbeing",
-      "supporting staff"
-    ],
-    "evidence": {
-      "article_id": "bed61f64b3b37cc2650cb90becbb9ea4",
-      "headline": "Beyond academic support: why mentoring matters for international students",
-      "url": "https://thepienews.com/beyond-academic-support-why-mentoring-matters-for-international-students/",
-      "topic": "mentor-student relationship",
-      "score": 0.6321
+      "score": 0.653
     }
   },
   {
     "topic": "Teaching And Learning",
-    "count": 3071,
-    "score": 0.4457,
+    "count": 3118,
+    "score": 0.4456,
     "topics": [
       "S. T. E. M. qualification",
       "bachelor qualification",
@@ -88,8 +63,33 @@
     }
   },
   {
+    "topic": "Student Experience",
+    "count": 3115,
+    "score": 0.4522,
+    "topics": [
+      "college experience",
+      "mentor-student relationship",
+      "student engagement",
+      "student experience",
+      "student life",
+      "student protest",
+      "student retention",
+      "student satisfaction",
+      "student voice",
+      "student wellbeing",
+      "supporting staff"
+    ],
+    "evidence": {
+      "article_id": "bed61f64b3b37cc2650cb90becbb9ea4",
+      "headline": "Beyond academic support: why mentoring matters for international students",
+      "url": "https://thepienews.com/beyond-academic-support-why-mentoring-matters-for-international-students/",
+      "topic": "mentor-student relationship",
+      "score": 0.6321
+    }
+  },
+  {
     "topic": "University Administration",
-    "count": 2350,
+    "count": 2388,
     "score": 0.447,
     "topics": [
       "board of regents",
@@ -116,8 +116,8 @@
   },
   {
     "topic": "Faculty Labour",
-    "count": 2164,
-    "score": 0.4493,
+    "count": 2194,
+    "score": 0.4492,
     "topics": [
       "adjunct faculty",
       "faculty careers",
@@ -132,17 +132,17 @@
       "unpaid faculty labour"
     ],
     "evidence": {
-      "article_id": "a1e20c930b9d75223c86699688f80011",
-      "headline": "Colleges are cutting administrative jobs — and critics say that’s a good thing",
-      "url": "https://hechingerreport.org/colleges-are-cutting-administrative-jobs-and-critics-say-thats-a-good-thing/",
-      "topic": "faculty redundancy",
-      "score": 0.5654
+      "article_id": "ae1a58020dfa2b3f9ad5d1e65b71e5f8",
+      "headline": "Professional Ecosystems: Harmonious Alignment for Faculty Service",
+      "url": "https://www.facultyfocus.com/articles/faculty-development/professional-ecosystems-harmonious-alignment-for-faculty-service/",
+      "topic": "adjunct faculty",
+      "score": 0.654
     }
   },
   {
     "topic": "Education Funding",
-    "count": 938,
-    "score": 0.4534,
+    "count": 949,
+    "score": 0.4535,
     "topics": [
       "public scholarly funding",
       "scholarly endowments",
@@ -160,7 +160,7 @@
   },
   {
     "topic": "Research Activities",
-    "count": 810,
+    "count": 815,
     "score": 0.4365,
     "topics": [
       "citation count",
@@ -186,8 +186,8 @@
   },
   {
     "topic": "Education Cost",
-    "count": 763,
-    "score": 0.4477,
+    "count": 770,
+    "score": 0.4476,
     "topics": [
       "cost barriers",
       "cost of attendance support",
@@ -211,8 +211,8 @@
   },
   {
     "topic": "Politics In Academia",
-    "count": 689,
-    "score": 0.441,
+    "count": 701,
+    "score": 0.4409,
     "topics": [
       "alliances",
       "armed dispute",
@@ -243,17 +243,17 @@
       "war"
     ],
     "evidence": {
-      "article_id": "f7115a1d2af63886d725ca80ee6b4cc8",
-      "headline": "5 expert takeaways on 2026 midterm election security",
-      "url": "https://www.pbs.org/newshour/politics/5-expert-takeaways-on-2026-midterm-election-security",
-      "topic": "political interference",
-      "score": 0.5383
+      "article_id": "9ca9eacc90e3645e11d352e2255f6897",
+      "headline": "New Zealand’s Opportunity party takes aim at populist politics as it prepares to enter parliament",
+      "url": "https://www.theguardian.com/world/2026/nov/09/nz-elections-opportunity-party-qiulae-wong-speech-first-day-in-parliament",
+      "topic": "populism",
+      "score": 0.6883
     }
   },
   {
     "topic": "Educational Technology",
-    "count": 567,
-    "score": 0.4453,
+    "count": 586,
+    "score": 0.4454,
     "topics": [
       "AI assisted process",
       "ChatGPT",
@@ -269,16 +269,16 @@
       "proctoring software"
     ],
     "evidence": {
-      "article_id": "3bfc2cd4f69307d3f8e4c36818de15ef",
-      "headline": "Agil und strukturiert: eine Umgebung für KI-gestütztes Lernen",
-      "url": "https://www.heise.de/hintergrund/Agil-und-strukturiert-eine-Umgebung-fuer-KI-gestuetztes-Lernen-11480376.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "article_id": "906a5b660b43d765d04ffb76e107ea90",
+      "headline": "The AI-Resistant Pedagogy Studio: Redesigning Assignments for an AI-Augmented Classroom",
+      "url": "https://www.facultyfocus.com/articles/educational-assessment/the-ai-resistant-pedagogy-studio-redesigning-assignments-for-an-ai-augmented-classroom/",
       "topic": "generative AI",
-      "score": 0.5912
+      "score": 0.5872
     }
   },
   {
     "topic": "University Accreditation",
-    "count": 531,
+    "count": 538,
     "score": 0.4385,
     "topics": [
       "accreditation body",
@@ -305,8 +305,8 @@
   },
   {
     "topic": "Admissions Access In Higher Education",
-    "count": 528,
-    "score": 0.4363,
+    "count": 535,
+    "score": 0.4362,
     "topics": [
       "admissions criteria",
       "admissions selectivity",
@@ -327,7 +327,7 @@
   },
   {
     "topic": "Academic Abuse",
-    "count": 506,
+    "count": 517,
     "score": 0.4315,
     "topics": [
       "administrative abuse",
@@ -365,8 +365,8 @@
   },
   {
     "topic": "Academic Degradation Signals",
-    "count": 420,
-    "score": 0.4358,
+    "count": 423,
+    "score": 0.4357,
     "topics": [
       "credential inflation",
       "declining rigour",
@@ -395,8 +395,8 @@
   },
   {
     "topic": "Science Society",
-    "count": 417,
-    "score": 0.4429,
+    "count": 421,
+    "score": 0.442,
     "topics": [
       "contested scientific claims",
       "evidence-based reasoning",
@@ -419,8 +419,8 @@
   },
   {
     "topic": "Higher Education By Region",
-    "count": 382,
-    "score": 0.452,
+    "count": 390,
+    "score": 0.4519,
     "topics": [
       "africa",
       "argentina",
@@ -462,17 +462,17 @@
       "western europe"
     ],
     "evidence": {
-      "article_id": "ae6b92a9a8a5a736f0f7cf30feb7e3b5",
-      "headline": "Brazil’s study abroad ambitions widen, but information gap holds back demand",
-      "url": "https://thepienews.com/brazils-study-abroad-ambitions-widen-but-information-gap-holds-back-demand/",
-      "topic": "brazil",
-      "score": 0.5473
+      "article_id": "c124ab5d4c3cdce27620f9e8ddcbf23c",
+      "headline": "AIEC 2026: Australia rethinks its international education promise",
+      "url": "https://thepienews.com/aiec-2026-australia-rethinks-its-international-education-promise/",
+      "topic": "australia",
+      "score": 0.6145
     }
   },
   {
     "topic": "Internationalisation Of Academia",
-    "count": 372,
-    "score": 0.4514,
+    "count": 382,
+    "score": 0.451,
     "topics": [
       "cross-border experience",
       "global experience",
@@ -485,17 +485,17 @@
       "visa restrictions"
     ],
     "evidence": {
-      "article_id": "1e87ba8d7694dcbbd917a0376509341d",
-      "headline": "",
-      "url": "",
-      "topic": "visa restrictions",
-      "score": 0.5365
+      "article_id": "ae6b92a9a8a5a736f0f7cf30feb7e3b5",
+      "headline": "Brazil’s study abroad ambitions widen, but information gap holds back demand",
+      "url": "https://thepienews.com/brazils-study-abroad-ambitions-widen-but-information-gap-holds-back-demand/",
+      "topic": "study abroad",
+      "score": 0.6189
     }
   },
   {
     "topic": "Academic Freedom",
-    "count": 276,
-    "score": 0.4485,
+    "count": 282,
+    "score": 0.4489,
     "topics": [
       "censorship",
       "freedom of expression",
@@ -505,17 +505,17 @@
       "thought independence"
     ],
     "evidence": {
-      "article_id": "998d278455f1d95ec4256ce3e9d7d851",
-      "headline": "Survey: Majority of College Students Say Free Speech Threatened",
-      "url": "https://www.insidehighered.com/news/students/free-speech/2026/10/14/survey-most-college-students-say-free-speech-threatened",
-      "topic": "freedom of speech",
-      "score": 0.6015
+      "article_id": "ea801dc36878503cb4b8b653618a481a",
+      "headline": "Vom Wert des eigenen Denkens: Warum es in der Hochschullehre im KI-Zeitalter um intellektuelle Souveränität gehen muss",
+      "url": "https://hochschulforumdigitalisierung.de/vom-wert-des-eigenen-denkens/",
+      "topic": "intellectual autonomy",
+      "score": 0.6383
     }
   },
   {
     "topic": "Systemic Inequity In Higher Education",
-    "count": 241,
-    "score": 0.447,
+    "count": 243,
+    "score": 0.4469,
     "topics": [
       "accessibility equity",
       "biased systems",
@@ -534,17 +534,17 @@
       "workplace harassment"
     ],
     "evidence": {
-      "article_id": "93e4d50b3b0621e1b51e149a5d85cd54",
-      "headline": "„Cornell 7“: „Die Universitäten sehen sexuelle Gewalt als PR-Problem“",
-      "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/sexuelle-gewalt-wieso-wird-cornell-7-jetzt-erst-oeffentlich-201303006.html",
+      "article_id": "9e2f662f1b707af9f690ede981273dde",
+      "headline": "Sydney private school accused of mishandling sexual abuse allegations should be banned from enrolling new students, inquiry says",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/10/redeemer-baptist-school-sexual-abuse-inquiry-ntwnfb",
       "topic": "sexual harassment",
-      "score": 0.6139
+      "score": 0.5103
     }
   },
   {
     "topic": "Financial Constraints In Academia",
-    "count": 180,
-    "score": 0.441,
+    "count": 186,
+    "score": 0.4408,
     "topics": [
       "austerity",
       "budget constraints",
@@ -573,17 +573,17 @@
       "sustainability"
     ],
     "evidence": {
-      "article_id": "3c781abcfbb4fe916ce3d38a5b3d6f09",
-      "headline": "Beyond net zero: a journey towards ‘regenerative sustainability’",
-      "url": "https://advance-he.ac.uk/news-and-views/beyond-net-zero-a-journey-towards-regenerative-sustainability/",
-      "topic": "environmental sustainability",
-      "score": 0.6818
+      "article_id": "46b715b2dab3f59e4a4faaf764205eec",
+      "headline": "Filiera bufalina, plafond di 30 milioni per le imprese della Piana del Sele",
+      "url": "https://www.ilsole24ore.com/art/filiera-bufalina-plafond-30-milioni-le-imprese-piana-sele-AJC2WoiB",
+      "topic": "sustainability",
+      "score": 0.619
     }
   },
   {
     "topic": "Accountability Gaps In Academia",
-    "count": 160,
-    "score": 0.4278,
+    "count": 168,
+    "score": 0.428,
     "topics": [
       "abuse of office",
       "conflict of interest",
@@ -605,8 +605,8 @@
   },
   {
     "topic": "Ethical Conflicts In Academia",
-    "count": 134,
-    "score": 0.4305,
+    "count": 143,
+    "score": 0.4343,
     "topics": [
       "accountability gaps",
       "corporate interests",
@@ -623,11 +623,11 @@
       "unethical behaviour"
     ],
     "evidence": {
-      "article_id": "ce2a79aeedd64d608366e2228eac4797",
-      "headline": "Intelligenza artificiale e lavoro nella ricerca: cosa il nuovo contratto può imparare da quelli già firmati",
-      "url": "https://www.roars.it/intelligenza-artificiale-e-lavoro-nella-ricerca-cosa-il-nuovo-contratto-puo-imparare-da-quelli-gia-firmati/",
-      "topic": "accountability gaps",
-      "score": 0.4956
+      "article_id": "90917c53bb5a82c3bdf255251b25b5db",
+      "headline": "Plagiarism is a kind of theft, but it is also a question of honour",
+      "url": "https://theconversation.com/plagiarism-is-a-kind-of-theft-but-it-is-also-a-question-of-honour-281857",
+      "topic": "plagiarism",
+      "score": 0.7662
     }
   },
   {
@@ -672,8 +672,8 @@
   },
   {
     "topic": "Academic Standards",
-    "count": 68,
-    "score": 0.43,
+    "count": 70,
+    "score": 0.4299,
     "topics": [
       "accountability",
       "integrity",
@@ -694,29 +694,33 @@
   },
   {
     "topic": "Norm Violations In Academia",
-    "count": 54,
-    "score": 0.4253,
+    "count": 64,
+    "score": 0.4335,
     "topics": [
       "bribery",
       "contempt of court",
       "corruption",
+      "embezzlement",
+      "fraud",
       "misconduct",
       "privacy violation",
       "regulatory violation",
+      "tax evasion",
+      "theft",
       "unfair contracts"
     ],
     "evidence": {
-      "article_id": "61fc6f3d849130a65f5f4c73786bbc42",
-      "headline": "WEEKEND READING: When academic misconduct becomes an identity: what happens after the sanction?",
-      "url": "https://www.hepi.ac.uk/2026/10/11/weekend-reading-when-academic-misconduct-becomes-an-identity-what-happens-after-the-sanction/",
-      "topic": "misconduct",
-      "score": 0.5293
+      "article_id": "255852d552486d7f62cf6f4a79b6e125",
+      "headline": "Contratto bancari, la tassa sugli extraprofitti delle banche fa irruzione al tavolo Abi",
+      "url": "https://www.ilsole24ore.com/art/contratto-bancari-tassa-extraprofitti-banche-fa-irruzione-tavolo-abi-AJnGcYAC",
+      "topic": "tax evasion",
+      "score": 0.5011
     }
   },
   {
     "topic": "Health Professions Education",
-    "count": 30,
-    "score": 0.4319,
+    "count": 31,
+    "score": 0.4314,
     "topics": [
       "clinical training",
       "health profession",
@@ -734,8 +738,8 @@
   },
   {
     "topic": "Academic Ranking Systems",
-    "count": 12,
-    "score": 0.4455,
+    "count": 13,
+    "score": 0.4478,
     "topics": [
       "benchmarking",
       "performance indicators",
@@ -743,11 +747,11 @@
       "target metrics"
     ],
     "evidence": {
-      "article_id": "8f24aa3ca93f21e84a015bcde903391c",
-      "headline": "",
-      "url": "",
-      "topic": "benchmarking",
-      "score": 0
+      "article_id": "242fcc5c9ea1f6fb9bf9149726986b64",
+      "headline": "What Sets Texas’s Elite Colleges Apart",
+      "url": "https://helpfulprofessor.com/texas-college-prestige/",
+      "topic": "rankings",
+      "score": 0.5224
     }
   }
 ]

@@ -1,0 +1,122 @@
+[
+  {
+    "source": "educational_technology",
+    "target": "higher_education_crisis",
+    "weight": 9
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "university_administration",
+    "weight": 27
+  },
+  {
+    "source": "academic_freedom",
+    "target": "admissions_access_in_higher_education",
+    "weight": 1
+  },
+  {
+    "source": "student_experience",
+    "target": "university_administration",
+    "weight": 9
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "student_experience",
+    "weight": 27
+  },
+  {
+    "source": "faculty_labour",
+    "target": "higher_education_crisis",
+    "weight": 18
+  },
+  {
+    "source": "educational_technology",
+    "target": "faculty_labour",
+    "weight": 2
+  },
+  {
+    "source": "faculty_labour",
+    "target": "student_experience",
+    "weight": 6
+  },
+  {
+    "source": "faculty_labour",
+    "target": "university_administration",
+    "weight": 6
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "teaching_and_learning",
+    "weight": 37
+  },
+  {
+    "source": "educational_technology",
+    "target": "teaching_and_learning",
+    "weight": 4
+  },
+  {
+    "source": "academic_freedom",
+    "target": "higher_education_crisis",
+    "weight": 8
+  },
+  {
+    "source": "admissions_access_in_higher_education",
+    "target": "higher_education_crisis",
+    "weight": 8
+  },
+  {
+    "source": "academic_freedom",
+    "target": "educational_technology",
+    "weight": 1
+  },
+  {
+    "source": "admissions_access_in_higher_education",
+    "target": "educational_technology",
+    "weight": 1
+  },
+  {
+    "source": "educational_technology",
+    "target": "student_experience",
+    "weight": 3
+  },
+  {
+    "source": "educational_technology",
+    "target": "university_administration",
+    "weight": 3
+  },
+  {
+    "source": "faculty_labour",
+    "target": "teaching_and_learning",
+    "weight": 2
+  },
+  {
+    "source": "student_experience",
+    "target": "teaching_and_learning",
+    "weight": 8
+  },
+  {
+    "source": "academic_freedom",
+    "target": "teaching_and_learning",
+    "weight": 1
+  },
+  {
+    "source": "admissions_access_in_higher_education",
+    "target": "teaching_and_learning",
+    "weight": 1
+  },
+  {
+    "source": "academic_freedom",
+    "target": "student_experience",
+    "weight": 1
+  },
+  {
+    "source": "admissions_access_in_higher_education",
+    "target": "student_experience",
+    "weight": 1
+  },
+  {
+    "source": "teaching_and_learning",
+    "target": "university_administration",
+    "weight": 5
+  }
+]
