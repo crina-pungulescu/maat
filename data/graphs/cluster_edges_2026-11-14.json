@@ -1,0 +1,17 @@
+[
+  {
+    "source": "academic_freedom",
+    "target": "educational_technology",
+    "weight": 1
+  },
+  {
+    "source": "educational_technology",
+    "target": "higher_education_crisis",
+    "weight": 2
+  },
+  {
+    "source": "academic_freedom",
+    "target": "higher_education_crisis",
+    "weight": 2
+  }
+]

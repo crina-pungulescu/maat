@@ -1,0 +1,42 @@
+[
+  {
+    "source": "artificial intelligence",
+    "target": "intellectual autonomy",
+    "co_occurrence": 3,
+    "pmi": 1.1699,
+    "source_cluster": "educational_technology",
+    "target_cluster": "academic_freedom"
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "pmi": 0.848,
+    "source_cluster": "educational_technology",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "educational instability",
+    "co_occurrence": 3,
+    "pmi": 0.585,
+    "source_cluster": "educational_technology",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "outdated education model",
+    "co_occurrence": 3,
+    "pmi": 0.433,
+    "source_cluster": "academic_freedom",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "educational instability",
+    "target": "intellectual autonomy",
+    "co_occurrence": 3,
+    "pmi": 0.1699,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "academic_freedom"
+  }
+]

@@ -1,0 +1,3652 @@
+[
+  {
+    "source": "education crisis",
+    "target": "educational instability",
+    "weight": 5
+  },
+  {
+    "source": "educational instability",
+    "target": "outdated education model",
+    "weight": 5
+  },
+  {
+    "source": "education crisis",
+    "target": "outdated education model",
+    "weight": 4
+  },
+  {
+    "source": "education crisis",
+    "target": "systemic education failure",
+    "weight": 4
+  },
+  {
+    "source": "educational instability",
+    "target": "systemic education failure",
+    "weight": 4
+  },
+  {
+    "source": "outdated education model",
+    "target": "systemic education failure",
+    "weight": 4
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "educational instability",
+    "weight": 3
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "intellectual autonomy",
+    "weight": 3
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "outdated education model",
+    "weight": 3
+  },
+  {
+    "source": "educational instability",
+    "target": "intellectual autonomy",
+    "weight": 3
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "outdated education model",
+    "weight": 3
+  },
+  {
+    "source": "academic collapse",
+    "target": "education crisis",
+    "weight": 2
+  },
+  {
+    "source": "academic collapse",
+    "target": "educational decline",
+    "weight": 2
+  },
+  {
+    "source": "academic collapse",
+    "target": "educational instability",
+    "weight": 2
+  },
+  {
+    "source": "academic collapse",
+    "target": "outdated education model",
+    "weight": 2
+  },
+  {
+    "source": "academic collapse",
+    "target": "systemic education failure",
+    "weight": 2
+  },
+  {
+    "source": "education crisis",
+    "target": "educational decline",
+    "weight": 2
+  },
+  {
+    "source": "educational decline",
+    "target": "educational instability",
+    "weight": 2
+  },
+  {
+    "source": "educational decline",
+    "target": "outdated education model",
+    "weight": 2
+  },
+  {
+    "source": "educational decline",
+    "target": "systemic education failure",
+    "weight": 2
+  },
+  {
+    "source": "educational instability",
+    "target": "scholastic aptitude test",
+    "weight": 2
+  },
+  {
+    "source": "educational instability",
+    "target": "weak oversight",
+    "weight": 2
+  },
+  {
+    "source": "outdated education model",
+    "target": "scholastic aptitude test",
+    "weight": 2
+  },
+  {
+    "source": "outdated education model",
+    "target": "weak oversight",
+    "weight": 2
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "weak oversight",
+    "weight": 2
+  },
+  {
+    "source": "student life",
+    "target": "student retention",
+    "weight": 2
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "theoretical research",
+    "weight": 2
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "educational instability",
+    "weight": 2
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "outdated education model",
+    "weight": 2
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "empirical research",
+    "weight": 2
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "generative AI",
+    "weight": 2
+  },
+  {
+    "source": "educational instability",
+    "target": "empirical research",
+    "weight": 2
+  },
+  {
+    "source": "educational instability",
+    "target": "generative AI",
+    "weight": 2
+  },
+  {
+    "source": "empirical research",
+    "target": "intellectual autonomy",
+    "weight": 2
+  },
+  {
+    "source": "empirical research",
+    "target": "outdated education model",
+    "weight": 2
+  },
+  {
+    "source": "generative AI",
+    "target": "intellectual autonomy",
+    "weight": 2
+  },
+  {
+    "source": "generative AI",
+    "target": "outdated education model",
+    "weight": 2
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "classroom methods",
+    "weight": 2
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "education crisis",
+    "weight": 2
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "public misinformation",
+    "weight": 2
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "systemic education failure",
+    "weight": 2
+  },
+  {
+    "source": "classroom methods",
+    "target": "education crisis",
+    "weight": 2
+  },
+  {
+    "source": "classroom methods",
+    "target": "educational instability",
+    "weight": 2
+  },
+  {
+    "source": "classroom methods",
+    "target": "intellectual autonomy",
+    "weight": 2
+  },
+  {
+    "source": "classroom methods",
+    "target": "outdated education model",
+    "weight": 2
+  },
+  {
+    "source": "classroom methods",
+    "target": "public misinformation",
+    "weight": 2
+  },
+  {
+    "source": "classroom methods",
+    "target": "systemic education failure",
+    "weight": 2
+  },
+  {
+    "source": "education crisis",
+    "target": "intellectual autonomy",
+    "weight": 2
+  },
+  {
+    "source": "education crisis",
+    "target": "public misinformation",
+    "weight": 2
+  },
+  {
+    "source": "educational instability",
+    "target": "public misinformation",
+    "weight": 2
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "public misinformation",
+    "weight": 2
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "systemic education failure",
+    "weight": 2
+  },
+  {
+    "source": "outdated education model",
+    "target": "public misinformation",
+    "weight": 2
+  },
+  {
+    "source": "public misinformation",
+    "target": "systemic education failure",
+    "weight": 2
+  },
+  {
+    "source": "academic collapse",
+    "target": "incompetence",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "lack of oversight",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "incompetence",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "lack of oversight",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "incompetence",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "lack of oversight",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "incompetence",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "lack of oversight",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "incompetence",
+    "target": "instructional excellence",
+    "weight": 1
+  },
+  {
+    "source": "incompetence",
+    "target": "lack of oversight",
+    "weight": 1
+  },
+  {
+    "source": "incompetence",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "incompetence",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "incompetence",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "incompetence",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "incompetence",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "lack of oversight",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "instructional excellence",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "lack of oversight",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "lack of oversight",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "lack of oversight",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "lack of oversight",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "lack of oversight",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "school budgets",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "school budgets",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "school budgets",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "systemic education failure",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "course architecture",
+    "target": "curricular design",
+    "weight": 1
+  },
+  {
+    "source": "course architecture",
+    "target": "green campus",
+    "weight": 1
+  },
+  {
+    "source": "course architecture",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "course architecture",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "course architecture",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "course architecture",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "green campus",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "curricular design",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "green campus",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "green campus",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "green campus",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "green campus",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "tuition affordability",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "tuition affordability",
+    "target": "tuition fee",
+    "weight": 1
+  },
+  {
+    "source": "tuition affordability",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "tuition fee",
+    "target": "university policy",
+    "weight": 1
+  },
+  {
+    "source": "global experience",
+    "target": "international cohorts",
+    "weight": 1
+  },
+  {
+    "source": "global experience",
+    "target": "international mobility",
+    "weight": 1
+  },
+  {
+    "source": "global experience",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "global experience",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "global experience",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "international mobility",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "international cohorts",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "international mobility",
+    "target": "student engagement",
+    "weight": 1
+  },
+  {
+    "source": "international mobility",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "international mobility",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "student engagement",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "decline of academia",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "faculty careers",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "theoretical research",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "faculty careers",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "decline of academia",
+    "target": "theoretical research",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "faculty careers",
+    "target": "theoretical research",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "public scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "research collaboration",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "public scholarly funding",
+    "target": "theoretical research",
+    "weight": 1
+  },
+  {
+    "source": "research collaboration",
+    "target": "scholarly endowments",
+    "weight": 1
+  },
+  {
+    "source": "research collaboration",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "research collaboration",
+    "target": "theoretical research",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "scholarly funding",
+    "weight": 1
+  },
+  {
+    "source": "scholarly endowments",
+    "target": "theoretical research",
+    "weight": 1
+  },
+  {
+    "source": "scholarly funding",
+    "target": "theoretical research",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "academic model breakdown",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "deteriorating outcomes",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "academic collapse",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "deteriorating outcomes",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "educational decline",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "educational decline",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "deteriorating outcomes",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "educational decline",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "higher education crisis",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "higher education crisis",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "student experience",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "student life",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "student experience",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "student protest",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "student life",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "student protest",
+    "target": "student retention",
+    "weight": 1
+  },
+  {
+    "source": "student protest",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "student protest",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "student protest",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "student retention",
+    "target": "student satisfaction",
+    "weight": 1
+  },
+  {
+    "source": "student retention",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "student retention",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "student satisfaction",
+    "target": "student wellbeing",
+    "weight": 1
+  },
+  {
+    "source": "student satisfaction",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "student wellbeing",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "academic model breakdown",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "algorithmic assessment",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "artificial intelligence",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "contested scientific claims",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "empirical research",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "generative AI",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "laboratories",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "quantitative research",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "rigorous standards",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "standardised testing",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "theoretical research",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "unsustainable model",
+    "weight": 1
+  },
+  {
+    "source": "AI assisted process",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "algorithmic assessment",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "artificial intelligence",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "contested scientific claims",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "empirical research",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "generative AI",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "laboratories",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "quantitative research",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "rigorous standards",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "standardised testing",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "theoretical research",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "unsustainable model",
+    "weight": 1
+  },
+  {
+    "source": "academic model breakdown",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "algorithmic assessment",
+    "target": "artificial intelligence",
+    "weight": 1
+  },
+  {
+    "source": "algorithmic assessment",
+    "target": "contested scientific claims",
+    "weight": 1
+  },
+  {
+    "source": "algorithmic assessment",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "algorithmic assessment",
+    "target": "empirical research",
+    "weight": 1
+  },
+  {
+    "source": "algorithmic assessment",
+    "target": "generative AI",
+    "weight": 1
+  },
+  {
+    "source": "algorithmic assessment",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "algorithmic assessment",
+    "target": "laboratories",
+    "weight": 1
+  },
+  {
+    "source": "algorithmic assessment",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "algorithmic assessment",
+    "target": "quantitative research",
+    "weight": 1
+  },
+  {
+    "source": "algorithmic assessment",
+    "target": "rigorous standards",
+    "weight": 1
+  },
+  {
+    "source": "algorithmic assessment",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "algorithmic assessment",
+    "target": "standardised testing",
+    "weight": 1
+  },
+  {
+    "source": "algorithmic assessment",
+    "target": "theoretical research",
+    "weight": 1
+  },
+  {
+    "source": "algorithmic assessment",
+    "target": "unsustainable model",
+    "weight": 1
+  },
+  {
+    "source": "algorithmic assessment",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "contested scientific claims",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "laboratories",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "quantitative research",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "rigorous standards",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "standardised testing",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "theoretical research",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "unsustainable model",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "empirical research",
+    "weight": 1
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "generative AI",
+    "weight": 1
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "laboratories",
+    "weight": 1
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "quantitative research",
+    "weight": 1
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "rigorous standards",
+    "weight": 1
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "standardised testing",
+    "weight": 1
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "theoretical research",
+    "weight": 1
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "unsustainable model",
+    "weight": 1
+  },
+  {
+    "source": "contested scientific claims",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "laboratories",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "quantitative research",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "rigorous standards",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "standardised testing",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "theoretical research",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "unsustainable model",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "generative AI",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "laboratories",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "quantitative research",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "rigorous standards",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "standardised testing",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "theoretical research",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "unsustainable model",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "generative AI",
+    "target": "laboratories",
+    "weight": 1
+  },
+  {
+    "source": "generative AI",
+    "target": "quantitative research",
+    "weight": 1
+  },
+  {
+    "source": "generative AI",
+    "target": "rigorous standards",
+    "weight": 1
+  },
+  {
+    "source": "generative AI",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "generative AI",
+    "target": "standardised testing",
+    "weight": 1
+  },
+  {
+    "source": "generative AI",
+    "target": "theoretical research",
+    "weight": 1
+  },
+  {
+    "source": "generative AI",
+    "target": "unsustainable model",
+    "weight": 1
+  },
+  {
+    "source": "generative AI",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "laboratories",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "quantitative research",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "rigorous standards",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "standardised testing",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "unsustainable model",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "laboratories",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "laboratories",
+    "target": "quantitative research",
+    "weight": 1
+  },
+  {
+    "source": "laboratories",
+    "target": "rigorous standards",
+    "weight": 1
+  },
+  {
+    "source": "laboratories",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "laboratories",
+    "target": "standardised testing",
+    "weight": 1
+  },
+  {
+    "source": "laboratories",
+    "target": "theoretical research",
+    "weight": 1
+  },
+  {
+    "source": "laboratories",
+    "target": "unsustainable model",
+    "weight": 1
+  },
+  {
+    "source": "laboratories",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "quantitative research",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "rigorous standards",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "standardised testing",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "theoretical research",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "unsustainable model",
+    "weight": 1
+  },
+  {
+    "source": "quantitative research",
+    "target": "rigorous standards",
+    "weight": 1
+  },
+  {
+    "source": "quantitative research",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "quantitative research",
+    "target": "standardised testing",
+    "weight": 1
+  },
+  {
+    "source": "quantitative research",
+    "target": "theoretical research",
+    "weight": 1
+  },
+  {
+    "source": "quantitative research",
+    "target": "unsustainable model",
+    "weight": 1
+  },
+  {
+    "source": "quantitative research",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "rigorous standards",
+    "target": "scholastic aptitude test",
+    "weight": 1
+  },
+  {
+    "source": "rigorous standards",
+    "target": "standardised testing",
+    "weight": 1
+  },
+  {
+    "source": "rigorous standards",
+    "target": "theoretical research",
+    "weight": 1
+  },
+  {
+    "source": "rigorous standards",
+    "target": "unsustainable model",
+    "weight": 1
+  },
+  {
+    "source": "rigorous standards",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "standardised testing",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "theoretical research",
+    "weight": 1
+  },
+  {
+    "source": "scholastic aptitude test",
+    "target": "unsustainable model",
+    "weight": 1
+  },
+  {
+    "source": "standardised testing",
+    "target": "theoretical research",
+    "weight": 1
+  },
+  {
+    "source": "standardised testing",
+    "target": "unsustainable model",
+    "weight": 1
+  },
+  {
+    "source": "standardised testing",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "theoretical research",
+    "target": "unsustainable model",
+    "weight": 1
+  },
+  {
+    "source": "theoretical research",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "unsustainable model",
+    "target": "weak oversight",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "online learning",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "generative AI",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "online learning",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "generative AI",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "online learning",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "online learning",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "generative AI",
+    "target": "online learning",
+    "weight": 1
+  },
+  {
+    "source": "generative AI",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "generative AI",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "generative AI",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "online learning",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "online learning",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "online learning",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "online learning",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "online learning",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "public misinformation",
+    "target": "student voice",
+    "weight": 1
+  },
+  {
+    "source": "student voice",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "accessibility equity",
+    "target": "accountability",
+    "weight": 1
+  },
+  {
+    "source": "accessibility equity",
+    "target": "accountability gaps",
+    "weight": 1
+  },
+  {
+    "source": "accessibility equity",
+    "target": "artificial intelligence",
+    "weight": 1
+  },
+  {
+    "source": "accessibility equity",
+    "target": "authoritarianism",
+    "weight": 1
+  },
+  {
+    "source": "accessibility equity",
+    "target": "bureaucratic obstruction",
+    "weight": 1
+  },
+  {
+    "source": "accessibility equity",
+    "target": "censorship",
+    "weight": 1
+  },
+  {
+    "source": "accessibility equity",
+    "target": "classroom methods",
+    "weight": 1
+  },
+  {
+    "source": "accessibility equity",
+    "target": "decision-making opacity",
+    "weight": 1
+  },
+  {
+    "source": "accessibility equity",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "accessibility equity",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "accessibility equity",
+    "target": "empirical research",
+    "weight": 1
+  },
+  {
+    "source": "accessibility equity",
+    "target": "ethical impropriety",
+    "weight": 1
+  },
+  {
+    "source": "accessibility equity",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "accessibility equity",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "accessibility equity",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "accessibility equity",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "accessibility equity",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "accessibility equity",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "accessibility equity",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "accessibility equity",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "accessibility equity",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "accessibility equity",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "accessibility equity",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "accessibility equity",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "accessibility equity",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "accessibility equity",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "accountability",
+    "target": "accountability gaps",
+    "weight": 1
+  },
+  {
+    "source": "accountability",
+    "target": "artificial intelligence",
+    "weight": 1
+  },
+  {
+    "source": "accountability",
+    "target": "authoritarianism",
+    "weight": 1
+  },
+  {
+    "source": "accountability",
+    "target": "bureaucratic obstruction",
+    "weight": 1
+  },
+  {
+    "source": "accountability",
+    "target": "censorship",
+    "weight": 1
+  },
+  {
+    "source": "accountability",
+    "target": "classroom methods",
+    "weight": 1
+  },
+  {
+    "source": "accountability",
+    "target": "decision-making opacity",
+    "weight": 1
+  },
+  {
+    "source": "accountability",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "accountability",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "accountability",
+    "target": "empirical research",
+    "weight": 1
+  },
+  {
+    "source": "accountability",
+    "target": "ethical impropriety",
+    "weight": 1
+  },
+  {
+    "source": "accountability",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "accountability",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "accountability",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "accountability",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "accountability",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "accountability",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "accountability",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "accountability",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "accountability",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "accountability",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "accountability",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "accountability",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "accountability",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "accountability",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "artificial intelligence",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "authoritarianism",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "bureaucratic obstruction",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "censorship",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "classroom methods",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "decision-making opacity",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "empirical research",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "ethical impropriety",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "accountability gaps",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "authoritarianism",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "bureaucratic obstruction",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "censorship",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "decision-making opacity",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "ethical impropriety",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "artificial intelligence",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "bureaucratic obstruction",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "censorship",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "classroom methods",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "decision-making opacity",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "empirical research",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "ethical impropriety",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "authoritarianism",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "censorship",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "classroom methods",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "decision-making opacity",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "empirical research",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "ethical impropriety",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "bureaucratic obstruction",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "classroom methods",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "decision-making opacity",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "empirical research",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "ethical impropriety",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "censorship",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "decision-making opacity",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "empirical research",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "ethical impropriety",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "classroom methods",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "decision-making opacity",
+    "target": "education crisis",
+    "weight": 1
+  },
+  {
+    "source": "decision-making opacity",
+    "target": "educational instability",
+    "weight": 1
+  },
+  {
+    "source": "decision-making opacity",
+    "target": "empirical research",
+    "weight": 1
+  },
+  {
+    "source": "decision-making opacity",
+    "target": "ethical impropriety",
+    "weight": 1
+  },
+  {
+    "source": "decision-making opacity",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "decision-making opacity",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "decision-making opacity",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "decision-making opacity",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "decision-making opacity",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "decision-making opacity",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "decision-making opacity",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "decision-making opacity",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "decision-making opacity",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "decision-making opacity",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "decision-making opacity",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "decision-making opacity",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "decision-making opacity",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "decision-making opacity",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "empirical research",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "ethical impropriety",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "education crisis",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "ethical impropriety",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "educational instability",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "ethical impropriety",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "empirical research",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "ethical impropriety",
+    "target": "freedom of expression",
+    "weight": 1
+  },
+  {
+    "source": "ethical impropriety",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "ethical impropriety",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "ethical impropriety",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "ethical impropriety",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "ethical impropriety",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "ethical impropriety",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "ethical impropriety",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "ethical impropriety",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "ethical impropriety",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "ethical impropriety",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "ethical impropriety",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "ethical impropriety",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "ethical impropriety",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "freedom of opinion",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "freedom of expression",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "freedom of speech",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "freedom of opinion",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "illiberal democracy",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "freedom of speech",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "inclusivity",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "illiberal democracy",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "inclusivity",
+    "target": "intellectual autonomy",
+    "weight": 1
+  },
+  {
+    "source": "inclusivity",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "inclusivity",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "inclusivity",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "inclusivity",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "inclusivity",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "inclusivity",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "inclusivity",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "inclusivity",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "legitimacy crisis",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "intellectual autonomy",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "outdated education model",
+    "weight": 1
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "legitimacy crisis",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "participatory instruction",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "outdated education model",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "participatory instruction",
+    "target": "political repression",
+    "weight": 1
+  },
+  {
+    "source": "participatory instruction",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "participatory instruction",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "participatory instruction",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "participatory instruction",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "political repression",
+    "target": "politicisation of science",
+    "weight": 1
+  },
+  {
+    "source": "political repression",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "political repression",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "political repression",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "politicisation of science",
+    "target": "public misinformation",
+    "weight": 1
+  },
+  {
+    "source": "politicisation of science",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "politicisation of science",
+    "target": "systemic education failure",
+    "weight": 1
+  },
+  {
+    "source": "public misinformation",
+    "target": "suppressing dissent",
+    "weight": 1
+  },
+  {
+    "source": "suppressing dissent",
+    "target": "systemic education failure",
+    "weight": 1
+  }
+]

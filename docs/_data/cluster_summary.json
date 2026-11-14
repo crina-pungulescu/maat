@@ -1,8 +1,8 @@
 [
   {
     "topic": "Higher Education Crisis",
-    "count": 4652,
-    "score": 0.4512,
+    "count": 4739,
+    "score": 0.4513,
     "topics": [
       "academic collapse",
       "academic model breakdown",
@@ -26,8 +26,33 @@
     }
   },
   {
+    "topic": "Student Experience",
+    "count": 3162,
+    "score": 0.4524,
+    "topics": [
+      "college experience",
+      "mentor-student relationship",
+      "student engagement",
+      "student experience",
+      "student life",
+      "student protest",
+      "student retention",
+      "student satisfaction",
+      "student voice",
+      "student wellbeing",
+      "supporting staff"
+    ],
+    "evidence": {
+      "article_id": "bed61f64b3b37cc2650cb90becbb9ea4",
+      "headline": "Beyond academic support: why mentoring matters for international students",
+      "url": "https://thepienews.com/beyond-academic-support-why-mentoring-matters-for-international-students/",
+      "topic": "mentor-student relationship",
+      "score": 0.6321
+    }
+  },
+  {
     "topic": "Teaching And Learning",
-    "count": 3118,
+    "count": 3143,
     "score": 0.4456,
     "topics": [
       "S. T. E. M. qualification",
@@ -63,34 +88,9 @@
     }
   },
   {
-    "topic": "Student Experience",
-    "count": 3115,
-    "score": 0.4522,
-    "topics": [
-      "college experience",
-      "mentor-student relationship",
-      "student engagement",
-      "student experience",
-      "student life",
-      "student protest",
-      "student retention",
-      "student satisfaction",
-      "student voice",
-      "student wellbeing",
-      "supporting staff"
-    ],
-    "evidence": {
-      "article_id": "bed61f64b3b37cc2650cb90becbb9ea4",
-      "headline": "Beyond academic support: why mentoring matters for international students",
-      "url": "https://thepienews.com/beyond-academic-support-why-mentoring-matters-for-international-students/",
-      "topic": "mentor-student relationship",
-      "score": 0.6321
-    }
-  },
-  {
     "topic": "University Administration",
-    "count": 2388,
-    "score": 0.447,
+    "count": 2414,
+    "score": 0.4471,
     "topics": [
       "board of regents",
       "board of trustees",
@@ -116,8 +116,8 @@
   },
   {
     "topic": "Faculty Labour",
-    "count": 2194,
-    "score": 0.4492,
+    "count": 2220,
+    "score": 0.4489,
     "topics": [
       "adjunct faculty",
       "faculty careers",
@@ -141,8 +141,8 @@
   },
   {
     "topic": "Education Funding",
-    "count": 949,
-    "score": 0.4535,
+    "count": 964,
+    "score": 0.4539,
     "topics": [
       "public scholarly funding",
       "scholarly endowments",
@@ -160,7 +160,7 @@
   },
   {
     "topic": "Research Activities",
-    "count": 815,
+    "count": 836,
     "score": 0.4365,
     "topics": [
       "citation count",
@@ -186,8 +186,8 @@
   },
   {
     "topic": "Education Cost",
-    "count": 770,
-    "score": 0.4476,
+    "count": 783,
+    "score": 0.4479,
     "topics": [
       "cost barriers",
       "cost of attendance support",
@@ -211,7 +211,7 @@
   },
   {
     "topic": "Politics In Academia",
-    "count": 701,
+    "count": 715,
     "score": 0.4409,
     "topics": [
       "alliances",
@@ -252,8 +252,8 @@
   },
   {
     "topic": "Educational Technology",
-    "count": 586,
-    "score": 0.4454,
+    "count": 595,
+    "score": 0.4453,
     "topics": [
       "AI assisted process",
       "ChatGPT",
@@ -278,7 +278,7 @@
   },
   {
     "topic": "University Accreditation",
-    "count": 538,
+    "count": 544,
     "score": 0.4385,
     "topics": [
       "accreditation body",
@@ -305,8 +305,8 @@
   },
   {
     "topic": "Admissions Access In Higher Education",
-    "count": 535,
-    "score": 0.4362,
+    "count": 541,
+    "score": 0.4363,
     "topics": [
       "admissions criteria",
       "admissions selectivity",
@@ -327,8 +327,8 @@
   },
   {
     "topic": "Academic Abuse",
-    "count": 517,
-    "score": 0.4315,
+    "count": 532,
+    "score": 0.4317,
     "topics": [
       "administrative abuse",
       "administrative coercion",
@@ -364,9 +364,33 @@
     }
   },
   {
+    "topic": "Science Society",
+    "count": 433,
+    "score": 0.442,
+    "topics": [
+      "contested scientific claims",
+      "evidence-based reasoning",
+      "fabricated news",
+      "false narratives",
+      "media falsehoods",
+      "politicisation of science",
+      "public misinformation",
+      "science communication",
+      "scientific expertise",
+      "trust in science"
+    ],
+    "evidence": {
+      "article_id": "e9bae2984b813baa2bd3db894b1c9b6d",
+      "headline": "Why science’s contract with society needs citizens as research partners",
+      "url": "https://www.thehindu.com/sci-tech/science/science-contract-society-citizens-research-partners/article71574135.ece",
+      "topic": "politicisation of science",
+      "score": 0.6598
+    }
+  },
+  {
     "topic": "Academic Degradation Signals",
-    "count": 423,
-    "score": 0.4357,
+    "count": 432,
+    "score": 0.4358,
     "topics": [
       "credential inflation",
       "declining rigour",
@@ -394,33 +418,9 @@
     }
   },
   {
-    "topic": "Science Society",
-    "count": 421,
-    "score": 0.442,
-    "topics": [
-      "contested scientific claims",
-      "evidence-based reasoning",
-      "fabricated news",
-      "false narratives",
-      "media falsehoods",
-      "politicisation of science",
-      "public misinformation",
-      "science communication",
-      "scientific expertise",
-      "trust in science"
-    ],
-    "evidence": {
-      "article_id": "e9bae2984b813baa2bd3db894b1c9b6d",
-      "headline": "Why science’s contract with society needs citizens as research partners",
-      "url": "https://www.thehindu.com/sci-tech/science/science-contract-society-citizens-research-partners/article71574135.ece",
-      "topic": "politicisation of science",
-      "score": 0.6598
-    }
-  },
-  {
     "topic": "Higher Education By Region",
-    "count": 390,
-    "score": 0.4519,
+    "count": 394,
+    "score": 0.4517,
     "topics": [
       "africa",
       "argentina",
@@ -471,8 +471,8 @@
   },
   {
     "topic": "Internationalisation Of Academia",
-    "count": 382,
-    "score": 0.451,
+    "count": 393,
+    "score": 0.4513,
     "topics": [
       "cross-border experience",
       "global experience",
@@ -494,8 +494,8 @@
   },
   {
     "topic": "Academic Freedom",
-    "count": 282,
-    "score": 0.4489,
+    "count": 292,
+    "score": 0.4487,
     "topics": [
       "censorship",
       "freedom of expression",
@@ -514,8 +514,8 @@
   },
   {
     "topic": "Systemic Inequity In Higher Education",
-    "count": 243,
-    "score": 0.4469,
+    "count": 250,
+    "score": 0.4465,
     "topics": [
       "accessibility equity",
       "biased systems",
@@ -543,8 +543,8 @@
   },
   {
     "topic": "Financial Constraints In Academia",
-    "count": 186,
-    "score": 0.4408,
+    "count": 187,
+    "score": 0.4407,
     "topics": [
       "austerity",
       "budget constraints",
@@ -562,27 +562,8 @@
     }
   },
   {
-    "topic": "Sustainability Climate In Academia",
-    "count": 170,
-    "score": 0.4696,
-    "topics": [
-      "carbon neutrality",
-      "climate change",
-      "environmental sustainability",
-      "green campus",
-      "sustainability"
-    ],
-    "evidence": {
-      "article_id": "46b715b2dab3f59e4a4faaf764205eec",
-      "headline": "Filiera bufalina, plafond di 30 milioni per le imprese della Piana del Sele",
-      "url": "https://www.ilsole24ore.com/art/filiera-bufalina-plafond-30-milioni-le-imprese-piana-sele-AJC2WoiB",
-      "topic": "sustainability",
-      "score": 0.619
-    }
-  },
-  {
     "topic": "Accountability Gaps In Academia",
-    "count": 168,
+    "count": 177,
     "score": 0.428,
     "topics": [
       "abuse of office",
@@ -604,9 +585,28 @@
     }
   },
   {
+    "topic": "Sustainability Climate In Academia",
+    "count": 173,
+    "score": 0.4692,
+    "topics": [
+      "carbon neutrality",
+      "climate change",
+      "environmental sustainability",
+      "green campus",
+      "sustainability"
+    ],
+    "evidence": {
+      "article_id": "46b715b2dab3f59e4a4faaf764205eec",
+      "headline": "Filiera bufalina, plafond di 30 milioni per le imprese della Piana del Sele",
+      "url": "https://www.ilsole24ore.com/art/filiera-bufalina-plafond-30-milioni-le-imprese-piana-sele-AJC2WoiB",
+      "topic": "sustainability",
+      "score": 0.619
+    }
+  },
+  {
     "topic": "Ethical Conflicts In Academia",
-    "count": 143,
-    "score": 0.4343,
+    "count": 147,
+    "score": 0.4342,
     "topics": [
       "accountability gaps",
       "corporate interests",
@@ -632,8 +632,8 @@
   },
   {
     "topic": "Academic Future Outlook",
-    "count": 97,
-    "score": 0.4351,
+    "count": 99,
+    "score": 0.4355,
     "topics": [
       "anxiety",
       "future planning",
@@ -652,8 +652,8 @@
   },
   {
     "topic": "Campus Infrastructure",
-    "count": 80,
-    "score": 0.4336,
+    "count": 81,
+    "score": 0.4335,
     "topics": [
       "accommodation",
       "facilities",
@@ -672,8 +672,8 @@
   },
   {
     "topic": "Academic Standards",
-    "count": 70,
-    "score": 0.4299,
+    "count": 74,
+    "score": 0.4318,
     "topics": [
       "accountability",
       "integrity",
@@ -719,7 +719,7 @@
   },
   {
     "topic": "Health Professions Education",
-    "count": 31,
+    "count": 32,
     "score": 0.4314,
     "topics": [
       "clinical training",
