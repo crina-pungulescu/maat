@@ -1,0 +1,42 @@
+[
+  {
+    "source": "higher_education_crisis",
+    "target": "university_administration",
+    "weight": 9
+  },
+  {
+    "source": "faculty_labour",
+    "target": "teaching_and_learning",
+    "weight": 2
+  },
+  {
+    "source": "faculty_labour",
+    "target": "university_administration",
+    "weight": 4
+  },
+  {
+    "source": "faculty_labour",
+    "target": "higher_education_crisis",
+    "weight": 5
+  },
+  {
+    "source": "ethical_conflicts_in_academia",
+    "target": "higher_education_crisis",
+    "weight": 1
+  },
+  {
+    "source": "education_funding",
+    "target": "teaching_and_learning",
+    "weight": 1
+  },
+  {
+    "source": "teaching_and_learning",
+    "target": "university_administration",
+    "weight": 2
+  },
+  {
+    "source": "higher_education_crisis",
+    "target": "teaching_and_learning",
+    "weight": 4
+  }
+]

@@ -1,7 +1,7 @@
 [
   {
     "topic": "Higher Education Crisis",
-    "count": 4744,
+    "count": 5013,
     "score": 0.4513,
     "topics": [
       "academic collapse",
@@ -27,8 +27,8 @@
   },
   {
     "topic": "Student Experience",
-    "count": 3167,
-    "score": 0.4524,
+    "count": 3326,
+    "score": 0.4525,
     "topics": [
       "college experience",
       "mentor-student relationship",
@@ -52,8 +52,8 @@
   },
   {
     "topic": "Teaching And Learning",
-    "count": 3145,
-    "score": 0.4456,
+    "count": 3291,
+    "score": 0.4457,
     "topics": [
       "S. T. E. M. qualification",
       "bachelor qualification",
@@ -89,8 +89,8 @@
   },
   {
     "topic": "University Administration",
-    "count": 2414,
-    "score": 0.4471,
+    "count": 2503,
+    "score": 0.4467,
     "topics": [
       "board of regents",
       "board of trustees",
@@ -116,8 +116,8 @@
   },
   {
     "topic": "Faculty Labour",
-    "count": 2221,
-    "score": 0.4489,
+    "count": 2307,
+    "score": 0.4488,
     "topics": [
       "adjunct faculty",
       "faculty careers",
@@ -141,8 +141,8 @@
   },
   {
     "topic": "Education Funding",
-    "count": 964,
-    "score": 0.4539,
+    "count": 1011,
+    "score": 0.4538,
     "topics": [
       "public scholarly funding",
       "scholarly endowments",
@@ -160,8 +160,8 @@
   },
   {
     "topic": "Research Activities",
-    "count": 836,
-    "score": 0.4365,
+    "count": 869,
+    "score": 0.4364,
     "topics": [
       "citation count",
       "empirical research",
@@ -186,8 +186,8 @@
   },
   {
     "topic": "Education Cost",
-    "count": 783,
-    "score": 0.4479,
+    "count": 816,
+    "score": 0.4476,
     "topics": [
       "cost barriers",
       "cost of attendance support",
@@ -211,8 +211,8 @@
   },
   {
     "topic": "Politics In Academia",
-    "count": 716,
-    "score": 0.4401,
+    "count": 745,
+    "score": 0.44,
     "topics": [
       "alliances",
       "armed dispute",
@@ -253,8 +253,8 @@
   },
   {
     "topic": "Educational Technology",
-    "count": 595,
-    "score": 0.4453,
+    "count": 608,
+    "score": 0.4452,
     "topics": [
       "AI assisted process",
       "ChatGPT",
@@ -279,8 +279,8 @@
   },
   {
     "topic": "University Accreditation",
-    "count": 544,
-    "score": 0.4385,
+    "count": 576,
+    "score": 0.4396,
     "topics": [
       "accreditation body",
       "accreditation compliance",
@@ -306,8 +306,8 @@
   },
   {
     "topic": "Admissions Access In Higher Education",
-    "count": 542,
-    "score": 0.4367,
+    "count": 575,
+    "score": 0.4362,
     "topics": [
       "admissions criteria",
       "admissions selectivity",
@@ -328,8 +328,8 @@
   },
   {
     "topic": "Academic Abuse",
-    "count": 532,
-    "score": 0.4317,
+    "count": 565,
+    "score": 0.4318,
     "topics": [
       "administrative abuse",
       "administrative coercion",
@@ -365,34 +365,11 @@
     }
   },
   {
-    "topic": "Science Society",
-    "count": 433,
-    "score": 0.442,
-    "topics": [
-      "contested scientific claims",
-      "evidence-based reasoning",
-      "fabricated news",
-      "false narratives",
-      "media falsehoods",
-      "politicisation of science",
-      "public misinformation",
-      "science communication",
-      "scientific expertise",
-      "trust in science"
-    ],
-    "evidence": {
-      "article_id": "83fc89759634775dc9bfc6e9b2761177",
-      "headline": "La straordinaria ascesa della Cina nel campo della scienza e come cambierà il mondo",
-      "url": "https://www.roars.it/la-straordinaria-ascesa-della-cina-nel-campo-della-scienza-e-come-cambiera-il-mondo/",
-      "topic": "politicisation of science",
-      "score": 0.5736
-    }
-  },
-  {
     "topic": "Academic Degradation Signals",
-    "count": 432,
-    "score": 0.4358,
+    "count": 457,
+    "score": 0.4342,
     "topics": [
+      "benchmark drift",
       "credential inflation",
       "declining rigour",
       "deteriorating outcomes",
@@ -419,9 +396,56 @@
     }
   },
   {
+    "topic": "Science Society",
+    "count": 446,
+    "score": 0.4417,
+    "topics": [
+      "contested scientific claims",
+      "evidence-based reasoning",
+      "fabricated news",
+      "false narratives",
+      "media falsehoods",
+      "politicisation of science",
+      "public misinformation",
+      "science communication",
+      "scientific expertise",
+      "trust in science"
+    ],
+    "evidence": {
+      "article_id": "83fc89759634775dc9bfc6e9b2761177",
+      "headline": "La straordinaria ascesa della Cina nel campo della scienza e come cambierà il mondo",
+      "url": "https://www.roars.it/la-straordinaria-ascesa-della-cina-nel-campo-della-scienza-e-come-cambiera-il-mondo/",
+      "topic": "politicisation of science",
+      "score": 0.5736
+    }
+  },
+  {
+    "topic": "Internationalisation Of Academia",
+    "count": 418,
+    "score": 0.4509,
+    "topics": [
+      "cross-border experience",
+      "global experience",
+      "international cohorts",
+      "international exchange",
+      "international mobility",
+      "international partnerships",
+      "study abroad",
+      "transnational mobility",
+      "visa restrictions"
+    ],
+    "evidence": {
+      "article_id": "ae6b92a9a8a5a736f0f7cf30feb7e3b5",
+      "headline": "Brazil’s study abroad ambitions widen, but information gap holds back demand",
+      "url": "https://thepienews.com/brazils-study-abroad-ambitions-widen-but-information-gap-holds-back-demand/",
+      "topic": "study abroad",
+      "score": 0.6189
+    }
+  },
+  {
     "topic": "Higher Education By Region",
-    "count": 394,
-    "score": 0.4517,
+    "count": 405,
+    "score": 0.4523,
     "topics": [
       "africa",
       "argentina",
@@ -471,32 +495,9 @@
     }
   },
   {
-    "topic": "Internationalisation Of Academia",
-    "count": 393,
-    "score": 0.4513,
-    "topics": [
-      "cross-border experience",
-      "global experience",
-      "international cohorts",
-      "international exchange",
-      "international mobility",
-      "international partnerships",
-      "study abroad",
-      "transnational mobility",
-      "visa restrictions"
-    ],
-    "evidence": {
-      "article_id": "ae6b92a9a8a5a736f0f7cf30feb7e3b5",
-      "headline": "Brazil’s study abroad ambitions widen, but information gap holds back demand",
-      "url": "https://thepienews.com/brazils-study-abroad-ambitions-widen-but-information-gap-holds-back-demand/",
-      "topic": "study abroad",
-      "score": 0.6189
-    }
-  },
-  {
     "topic": "Academic Freedom",
-    "count": 292,
-    "score": 0.4487,
+    "count": 306,
+    "score": 0.4495,
     "topics": [
       "censorship",
       "freedom of expression",
@@ -515,7 +516,7 @@
   },
   {
     "topic": "Systemic Inequity In Higher Education",
-    "count": 252,
+    "count": 265,
     "score": 0.4475,
     "topics": [
       "accessibility equity",
@@ -544,8 +545,8 @@
   },
   {
     "topic": "Financial Constraints In Academia",
-    "count": 187,
-    "score": 0.4407,
+    "count": 196,
+    "score": 0.4403,
     "topics": [
       "austerity",
       "budget constraints",
@@ -563,9 +564,28 @@
     }
   },
   {
+    "topic": "Sustainability Climate In Academia",
+    "count": 188,
+    "score": 0.468,
+    "topics": [
+      "carbon neutrality",
+      "climate change",
+      "environmental sustainability",
+      "green campus",
+      "sustainability"
+    ],
+    "evidence": {
+      "article_id": "3fb46fc5ed252dba7db138b34e7f90a2",
+      "headline": "‘It’s an architect’s dream’: five beautiful eco buildings around the world",
+      "url": "https://www.theguardian.com/artanddesign/2026/nov/14/architects-dream-five-beautiful-eco-buildings",
+      "topic": "environmental sustainability",
+      "score": 0.6327
+    }
+  },
+  {
     "topic": "Accountability Gaps In Academia",
-    "count": 177,
-    "score": 0.428,
+    "count": 183,
+    "score": 0.4277,
     "topics": [
       "abuse of office",
       "conflict of interest",
@@ -586,28 +606,9 @@
     }
   },
   {
-    "topic": "Sustainability Climate In Academia",
-    "count": 176,
-    "score": 0.4697,
-    "topics": [
-      "carbon neutrality",
-      "climate change",
-      "environmental sustainability",
-      "green campus",
-      "sustainability"
-    ],
-    "evidence": {
-      "article_id": "3fb46fc5ed252dba7db138b34e7f90a2",
-      "headline": "‘It’s an architect’s dream’: five beautiful eco buildings around the world",
-      "url": "https://www.theguardian.com/artanddesign/2026/nov/14/architects-dream-five-beautiful-eco-buildings",
-      "topic": "environmental sustainability",
-      "score": 0.6327
-    }
-  },
-  {
     "topic": "Ethical Conflicts In Academia",
-    "count": 147,
-    "score": 0.4342,
+    "count": 159,
+    "score": 0.434,
     "topics": [
       "accountability gaps",
       "corporate interests",
@@ -633,8 +634,8 @@
   },
   {
     "topic": "Academic Future Outlook",
-    "count": 99,
-    "score": 0.4355,
+    "count": 105,
+    "score": 0.4349,
     "topics": [
       "anxiety",
       "future planning",
@@ -653,8 +654,8 @@
   },
   {
     "topic": "Campus Infrastructure",
-    "count": 83,
-    "score": 0.439,
+    "count": 85,
+    "score": 0.4399,
     "topics": [
       "accommodation",
       "facilities",
@@ -673,8 +674,8 @@
   },
   {
     "topic": "Academic Standards",
-    "count": 74,
-    "score": 0.4318,
+    "count": 79,
+    "score": 0.4308,
     "topics": [
       "accountability",
       "integrity",
@@ -695,8 +696,8 @@
   },
   {
     "topic": "Norm Violations In Academia",
-    "count": 64,
-    "score": 0.4335,
+    "count": 66,
+    "score": 0.4339,
     "topics": [
       "bribery",
       "contempt of court",
