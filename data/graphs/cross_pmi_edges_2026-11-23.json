@@ -1,0 +1,42 @@
+[
+  {
+    "source": "outdated education model",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 1.1699,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "adjunct faculty",
+    "target": "education crisis",
+    "co_occurrence": 3,
+    "pmi": 0.848,
+    "source_cluster": "faculty_labour",
+    "target_cluster": "higher_education_crisis"
+  },
+  {
+    "source": "education crisis",
+    "target": "university reform",
+    "co_occurrence": 3,
+    "pmi": 0.848,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "university_administration"
+  },
+  {
+    "source": "outdated education model",
+    "target": "politicisation of science",
+    "co_occurrence": 3,
+    "pmi": 0.7549,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "science_society"
+  },
+  {
+    "source": "education crisis",
+    "target": "politicisation of science",
+    "co_occurrence": 3,
+    "pmi": 0.433,
+    "source_cluster": "higher_education_crisis",
+    "target_cluster": "science_society"
+  }
+]
