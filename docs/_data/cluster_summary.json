@@ -1,7 +1,7 @@
 [
   {
     "topic": "Higher Education Crisis",
-    "count": 5042,
+    "count": 5063,
     "score": 0.4513,
     "topics": [
       "academic collapse",
@@ -27,8 +27,8 @@
   },
   {
     "topic": "Student Experience",
-    "count": 3337,
-    "score": 0.4526,
+    "count": 3354,
+    "score": 0.4525,
     "topics": [
       "college experience",
       "mentor-student relationship",
@@ -52,7 +52,7 @@
   },
   {
     "topic": "Teaching And Learning",
-    "count": 3304,
+    "count": 3310,
     "score": 0.4457,
     "topics": [
       "S. T. E. M. qualification",
@@ -89,8 +89,8 @@
   },
   {
     "topic": "University Administration",
-    "count": 2515,
-    "score": 0.4465,
+    "count": 2525,
+    "score": 0.4464,
     "topics": [
       "board of regents",
       "board of trustees",
@@ -116,8 +116,8 @@
   },
   {
     "topic": "Faculty Labour",
-    "count": 2313,
-    "score": 0.4488,
+    "count": 2328,
+    "score": 0.4487,
     "topics": [
       "adjunct faculty",
       "faculty careers",
@@ -141,8 +141,8 @@
   },
   {
     "topic": "Education Funding",
-    "count": 1017,
-    "score": 0.4537,
+    "count": 1022,
+    "score": 0.4539,
     "topics": [
       "public scholarly funding",
       "scholarly endowments",
@@ -160,8 +160,8 @@
   },
   {
     "topic": "Research Activities",
-    "count": 874,
-    "score": 0.4367,
+    "count": 879,
+    "score": 0.4366,
     "topics": [
       "citation count",
       "empirical research",
@@ -186,7 +186,7 @@
   },
   {
     "topic": "Education Cost",
-    "count": 819,
+    "count": 823,
     "score": 0.4477,
     "topics": [
       "cost barriers",
@@ -211,8 +211,8 @@
   },
   {
     "topic": "Politics In Academia",
-    "count": 755,
-    "score": 0.4402,
+    "count": 759,
+    "score": 0.4401,
     "topics": [
       "alliances",
       "armed dispute",
@@ -253,8 +253,8 @@
   },
   {
     "topic": "Educational Technology",
-    "count": 610,
-    "score": 0.4452,
+    "count": 612,
+    "score": 0.4451,
     "topics": [
       "AI assisted process",
       "ChatGPT",
@@ -279,8 +279,8 @@
   },
   {
     "topic": "University Accreditation",
-    "count": 585,
-    "score": 0.44,
+    "count": 586,
+    "score": 0.4399,
     "topics": [
       "accreditation body",
       "accreditation compliance",
@@ -305,31 +305,9 @@
     }
   },
   {
-    "topic": "Admissions Access In Higher Education",
-    "count": 576,
-    "score": 0.4361,
-    "topics": [
-      "admissions criteria",
-      "admissions selectivity",
-      "affirmative action",
-      "graduate management admission test",
-      "graduate record examination",
-      "scholastic aptitude test",
-      "standardised testing",
-      "widening participation"
-    ],
-    "evidence": {
-      "article_id": "ee06609ac9832374ad33f193e5f0313c",
-      "headline": "AI has made it ‘close to impossible’ to assess university coursework, regulator says",
-      "url": "https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator",
-      "topic": "scholastic aptitude test",
-      "score": 0.5222
-    }
-  },
-  {
     "topic": "Academic Abuse",
-    "count": 575,
-    "score": 0.4319,
+    "count": 577,
+    "score": 0.4318,
     "topics": [
       "administrative abuse",
       "administrative coercion",
@@ -365,9 +343,55 @@
     }
   },
   {
+    "topic": "Admissions Access In Higher Education",
+    "count": 576,
+    "score": 0.4361,
+    "topics": [
+      "admissions criteria",
+      "admissions selectivity",
+      "affirmative action",
+      "graduate management admission test",
+      "graduate record examination",
+      "scholastic aptitude test",
+      "standardised testing",
+      "widening participation"
+    ],
+    "evidence": {
+      "article_id": "ee06609ac9832374ad33f193e5f0313c",
+      "headline": "AI has made it ‘close to impossible’ to assess university coursework, regulator says",
+      "url": "https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator",
+      "topic": "scholastic aptitude test",
+      "score": 0.5222
+    }
+  },
+  {
+    "topic": "Science Society",
+    "count": 458,
+    "score": 0.4416,
+    "topics": [
+      "contested scientific claims",
+      "evidence-based reasoning",
+      "fabricated news",
+      "false narratives",
+      "media falsehoods",
+      "politicisation of science",
+      "public misinformation",
+      "science communication",
+      "scientific expertise",
+      "trust in science"
+    ],
+    "evidence": {
+      "article_id": "191d4e2106e81de5acb4ad920487ee84",
+      "headline": "Maestría en Ecología Política",
+      "url": "https://www.clacso.org/maestria-en-ecologia-politica-3/",
+      "topic": "politicisation of science",
+      "score": 0.6162
+    }
+  },
+  {
     "topic": "Academic Degradation Signals",
-    "count": 457,
-    "score": 0.4342,
+    "count": 458,
+    "score": 0.4343,
     "topics": [
       "benchmark drift",
       "credential inflation",
@@ -396,33 +420,9 @@
     }
   },
   {
-    "topic": "Science Society",
-    "count": 456,
-    "score": 0.4417,
-    "topics": [
-      "contested scientific claims",
-      "evidence-based reasoning",
-      "fabricated news",
-      "false narratives",
-      "media falsehoods",
-      "politicisation of science",
-      "public misinformation",
-      "science communication",
-      "scientific expertise",
-      "trust in science"
-    ],
-    "evidence": {
-      "article_id": "191d4e2106e81de5acb4ad920487ee84",
-      "headline": "Maestría en Ecología Política",
-      "url": "https://www.clacso.org/maestria-en-ecologia-politica-3/",
-      "topic": "politicisation of science",
-      "score": 0.6162
-    }
-  },
-  {
     "topic": "Internationalisation Of Academia",
-    "count": 418,
-    "score": 0.4509,
+    "count": 420,
+    "score": 0.4508,
     "topics": [
       "cross-border experience",
       "global experience",
@@ -444,8 +444,8 @@
   },
   {
     "topic": "Higher Education By Region",
-    "count": 405,
-    "score": 0.4523,
+    "count": 409,
+    "score": 0.4521,
     "topics": [
       "africa",
       "argentina",
@@ -496,7 +496,7 @@
   },
   {
     "topic": "Academic Freedom",
-    "count": 313,
+    "count": 314,
     "score": 0.4488,
     "topics": [
       "censorship",
@@ -516,7 +516,7 @@
   },
   {
     "topic": "Systemic Inequity In Higher Education",
-    "count": 270,
+    "count": 271,
     "score": 0.4468,
     "topics": [
       "accessibility equity",
@@ -545,7 +545,7 @@
   },
   {
     "topic": "Financial Constraints In Academia",
-    "count": 196,
+    "count": 197,
     "score": 0.4403,
     "topics": [
       "austerity",
@@ -565,8 +565,8 @@
   },
   {
     "topic": "Sustainability Climate In Academia",
-    "count": 193,
-    "score": 0.4816,
+    "count": 195,
+    "score": 0.4819,
     "topics": [
       "carbon neutrality",
       "climate change",
@@ -635,8 +635,8 @@
   },
   {
     "topic": "Academic Future Outlook",
-    "count": 106,
-    "score": 0.435,
+    "count": 107,
+    "score": 0.4351,
     "topics": [
       "anxiety",
       "future planning",
@@ -722,8 +722,8 @@
   },
   {
     "topic": "Health Professions Education",
-    "count": 32,
-    "score": 0.4314,
+    "count": 34,
+    "score": 0.4311,
     "topics": [
       "clinical training",
       "health profession",
